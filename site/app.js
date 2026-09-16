@@ -327,8 +327,9 @@
     const show = (x, y) => {
       const c = get();
       if (!c) return;
-      tip.replaceChildren(h('p', {class: 'tip-title', text: c.title}),
-        (c.rows || []).map((r) => h('p', {class: 'tip-row'}, r.color ? h('span', {class: 'tip-key', style: `background:${r.color}`}) : null, h('b', {text: r.value}), h('span', {text: r.label}))));
+      tip.replaceChildren(frag(
+        h('p', {class: 'tip-title', text: c.title}),
+        (c.rows || []).map((r) => h('p', {class: 'tip-row'}, r.color ? h('span', {class: 'tip-key', style: `background:${r.color}`}) : null, h('b', {text: r.value}), h('span', {text: r.label})))));
       tip.hidden = false;
       const tw = tip.offsetWidth; const th = tip.offsetHeight;
       let left = x + 14; let top = y - th - 12;
