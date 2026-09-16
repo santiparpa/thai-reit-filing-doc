@@ -1,0 +1,3 @@
+- PO for the trust's 4th additional investment (hotel assets). The cover states the debt maximum, total investment maximum and maximum units, but leaves the equity-raise amount blank ("[ ]") — apply rule 5 and do not back-solve it (you may add a `derived` note only if the filing itself gives both price and units).
+- For hotels, capture rooms (keys), occupancy, ADR, RevPAR, GOP/NOI as the filing defines it, the hotel lease structure (fixed + variable rent, lessee/operator, brand/management), and lease tenure/expiry per component.
+- `00-Cover` and `P2-03-NewAssets` were uploaded 16 Jul 2026; most other sections 15 Jul 2026. `00-TOC` is a table of contents only.

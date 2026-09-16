@@ -1,0 +1,5 @@
+- IPO of a freehold office REIT with a buy-back condition (sponsor/related party buys back within year 3), offered only to institutional and ultra-high-net-worth investors. Capture the buy-back mechanics in `filing.reit_structure`, `filing.investor_eligibility`, risks (category "Structure/buy-back") and analyst_notes.
+- Many cover figures are bracketed draft placeholders — apply rule 5 consistently.
+- Four sections (Litigation, Other, Unitholders, Financials) are Feb 2026 drafts converted from legacy .doc; all other sections are May 2026. If they conflict, the May documents govern.
+- `00-Definitions` mentions a related, already-listed trust (DTPBB). Do not mix that trust's assets or figures into this filing; mention the relationship only if it matters for parties/sponsor.
+- `existing_portfolio` must be null.

@@ -1,0 +1,1008 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "WHAIR_PO_777345",
+    "sec_filing_no": "777345",
+    "ticker": "WHAIR",
+    "offering_type": "PO",
+    "offering_type_evidence": {
+      "value": "Draft Form 69-REIT / prospectus for the 5th capital increase to fund the 6th additional investment of an already-listed trust (PO confirmed).",
+      "value_th": "หนังสือชี้ชวนการเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่ห้า",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 5, "section": null, "quote": "หนังสือชี้ชวนการเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่ห้า"}
+    },
+    "reit_name_en": {
+      "value": "WHA Industrial Leasehold Real Estate Investment Trust",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 8, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "WHA Industrial Leasehold Real Estate Investment Trust"}
+    },
+    "reit_name_th": {
+      "value": "WHA Industrial Leasehold Real Estate Investment Trust (Thai name)",
+      "value_th": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ดับบลิวเอชเอ อินดัสเตรียล",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 7, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ดับบลิวเอชเอ อินดัสเตรียล"}
+    },
+    "reit_structure": {
+      "value": "Leasehold REIT (Thai REIT under the Trust for Transactions in Capital Market Act); no fixed term; units not redeemable. Originally established 2016-11-21 as Hemaraj Leasehold REIT (HREIT), renamed WHAIR on 2022-06-08.",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 10, "section": null, "quote": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์"}
+    },
+    "capital_increase_no": {
+      "value": 5, "unit": "count", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 5, "section": null, "quote": "สำหรับการเพิ่มทุนครั้งที่ห้า"}
+    },
+    "additional_investment_no": {
+      "value": 6, "unit": "count", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 11, "section": null, "quote": "เพื่อลงทุนในทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก"}
+    },
+    "investor_eligibility": {
+      "value": "Tranche 1: existing unitholders on the record date, pro rata (excluding holders whose nationality would subject the trust to foreign law; 23 nationalities listed preliminarily). Tranche 2: remaining units to private placement (institutional investors / persons at the underwriter's discretion) and/or the general public. The cover also shows a separate subscription window for WHAID and/or its group. Retail/public offering may not take place if institutional demand suffices.",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 30, "section": null, "quote": "เสนอขายต่อผู้ถือหน่วยทรัสต์เดิมที่มีสิทธิได้รับจัดสรรหน่วยทรัสต์เพิ่มเติม โดยไม่จัดสรรให้แก่ผู้ถือหน่วยทรัสต์ที่จะทำให้กองทรัสต์มีหน้าที่ตามกฎหมายต่างประเทศ"}
+    },
+    "listing": {
+      "value": "Listed on the SET since 2016-11-28 (originally as HREIT; renamed WHAIR 2022-06-08). New units to be listed after the offering; the offering proceeds before SET approval of the new units.",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-02-Policy.md", "line": 10, "section": "วัตถุประสงค์ของกองทรัสต์", "quote": "โดยเริ่มซื้อขายในตลาดหลักทรัพย์เมื่อวันที่ 28 พฤศจิกายน 2559"}
+    },
+    "unitholder_approval_date": {
+      "value": "2026-06-18", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 124, "section": "2.1 วิธีการเสนอขายหน่วยทรัสต์", "quote": "การประชุมผู้ถือหน่วยทรัสต์ครั้งที่ 1/2569 เมื่อวันที่ 18 มิถุนายน 2569"}
+    },
+    "data_as_of": {
+      "value": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 6, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"}
+    },
+    "latest_document_date": "2026-06-21",
+    "documents_used": [
+      {"file": "WHAIR_PO_20260621_00-Cover.md", "doc_type": "00-Cover", "uploaded": "20260621", "used_for": "PO evidence, names, max units, max debt, max investment value, par, parties, filing date"},
+      {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "doc_type": "P1-FactSheet", "uploaded": "20260621", "used_for": "data as-of, appraisals, DPU history, projected yield/IRR, capital structure, income support, existing KPIs"},
+      {"file": "WHAIR_PO_20260621_P2-01-UseOfProceeds.md", "doc_type": "P2-01-UseOfProceeds", "uploaded": "20260621", "used_for": "use of proceeds, renewal rent"},
+      {"file": "WHAIR_PO_20260621_P3-Offering.md", "doc_type": "P3-Offering", "uploaded": "20260621", "used_for": "offering terms, allocation, pricing basis, underwriting, market prices, expense table"},
+      {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "doc_type": "P2-03-NewAssets", "uploaded": "20260621", "used_for": "new assets: areas, ages, locations, occupancy, tenants, history, appraisals, lease/undertaking/mortgage terms, loan"},
+      {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "doc_type": "P2-03-ExistingAssets", "uploaded": "20260621", "used_for": "existing projects, rounds, lease terms, latest appraisal"},
+      {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "doc_type": "P2-03-Leasing", "uploaded": "20260621", "used_for": "lease structure, WALE, lease expiry, FY2027 projection and sensitivities"},
+      {"file": "WHAIR_PO_20260621_P2-13-MDA.md", "doc_type": "P2-13-MDA", "uploaded": "20260621", "used_for": "existing portfolio performance and occupancy"},
+      {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "doc_type": "P2-12-Financials", "uploaded": "20260621", "used_for": "balance sheet, income statement, units, NAV, covenants"},
+      {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "doc_type": "P2-05-Risks", "uploaded": "20260621", "used_for": "risk factors"},
+      {"file": "WHAIR_PO_20260621_P2-02-Policy.md", "doc_type": "P2-02-Policy", "uploaded": "20260621", "used_for": "listing date, investment history, credit rating"},
+      {"file": "WHAIR_PO_20260621_P2-08-Unitholders.md", "doc_type": "P2-08-Unitholders", "uploaded": "20260621", "used_for": "units outstanding, closing price, major unitholders"},
+      {"file": "WHAIR_PO_20260621_P2-09-Governance.md", "doc_type": "P2-09-Governance", "uploaded": "20260621", "used_for": "auditor, appraisers, registrar, sponsor relationship (grep only)"},
+      {"file": "WHAIR_PO_20260621_P2-11-RelatedParty.md", "doc_type": "P2-11-RelatedParty", "uploaded": "20260621", "used_for": "related parties, lender, PM term"},
+      {"file": "WHAIR_PO_20260621_P2-10-Fees.md", "doc_type": "P2-10-Fees", "uploaded": "20260621", "used_for": "grep for named parties only"},
+      {"file": "WHAIR_PO_20260621_00-Definitions.md", "doc_type": "00-Definitions", "uploaded": "20260621", "used_for": "not needed"},
+      {"file": "WHAIR_PO_20260621_P2-04-Industry.md", "doc_type": "P2-04-Industry", "uploaded": "20260621", "used_for": "skipped per reading plan"},
+      {"file": "WHAIR_PO_20260621_P2-06-Litigation.md", "doc_type": "P2-06-Litigation", "uploaded": "20260621", "used_for": "skipped per reading plan"},
+      {"file": "WHAIR_PO_20260621_P2-07-Other.md", "doc_type": "P2-07-Other", "uploaded": "20260621", "used_for": "skipped per reading plan"}
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Industrial & Logistics",
+    "sub_sectors": ["Factory", "Warehouse"],
+    "description": {
+      "value": "Leasehold REIT owning ready-built factories and warehouses in WHA industrial estates and logistics parks in Chonburi, Rayong, Saraburi and Prachinburi (170 units, 468,990 sqm before the deal). This PO adds 30-year leaseholds (plus 30-year renewal right) over 10 units / 45,329 sqm in six WHA projects.",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คิดเป็นจำนวนรวมทั้งสิ้น 10 ยูนิต และมีพื้นที่อาคารรวมทั้งสิ้นประมาณ 45,329 ตารางเมตร"}
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {"name_en": "WHA Industrial Development PCL (WHAID)", "name_th": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)", "role_detail": "Holds 99.99% of the REIT manager; largest unitholder (17.08%); property manager; lessor of part of the new assets", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-11-RelatedParty.md", "line": 10, "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกัน", "quote": "เป็นผู้ถือหุ้นใหญ่ของผู้จัดการกองทรัสต์ โดย WHAID ถือหุ้นคิดเป็นร้อยละ 99.99"}}
+    ],
+    "reit_manager": {"name_en": "WHA Industrial REIT Management Co., Ltd.", "name_th": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล รีท แมนเนจเม้นท์ จำกัด", "role_detail": "REIT manager and offeror", "related_to_sponsor": true,
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 34, "section": null, "quote": "ผู้เสนอขายหน่วยทรัสต์ (ผู้จัดการกองทรัสต์) : บริษัท ดับบลิวเอชเอ อินดัสเตรียล รีท แมนเนจเม้นท์ จำกัด"}},
+    "trustee": {"name_en": "SCB Asset Management Co., Ltd. (SCBAM)", "name_th": "บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด", "role_detail": "Trustee; subsidiary of Siam Commercial Bank PCL", "related_to_sponsor": false,
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 35, "section": null, "quote": "ทรัสตี : บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด"}},
+    "property_managers": [
+      {"name_en": "WHA Industrial Development PCL (WHAID)", "name_th": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)", "role_detail": "Property manager for existing and new assets; 10-year appointment renewable for 10 years", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 12, "section": "ลักษณะการจัดหาผลประโยชน์จากอสังหาริมทรัพย์", "quote": "ผู้จัดการกองทรัสต์จะว่าจ้าง WHAID ซึ่งเป็นผู้มีประสบการณ์และความเชี่ยวชาญในการบริหารจัดการทรัพย์สินประเภทโรงงานและคลังสินค้า"}}
+    ],
+    "financial_advisors": [
+      {"name_en": "Kasikornbank PCL", "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)", "role_detail": "Financial advisor", "related_to_sponsor": false,
+       "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 36, "section": null, "quote": "ที่ปรึกษาทางการเงิน : ธนาคารกสิกรไทย จำกัด (มหาชน)"}}
+    ],
+    "lead_underwriters": [
+      {"name_en": "Kasikornbank PCL", "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)", "role_detail": "Lead underwriter / offering manager; firm underwriting after signing of the relevant agreements", "related_to_sponsor": false,
+       "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 37, "section": null, "quote": "ผู้จัดการการจัดจำหน่ายหน่วยทรัสต์ : ธนาคารกสิกรไทย จำกัด (มหาชน)"}}
+    ],
+    "underwriters": [],
+    "appraisers": [
+      {"name_en": "Asian Engineering Valuation Co., Ltd.", "name_th": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด", "role_detail": "Independent appraiser of the 6th-round assets (higher value, THB 1,261.0mn)", "related_to_sponsor": false,
+       "source": {"file": "WHAIR_PO_20260621_P2-09-Governance.md", "line": 983, "section": "บริษัทประเมินค่าทรัพย์สิน", "quote": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด"}},
+      {"name_en": "Sims Property Consultant Co., Ltd.", "name_th": "บริษัท ซิมส์ พร็อพเพอร์ตี้ คอนซัลแทนท์ จำกัด", "role_detail": "Independent appraiser of the 6th-round assets (lower value, THB 1,234.6mn) and reviewer of existing assets as of 2025-12-31", "related_to_sponsor": false,
+       "source": {"file": "WHAIR_PO_20260621_P2-09-Governance.md", "line": 986, "section": "บริษัทประเมินค่าทรัพย์สิน", "quote": "บริษัท ซิมส์ พร็อพเพอร์ตี้ คอนซัลแทนท์ จำกัด"}}
+    ],
+    "auditor": {"name_en": "PricewaterhouseCoopers ABAS Ltd.", "name_th": "บริษัท ไพร้ซวอเตอร์เฮาส์คูเปอร์ส เอบีเอเอส จำกัด", "role_detail": "Auditor (FY2023-FY2025 audit, 1Q2026 review)", "related_to_sponsor": false,
+      "source": {"file": "WHAIR_PO_20260621_P2-09-Governance.md", "line": 972, "section": "ผู้สอบบัญชี", "quote": "บริษัท ไพร้ซวอเตอร์เฮาส์คูเปอร์ส เอบีเอเอส จำกัด"}},
+    "legal_advisors": [],
+    "lenders": [
+      {"name_en": "Siam Commercial Bank PCL (SCB)", "name_th": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)", "role_detail": "Existing lender for the 5th additional investment; parent of the trustee. Lender for the new THB 350mn facility is not named.", "related_to_sponsor": false,
+       "source": {"file": "WHAIR_PO_20260621_P2-11-RelatedParty.md", "line": 19, "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกัน", "quote": "เป็นผู้ให้กู้เงินแก่กองทรัสต์ สำหรับทรัพย์สินหลักที่ลงทุนเพิ่มเติมครั้งที่ห้า"}}
+    ],
+    "sellers_or_lessors": [
+      {"name_en": "WHA Industrial Development PCL (WHAID)", "name_th": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)", "role_detail": "Lessor/seller of WHA CIE 1 unit Z21; lease rent + movables cap THB 90.3mn, renewal rent cap THB 5.832mn", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 611, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)"}},
+      {"name_en": "WHA Eastern Seaboard Industrial Estate Co., Ltd.", "name_th": "บริษัท ดับบลิวเอชเอ อีสเทิร์นซีบอร์ด อินดัสเตรียลเอสเตท จำกัด", "role_detail": "Lessor of WHA ESIE 1 unit D42B and WHA ESIE 3 unit T32-2; lease rent cap THB 404.8mn, renewal rent cap THB 26.224mn; 99.99% WHAID subsidiary", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 585, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อีสเทิร์นซีบอร์ด อินดัสเตรียลเอสเตท จำกัด"}},
+      {"name_en": "WHA Rayong 36 Co., Ltd.", "name_th": "บริษัท ดับบลิวเอชเอ ระยอง 36 จำกัด", "role_detail": "Lessor of WHA Rayong 36 unit J12; lease rent cap THB 139.6mn, renewal rent cap THB 9.048mn; 99.99% WHAID group", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 595, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ ระยอง 36 จำกัด"}},
+      {"name_en": "WHA Industrial Building Co., Ltd.", "name_th": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล บิวดิ้ง จำกัด", "role_detail": "Lessor/seller of WHA LP 1 (A2-2, B2/B4), WHA CIE 1 unit A8B and WHA SIL (142/1, 142/3); lease rent + movables cap THB 599.9mn, renewal rent cap THB 38.896mn; 99.99% WHAID subsidiary", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 603, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อินดัสเตรียล บิวดิ้ง จำกัด"}}
+    ],
+    "operators_or_master_lessees": [
+      {"name_en": "WHAID, WHA Eastern Seaboard Industrial Estate, WHA Rayong 36 and WHA Industrial Building (undertaking providers)", "name_th": null, "role_detail": "Rental guarantors: 3-year income support on vacant space and minimum-rent top-up (THB 200 detached / 171 attached / 145 warehouse per sqm per month); owners bear major capex for 5 years; WHAID to maintain a credit rating (A- Stable by TRIS as of 2025-11-06). No master lease.", "related_to_sponsor": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-11-RelatedParty.md", "line": 30, "section": "รายการระหว่างกองทรัสต์กับผู้จัดการกองทรัสต์และบุคคลที่เกี่ยวโยงกันกับผู้จัดการกองทรัสต์", "quote": "ผู้ให้สัญญาตกลงจะชดเชยรายได้ค่าเช่าให้แก่กองทรัสต์จากทรัพย์สินที่เช่าที่ไม่มีผู้เช่าสำหรับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หกเป็นระยะเวลา 3 ปี"}}
+    ],
+    "not_found_roles": [
+      "Legal advisor (appears only as an expense line item; no firm named)",
+      "Lender(s) for the new THB 350mn facility (described generically as domestic commercial bank(s) / financial institutions)",
+      "Co-underwriters or selling agents (manager may appoint additional distributors later; none named)",
+      "Master lessee (none; trust leases directly to occupiers)"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 150000000, "unit": "units", "status": "found", "note": "Maximum ('ไม่เกิน').",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 25, "section": null, "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 150,000,000 หน่วย"}
+    },
+    "offering_price_per_unit": {
+      "min_thb": {"value": null, "status": "not_found", "note": "No price range disclosed; only a maximum price shown as draft placeholder [•]."},
+      "max_thb": {"value": null, "status": "not_found", "note": "Draft placeholder in brackets '[•]' (maximum offering price). FY2027 projection assumes THB 7.00."},
+      "final_thb": {"value": null, "status": "not_found", "note": "Final price to be set by bookbuilding and announced on the SET website."}
+    },
+    "par_value_per_unit_thb": {
+      "value": 8.8572, "unit": "THB", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 18, "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย", "quote": "ณ วันที่ 31 มีนาคม 2569 มูลค่าที่ตราไว้ต่อหน่วยทรัสต์ เท่ากับ 8.8572 บาท"}
+    },
+    "offering_size_thb_mn": {"value": null, "status": "not_found", "note": "Maximum equity raise shown as draft placeholder '[•]' on cover, fact sheet and P3. Projection case: ~142.63mn units x THB 7.00 = ~THB 998.4mn (derived, not a filed maximum)."},
+    "total_investment_value_thb_mn": {
+      "value": 1234.6, "unit": "THB mn", "status": "found", "note": "Maximum ('ไม่เกิน'), excluding VAT, registration fees, SBT and other costs; equals the lower (Sims) appraisal.",
+      "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 24, "section": null, "quote": "มูลค่าทั้งสิ้นไม่เกิน 1,234,600,000 บาท"}
+    },
+    "funding_sources": [
+      {"type": "new_units", "amount_thb_mn": {"value": null, "status": "not_found", "note": "Draft placeholder '[•]'. Projection assumes ~142.63mn units at THB 7.00."}},
+      {"type": "debt", "amount_thb_mn": {"value": 350.0, "unit": "THB mn", "status": "found", "note": "Maximum long-term loan ('ไม่เกิน'); projection assumes ~THB 117.18mn drawn.",
+        "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 21, "section": null, "quote": "ในวงเงินทั้งสิ้นไม่เกิน 350,000,000 บาท"}}},
+      {"type": "internal_cash", "amount_thb_mn": {"value": null, "status": "not_found", "note": "Internal cash may be used at the manager's discretion; amount not quantified."}},
+      {"type": "security_deposits", "amount_thb_mn": {"value": null, "status": "not_found", "note": "Part of tenants' security deposits may be used at the manager's discretion; amount not quantified."}}
+    ],
+    "use_of_proceeds": [
+      {"item": "30-year leasehold rent for land and buildings plus purchase of related movable assets of the 6th additional investment (paid on investment date)", "amount_thb_mn": 1234.6, "note": "Maximum; excludes VAT, registration fees, SBT and other costs.",
+       "source": {"file": "WHAIR_PO_20260621_P2-01-UseOfProceeds.md", "line": 7, "section": "วัตถุประสงค์การใช้เงิน", "quote": "จะเหลือเงินที่จะนำไปใช้ตามวัตถุประสงค์ที่ระบุไว้เป็นจำนวนไม่เกิน 1,234.60 ล้านบาท"}},
+      {"item": "Future rent for the 30-year renewal period (payable only if renewal exercised, not funded by this raise)", "amount_thb_mn": 80.0, "note": "Maximum; ~THB 80.88mn including ~1.1% registration fee.",
+       "source": {"file": "WHAIR_PO_20260621_P2-01-UseOfProceeds.md", "line": 7, "section": "วัตถุประสงค์การใช้เงิน", "quote": "กองทรัสต์จะต้องชำระค่าเช่าสำหรับระยะเวลาการเช่าที่ต่ออายุอีกจำนวนไม่เกิน 80.00 ล้านบาท"}},
+      {"item": "Offering and transaction expenses (advisory, underwriting, loan fees, registration, etc.)", "amount_thb_mn": null, "note": "Draft placeholder '[•]' in expense table.",
+       "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 446, "section": "ประมาณการค่าใช้จ่ายต่างๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้", "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ [•] บาท"}}
+    ],
+    "estimated_transaction_costs_thb_mn": {"value": null, "status": "not_found", "note": "Total offering expenses shown as draft placeholder '[•]' (P3 line 446). The FY2027 projection expenses THB 8.16mn of offering costs (P2-03-Leasing line 289)."},
+    "allocation": [
+      {"tranche": "Tranche 1: existing unitholders pro rata (excluding holders subject to foreign-law obligations)", "units": null, "pct_of_offer": null, "note": "Units and % shown as draft placeholders '[•]'; Risks section states not less than 50% of new units go to existing unitholders. Over-subscription allowed.",
+       "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 41, "section": "สัดส่วนการเสนอขายหน่วยทรัสต์", "quote": "ไม่เกิน [•] หน่วย 1"}},
+      {"tranche": "Tranche 2: remainder to private placement (institutional investors, persons at underwriter's discretion) and/or general public", "units": null, "pct_of_offer": null, "note": "Units remaining after Tranche 1; claw-back/claw-forward allowed; retail/public offering may not take place.",
+       "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 42, "section": "สัดส่วนการเสนอขายหน่วยทรัสต์", "quote": "หน่วยทรัสต์ส่วนที่เหลือจากการเสนอขาย"}},
+      {"tranche": "WHAID and/or its group (separate subscription window on cover)", "units": null, "pct_of_offer": null, "note": "Subscription period shown as placeholder; no unit amount disclosed.",
+       "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 44, "section": null, "quote": "สำหรับบริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน) และ/หรือกลุ่มบุคคลเดียวกัน"}}
+    ],
+    "subscription_ratio": {"value": null, "status": "not_found", "note": "Draft placeholder '[•] existing units : [•] new unit' (P3 line 23); final ratio to be announced on SET."},
+    "sponsor_commitment": {
+      "value": "No committed take-up or lock-up disclosed. WHAID (17.08% holder) has its own subscription window on the cover, and the existing loan agreement and undertaking require WHAID to maintain a unitholding level set by the lender (level not stated).",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 75, "section": "ความเสี่ยงจากการที่กองทรัสต์ไม่สามารถใช้ประโยชน์จากทรัพย์สินของโครงการ เนื่องจากคู่สัญญาไม่ปฏิบัติตามสัญญาที่เกี่ยวข้องกับการลงทุนและการบริหารอสังหาริมทรัพย์ของกองทรัสต์", "quote": "มีการระบุข้อสัญญากำหนดให้ WHAID ต้องดำรงสัดส่วนการถือหน่วยทรัสต์ในกองทรัสต์ตามที่ผู้ให้กู้กำหนด"}
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months 1 Jan 2027 - 31 Dec 2027 (FY2027P)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 277, "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570", "quote": "สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570"}
+      },
+      "basis_price_thb": {
+        "value": 7.48, "unit": "THB", "status": "found", "note": "Yield is computed on the 15-trading-day VWAP (17 Apr - 11 May 2026), not on an offering price. The projection itself assumes a new-unit price of THB 7.00.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 430, "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายผลประโยชน์ตอบแทน", "quote": "(15 วันทำการ) เท่ากับ 7.48 บาทต่อหน่วย"}
+      },
+      "dpu_thb": {
+        "value": 0.577, "unit": "THB", "status": "found", "note": "Dividend only (no capital reduction); includes THB 0.008 from undertaking income; 0.569 excluding undertaking income.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 55, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "รวมประมาณการการจ่ายผลประโยชน์ตอบแทนและเงินลดทุน / 0.577 / 7.71"}
+      },
+      "distribution_yield_pct": {
+        "value": 7.71, "unit": "%", "status": "found", "note": "On THB 7.48 VWAP; 7.61% excluding undertaking income.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 410, "section": "ประมาณการอัตราการจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย", "quote": "คิดเป็นประมาณการอัตราจ่ายผลประโยชน์ตอบแทนและเงินคืนทุนในปีแรกเท่ากับร้อยละ 7.71"}
+      },
+      "total_distribution_thb_mn": {
+        "value": 693.41, "unit": "THB mn", "status": "found", "note": "98.5% payout of distributable cash; 1,201.43mn units assumed.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 310, "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570", "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุน | 607.93 | 693.41"}
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 771.95, "unit": "THB mn", "status": "found", "note": "Filing's 'net profit available for distribution' for the enlarged trust (after interest THB 122.72mn and offering expense THB 8.16mn); existing-only case THB 694.62mn.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 291, "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570", "quote": "กำไรสุทธิที่สามารถนำมาจ่ายผลประโยชน์ตอบแทน | 694.62 | 771.95"}
+      },
+      "yield_sensitivity": [
+        {"offering_price_thb": 7.48, "dpu_thb": 0.577, "yield_pct": 7.71, "note": "Base case (price basis = 15-day VWAP; no offering-price sensitivity disclosed).",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 426, "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายผลประโยชน์ตอบแทน", "quote": "กรณีฐาน | 0.574 | 0.577 | 7.71"}},
+        {"offering_price_thb": 7.48, "dpu_thb": 0.567, "yield_pct": 7.58, "note": "Interest rate +0.25% vs base.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 427, "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายผลประโยชน์ตอบแทน", "quote": "สูงกว่ากรณีฐาน ร้อยละ 0.25 | 0.563 | 0.567 | 7.58"}},
+        {"offering_price_thb": 7.48, "dpu_thb": 0.557, "yield_pct": 7.45, "note": "Interest rate +0.50% vs base.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 428, "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายผลประโยชน์ตอบแทน", "quote": "สูงกว่ากรณีฐาน ร้อยละ 0.50 | 0.552 | 0.557 | 7.45"}},
+        {"offering_price_thb": 7.48, "dpu_thb": 0.569, "yield_pct": 7.61, "note": "Excluding all undertaking (income support) revenue.",
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 55, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ประมาณการการจ่ายผลประโยชน์ตอบแทนกรณีไม่รวมรายได้ตามสัญญาตกลงกระทำการ/5 / 0.569 / 7.61"}}
+      ],
+      "pro_forma_note": {
+        "value": "FY2027P DPU for the existing trust alone THB 0.574 vs THB 0.577 after the 6th investment (+THB 0.003, ~+0.5%), assuming THB 7.00 offer price, ~142.63mn new units and ~THB 117.18mn new debt. Rental-rate sensitivity +/-1%: 0.573-0.581. Expected IRR 10.71% (10.67% without undertaking income).",
+        "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 315, "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570", "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย | 0.574 | 0.577"}
+      }
+    },
+    "timeline": [
+      {"event": "Independent appraisal reports dated (value as of 1 Jan 2027)", "date": "2026-05-07", "indicative": false,
+       "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 311, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "ฉบับลงวันที่ 7 พฤษภาคม 2569"}},
+      {"event": "Unitholder nationality list reference date (for foreign-law exclusion)", "date": "2026-05-25", "indicative": false,
+       "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 24, "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย", "quote": "เมื่อวันที่ 25 พฤษภาคม 2569"}},
+      {"event": "Unitholders' meeting No. 1/2026 approves investment and capital increase", "date": "2026-06-18", "indicative": false,
+       "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 124, "section": "2.1 วิธีการเสนอขายหน่วยทรัสต์", "quote": "การประชุมผู้ถือหน่วยทรัสต์ครั้งที่ 1/2569 เมื่อวันที่ 18 มิถุนายน 2569"}},
+      {"event": "Filing of registration statement and draft prospectus", "date": "2026-06-23", "indicative": false,
+       "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 38, "section": null, "quote": "วันที่ยื่นแบบแสดงรายการข้อมูลและร่างหนังสือชี้ชวน : วันที่ 23 มิถุนายน 2569"}},
+      {"event": "Registration statement effective date", "date": null, "indicative": true,
+       "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 39, "section": null, "quote": "วันที่แบบแสดงรายการข้อมูลและหนังสือชี้ชวนมีผลใช้บังคับ : วันที่ [•]"}},
+      {"event": "Subscription periods (existing unitholders, institutions, WHAID group, other investors) - draft placeholders", "date": null, "indicative": true,
+       "source": {"file": "WHAIR_PO_20260621_00-Cover.md", "line": 41, "section": null, "quote": "สำหรับผู้ถือหน่วยทรัสต์เดิมที่มีสิทธิได้รับจัดสรรหน่วยทรัสต์เพิ่มเติม (บุคคลธรรมดาและนิติบุคคล) วันที่ [•] ถึง [•]"}},
+      {"event": "Listing application for new units within 45 days after offering close", "date": "within 45 days after close of offering", "indicative": true,
+       "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 282, "section": "ความเสี่ยงเกี่ยวกับการจดทะเบียนรับหน่วยทรัสต์เป็นหลักทรัพย์จดทะเบียน และการซื้อขายหน่วยทรัสต์ในตลาดหลักทรัพย์", "quote": "ภายใน 45 วันนับแต่วันปิดการเสนอขายหน่วยทรัสต์"}},
+      {"event": "Expected investment date in 6th-round assets (lease start)", "date": "2027-01-01", "indicative": true,
+       "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}}
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 1058806116, "unit": "units", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-08-Unitholders.md", "line": 7, "section": null, "quote": "มีจำนวนหน่วยทรัสต์ทั้งสิ้น 1,058,806,116 หน่วย มูลค่าที่ตราไว้หน่วยละ 8.8572 บาท"}
+    },
+    "units_outstanding_after_max": {
+      "value": 1208806116, "unit": "units", "status": "derived", "note": "1,058,806,116 existing + 150,000,000 maximum new units.",
+      "source": {"file": "WHAIR_PO_20260621_P3-Offering.md", "line": 17, "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย", "quote": "ไม่เกิน 150,000,000 หน่วย"}
+    },
+    "nav_per_unit_thb": {
+      "value": 8.3034, "unit": "THB", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 32, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "สินทรัพย์สุทธิต่อหน่วย (บาท) | 8.9248 | 8.3753 | 8.3103 | 8.3034"}
+    },
+    "total_assets_before_thb_mn": {
+      "value": 13883.12, "unit": "THB mn", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 29, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "สินทรัพย์รวม / 13,883.12 ล้านบาท"}
+    },
+    "total_assets_after_thb_mn": {
+      "value": 15117.72, "unit": "THB mn", "status": "derived", "note": "13,883.12 total assets at 31 Mar 2026 + 1,234.60 max investment value; same method as the filing's 33.95% post-deal LTV footnote (5,132 / 15,117.72 = 33.95%).",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 28, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "เป็นการประมาณการโดยใช้สินทรัพย์รวมและหนี้สินที่มีภาระดอกเบี้ย ณ 31 มีนาคม 2569 และมูลค่าทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก"}
+    },
+    "borrowings_before_thb_mn": {
+      "value": 4782.0, "unit": "THB mn", "as_of": "2026-03-31", "status": "found", "note": "Gross loan outstanding; balance sheet shows borrowings net of fees THB 4,766.52mn.",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 742, "section": "สรุปสาระสำคัญของสัญญากู้ยืม", "quote": "ณ วันที่ 31 มีนาคม 2569 กองทรัสต์มีภาระหนี้เงินกู้ทั้งสิ้น 4,782,000,000 บาท คิดเป็นร้อยละ 34.44 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"}
+    },
+    "new_borrowings_thb_mn": {
+      "value": 350.0, "unit": "THB mn", "status": "found", "note": "Maximum facility ('ไม่เกิน'); projection assumes ~THB 117.18mn drawn.",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 731, "section": "สรุปสาระสำคัญของสัญญากู้ยืม", "quote": "วงเงินกู้ทั้งหมดไม่เกิน 350.00 ล้านบาท"}
+    },
+    "borrowings_after_thb_mn": {
+      "value": 5132.0, "unit": "THB mn", "status": "derived", "note": "4,782.00 existing + 350.00 maximum new loan (maximum case; ignores any repayment/refinancing of the THB 1,775mn maturing in 2027).",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 743, "section": "สรุปสาระสำคัญของสัญญากู้ยืม", "quote": "บนมูลค่าการกู้ยืมสูงสุดไม่เกิน 350.00 ล้านบาทจะคิดได้เป็นประมาณร้อยละ 33.95"}
+    },
+    "ltv_before_pct": {
+      "value": 34.44, "unit": "%", "as_of": "2026-03-31", "status": "found", "note": "Loans / total assets. Net interest-bearing debt / total assets per financials: 34.33%.",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 29, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "สัดส่วนการกู้ยืมต่อสินทรัพย์รวม / ร้อยละ 34.44"}
+    },
+    "ltv_after_pct": {
+      "value": 33.95, "unit": "%", "status": "found", "note": "Assumes maximum THB 350mn new loan.",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 743, "section": "สรุปสาระสำคัญของสัญญากู้ยืม", "quote": "จะคิดได้เป็นประมาณร้อยละ 33.95 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"}
+    },
+    "ltv_limit_pct": {
+      "value": 35.0, "unit": "%", "status": "found", "note": "35% of total assets, or 60% with an investment-grade rating (trust rated BBB+ Stable by TRIS on 2025-08-29). Existing loan covenants: IBD/total assets <=50%, IBD/EBITDA <=6.5x, IBD/equity <=1.0x.",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 710, "section": "การกู้ยืมเงินของกองทรัสต์", "quote": "กองทรัสต์มีข้อจำกัดในการกู้ยืมเงินได้ไม่เกินอัตราส่วนร้อยละ 35 ของมูลค่าสินทรัพย์รวมของกองทรัสต์"}
+    },
+    "loan_terms": {
+      "value": "New facility up to THB 350mn from one or more domestic commercial banks and/or other lenders (not named); average rate not above MLR - 1.5% p.a.; tenor up to 3 years from first drawdown, bullet repayment, monthly interest; covenants IBD/total assets <=0.5x and IBD/EBITDA <=7.5x; security: business security over the leasehold rights, assignment of lease/service contracts over 3 years and insurance; pari passu with other lenders. THB 85mn debt-repayment reserve planned for 2027.",
+      "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 732, "section": "สรุปสาระสำคัญของสัญญากู้ยืม", "quote": "อัตราดอกเบี้ยเฉลี่ยตลอดอายุสัญญาเงินกู้จะไม่เกินอัตราดอกเบี้ยเทียบเท่าอัตราดอกเบี้ย MLR (Minimum Loan Rate) ลบร้อยละ 1.5 ต่อปี"}
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "WHA_CIE1",
+      "name_en": "WHA Chonburi Industrial Estate 1 (WHA CIE 1) - units Z21 and A8B",
+      "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1",
+      "asset_type": "Factory (1 detached unit, 1 attached unit)",
+      "location": {"address": "Plot Z21 (detached) and plot A8B (attached), WHA Chonburi Industrial Estate 1 (Free Zone)", "address_th": null, "subdistrict": "Bo Win", "district": "Si Racha", "province": "Chonburi", "zone": "Eastern Seaboard / EEC",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 605, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "(WHA CIE 1) ตำบลบ่อวิน อำเภอศรีราชา จังหวัดชลบุรี"}},
+      "investment_type": {"value": "Leasehold", "status": "found", "note": "30-year leasehold of land and buildings with 30-year renewal right; related movable assets purchased.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 78, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "สิทธิการเช่าที่ดิน และสิทธิการเช่าอาคาร 30 ปีนับจากวันเริ่มต้นระยะเวลาเช่า และสิทธิในการต่อสัญญาอีก 30 ปี"}},
+      "components": [
+        {"component": "Land", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Owner's promise to renew 30 years; notice in lease years 21-25; renewal rent capped (THB 80.0mn total for all six projects)",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Buildings", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Same as land",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Movable assets used in the leased property", "right": "Freehold", "tenure_years": null, "start_date": "2027-01-01", "expiry_date": null, "renewal_option": null,
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "และซื้อสังหาริมทรัพย์ซึ่งใช้ในการดำเนินกิจการภายในทรัพย์สินที่เช่า จำนวน 10 ยูนิต ใน 6 โครงการ"}}
+      ],
+      "tenure_years": {"value": 30, "unit": "years", "status": "found", "note": "Plus 30-year renewal option.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "lease_start": {"value": "2027-01-01", "status": "found", "note": "Expected investment date (lease start), not yet fixed.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}},
+      "lease_expiry": {"value": "2056-12-31", "status": "derived", "note": "Expected lease start 2027-01-01 + 30 years - 1 day; expiry date not stated in the filing. 2086 if renewed.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "land_area": {"value_sqm": 7960.4, "as_filed": "4-3-90.1 rai (Z21 4-1-12.6 on deed 256914, whole plot; A8B 0-1-76.5 + 0-1-1.0 on deeds 90924/90925, partial)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 443, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "4-3-90.1 | 4,152 | 2"}},
+      "building_area": {
+        "gross_sqm": {"value": 4152, "unit": "sqm", "status": "found", "note": "Building area (Z21 3,000 + A8B 1,152).",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 443, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "4-3-90.1 | 4,152 | 2"}},
+        "leasable_sqm": {"value": 4152, "unit": "sqm", "status": "found", "note": "Filing uses the same building area as lettable area.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 190, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "(WHA CIE 1) | 2 | 4,152"}},
+        "rooms": {"value": null, "status": "not_applicable"},
+        "buildings": {"value": 2, "unit": "buildings (2 units)", "status": "found", "note": "1 detached factory (Z21) + 1 attached factory unit (A8B).",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 109, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โรงงานแบบ Attached Building จำนวน 1 หลัง"}}
+      },
+      "completion_or_age": {"value": "Building age as of 1 Jan 2027: Z21 about 4.34 years; A8B about 13.17 years (average 8.75 years).", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 15, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "256914 | 4 | 1 | 12.6 | 4.34"}},
+      "seller_or_lessor": {"value": "WHA Industrial Development PCL (Z21; lease rent + movables cap THB 90.3mn, renewal rent cap THB 5.832mn) and WHA Industrial Building Co., Ltd. (A8B; within its combined cap of THB 599.9mn with LP1 and SIL). Both related to the sponsor.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 611, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)"}},
+      "acquisition_price_thb_mn": {"value": 122.7, "unit": "THB mn", "status": "derived", "note": "Per-project price not stated. Total cap THB 1,234.6mn equals the sum of the lower (Sims) appraisals and the four per-lessor caps reconcile to Sims values (e.g. WHAID cap 90.3 + part of WHA Industrial Building cap = 122.7), so the Sims value is used as the implied maximum.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 301, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1 | 125,000,000 | 122,700,000"}},
+      "appraisals": [
+        {"appraiser": "Asian Engineering Valuation Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 125.0, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200, attached CIE1 190 THB/sqm/month); 95% long-run occupancy; 3-year income support; market rent growth 2.50% p.a.; PM fee 1.75% of revenue yrs 1-5 then 5.00%; marketing 1.10%; opex 5.00% of rent rising 2% p.a.; owner bears capex yrs 1-5, 1.50% from yr 6; renewal rent THB 80.0mn for all six projects.",
+         "note": "Report dated 2026-05-07, value as of expected investment date. Full replacement cost: buildings THB 51.552mn, land THB 6.61mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 301, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1 | 125,000,000 | 122,700,000"}},
+        {"appraiser": "Sims Property Consultant Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 122.7, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200, attached CIE1 190 THB/sqm/month); 95% long-run occupancy; 3-year income support; market rent growth 0% 2027, 1.00% 2028, 1.50% 2029, 2.25% 2030, 2.50% 2031-2046, 2.75% from 2047; PM fee 1.75%/5.00% of rental revenue; marketing 1.75%; opex ~4.80% of rent; owner bears capex yrs 1-5, 1.50% from yr 6.",
+         "note": "Lower appraisal; basis of maximum price and of the IRR. Full replacement cost: buildings THB 63.69mn, land THB 10.07mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 301, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1 | 125,000,000 | 122,700,000"}}
+      ],
+      "occupancy": [
+        {"as_of": "2026-03-31", "occupancy_pct": 100.0, "basis": "leased building area", "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 190, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล บิวดิ้ง จำกัด | 100.00 | 8.75"}}
+      ],
+      "historical_performance": [],
+      "lease_structure": {"value": "Trust leases land and buildings from the owners and sub-lets directly to occupiers under standard lease and service agreements, mostly ~3 years (some with ~3-year renewal options), mostly fixed or stepped rents; WHAID acts as property manager.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 18, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "เข้าทำสัญญาเช่าและสัญญาบริการ ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"}},
+      "rental_guarantee": {"value": "Owners' undertaking for 3 years from lease start: pay rent on vacant space and top up rents below the minimum of THB 200/sqm/month (detached) and THB 171/sqm/month (attached); top-up does not apply to leases signed before the investment date. Owners also bear major capex for 5 years.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 677, "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของเจ้าของทรัพย์สิน (ทุกราย)", "quote": "ที่ไม่มีผู้เช่าเป็นระยะเวลา 3 ปีนับจากวันเริ่มต้นระยะเวลาการเช่าภายใต้สัญญาเช่าทรัพย์สิน"}},
+      "key_tenants": [],
+      "tenant_concentration": {"value": null, "status": "not_found", "note": "Tenant data disclosed only for the six projects combined (top-5 tenants 79.62% of projected revenue); not mapped to projects."},
+      "lease_expiry_profile": [],
+      "wale_years": {"value": null, "status": "not_found", "note": "Per-project WALE not disclosed; combined WALE of all 6th-round assets is 1.52 years as of 1 Jan 2027 (P2-03-Leasing line 45)."},
+      "encumbrances": {"value": "Deeds 256914 (Z21) and 90925 are not mortgaged to the trust as lease-performance security; deed 90924 is already mortgaged to the trust from a previous round and will carry a second-ranking mortgage. Estate roads subject to registered servitude. New loan to be secured by business security over the leasehold rights.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 384, "section": "รายละเอียดเพิ่มเติมเกี่ยวกับการใช้สิทธิต่อสัญญาเช่าอีก 30 ปี", "quote": "ที่ดินจำนวน 4 โฉนด ไม่อยู่ภายใต้การจำนอง (โฉนดที่ดินเลขที่ 256914, 92749, 43514, และ 90925)"}},
+      "notes": [
+        "Located in a Free Zone (common-area fee assumption WHA CIE1 (Freezone)); solar rooftop not included for the 6th-round assets.",
+        "Tenant names, lease expiry profile, WALE and historical revenue are disclosed only for the six projects combined; see analyst_notes.",
+        "Two lessors for one project: WHAID (Z21) and WHA Industrial Building Co., Ltd. (A8B)."
+      ]
+    },
+    {
+      "asset_id": "WHA_ESIE1",
+      "name_en": "WHA Eastern Seaboard Industrial Estate 1 (WHA ESIE 1) - unit D42B",
+      "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด 1",
+      "asset_type": "Factory (detached)",
+      "location": {"address": "Plot D42B, WHA Eastern Seaboard Industrial Estate 1", "address_th": null, "subdistrict": "Ta Sit", "district": "Pluak Daeng", "province": "Rayong", "zone": "Eastern Seaboard / EEC",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 587, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "(WHA ESIE 1) ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง"}},
+      "investment_type": {"value": "Leasehold", "status": "found", "note": "30-year leasehold of land (partial plot) and buildings with 30-year renewal right; related movables purchased.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 78, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "สิทธิการเช่าที่ดิน และสิทธิการเช่าอาคาร 30 ปีนับจากวันเริ่มต้นระยะเวลาเช่า และสิทธิในการต่อสัญญาอีก 30 ปี"}},
+      "components": [
+        {"component": "Land (partial lease of deed 43514)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Owner's promise to renew 30 years; notice in lease years 21-25; renewal rent cap THB 26.224mn for ESIE1 + ESIE3",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Buildings (factory and office building)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Same as land",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Movable assets used in the leased property", "right": "Freehold", "tenure_years": null, "start_date": "2027-01-01", "expiry_date": null, "renewal_option": null,
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "และซื้อสังหาริมทรัพย์ซึ่งใช้ในการดำเนินกิจการภายในทรัพย์สินที่เช่า จำนวน 10 ยูนิต ใน 6 โครงการ"}}
+      ],
+      "tenure_years": {"value": 30, "unit": "years", "status": "found", "note": "Plus 30-year renewal option.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "lease_start": {"value": "2027-01-01", "status": "found", "note": "Expected investment date (lease start), not yet fixed.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}},
+      "lease_expiry": {"value": "2056-12-31", "status": "derived", "note": "Expected lease start 2027-01-01 + 30 years - 1 day; not stated in the filing.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "land_area": {"value_sqm": 13047.6, "as_filed": "8-0-61.9 rai (partial lease of deed 43514)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 445, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "8-0-61.9 | 7,019 | 1"}},
+      "building_area": {
+        "gross_sqm": {"value": 7019, "unit": "sqm", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 445, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "8-0-61.9 | 7,019 | 1"}},
+        "leasable_sqm": {"value": 7019, "unit": "sqm", "status": "found", "note": "Filing uses the same building area as lettable area.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 191, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "(WHA ESIE 1) | 1 | 7,019"}},
+        "rooms": {"value": null, "status": "not_applicable"},
+        "buildings": {"value": 1, "unit": "units", "status": "found", "note": "1 detached factory unit; lease schedule lists a factory building plus an office building.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 122, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โรงงานแบบ Detached Building จำนวน 1 หลัง"}}
+      },
+      "completion_or_age": {"value": "Building age about 4.40 years as of 1 Jan 2027.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 16, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "43514 | 8 | - | 61.9 | 4.40"}},
+      "seller_or_lessor": {"value": "WHA Eastern Seaboard Industrial Estate Co., Ltd. (99.99% WHAID subsidiary); lease rent cap THB 404.8mn for ESIE1 + ESIE3 combined.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 585, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อีสเทิร์นซีบอร์ด อินดัสเตรียลเอสเตท จำกัด"}},
+      "acquisition_price_thb_mn": {"value": 209.1, "unit": "THB mn", "status": "derived", "note": "Per-project price not stated; implied equal to the lower (Sims) appraisal. Lessor cap for ESIE1 + ESIE3 THB 404.8mn = Sims 209.1 + 195.7.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 302, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "อีสเทิร์นซีบอร์ด 1 | 213,900,000 | 209,100,000"}},
+      "appraisals": [
+        {"appraiser": "Asian Engineering Valuation Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 213.9, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200 THB/sqm/month); 95% long-run occupancy; 3-year income support; market rent growth 2.50% p.a.; PM fee 1.75% then 5.00%; marketing 1.10%; opex 5.00% of rent rising 2% p.a.; capex 1.50% from yr 6.",
+         "note": "Report dated 2026-05-07. Full replacement cost: buildings THB 84.228mn, land THB 10.79mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 302, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "อีสเทิร์นซีบอร์ด 1 | 213,900,000 | 209,100,000"}},
+        {"appraiser": "Sims Property Consultant Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 209.1, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200 THB/sqm/month); 95% long-run occupancy; 3-year income support; stepped market rent growth 0%-2.75%; PM fee 1.75%/5.00%; marketing 1.75%; opex ~4.80%; capex 1.50% from yr 6.",
+         "note": "Lower appraisal. Full replacement cost: buildings THB 106.99mn, land THB 13.20mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 302, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "อีสเทิร์นซีบอร์ด 1 | 213,900,000 | 209,100,000"}}
+      ],
+      "occupancy": [
+        {"as_of": "2026-03-31", "occupancy_pct": 100.0, "basis": "leased building area", "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 191, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "อินดัสเตรียลเอสเตท จำกัด | 100.00 | 4.40"}}
+      ],
+      "historical_performance": [],
+      "lease_structure": {"value": "Direct sub-leases to occupiers under standard ~3-year lease and service agreements; WHAID as property manager.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 18, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "เข้าทำสัญญาเช่าและสัญญาบริการ ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"}},
+      "rental_guarantee": {"value": "Owners' 3-year undertaking: rent on vacant space and top-up to a minimum of THB 200/sqm/month (detached factory); owners bear major capex for 5 years.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 677, "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของเจ้าของทรัพย์สิน (ทุกราย)", "quote": "ที่ไม่มีผู้เช่าเป็นระยะเวลา 3 ปีนับจากวันเริ่มต้นระยะเวลาการเช่าภายใต้สัญญาเช่าทรัพย์สิน"}},
+      "key_tenants": [],
+      "tenant_concentration": {"value": null, "status": "not_found", "note": "Tenant data disclosed only for the six projects combined; not mapped to projects."},
+      "lease_expiry_profile": [],
+      "wale_years": {"value": null, "status": "not_found", "note": "Per-project WALE not disclosed; combined 1.52 years."},
+      "encumbrances": {"value": "Deed 43514 is not mortgaged to the trust as lease-performance security. An expandable area of 2-0-9 rai on the same plot stays with the lessor, which may build an extension and use access roads through the leased plot; trust has a right (not obligation) to invest in the extension.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 69, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โดยพื้นที่ส่วนขยายเพิ่มเติมมีพื้นที่ดินทั้งหมด 2 ไร่ 0 งาน 9.00 ตารางวา"}},
+      "notes": [
+        "Only 6th-round asset with an Expandable Area retained by the lessor (about 4.27% of total land of the new assets).",
+        "Tenant names, lease expiry profile, WALE and historical revenue are disclosed only for the six projects combined; see analyst_notes."
+      ]
+    },
+    {
+      "asset_id": "WHA_ESIE3",
+      "name_en": "WHA Eastern Seaboard Industrial Estate 3 (WHA ESIE 3) - unit T32-2",
+      "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด 3",
+      "asset_type": "Factory (detached)",
+      "location": {"address": "Plot T32-2, WHA Eastern Seaboard Industrial Estate 3", "address_th": null, "subdistrict": "Khlong Kiu", "district": "Ban Bueng", "province": "Chonburi", "zone": "Eastern Seaboard / EEC",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 587, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ตำบลคลองกิ่ว อำเภอบ้านบึง จังหวัดชลบุรี"}},
+      "investment_type": {"value": "Leasehold", "status": "found", "note": "New project for the trust (no existing assets in WHA ESIE 3).",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 78, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "สิทธิการเช่าที่ดิน และสิทธิการเช่าอาคาร 30 ปีนับจากวันเริ่มต้นระยะเวลาเช่า และสิทธิในการต่อสัญญาอีก 30 ปี"}},
+      "components": [
+        {"component": "Land (partial lease of deed 64223)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Owner's promise to renew 30 years; renewal rent cap THB 26.224mn for ESIE1 + ESIE3",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Building", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Same as land",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Movable assets used in the leased property", "right": "Freehold", "tenure_years": null, "start_date": "2027-01-01", "expiry_date": null, "renewal_option": null,
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "และซื้อสังหาริมทรัพย์ซึ่งใช้ในการดำเนินกิจการภายในทรัพย์สินที่เช่า จำนวน 10 ยูนิต ใน 6 โครงการ"}}
+      ],
+      "tenure_years": {"value": 30, "unit": "years", "status": "found", "note": "Plus 30-year renewal option.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "lease_start": {"value": "2027-01-01", "status": "found", "note": "Expected investment date (lease start), not yet fixed.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}},
+      "lease_expiry": {"value": "2056-12-31", "status": "derived", "note": "Expected lease start 2027-01-01 + 30 years - 1 day; not stated in the filing.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "land_area": {"value_sqm": 14720.0, "as_filed": "9-0-80 rai (partial lease of deed 64223)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 446, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "9-0-80 | 6,598 | 1"}},
+      "building_area": {
+        "gross_sqm": {"value": 6598, "unit": "sqm", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 446, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "9-0-80 | 6,598 | 1"}},
+        "leasable_sqm": {"value": 6598, "unit": "sqm", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 192, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "(WHA ESIE 3) | 1 | 6,598"}},
+        "rooms": {"value": null, "status": "not_applicable"},
+        "buildings": {"value": 1, "unit": "buildings", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 137, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โรงงานแบบ Detached Building จำนวน 1 หลัง"}}
+      },
+      "completion_or_age": {"value": "Building age about 1.93 years as of 1 Jan 2027; added to the owner's lettable area during 2025.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 17, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "64223 | 9 | - | 80 | 1.93"}},
+      "seller_or_lessor": {"value": "WHA Eastern Seaboard Industrial Estate Co., Ltd. (99.99% WHAID subsidiary); lease rent cap THB 404.8mn for ESIE1 + ESIE3 combined.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 585, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อีสเทิร์นซีบอร์ด อินดัสเตรียลเอสเตท จำกัด"}},
+      "acquisition_price_thb_mn": {"value": 195.7, "unit": "THB mn", "status": "derived", "note": "Per-project price not stated; implied equal to the lower (Sims) appraisal (lessor cap 404.8 = 209.1 + 195.7).",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 303, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "อีสเทิร์นซีบอร์ด 3 | 199,400,000 | 195,700,000"}},
+      "appraisals": [
+        {"appraiser": "Asian Engineering Valuation Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 199.4, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200 THB/sqm/month); 95% long-run occupancy; 3-year income support; market rent growth 2.50% p.a.; PM fee 1.75% then 5.00%; marketing 1.10%; opex 5.00% of rent rising 2% p.a.; capex 1.50% from yr 6.",
+         "note": "Report dated 2026-05-07. Full replacement cost: buildings THB 79.176mn, land THB 12.37mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 303, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "อีสเทิร์นซีบอร์ด 3 | 199,400,000 | 195,700,000"}},
+        {"appraiser": "Sims Property Consultant Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 195.7, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200 THB/sqm/month); 95% long-run occupancy; 3-year income support; stepped market rent growth 0%-2.75%; PM fee 1.75%/5.00%; marketing 1.75%; opex ~4.80%; capex 1.50% from yr 6.",
+         "note": "Lower appraisal. Full replacement cost: buildings THB 94.81mn, land THB 13.27mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 303, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "อีสเทิร์นซีบอร์ด 3 | 199,400,000 | 195,700,000"}}
+      ],
+      "occupancy": [
+        {"as_of": "2026-03-31", "occupancy_pct": 100.0, "basis": "leased building area", "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 192, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "อินดัสเตรียลเอสเตท จำกัด | 100.00 | 1.93"}}
+      ],
+      "historical_performance": [],
+      "lease_structure": {"value": "Direct sub-leases to occupiers under standard ~3-year lease and service agreements; WHAID as property manager.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 18, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "เข้าทำสัญญาเช่าและสัญญาบริการ ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"}},
+      "rental_guarantee": {"value": "Owners' 3-year undertaking: rent on vacant space and top-up to a minimum of THB 200/sqm/month (detached factory); owners bear major capex for 5 years.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 677, "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของเจ้าของทรัพย์สิน (ทุกราย)", "quote": "ที่ไม่มีผู้เช่าเป็นระยะเวลา 3 ปีนับจากวันเริ่มต้นระยะเวลาการเช่าภายใต้สัญญาเช่าทรัพย์สิน"}},
+      "key_tenants": [],
+      "tenant_concentration": {"value": null, "status": "not_found", "note": "Tenant data disclosed only for the six projects combined; not mapped to projects."},
+      "lease_expiry_profile": [],
+      "wale_years": {"value": null, "status": "not_found", "note": "Per-project WALE not disclosed; combined 1.52 years."},
+      "encumbrances": {"value": "Deed 64223 is among the 5 deeds (25-1-44.9 rai) to be mortgaged to the trust as security for the lessor's lease obligations (mortgage amount capped at the average of the two appraisals). Estate roads subject to registered servitude.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 377, "section": "รายละเอียดเพิ่มเติมเกี่ยวกับการใช้สิทธิต่อสัญญาเช่าอีก 30 ปี", "quote": "ที่ดินที่จะจำนอง จำนวน 5 โฉนด มีเนื้อที่ประมาณ 25 ไร่ 1 งาน 44.9 ตารางวา"}},
+      "notes": [
+        "Newest building in the deal; lettable area added to the owner's portfolio in 2025.",
+        "Tenant names, lease expiry profile, WALE and historical revenue are disclosed only for the six projects combined; see analyst_notes."
+      ]
+    },
+    {
+      "asset_id": "WHA_RY36",
+      "name_en": "WHA Rayong 36 Industrial Estate (WHA Rayong 36) - unit J12",
+      "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ระยอง 36",
+      "asset_type": "Factory (detached)",
+      "location": {"address": "Plot J12, WHA Rayong 36 Industrial Estate", "address_th": null, "subdistrict": "Phana Nikhom", "district": "Nikhom Phatthana", "province": "Rayong", "zone": "Eastern Seaboard / EEC",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 597, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "(WHA Rayong 36) ตำบลพนานิคม อำเภอนิคมพัฒนา จังหวัดระยอง"}},
+      "investment_type": {"value": "Leasehold", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 78, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "สิทธิการเช่าที่ดิน และสิทธิการเช่าอาคาร 30 ปีนับจากวันเริ่มต้นระยะเวลาเช่า และสิทธิในการต่อสัญญาอีก 30 ปี"}},
+      "components": [
+        {"component": "Land (whole deed 92749)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Owner's promise to renew 30 years; renewal rent cap THB 9.048mn",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 599, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ค่าเช่าสำหรับระยะเวลาการเช่าที่ต่ออายุทั้งหมดของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หกจะไม่เกิน 9,048,000 บาท"}},
+        {"component": "Building", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Same as land",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Movable assets used in the leased property", "right": "Freehold", "tenure_years": null, "start_date": "2027-01-01", "expiry_date": null, "renewal_option": null,
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "และซื้อสังหาริมทรัพย์ซึ่งใช้ในการดำเนินกิจการภายในทรัพย์สินที่เช่า จำนวน 10 ยูนิต ใน 6 โครงการ"}}
+      ],
+      "tenure_years": {"value": 30, "unit": "years", "status": "found", "note": "Plus 30-year renewal option.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "lease_start": {"value": "2027-01-01", "status": "found", "note": "Expected investment date (lease start), not yet fixed.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}},
+      "lease_expiry": {"value": "2056-12-31", "status": "derived", "note": "Expected lease start 2027-01-01 + 30 years - 1 day; not stated in the filing.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "land_area": {"value_sqm": 8981.6, "as_filed": "5-2-45.4 rai (whole deed 92749)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 453, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "5-2-45.4 | 4,680 | 1"}},
+      "building_area": {
+        "gross_sqm": {"value": 4680, "unit": "sqm", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 453, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "5-2-45.4 | 4,680 | 1"}},
+        "leasable_sqm": {"value": 4680, "unit": "sqm", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 193, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "(WHA Rayong 36) | 1 | 4,680"}},
+        "rooms": {"value": null, "status": "not_applicable"},
+        "buildings": {"value": 1, "unit": "buildings", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 150, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โรงงานแบบ Detached Building จำนวน 1 หลัง"}}
+      },
+      "completion_or_age": {"value": "Building age about 4.51 years as of 1 Jan 2027.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 18, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "92749 | 5 | 2 | 45.4 | 4.51"}},
+      "seller_or_lessor": {"value": "WHA Rayong 36 Co., Ltd. (99.99% held by WHAID directly 70.00% and indirectly 29.99%).", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 595, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ ระยอง 36 จำกัด"}},
+      "acquisition_price_thb_mn": {"value": 139.6, "unit": "THB mn", "status": "found", "note": "Maximum lease rent ('ไม่เกิน') under the lease with the sole lessor of this project; equals the Sims appraisal.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 598, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "จะไม่เกิน 139,600,000 บาท"}},
+      "appraisals": [
+        {"appraiser": "Asian Engineering Valuation Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 142.7, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200 THB/sqm/month); 95% long-run occupancy; 3-year income support; market rent growth 2.50% p.a.; PM fee 1.75% then 5.00%; marketing 1.10%; opex 5.00% of rent rising 2% p.a.; capex 1.50% from yr 6.",
+         "note": "Report dated 2026-05-07. Full replacement cost: buildings THB 56.16mn, land THB 6.71mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 304, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "ระยอง 36 | 142,700,000 | 139,600,000"}},
+        {"appraiser": "Sims Property Consultant Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 139.6, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200 THB/sqm/month); 95% long-run occupancy; 3-year income support; stepped market rent growth 0%-2.75%; PM fee 1.75%/5.00%; marketing 1.75%; opex ~4.80%; capex 1.50% from yr 6.",
+         "note": "Lower appraisal. Full replacement cost: buildings THB 67.95mn, land THB 8.80mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 304, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "ระยอง 36 | 142,700,000 | 139,600,000"}}
+      ],
+      "occupancy": [
+        {"as_of": "2026-03-31", "occupancy_pct": 100.0, "basis": "leased building area", "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 193, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "ดับบลิวเอชเอ ระยอง 36 จำกัด | 100.00 | 4.51"}}
+      ],
+      "historical_performance": [],
+      "lease_structure": {"value": "Direct sub-leases to occupiers under standard ~3-year lease and service agreements; WHAID as property manager.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 18, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "เข้าทำสัญญาเช่าและสัญญาบริการ ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"}},
+      "rental_guarantee": {"value": "Owners' 3-year undertaking: rent on vacant space and top-up to a minimum of THB 200/sqm/month (detached factory); owners bear major capex for 5 years.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 677, "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของเจ้าของทรัพย์สิน (ทุกราย)", "quote": "ที่ไม่มีผู้เช่าเป็นระยะเวลา 3 ปีนับจากวันเริ่มต้นระยะเวลาการเช่าภายใต้สัญญาเช่าทรัพย์สิน"}},
+      "key_tenants": [],
+      "tenant_concentration": {"value": null, "status": "not_found", "note": "Tenant data disclosed only for the six projects combined; not mapped to projects."},
+      "lease_expiry_profile": [],
+      "wale_years": {"value": null, "status": "not_found", "note": "Per-project WALE not disclosed; combined 1.52 years."},
+      "encumbrances": {"value": "Deed 92749 is not mortgaged to the trust as lease-performance security. Estate roads subject to registered servitude.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 384, "section": "รายละเอียดเพิ่มเติมเกี่ยวกับการใช้สิทธิต่อสัญญาเช่าอีก 30 ปี", "quote": "ที่ดินจำนวน 4 โฉนด ไม่อยู่ภายใต้การจำนอง (โฉนดที่ดินเลขที่ 256914, 92749, 43514, และ 90925)"}},
+      "notes": [
+        "Trust already owns a 5,000 sqm factory in the same estate (5th additional investment).",
+        "Tenant names, lease expiry profile, WALE and historical revenue are disclosed only for the six projects combined; see analyst_notes."
+      ]
+    },
+    {
+      "asset_id": "WHA_LP1",
+      "name_en": "WHA Logistics Park 1 (WHA LP 1) - factory A2-2 and warehouse B2/B4",
+      "name_th": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 1",
+      "asset_type": "Factory (1 detached unit) and warehouse (2 units)",
+      "location": {"address": "Plots A2-2 (factory) and B2/B4 (warehouse), WHA Logistics Park 1 (Free Zone)", "address_th": null, "subdistrict": "Khao Khan Song", "district": "Si Racha", "province": "Chonburi", "zone": "Eastern Seaboard / EEC",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 605, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ตำบลเขาคันทรง อำเภอศรีราชา จังหวัดชลบุรี"}},
+      "investment_type": {"value": "Leasehold", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 78, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "สิทธิการเช่าที่ดิน และสิทธิการเช่าอาคาร 30 ปีนับจากวันเริ่มต้นระยะเวลาเช่า และสิทธิในการต่อสัญญาอีก 30 ปี"}},
+      "components": [
+        {"component": "Land (partial leases of deeds 211620 and 211622)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Owner's promise to renew 30 years; renewal rent cap THB 38.896mn for all WHA Industrial Building assets (LP1, CIE1 A8B, SIL)",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 607, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ค่าเช่าสำหรับระยะเวลาการเช่าที่ต่ออายุทั้งหมดของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หกจะไม่เกิน 38,896,000 บาท"}},
+        {"component": "Buildings (1 factory, 1 warehouse building with 2 units)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Same as land",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Movable assets used in the leased property", "right": "Freehold", "tenure_years": null, "start_date": "2027-01-01", "expiry_date": null, "renewal_option": null,
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "และซื้อสังหาริมทรัพย์ซึ่งใช้ในการดำเนินกิจการภายในทรัพย์สินที่เช่า จำนวน 10 ยูนิต ใน 6 โครงการ"}}
+      ],
+      "tenure_years": {"value": 30, "unit": "years", "status": "found", "note": "Plus 30-year renewal option.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "lease_start": {"value": "2027-01-01", "status": "found", "note": "Expected investment date (lease start), not yet fixed.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}},
+      "lease_expiry": {"value": "2056-12-31", "status": "derived", "note": "Expected lease start 2027-01-01 + 30 years - 1 day; not stated in the filing.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "land_area": {"value_sqm": 21240.0, "as_filed": "13-1-10 rai (A2-2 6-0-0 on deed 211620; B2/B4 7-1-10 on deed 211622; partial leases)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 447, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "13-1-10 | 13,668 | 3"}},
+      "building_area": {
+        "gross_sqm": {"value": 13668, "unit": "sqm", "status": "found", "note": "Factory A2-2 4,008 + warehouse B2 4,830 + B4 4,830.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 447, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "13-1-10 | 13,668 | 3"}},
+        "leasable_sqm": {"value": 13668, "unit": "sqm", "status": "derived", "note": "4,008 sqm factory (line 194) + 9,660 sqm warehouse (line 198).",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 198, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 1 (WHA LP 1) | 2 | 9,660"}},
+        "rooms": {"value": null, "status": "not_applicable"},
+        "buildings": {"value": 2, "unit": "buildings (3 units)", "status": "found", "note": "1 detached factory + 1 warehouse building split into 2 units.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 163, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "คลังสินค้า จำนวน 1 หลัง (2 ยูนิต)"}}
+      },
+      "completion_or_age": {"value": "Factory A2-2 about 2.02 years (completed December 2024); warehouse B2/B4 about 12.52 years, as of 1 Jan 2027.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 19, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "211620 | 6 | - | - | 2.02"}},
+      "seller_or_lessor": {"value": "WHA Industrial Building Co., Ltd. (99.99% WHAID subsidiary); combined lease rent + movables cap THB 599.9mn covering LP1, CIE1 unit A8B and SIL.", "status": "ambiguous", "note": "Lease summary names WHA Industrial Building as lessor of the LP1 warehouse, but the leasing table (line 198) lists WHA Eastern Seaboard Industrial Estate Co., Ltd. as owner of the LP1 warehouse.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 603, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อินดัสเตรียล บิวดิ้ง จำกัด"}},
+      "acquisition_price_thb_mn": {"value": 334.8, "unit": "THB mn", "status": "derived", "note": "Per-project price not stated; implied equal to the lower (Sims) appraisal. WHA Industrial Building cap 599.9 = LP1 334.8 + SIL 232.7 + CIE1 A8B share 32.4 (derived).",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 306, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 1 | 342,500,000 | 334,800,000"}},
+      "appraisals": [
+        {"appraiser": "Asian Engineering Valuation Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 342.5, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200, warehouse 150 THB/sqm/month); 95% long-run occupancy; 3-year income support; market rent growth 2.50% p.a.; PM fee 1.75% then 5.00%; marketing 1.10%; opex 5.00% of rent rising 2% p.a.; capex 1.50% from yr 6.",
+         "note": "Report dated 2026-05-07. Full replacement cost: buildings THB 168.846mn, land THB 17.59mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 306, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 1 | 342,500,000 | 334,800,000"}},
+        {"appraiser": "Sims Property Consultant Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 334.8, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (detached 200, warehouse 150 THB/sqm/month); 95% long-run occupancy; 3-year income support; stepped market rent growth 0%-2.75%; PM fee 1.75%/5.00%; marketing 1.75%; opex ~4.80%; capex 1.50% from yr 6.",
+         "note": "Lower appraisal. Full replacement cost: buildings THB 192.80mn, land THB 20.09mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 306, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 1 | 342,500,000 | 334,800,000"}}
+      ],
+      "occupancy": [
+        {"as_of": "2026-03-31", "occupancy_pct": 100.0, "basis": "leased building area (factory and warehouse each 100%)", "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 198, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "ซีบอร์ด อินดัสเตรียลเอสเตท จำกัด | 100.00 | 12.52"}}
+      ],
+      "historical_performance": [],
+      "lease_structure": {"value": "Direct sub-leases to occupiers under standard ~3-year lease and service agreements; WHAID as property manager.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 18, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "เข้าทำสัญญาเช่าและสัญญาบริการ ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"}},
+      "rental_guarantee": {"value": "Owners' 3-year undertaking: rent on vacant space and top-up to a minimum of THB 200/sqm/month (detached factory) and THB 145/sqm/month (warehouse); owners bear major capex for 5 years.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 677, "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของเจ้าของทรัพย์สิน (ทุกราย)", "quote": "ที่ไม่มีผู้เช่าเป็นระยะเวลา 3 ปีนับจากวันเริ่มต้นระยะเวลาการเช่าภายใต้สัญญาเช่าทรัพย์สิน"}},
+      "key_tenants": [],
+      "tenant_concentration": {"value": null, "status": "not_found", "note": "Tenant data disclosed only for the six projects combined; not mapped to projects."},
+      "lease_expiry_profile": [],
+      "wale_years": {"value": null, "status": "not_found", "note": "Per-project WALE not disclosed; combined 1.52 years."},
+      "encumbrances": {"value": "Project access: an encumbrance over the owner's land will be registered in favour of the trust as the access route. Deeds 211620/211622 are not in the list of unmortgaged deeds, i.e. among those to be mortgaged to the trust as lease-performance security.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 164, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "จะมีการจดทะเบียนภาระติดพันในอสังหาริมทรัพย์ให้แก่กองทรัสต์เพื่อเป็นทางเข้าออกโครงการ"}},
+      "notes": [
+        "Largest project in the deal by value (27% of the Sims total); in a Free Zone; trust already owns 5 units in WHA LP 1.",
+        "Factory A2-2 was completed in December 2024, which lowered the combined 6th-round occupancy at end-2024.",
+        "Tenant names, lease expiry profile, WALE and historical revenue are disclosed only for the six projects combined; see analyst_notes."
+      ]
+    },
+    {
+      "asset_id": "WHA_SIL",
+      "name_en": "WHA Saraburi Industrial Land (WHA SIL) - units 142/1 and 142/3",
+      "name_th": "เขตประกอบการอุตสาหกรรมดับบลิวเอชเอ สระบุรี",
+      "asset_type": "Factory (2 attached units)",
+      "location": {"address": "Plots 142/1 and 142/3, WHA Saraburi Industrial Land (industrial zone, Building Control Act)", "address_th": null, "subdistrict": "Nong Pla Mo", "district": "Nong Khae", "province": "Saraburi", "zone": "Saraburi / upper-central industrial corridor (outside EEC)",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 605, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "(WHA SIL) ตำบลหนองปลาหมอ อำเภอหนองแค จังหวัดสระบุรี"}},
+      "investment_type": {"value": "Leasehold", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 78, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "สิทธิการเช่าที่ดิน และสิทธิการเช่าอาคาร 30 ปีนับจากวันเริ่มต้นระยะเวลาเช่า และสิทธิในการต่อสัญญาอีก 30 ปี"}},
+      "components": [
+        {"component": "Land (partial leases of deeds 47032 and 55382)", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Owner's promise to renew 30 years; renewal rent within WHA Industrial Building cap of THB 38.896mn",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Buildings", "right": "Leasehold", "tenure_years": 30, "start_date": "2027-01-01", "expiry_date": "2056-12-31", "renewal_option": "Same as land",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+        {"component": "Movable assets used in the leased property", "right": "Freehold", "tenure_years": null, "start_date": "2027-01-01", "expiry_date": null, "renewal_option": null,
+         "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "และซื้อสังหาริมทรัพย์ซึ่งใช้ในการดำเนินกิจการภายในทรัพย์สินที่เช่า จำนวน 10 ยูนิต ใน 6 โครงการ"}}
+      ],
+      "tenure_years": {"value": 30, "unit": "years", "status": "found", "note": "Plus 30-year renewal option.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "lease_start": {"value": "2027-01-01", "status": "found", "note": "Expected investment date (lease start), not yet fixed.",
+        "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 21, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "คำนวณจากมูลค่ายุติธรรมของทรัพย์สินโดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 มกราคม 2570)"}},
+      "lease_expiry": {"value": "2056-12-31", "status": "derived", "note": "Expected lease start 2027-01-01 + 30 years - 1 day; not stated in the filing.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 559, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน", "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี นับตั้งแต่วันเริ่มต้นระยะเวลาการเช่า"}},
+      "land_area": {"value_sqm": 9904.0, "as_filed": "6-0-76 rai (142/1 3-0-58.5 + 142/3 3-0-17.5; lease schedule: deed 47032 5-3-90.0 + deed 55382 0-0-86.0)", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 451, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "6-0-76 | 9,212 | 2"}},
+      "building_area": {
+        "gross_sqm": {"value": 9212, "unit": "sqm", "status": "found", "note": "142/1 4,608 + 142/3 4,604.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 451, "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์", "quote": "6-0-76 | 9,212 | 2"}},
+        "leasable_sqm": {"value": 9212, "unit": "sqm", "status": "found",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 195, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "เขตประกอบการอุตสาหกรรมดับบลิวเอชเอ สระบุรี (WHA SIL) | 2 | 9,212"}},
+        "rooms": {"value": null, "status": "not_applicable"},
+        "buildings": {"value": 2, "unit": "units", "status": "ambiguous", "note": "Location table says 2 attached-factory buildings; asset table (line 30) describes 1 building with 2 units; lease schedule shows 1 building with 2 units.",
+          "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 176, "section": "ตำแหน่งที่ตั้ง ภาพถ่ายและแผนผังของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โรงงานแบบ Attached Building จำนวน 2 หลัง"}}
+      },
+      "completion_or_age": {"value": "Building age about 13.43 years as of 1 Jan 2027 (oldest in the deal).", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 30, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "55382 | 3 | - | 58.5 | 13.43"}},
+      "seller_or_lessor": {"value": "WHA Industrial Building Co., Ltd. (99.99% WHAID subsidiary); project developer is WHA Saraburi Industrial Land Co., Ltd.; combined cap THB 599.9mn with LP1 and CIE1 A8B.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 603, "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สินในส่วนที่แตกต่างกัน", "quote": "ผู้ให้เช่า | บริษัท ดับบลิวเอชเอ อินดัสเตรียล บิวดิ้ง จำกัด"}},
+      "acquisition_price_thb_mn": {"value": 232.7, "unit": "THB mn", "status": "derived", "note": "Per-project price not stated; implied equal to the lower (Sims) appraisal.",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 305, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "เขตประกอบการอุตสาหกรรมดับบลิวเอชเอ สระบุรี | 237,500,000 | 232,700,000"}},
+      "appraisals": [
+        {"appraiser": "Asian Engineering Valuation Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 237.5, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (attached SIL 170 THB/sqm/month); 95% long-run occupancy; 3-year income support at 171; market rent growth 2.50% p.a.; PM fee 1.75% then 5.00%; marketing 1.10%; opex 5.00% of rent rising 2% p.a.; capex 1.50% from yr 6.",
+         "note": "Report dated 2026-05-07. Full replacement cost: buildings THB 124.362mn, land THB 8.64mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 305, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "เขตประกอบการอุตสาหกรรมดับบลิวเอชเอ สระบุรี | 237,500,000 | 232,700,000"}},
+        {"appraiser": "Sims Property Consultant Co., Ltd.", "valuation_date": "2027-01-01", "method": "Income approach (DCF)", "value_thb_mn": 232.7, "discount_rate_pct": 9.0, "terminal_cap_rate_pct": null,
+         "key_assumptions": "Contract rents then market rent (attached SIL 170 THB/sqm/month); 95% long-run occupancy; 3-year income support at 171; stepped market rent growth 0%-2.75%; PM fee 1.75%/5.00%; marketing 1.75%; opex ~4.80%; capex 1.50% from yr 6.",
+         "note": "Lower appraisal. Full replacement cost: buildings THB 123.31mn, land THB 8.47mn.",
+         "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 305, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "เขตประกอบการอุตสาหกรรมดับบลิวเอชเอ สระบุรี | 237,500,000 | 232,700,000"}}
+      ],
+      "occupancy": [
+        {"as_of": "2026-03-31", "occupancy_pct": 100.0, "basis": "leased building area", "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 195, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "บิวดิ้ง จำกัด | 100.00 | 13.43"}}
+      ],
+      "historical_performance": [],
+      "lease_structure": {"value": "Direct sub-leases to occupiers under standard ~3-year lease and service agreements; WHAID as property manager.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 18, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "เข้าทำสัญญาเช่าและสัญญาบริการ ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"}},
+      "rental_guarantee": {"value": "Owners' 3-year undertaking: rent on vacant space and top-up to a minimum of THB 171/sqm/month (attached factory); owners bear major capex for 5 years.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 677, "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของเจ้าของทรัพย์สิน (ทุกราย)", "quote": "ที่ไม่มีผู้เช่าเป็นระยะเวลา 3 ปีนับจากวันเริ่มต้นระยะเวลาการเช่าภายใต้สัญญาเช่าทรัพย์สิน"}},
+      "key_tenants": [],
+      "tenant_concentration": {"value": null, "status": "not_found", "note": "Tenant data disclosed only for the six projects combined; not mapped to projects."},
+      "lease_expiry_profile": [],
+      "wale_years": {"value": null, "status": "not_found", "note": "Per-project WALE not disclosed; combined 1.52 years."},
+      "encumbrances": {"value": "Deeds 47032/55382 are not in the list of unmortgaged deeds, i.e. among the 5 deeds to be mortgaged to the trust as lease-performance security. Estate roads subject to registered servitude.", "status": "found",
+        "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 377, "section": "รายละเอียดเพิ่มเติมเกี่ยวกับการใช้สิทธิต่อสัญญาเช่าอีก 30 ปี", "quote": "ที่ดินที่จะจำนอง จำนวน 5 โฉนด มีเนื้อที่ประมาณ 25 ไร่ 1 งาน 44.9 ตารางวา"}},
+      "notes": [
+        "Only 6th-round project outside the Eastern Seaboard; market rent assumption (170) is below the income-support floor (171).",
+        "Trust already owns 18 units in WHA SIL.",
+        "Tenant names, lease expiry profile, WALE and historical revenue are disclosed only for the six projects combined; see analyst_notes."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 6, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"}
+    },
+    "listing_date": {
+      "value": "2016-11-28", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-02-Policy.md", "line": 10, "section": "วัตถุประสงค์ของกองทรัสต์", "quote": "โดยเริ่มซื้อขายในตลาดหลักทรัพย์เมื่อวันที่ 28 พฤศจิกายน 2559"}
+    },
+    "number_of_assets": {
+      "value": 10, "unit": "projects", "status": "derived", "note": "Count of projects listed in the existing-asset description and latest appraisal table (170 units, 468,990 sqm building area, 179,648 sqm roof area).",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 7, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "คิดเป็นจำนวนรวมทั้งสิ้น 170 ยูนิต มีพื้นที่อาคารรวมทั้งสิ้นประมาณ 468,990 ตารางเมตร และมีอายุอาคารเฉลี่ยประมาณ 12.91 ปี"}
+    },
+    "total_asset_value_thb_mn": {
+      "value": 13883.12, "unit": "THB mn", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 19, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "รวมสินทรัพย์ | 13,109,323,458 | 14,040,760,576 | 13,898,969,746 | 13,883,117,227"}
+    },
+    "investment_value_thb_mn": {
+      "value": 13200.12, "unit": "THB mn", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 12, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "เงินลงทุนตามมูลค่ายุติธรรม | 12,664,422,129 | 13,484,133,440 | 13,209,942,910 | 13,200,120,773"}
+    },
+    "nav_thb_mn": {
+      "value": 8791.77, "unit": "THB mn", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 27, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "สินทรัพย์สุทธิ | 8,475,170,608 | 8,867,906,203 | 8,799,057,146 | 8,791,768,825"}
+    },
+    "nav_per_unit_thb": {
+      "value": 8.3034, "unit": "THB", "as_of": "2026-03-31", "status": "found",
+      "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 32, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "สินทรัพย์สุทธิต่อหน่วย (บาท) | 8.9248 | 8.3753 | 8.3103 | 8.3034"}
+    },
+    "market_price_per_unit_thb": {
+      "value": 6.9, "unit": "THB", "as_of": "2026-03-31", "status": "found", "note": "May 2026 average price THB 7.53; 15-day VWAP to 11 May 2026 THB 7.48.",
+      "source": {"file": "WHAIR_PO_20260621_P2-08-Unitholders.md", "line": 9, "section": null, "quote": "ราคาปิดของหน่วยทรัสต์ ณ วันที่ 31 มีนาคม 2569 เท่ากับ 6.90 บาทต่อหน่วย"}
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 13222.125, "unit": "THB mn", "as_of": "2025-12-31", "status": "found", "note": "Sum of latest appraisal/review values by Sims Property Consultant as of 31 Dec 2025 (income approach).",
+      "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 411, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "421-1-1.50 | 468,990 | 170 | 179,648 | 13,222,125,000"}
+    },
+    "historical_dpu": [
+      {"period": "Inception-FY2019", "dpu_thb": 1.2279, "component": "dividend", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ตั้งแต่จัดตั้งจนถึงปี 2562 / 1.2279 / 1.1428 / 2.3707"}},
+      {"period": "Inception-FY2019", "dpu_thb": 1.1428, "component": "capital reduction", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ตั้งแต่จัดตั้งจนถึงปี 2562 / 1.2279 / 1.1428 / 2.3707"}},
+      {"period": "Inception-FY2019", "dpu_thb": 2.3707, "component": "total", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ตั้งแต่จัดตั้งจนถึงปี 2562 / 1.2279 / 1.1428 / 2.3707"}},
+      {"period": "FY2020", "dpu_thb": 0.6863, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ปี 2563 / 0.6863 / - / 0.6863"}},
+      {"period": "FY2021", "dpu_thb": 0.6952, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ปี 2564 / 0.6952 / - / 0.6952"}},
+      {"period": "FY2022", "dpu_thb": 0.6224, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ปี 2565 / 0.6224 / - / 0.6224"}},
+      {"period": "FY2023", "dpu_thb": 0.5476, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ปี 2566 / 0.5476 / - / 0.5476"}},
+      {"period": "FY2024", "dpu_thb": 0.5555, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ปี 2567 / 0.5555 / - / 0.5555"}},
+      {"period": "FY2025", "dpu_thb": 0.573, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ปี 2568 / 0.5730 / - / 0.5730"}},
+      {"period": "1Q2026", "dpu_thb": 0.1434, "component": "total (dividend only)", "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 50, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ไตรมาส 1 ปี 2569 / 0.1434 / - / 0.1434"}}
+    ],
+    "historical_performance": [
+      {"period": "FY2023", "total_revenue_thb_mn": 871.93, "rental_and_service_revenue_thb_mn": 833.75, "net_investment_income_thb_mn": 561.1, "net_increase_in_net_assets_thb_mn": 406.22, "occupancy_pct": 92.95, "other_metrics": "Occupancy before income-support 92.95% / after 94.42%; income-support revenue 30.12; finance cost 181.54; FV loss (154.88); units 949.62mn; DPU 0.5476",
+       "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 43, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "รวมรายได้ | 871,930,845 | 913,308,313 | 1,016,698,740 | 249,612,022"}},
+      {"period": "FY2024", "total_revenue_thb_mn": 913.31, "rental_and_service_revenue_thb_mn": 876.77, "net_investment_income_thb_mn": 582.66, "net_increase_in_net_assets_thb_mn": 316.44, "occupancy_pct": 95.13, "other_metrics": "Occupancy before income-support 95.13% / after 97.29%; income-support revenue 27.72; finance cost 190.47; FV loss (266.21); 5th investment 4 Dec 2024; units 1,058.81mn; DPU 0.5555",
+       "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 43, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "รวมรายได้ | 871,930,845 | 913,308,313 | 1,016,698,740 | 249,612,022"}},
+      {"period": "FY2025", "total_revenue_thb_mn": 1016.7, "rental_and_service_revenue_thb_mn": 989.56, "net_investment_income_thb_mn": 687.84, "net_increase_in_net_assets_thb_mn": 413.65, "occupancy_pct": 94.46, "other_metrics": "Occupancy before and after income-support 94.46%; income-support revenue 18.62; finance cost 178.27; FV loss (274.19); DPU 0.5730",
+       "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 43, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "รวมรายได้ | 871,930,845 | 913,308,313 | 1,016,698,740 | 249,612,022"}},
+      {"period": "1Q2026", "total_revenue_thb_mn": 249.61, "rental_and_service_revenue_thb_mn": 247.46, "net_investment_income_thb_mn": 188.35, "net_increase_in_net_assets_thb_mn": 178.53, "occupancy_pct": 94.44, "other_metrics": "Occupancy before and after income-support 94.44% (31 Mar 2026); income-support revenue 0.07; finance cost 28.36; FV loss (9.82); DPU 0.1434",
+       "source": {"file": "WHAIR_PO_20260621_P2-12-Financials.md", "line": 43, "section": "ข้อมูลทางการเงินที่สำคัญ", "quote": "รวมรายได้ | 871,930,845 | 913,308,313 | 1,016,698,740 | 249,612,022"}}
+    ],
+    "portfolio_occupancy": [
+      {"as_of": "2023-12-31", "occupancy_pct": 92.95, "basis": "leased building area, before income-support payments", "source": {"file": "WHAIR_PO_20260621_P2-13-MDA.md", "line": 17, "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา", "quote": "ในพื้นที่ว่างตามสัญญาตกลงกระทำการ (ร้อยละ) | 92.95 | 95.13 | 94.46 | 94.44"}},
+      {"as_of": "2024-12-31", "occupancy_pct": 95.13, "basis": "leased building area, before income-support payments", "source": {"file": "WHAIR_PO_20260621_P2-13-MDA.md", "line": 17, "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา", "quote": "ในพื้นที่ว่างตามสัญญาตกลงกระทำการ (ร้อยละ) | 92.95 | 95.13 | 94.46 | 94.44"}},
+      {"as_of": "2025-12-31", "occupancy_pct": 94.46, "basis": "leased building area, before income-support payments", "source": {"file": "WHAIR_PO_20260621_P2-13-MDA.md", "line": 17, "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา", "quote": "ในพื้นที่ว่างตามสัญญาตกลงกระทำการ (ร้อยละ) | 92.95 | 95.13 | 94.46 | 94.44"}},
+      {"as_of": "2026-03-31", "occupancy_pct": 94.44, "basis": "leased building area, before income-support payments", "source": {"file": "WHAIR_PO_20260621_P2-13-MDA.md", "line": 17, "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา", "quote": "ในพื้นที่ว่างตามสัญญาตกลงกระทำการ (ร้อยละ) | 92.95 | 95.13 | 94.46 | 94.44"}}
+    ],
+    "assets": [
+      {"asset_id": "EX_WHA_CIE1", "name_en": "WHA Chonburi Industrial Estate 1 (WHA CIE 1)", "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1", "asset_type": "Factory (25 units)", "location": "Bo Win, Si Racha", "province": "Chonburi", "investment_type": "Leasehold",
+       "lease_expiry": "2046-11-22 to 2052-12-26 depending on round, each with 30-year renewal option", "acquired": "IPO 2016; 1st (2018), 3rd (2020), 4th (2022) additional investments", "land_area_sqm": 41705.08, "leasable_area_sqm": 24576, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 718.5, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "8 title deeds, 26-0-26.27 rai; roof area 9,072 sqm. Round attribution from the per-round asset tables.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 401, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "26-0-26.27 | 24,576 | 25 | 9,072 | 718,500,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 9, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA CIE 1) ตั้งอยู่ ณ ตำบลบ่อวิน อำเภอศรีราชา จังหวัดชลบุรี"}]},
+      {"asset_id": "EX_ESIE", "name_en": "Eastern Seaboard Industrial Estate (Rayong) (ESIE)", "name_th": "โครงการนิคมอุตสาหกรรมอีสเทิร์นซีบอร์ดระยอง", "asset_type": "Factory (45 units)", "location": "Ta Sit, Pluak Daeng", "province": "Rayong", "investment_type": "Leasehold",
+       "lease_expiry": "2046-11-22 to 2052-12-26 depending on round, each with 30-year renewal option", "acquired": "IPO 2016; 1st (2018), 4th (2022) additional investments", "land_area_sqm": 89929.6, "leasable_area_sqm": 68472, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 2029.3, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "8 title deeds, 56-0-82.40 rai; roof area 30,082 sqm; owners include Eastern Seaboard Industrial Estate (Rayong) Co., Ltd. (60% WHAID) and WHA Industrial Building Co., Ltd.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 402, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "56-0-82.40 | 68,472 | 45 | 30,082 | 2,029,300,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 10, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(ESIE) ตั้งอยู่ ณ ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง"}]},
+      {"asset_id": "EX_WHA_ESIE1", "name_en": "WHA Eastern Seaboard Industrial Estate 1 (WHA ESIE 1)", "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด 1", "asset_type": "Factory (45 units)", "location": "Ta Sit, Pluak Daeng (Rayong) and Khao Khan Song, Si Racha (Chonburi)", "province": "Rayong / Chonburi", "investment_type": "Leasehold",
+       "lease_expiry": "2046-11-22 to 2054-12-03 depending on round, each with 30-year renewal option", "acquired": "IPO 2016; 1st (2018), 3rd (2020), 4th (2022) and 5th (2024) additional investments", "land_area_sqm": 309092.24, "leasable_area_sqm": 169412, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 5188.525, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "Largest project (about 39% of existing appraisal value); 35 title deeds, 193-0-73.06 rai; roof area 68,419 sqm. 5th-round attribution based on truncated project names in the 5th-round table.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 403, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "193-0-73.06 | 169,412 | 45 | 68,419 | 5,188,525,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 11, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA ESIE 1) ตั้งอยู่ ณ ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง และตำบลเขาคันทรง อำเภอศรีราชา จังหวัดชลบุรี"}]},
+      {"asset_id": "EX_WHA_LP1", "name_en": "WHA Logistics Park 1 (WHA LP 1)", "name_th": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 1", "asset_type": "Warehouse (4 units) and factory (1 unit)", "location": "Khao Khan Song, Si Racha", "province": "Chonburi", "investment_type": "Leasehold",
+       "lease_expiry": "2046-11-22 to 2054-12-03 depending on round, each with 30-year renewal option", "acquired": "IPO 2016; 4th (2022) and 5th (2024) additional investments", "land_area_sqm": 37388.0, "leasable_area_sqm": 37924, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 968.45, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "3 title deeds, 23-1-47 rai; roof area 9,936 sqm. 6th round adds 3 more units here.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 406, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "23-1-47 | 37,924 | 5 | 9,936 | 968,450,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 12, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA LP 1) ตั้งอยู่ ณ ตำบลเขาคันทรง อำเภอศรีราชา จังหวัดชลบุรี"}]},
+      {"asset_id": "EX_WHA_LP2", "name_en": "WHA Logistics Park 2 (WHA LP 2)", "name_th": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 2", "asset_type": "Factory (15 units, per asset description)", "location": "Khao Khan Song, Si Racha", "province": "Chonburi", "investment_type": "Leasehold",
+       "lease_expiry": "2046-11-22 to 2052-12-26 depending on round, each with 30-year renewal option", "acquired": "IPO 2016; 3rd (2020) and 4th (2022) additional investments", "land_area_sqm": 80717.08, "leasable_area_sqm": 68743, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 1730.45, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "3 title deeds, 50-1-79.27 rai; roof area 28,440 sqm. Asset description calls the buildings factories while the leasing structure chart lists LP2 under warehouses.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 407, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "50-1-79.27 | 68,743 | 15 | 28,440 | 1,730,450,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 13, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA LP 2) ตั้งอยู่ ณ ตำบลเขาคันทรง อำเภอศรีราชา จังหวัดชลบุรี"}]},
+      {"asset_id": "EX_WHA_LP3", "name_en": "WHA Logistics Park 3 (WHA LP 3)", "name_th": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 3", "asset_type": "Warehouse (2 units)", "location": "Ta Sit, Pluak Daeng", "province": "Rayong", "investment_type": "Leasehold",
+       "lease_expiry": "2054-12-03, with 30-year renewal option", "acquired": "5th additional investment (2024-12-04)", "land_area_sqm": 7968.0, "leasable_area_sqm": 8088, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 209.55, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "1 title deed, 4-3-92 rai. 5th-round income support runs to 2027-12-03.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 408, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "4-3-92.0 | 8,088 | 2 | - | 209,550,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 14, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA LP 3) ตั้งอยู่ ณ ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง"}]},
+      {"asset_id": "EX_WHA_LP4", "name_en": "WHA Logistics Park 4 (WHA LP 4)", "name_th": "โครงการดับบลิวเอชเอ โลจิสติกส์พาร์ค 4", "asset_type": "Factory (13 units, per asset description)", "location": "Pluak Daeng, Pluak Daeng", "province": "Rayong", "investment_type": "Leasehold",
+       "lease_expiry": "2046-11-22 to 2052-12-26 depending on round, each with 30-year renewal option", "acquired": "IPO 2016; 1st (2018), 3rd (2020) and 4th (2022) additional investments", "land_area_sqm": 46424.0, "leasable_area_sqm": 47909, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 1210.825, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "4 title deeds, 29-0-6 rai; roof area 18,838 sqm. Leasing structure chart lists LP4 under warehouses.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 409, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "29-0-6.00 | 47,909 | 13 | 18,838 | 1,210,825,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 15, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA LP 4) ตั้งอยู่ ณ ตำบลปลวกแดง อำเภอ"}]},
+      {"asset_id": "EX_WHA_SIL", "name_en": "WHA Saraburi Industrial Land (WHA SIL)", "name_th": "โครงการเขตประกอบการอุตสาหกรรมดับบลิวเอชเอ สระบุรี", "asset_type": "Factory (18 units)", "location": "Nong Pla Mo, Nong Khae", "province": "Saraburi", "investment_type": "Leasehold",
+       "lease_expiry": "2048-01-03 to 2050-12-13 depending on round, each with 30-year renewal option", "acquired": "1st (2018-01-04), 2nd (2018-12-24) and 3rd (2020) additional investments", "land_area_sqm": 51264.0, "leasable_area_sqm": 37714, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 981.1, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "7 title deeds, 32-0-16 rai; roof area 14,861 sqm; 2nd-round roof rent guaranteed by owner/WHA to 2033-12-23.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 405, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "32-0-16.00 | 37,714 | 18 | 14,861 | 981,100,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 17, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA SIL) ตั้งอยู่ ณ ตำบลหนองปลาหมอ อำเภอหนองแค จังหวัดสระบุรี"}]},
+      {"asset_id": "EX_HITECH_KABIN", "name_en": "Hi-Tech Kabin Industrial Estate", "name_th": "โครงการนิคมอุตสาหกรรมไฮเทค กบินทร์", "asset_type": "Factory (1 unit)", "location": "Lat Takhian, Kabin Buri", "province": "Prachinburi", "investment_type": "Leasehold",
+       "lease_expiry": "2052-12-26, with 30-year renewal option", "acquired": "4th additional investment (2022-12-27)", "land_area_sqm": 1026.0, "leasable_area_sqm": 1152, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 27.05, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "1 title deed, 0-2-56.5 rai; smallest asset.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 410, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "0-2-56.50 | 1,152 | 1 | - | 27,050,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 18, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(Hi-Tech Kabin) ตั้งอยู่ ณ ตำบล ลาดตะเคียน อำเภอ กบินทร์บุรี จังหวัด ปราจีนบุรี"}]},
+      {"asset_id": "EX_WHA_RY36", "name_en": "WHA Rayong 36 Industrial Estate (WHA Rayong 36)", "name_th": "โครงการนิคมอุตสาหกรรมดับบลิวเอชเอ ระยอง 36", "asset_type": "Factory (1 unit)", "location": "Phana Nikhom, Nikhom Phatthana", "province": "Rayong", "investment_type": "Leasehold",
+       "lease_expiry": "2054-12-03, with 30-year renewal option", "acquired": "5th additional investment (2024-12-04)", "land_area_sqm": 8492.0, "leasable_area_sqm": 5000, "rooms": null, "acquisition_price_thb_mn": null,
+       "latest_appraisal_thb_mn": 158.375, "appraisal_date": "2025-12-31", "appraiser": "Sims Property Consultant Co., Ltd.", "occupancy_pct": null, "occupancy_as_of": null, "key_tenants": null,
+       "notes": "1 title deed, 5-1-23 rai. 6th round adds unit J12 (4,680 sqm) in the same estate.",
+       "source": {"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 404, "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด", "quote": "5-1-23 | 5,000 | 1 | - | 158,375,000"},
+       "extra_sources": [{"file": "WHAIR_PO_20260621_P2-03-ExistingAssets.md", "line": 20, "section": "ทรัพย์สินหลักที่ลงทุนในปัจจุบัน", "quote": "(WHA Rayong 36) ตั้งอยู่ ณ ตำบลพนานิคม อำเภอนิคมพัฒนา จังหวัดระยอง"}]}
+    ],
+    "notes": [
+      "Acquisition prices are disclosed per investment round only: IPO 2016-11-23 THB 7,974.99mn; 1st 2018-01-04 THB 1,589.85mn; 2nd 2018-12-24 THB 477.0mn; 3rd 2020-12-14 THB 1,337.7mn; 4th 2022-12-27 THB 1,345.89mn; 5th 2024-12-04 THB 1,064.745mn. Project-to-round mapping inferred from which round's asset table lists each project.",
+      "All leases are 30 years from each round's start with the owners' promise to renew 30 years; renewal rents incl. registration: IPO 505.50, 1st 101.10, 2nd 30.33, 3rd 79.75, 4th 80.88, 5th 68.75 THB mn.",
+      "Income support has ended for IPO-4th rounds; for 5th-round assets it ends 2027-12-03 (ExistingAssets and Risks) but the Fact Sheet shows 2027-12-26 and the projection assumptions 2027-12-01.",
+      "Existing tenant mix by revenue (MD&A): automotive 30.89%, consumer 23.39%, logistics 16.30%, electronics 12.25%, packaging 4.40%; by nationality China 34.91%, Europe 23.62%, Japan 10.06%, USA 8.09%, Australia 4.16%. Top-10 tenants 42.57% of existing revenue.",
+      "Fair-value weighted remaining leasehold term (WALE of leasehold) 51.82 years before and 52.52 years after the deal; TRIS rating BBB+ (Stable) affirmed 2025-08-29.",
+      "Per-project occupancy, tenants and acquisition prices of existing assets are not disclosed in the text filings."
+    ]
+  },
+  "risks": [
+    {"title": "Short tenant leases and heavy 2027-2028 expiries", "category": "Tenant/concentration", "asset_specific": true,
+     "summary": "Occupier leases are mostly about 3 years. For the six new projects, 28.05% of projected revenue expires in 2027 and 56.23% in 2028 (combined WALE 1.52 years); trust-wide 34.71% expires in 2027 and 44.10% in 2028. Non-renewal or lower renewal rents would cut income once income support ends.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 60, "section": "รายได้ของกองทรัสต์ขึ้นอยู่กับฐานะการเงินของผู้เช่าพื้นที่ และการตัดสินใจต่ออายุสัญญาเช่าและสัญญาบริการ เมื่อสัญญาเช่าและสัญญาบริการของผู้เช่าพื้นที่สิ้นสุดลง", "quote": "สัญญาเช่าพื้นที่ที่จะครบกำหนดระยะเวลาการเช่าภายในปี 2570 คิดเป็นสัดส่วนประมาณการรายได้ประมาณร้อยละ 34.71"}},
+    {"title": "High tenant concentration in the new assets", "category": "Tenant/concentration", "asset_specific": true,
+     "summary": "Only eight tenants are listed for the 10 new units; the top five generate 79.62% of projected new-asset revenue, the largest (Terahop, China, technology) 19.13%. One tenant with 2.54% of new-asset area has an early-termination right. Trust-wide the largest tenant is 9.87% of revenue.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 238, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "บริษัท เทราฮอป (ไทยแลนด์) จำกัด | 19.13 | 3 | 2571 | จีน | เทคโนโลยี"}},
+    {"title": "Reliance on 3-year income support from related-party owners", "category": "Sponsor/related-party", "asset_specific": true,
+     "summary": "Rent on vacant space and top-ups to THB 200/171/145 per sqm per month last only 3 years from the lease start. After that, vacancies and below-floor renewals hit income directly. The top-up mechanism can also encourage the WHAID-controlled property manager to sign lower rents, pressuring future rental levels.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 109, "section": "ความเสี่ยงจากการชดเชยค่าเช่าส่วนขาดจากอัตราค่าเช่าขั้นต่ำตามสัญญาตกลงกระทำการ", "quote": "อาจทำให้ผู้บริหารอสังหาริมทรัพย์มีการจัดหาผู้เช่ารายใหม่หรือการต่ออายุสัญญาเช่ากับผู้เช่ารายเดิมด้วยอัตราค่าเช่าที่ต่ำลง"}},
+    {"title": "Funding and enforcing the 30-year renewal", "category": "Leasehold/tenure", "asset_specific": true,
+     "summary": "Renewal needs about THB 80.88mn (incl. registration) paid in lease year 30 and depends on the lessors honouring their promise. Only 5 of 10 title deeds will be mortgaged to the trust as security; deeds for CIE1 Z21, ESIE1 D42B and Rayong 36 J12 are not mortgaged.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 40, "section": "ความเสี่ยงจากการจัดหาเงินค่าเช่าสำหรับระยะเวลาการเช่าที่ต่ออายุไปอีก 30 ปี การอาจไม่ได้รับการต่อสัญญาเช่าทรัพย์สินออกไปอีก 30 ปี และการไม่มีการใช้สิทธิต่ออายุสัญญาเช่าทรัพย์สินออกไปอีก 30 ปี", "quote": "ทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก | 80.88 ล้านบาท"}},
+    {"title": "Lessor's expandable area at WHA ESIE 1", "category": "Asset/property", "asset_specific": true,
+     "summary": "At unit D42B the lessor keeps 2-0-9 rai of adjoining land and may build an extension, with access through the leased plot during and after construction. Works could disrupt occupiers, and the trust earns nothing from the extension unless it separately agrees to invest in it.",
+     "applies_to": ["WHA_ESIE1"],
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 69, "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หก", "quote": "โดยพื้นที่ส่วนขยายเพิ่มเติมมีพื้นที่ดินทั้งหมด 2 ไร่ 0 งาน 9.00 ตารางวา"}},
+    {"title": "Related-party sellers and conflicts of interest", "category": "Sponsor/related-party", "asset_specific": true,
+     "summary": "All four lessors, the property manager, the undertaking providers and the REIT manager's parent belong to the WHAID group. WHAID also owns competing ready-built space in the same estates and manages HPF, creating conflicts in tenant allocation, rent setting and future asset selection.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 51, "section": "ความเสี่ยงจากความขัดแย้งทางผลประโยชน์ที่อาจเกิดขึ้น", "quote": "WHAID ยังทำหน้าที่ผู้บริหารอสังหาริมทรัพย์ให้แก่กองทุนรวมอสังหาริมทรัพย์และสิทธิการเช่าเหมราชอินดัสเตรียล"}},
+    {"title": "Price at lowest appraisal and possible fair-value loss", "category": "Asset/property", "asset_specific": true,
+     "summary": "The trust pays up to THB 1,234.6mn, equal to the lower appraisal, and capitalises acquisition costs on top. If next year's appraisal comes in lower, the trust books unrealised losses that cut NAV and may pay part of distributions as capital reduction.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 137, "section": "ทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หกอาจมีความชำรุดบกพร่อง หรืออาจมีการปฏิบัติที่ผิดกฎหมายและกฎระเบียบ หรืออาจมีความบกพร่องอื่น", "quote": "ซึ่งเป็นมูลค่าที่อ้างอิงจากราคาประเมินต่ำสุดที่จัดทำโดยผู้ประเมินมูลค่าทรัพย์สินอิสระ"}},
+    {"title": "Tenant consent to transfer leases", "category": "Operational", "asset_specific": true,
+     "summary": "Owners must obtain every occupier's consent to novate leases to the trust. Tenants that do not consent leave the trust with weaker possessory rights, collecting rent and deposits through the owners, which could delay or reduce income.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36", "WHA_LP1", "WHA_SIL"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 64, "section": "ความเสี่ยงจากการที่ผู้เช่าพื้นที่ในทรัพย์สินไม่ให้ความยินยอมเข้าเป็นคู่สัญญาเช่าและสัญญาบริการกับกองทรัสต์", "quote": "ต้องขอความยินยอมจากผู้เช่าพื้นที่ทั้งหมดในทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หกในการเปลี่ยนคู่สัญญาเช่าและสัญญาบริการ"}},
+    {"title": "Older attached factories and warehouses; capex after year 5", "category": "Asset/property", "asset_specific": true,
+     "summary": "Attached factories (about 13.34 years) and the warehouse (12.52 years) are much older than the detached units (3.44 years). Owners bear major capex only for 5 years; afterwards reserves may prove insufficient over a 30+30-year horizon. An engineering survey estimated about 65 years of structural life.",
+     "applies_to": ["WHA_SIL", "WHA_LP1", "WHA_CIE1"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 144, "section": "ความเสี่ยงในการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ซึ่งมูลค่าจะลดลงตามระยะเวลาการเช่าที่เหลืออยู่", "quote": "ของอาคารโรงงานและคลังสินค้าประมาณ 8.22 ปี"}},
+    {"title": "Industrial-estate land-use licences", "category": "Regulatory/legal", "asset_specific": true,
+     "summary": "Assets inside IEAT industrial estates require valid land-use and operating licences for the trust, owners and tenants. Revocation or lapse could stop use of the land, trigger lease terminations and interrupt rent.",
+     "applies_to": ["WHA_CIE1", "WHA_ESIE1", "WHA_ESIE3", "WHA_RY36"],
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 151, "section": "ความเสี่ยงเกี่ยวกับใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม", "quote": "จะต้องดำเนินการเพื่อให้ได้มาซึ่งใบอนุญาตในการใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม"}},
+    {"title": "Leasehold value amortisation", "category": "Leasehold/tenure", "asset_specific": false,
+     "summary": "As leasehold REIT assets, values decline as remaining lease terms shorten, reducing NAV over time, and tenant demand may weaken in the final years of each lease.",
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 142, "section": "ความเสี่ยงในการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ซึ่งมูลค่าจะลดลงตามระยะเวลาการเช่าที่เหลืออยู่", "quote": "มูลค่าสิทธิการเช่าอสังหาริมทรัพย์ของกองทรัสต์จะลดลงตามระยะเวลาการเช่าที่เหลืออยู่"}},
+    {"title": "Refinancing and interest-rate exposure", "category": "Financing/interest rate", "asset_specific": false,
+     "summary": "About THB 1,775mn of existing debt matures in 2027; the new loan of up to THB 350mn is MLR-linked with a 3-year bullet. A 0.50% rate rise cuts FY2027P DPU from 0.577 to 0.557. The existing loan requires WHAID to keep a unitholding set by the lender.",
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 95, "section": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน", "quote": "ในปี 2570 กองทรัสต์มีภาระหนี้เงินกู้ที่จะครบกำหนดจำนวนประมาณ 1,775.00 ล้านบาท"}},
+    {"title": "Dilution and unpriced offering", "category": "Offering/dilution", "asset_specific": false,
+     "summary": "Up to 150mn new units could dilute existing holders by up to 12.41% if they do not subscribe. Price, size and rights ratio are still blank; units issued below NAV (THB 8.3034) would dilute NAV per unit.",
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 277, "section": "ความเสี่ยงจากการลดลงของสัดส่วนการถือหน่วยทรัสต์ (Control Dilution) ของผู้ถือหน่วยทรัสต์เดิม", "quote": "ไม่ใช้สิทธิในการจองซื้อหน่วยทรัสต์ที่เสนอขายแก่ผู้ถือหน่วยทรัสต์เดิม | 12.41"}},
+    {"title": "Generic real-estate and unit-investment risks (headings only)", "category": "Other", "asset_specific": false,
+     "summary": "Headings: general property risks, illiquidity, political risk, accounting/legal changes, expropriation, rising property costs, insurance shortfall and rebuild income loss, natural disaster/flood/sabotage, secondary price below offer price, tax changes, non-redeemable units, liquidation shortfall, offering cancellation, listing of new units.",
+     "source": {"file": "WHAIR_PO_20260621_P2-05-Risks.md", "line": 159, "section": "ความเสี่ยงที่เกี่ยวกับการลงทุนในอสังหาริมทรัพย์", "quote": "ความเสี่ยงโดยทั่วไปในการลงทุนในอสังหาริมทรัพย์"}}
+  ],
+  "analyst_notes": [
+    {"topic": "Price vs appraisals", "observation": "Maximum price THB 1,234.6mn equals the lower Sims appraisal and is 2.1% below Asian Engineering Valuation's THB 1,261.0mn; both use DCF at a 9.00% discount rate. All sellers are WHAID group companies.",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 307, "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน", "quote": "| 1,261,000,000 | 1,234,600,000"}},
+    {"topic": "Offering terms still in placeholders", "observation": "Offer price, equity size, rights ratio, subscription dates and total expenses are all '[•]'. The FY2027 projection assumes THB 7.00 per unit (6.4% below the 15-day VWAP of THB 7.48 and 15.7% below NAV of THB 8.3034), ~142.63mn new units and ~THB 117.18mn new debt.",
+     "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 55, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "จัดทำบนราคาเสนอขายหน่วยทรัสต์เพิ่มเติมที่ 7.00 บาท จำนวนหน่วยทรัสต์ที่ออกเสนอขายจำนวนประมาณ 142.63 ล้านหน่วย"}},
+    {"topic": "Marginal DPU accretion", "observation": "FY2027P DPU rises only from THB 0.574 (existing trust) to THB 0.577 after the deal (+0.5%); stated yield 7.71% on THB 7.48; THB 0.008 of the DPU comes from income-support payments (0.569 without them).",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 315, "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570", "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย | 0.574 | 0.577"}},
+    {"topic": "Very short WALE of new assets", "observation": "Combined tenant WALE of the six projects is 1.52 years at 1 Jan 2027; 28.05% of projected revenue expires in 2027, 56.23% in 2028 and 15.72% in 2031 or later. The third-largest tenant (Bruckner Group Asia-Pacific, 16.72%) shows a lease expiry year of 2026 (3+2 years), i.e. before the expected investment date.",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 240, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "บริษัท บรุคเนอร์ กรุ๊ป เอเชีย-แปซิฟิก จำกัด | 16.72 | 3+2 | 2569 | เยอรมัน"}},
+    {"topic": "Rental guarantee covers expiring space", "observation": "Leases on 14,340 sqm of the new assets (32% of their area) expire in 2027; projected income on that space relies on owners' 3-year support at THB 200 (detached) / 171 (attached) / 145 (warehouse) per sqm per month. 1Q2026 average rents were THB 192.50 (factories) and THB 145.00 (warehouse).",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-Leasing.md", "line": 341, "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ สำหรับปีตั้งแต่วันที่ 1 มกราคม 2570 ถึงวันที่ 31 ธันวาคม 2570", "quote": "ขนาดพื้นที่รวม 14,340 ตารางเมตร"}},
+    {"topic": "Tenant concentration", "observation": "Top-5 tenants = 79.62% of new-asset projected revenue: Terahop (Thailand) 19.13% (China, technology), Mentor Supply Chain (Thailand) 17.19% (Singapore, logistics), Bruckner Group Asia-Pacific 16.72% (Germany, industrial services), Jidawi 15.72% (USA, consumer goods, 6-year lease to 2031), Silverspark Development (Thailand) 10.86% (Hong Kong, electronics). Top-10 tenants are 38.13% of the enlarged trust's revenue.",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 238, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "บริษัท เทราฮอป (ไทยแลนด์) จำกัด | 19.13 | 3 | 2571 | จีน | เทคโนโลยี"}},
+    {"topic": "Volatile history of new assets", "observation": "Combined end-period occupancy of the six projects was 73.47% (2023), 65.87% (2024, after unit A2-2 completed) and 100% (2025 and 1Q2026); rental revenue was THB 39.53mn (FY2023), 54.03mn (FY2024), 84.94mn (FY2025) and 24.76mn (1Q2026). Full occupancy is recent.",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 262, "section": "ข้อมูลทั่วไปของโรงงานและคลังสินค้าให้เช่า และข้อมูลผู้เช่า", "quote": "(ร้อยละ) | 73.47 | 65.87/5 | 100.00 | 100.00"}},
+    {"topic": "Leverage close to the 35% cap", "observation": "LTV is 34.44% before and ~33.95% after drawing the full THB 350mn, against a 35% regulatory cap (60% with an investment-grade rating; trust rated BBB+). About THB 1,775mn of existing debt matures in 2027 and refinancing is under consideration.",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 743, "section": "สรุปสาระสำคัญของสัญญากู้ยืม", "quote": "จะคิดได้เป็นประมาณร้อยละ 33.95 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"}},
+    {"topic": "Partial mortgage security", "observation": "Only 5 of 10 title deeds (25-1-44.9 of 47-1-63.4 rai) will be mortgaged to the trust to secure lease and renewal obligations; deeds 256914 (CIE1 Z21), 92749 (Rayong 36), 43514 (ESIE1) and 90925 are excluded, and deed 90924 carries only a second-ranking mortgage.",
+     "source": {"file": "WHAIR_PO_20260621_P2-03-NewAssets.md", "line": 384, "section": "รายละเอียดเพิ่มเติมเกี่ยวกับการใช้สิทธิต่อสัญญาเช่าอีก 30 ปี", "quote": "ที่ดินจำนวน 4 โฉนด ไม่อยู่ภายใต้การจำนอง (โฉนดที่ดินเลขที่ 256914, 92749, 43514, และ 90925)"}},
+    {"topic": "Internal inconsistencies in the draft", "observation": "(a) 5th-round income-support end date: 26 Dec 2027 (Fact Sheet) vs 3 Dec 2027 (Existing assets, Risks) vs 1 Dec 2027 (projection assumptions); (b) LP1 warehouse owner shown as WHA Eastern Seaboard Industrial Estate in the leasing table but WHA Industrial Building in the lease summary; (c) WHA SIL described as 1 building with 2 units and as 2 buildings; (d) IPO investment dated 21 Nov 2016 in the event table vs 23 Nov 2016 in the text; (e) 3rd-round renewal end 23 Dec 2080 vs 13 Dec 2080.",
+     "source": {"file": "WHAIR_PO_20260621_P1-FactSheet.md", "line": 58, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "(สิ้นสุดในวันที่ 26 ธันวาคม 2570)"}}
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "text/WHAIR_PO_777345/_toc.md",
+      "schema/reit_filing.schema.json",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_00-Cover.md",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P1-FactSheet.md",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-01-UseOfProceeds.md",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P3-Offering.md (lines 1-145, 313-449; grep)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-03-NewAssets.md (lines 1-617, 673-752; grep)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-03-ExistingAssets.md (lines 1-63, 163-174, 219-230, 254-265, 303-314, 351-362, 395-512; grep)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-03-Leasing.md (lines 1-140, 275-434)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-13-MDA.md",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-12-Financials.md",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-05-Risks.md (lines 1-157, 250-282)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-02-Policy.md (lines 1-40)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-08-Unitholders.md (lines 1-46)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-09-Governance.md (lines 960-988; grep)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-11-RelatedParty.md (lines 1-35)",
+      "text/WHAIR_PO_777345/WHAIR_PO_20260621_P2-10-Fees.md (grep only)"
+    ],
+    "not_found": [
+      {"field": "offering.offering_price_per_unit.min_thb / max_thb / final_thb", "reason": "Maximum price is a draft placeholder '[•]' on the cover, fact sheet and P3; no range; final price set by bookbuilding and announced later on the SET website."},
+      {"field": "offering.offering_size_thb_mn", "reason": "Maximum equity raise is a draft placeholder '[•]'."},
+      {"field": "offering.subscription_ratio", "reason": "Rights ratio is a draft placeholder '[•] : [•]'."},
+      {"field": "offering.allocation[*].units / pct_of_offer", "reason": "Tranche sizes are placeholders '[•]'; only 'not less than 50% to existing unitholders' is stated in Risks."},
+      {"field": "offering.estimated_transaction_costs_thb_mn", "reason": "All lines of the offering expense table are placeholders '[•]'."},
+      {"field": "offering.funding_sources (new_units, internal_cash, security_deposits amounts)", "reason": "Equity amount is a placeholder; internal cash and deposits are at the manager's discretion and not quantified."},
+      {"field": "offering.timeline (effective date, subscription periods, record date)", "reason": "Dates shown as placeholders '[•]'."},
+      {"field": "offering.sponsor_commitment (take-up amount / lock-up)", "reason": "No WHAID subscription amount or lock-up stated; only a separate subscription window and a lender-required holding without a stated level."},
+      {"field": "new_assets[*].appraisals[*].terminal_cap_rate_pct", "reason": "Valuation summary gives discount rate only; exit/terminal assumptions would be in the PDF appraisal reports, which are excluded."},
+      {"field": "new_assets[*].key_tenants / tenant_concentration / lease_expiry_profile / wale_years", "reason": "Top-5 tenants, lease expiry profile and WALE (1.52 years) are disclosed only for the six projects combined and are not mapped to projects; captured in analyst_notes and risks."},
+      {"field": "new_assets[*].historical_performance", "reason": "Historical occupancy, average rent, rental revenue and repair costs (FY2023-1Q2026) are disclosed only for the six projects combined; captured in analyst_notes."},
+      {"field": "new_assets[*].acquisition_price_thb_mn (except WHA_RY36)", "reason": "Only the total cap and per-lessor caps are disclosed; per-project values are derived from the lower appraisal."},
+      {"field": "existing_portfolio.assets[*].acquisition_price_thb_mn", "reason": "Acquisition prices are disclosed per investment round, not per project."},
+      {"field": "existing_portfolio.assets[*].occupancy_pct / occupancy_as_of / key_tenants", "reason": "Existing-asset occupancy and tenants are disclosed only at portfolio level in the text filings; the 56-REIT annual report referenced for details is not part of the inputs."},
+      {"field": "parties.legal_advisors", "reason": "No legal advisor named; legal fees appear only as an expense line item."},
+      {"field": "parties.lenders (new THB 350mn facility)", "reason": "Lender described generically as domestic commercial bank(s) and/or other financial institutions."}
+    ],
+    "ambiguities": [
+      {"field": "new_assets[WHA_LP1].seller_or_lessor", "detail": "Leasing table (NewAssets line 198) lists WHA Eastern Seaboard Industrial Estate Co., Ltd. as owner of the LP1 warehouse; lease summary (line 603-605) and location table (line 165) show WHA Industrial Building Co., Ltd. Lease summary used."},
+      {"field": "new_assets[WHA_SIL].building_area.buildings", "detail": "Location table says 2 attached-factory buildings (line 176); asset table (line 30) and lease schedule show 1 building with 2 units."},
+      {"field": "existing_portfolio.notes (5th-round income support end date)", "detail": "26 Dec 2027 (Fact Sheet line 58), 3 Dec 2027 (ExistingAssets line 486, Risks lines 104/112), 1 Dec 2027 (Leasing line 338). Lease start 4 Dec 2024 + 3 years supports 3 Dec 2027."},
+      {"field": "existing_portfolio.notes (IPO investment date)", "detail": "Event table (Policy line 18) dates the IPO investment 21 Nov 2016 (trust establishment date); text (Policy line 28) and lease summary give 23 Nov 2016."},
+      {"field": "existing_portfolio (3rd-round renewal end date)", "detail": "ExistingAssets line 260 gives renewal to 23 Dec 2080 (BE 2623); lease summary line 452 and Risks line 37 give 13 Dec 2080."},
+      {"field": "analyst_notes (Bruckner lease expiry)", "detail": "Top-5 tenant table (data as of 30 Apr 2026) shows lease expiry year 2026 (BE 2569) with term 3+2, before the expected 1 Jan 2027 investment date; the lease expiry profile shows no 2026 bucket."},
+      {"field": "offering.projected_distribution.basis_price_thb", "detail": "Yield 7.71% is on the 15-day VWAP of THB 7.48, while DPU is modelled on an assumed THB 7.00 offer price."},
+      {"field": "new_assets average building age", "detail": "8.22 years (Risks line 144, RelatedParty line 30) vs 8.23 years (NewAssets line 200)."},
+      {"field": "new_assets[*].acquisition_price_thb_mn", "detail": "Per-project prices derived as the Sims (lower) appraisal; consistent with the total cap and per-lessor caps but not stated per project."},
+      {"field": "existing_portfolio.assets[EX_WHA_LP2, EX_WHA_LP4].asset_type", "detail": "Asset descriptions say factory buildings; the leasing structure chart (Leasing lines 116-118) lists LP2 and LP4 under warehouses."},
+      {"field": "existing_portfolio.assets[EX_WHA_ESIE1].acquired", "detail": "5th-round table rows name 'WHA Eastern Seaboard ...' with the estate number cut off (ExistingAssets lines 364/376); attributed to WHA ESIE 1 as the only matching existing project."},
+      {"field": "parties.lead_underwriters", "detail": "Fact Sheet line 19 renders 'Firm underwrite*' next to an unticked 'Best effort' box; P3 line 124 confirms firm underwriting after signing of agreements."}
+    ],
+    "self_checks": [
+      {"check": "Max units x max price ≈ offering size (±1%)", "result": "n/a", "detail": "Max price and offering size are placeholders '[•]'. Projection case only: 142.63mn units x THB 7.00 = THB 998.4mn."},
+      {"check": "DPU / basis price ≈ yield", "result": "pass", "detail": "0.577 / 7.48 = 7.71% vs 7.71% stated; ex-undertaking 0.569 / 7.48 = 7.61% vs 7.61% stated."},
+      {"check": "Funding sources ≈ total investment value (+ costs)", "result": "n/a", "detail": "Equity amount is '[•]'; max debt THB 350mn. Projection case 998.4 + 117.2 = 1,115.6 vs 1,234.6 + costs; the ~THB 119mn gap plus costs is implicitly internal cash/deposits, not quantified."},
+      {"check": "Sum of asset prices ≤ total investment value", "result": "pass", "detail": "Sims per project 122.7 + 209.1 + 195.7 + 139.6 + 232.7 + 334.8 = 1,234.6 = cap; per-lessor caps 404.8 + 139.6 + 599.9 + 90.3 = 1,234.6."},
+      {"check": "Higher appraisal total", "result": "pass", "detail": "AEV 125.0 + 213.9 + 199.4 + 142.7 + 237.5 + 342.5 = 1,261.0 = stated."},
+      {"check": "Renewal rent caps", "result": "pass", "detail": "26.224 + 9.048 + 38.896 + 5.832 = 80.0 = stated maximum."},
+      {"check": "Lease start + tenure ≈ expiry", "result": "pass", "detail": "Existing: 2016-11-23 + 30y = 2046-11-22 and 2024-12-04 + 30y = 2054-12-03, both as stated. New assets: expiry not stated; 2056-12-31 derived from expected start 2027-01-01."},
+      {"check": "LTV before", "result": "pass", "detail": "4,782.00 / 13,883.12 = 34.45% vs 34.44% stated (rounding)."},
+      {"check": "LTV after (max debt)", "result": "pass", "detail": "(4,782 + 350) / (13,883.12 + 1,234.60) = 33.95% = stated."},
+      {"check": "Projected units and DPU", "result": "pass", "detail": "1,058.81 + 142.63 = 1,201.44 vs 1,201.43 stated; 693.41 / 1,201.43 = 0.5771 ≈ 0.577."},
+      {"check": "New-asset land and building area totals", "result": "pass", "detail": "Six projects 75,853.6 sqm = 47-1-63.4 rai; building areas sum to 45,329 sqm = stated."},
+      {"check": "Existing appraisal and area totals", "result": "pass", "detail": "10 projects sum to THB 13,222.125mn = stated; land 674,006 sqm = 421-1-1.5 rai; building 468,990 sqm = stated."},
+      {"check": "Control dilution", "result": "pass", "detail": "150 / (1,058.806 + 150) = 12.41% = stated maximum."},
+      {"check": "Tenant and expiry percentages", "result": "pass", "detail": "Top-5 19.13 + 17.19 + 16.72 + 15.72 + 10.86 = 79.62%; new-asset expiry profile 28.05 + 56.23 + 15.72 = 100.00%."}
+    ]
+  }
+}

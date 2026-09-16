@@ -1,0 +1,4174 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "ALLY_PO_751283",
+    "sec_filing_no": "751283",
+    "ticker": "ALLY",
+    "offering_type": "PO",
+    "offering_type_evidence": {
+      "value": "PO confirmed: prospectus for the 2nd capital increase to fund the 9th additional investment",
+      "status": "found",
+      "value_th": "สำหรับการเพิ่มทุนครั้งที่ 2 เพื่อการลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 9",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 4,
+        "section": null,
+        "quote": "สำหรับการเพิ่มทุนครั้งที่ 2 เพื่อการลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 9"
+      }
+    },
+    "reit_name_en": {
+      "value": "ALLY Freehold and Leasehold Real Estate Investment Trust",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 9,
+        "section": null,
+        "quote": "ALLY Freehold and Leasehold Real Estate Investment Trust (ALLY)"
+      }
+    },
+    "reit_name_th": {
+      "value": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ อัลไล",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 8,
+        "section": null,
+        "quote": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ อัลไล"
+      }
+    },
+    "reit_structure": {
+      "value": "Freehold and leasehold REIT under the Trust for Transactions in Capital Market Act; no fixed term; units not redeemable. Established 26 Nov 2019 by conversion of the Crystal Retail Growth leasehold property fund (CRYSTAL).",
+      "status": "found",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 10,
+        "section": null,
+        "quote": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์"
+      }
+    },
+    "capital_increase_no": {
+      "value": 2,
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 4,
+        "section": null,
+        "quote": "การเพิ่มทุนครั้งที่ 2"
+      }
+    },
+    "additional_investment_no": {
+      "value": 9,
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 4,
+        "section": null,
+        "quote": "ทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 9"
+      }
+    },
+    "investor_eligibility": {
+      "value": "Tranche 1: existing unitholders on the 15 Sep 2026 record date, pro rata (preferential public offering), excluding holders whose participation would impose foreign-law obligations (19 listed nationalities); may oversubscribe. Tranche 2: remainder to private placement and/or the general public (institutional investors with/without bookbuilding, underwriter-discretion investors).",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "line": 23,
+        "section": null,
+        "quote": "ส่วนที่ 2: เสนอขายหน่วยทรัสต์เพิ่มเติมในส่วนที่เหลือจากส่วนที่ 1 โดยเสนอขายให้แก่ (1) บุคคลในวงจำกัด (Private Placement) และ/หรือ (2) ประชาชนทั่วไป (Public Offering)"
+      }
+    },
+    "listing": {
+      "value": "Listed on the SET; trading began 12 Dec 2019. New units to be listed on the SET.",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+        "line": 15,
+        "section": null,
+        "quote": "กลุ่มอสังหาริมทรัพย์และก่อสร้าง เมื่อวันที่ 12 ธันวาคม 2562"
+      }
+    },
+    "unitholder_approval_date": {
+      "value": "2025-10-09",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+        "line": 16,
+        "section": null,
+        "quote": "ตามมติที่ประชุมผู้ถือหน่วยทรัสต์ ครั้งที่ 1/2568 เมื่อวันที่ 9 ตุลาคม 2568"
+      },
+      "note": "Unitholders' meeting 1/2568 approved the 2nd capital increase of up to 185.0 million units."
+    },
+    "data_as_of": {
+      "value": "2026-06-30",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 8,
+        "section": null,
+        "quote": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569"
+      }
+    },
+    "latest_document_date": "2026-09-01",
+    "documents_used": [
+      {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260901",
+        "used_for": "Names, PO evidence, max units/price/equity/debt, total investment, parties, timetable"
+      },
+      {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260901",
+        "used_for": "Data as-of, funding structure, appraisals, unitholders, DPU history, projections, key financials, risk headings"
+      },
+      {
+        "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+        "doc_type": "P2-01-UseOfProceeds",
+        "uploaded": "20260810",
+        "used_for": "Use of proceeds, funding sources, unitholder approval, listing date"
+      },
+      {
+        "file": "ALLY_PO_20260901_P2-02-Policy.md",
+        "doc_type": "P2-02-Policy",
+        "uploaded": "20260901",
+        "used_for": "Trust history, acquisition rounds, property managers, manager ownership"
+      },
+      {
+        "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+        "doc_type": "P2-03-ExistingAssets",
+        "uploaded": "20260901",
+        "used_for": "Existing portfolio rows, occupancy, performance, lease profile"
+      },
+      {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "doc_type": "P2-03-NewAssets",
+        "uploaded": "20260901",
+        "used_for": "New asset details, appraisals, price, loan terms, contracts"
+      },
+      {
+        "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+        "doc_type": "P2-03-Leasing",
+        "uploaded": "20260901",
+        "used_for": "Lease structure, NLA, top tenants, expiry profile, property managers, projection and sensitivity"
+      },
+      {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "doc_type": "P3-Offering",
+        "uploaded": "20260901",
+        "used_for": "Offering terms, allocation, underwriters, price history, offering costs"
+      },
+      {
+        "file": "ALLY_PO_20260901_00-Definitions.md",
+        "doc_type": "00-Definitions",
+        "uploaded": "20260901",
+        "used_for": "Abbreviations only (grep)"
+      }
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Retail",
+    "sub_sectors": [
+      "Community mall",
+      "Office / commercial building"
+    ],
+    "description": {
+      "value": "ALLY holds leasehold, sub-leasehold and freehold interests in 15 community malls and commercial projects, mostly in Greater Bangkok plus one in Chiang Mai; this offering adds three Bangkok community malls (The Zone Town in Town, Sai Mai Avenue, Charn at The Avenue), taking the trust to 18 projects.",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-02-Policy.md",
+        "line": 34,
+        "section": null,
+        "quote": "จะทำให้กองทรัสต์มีทรัพย์สินจำนวนรวมทั้งสิ้น 18 โครงการ"
+      }
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "KE Group (KE Benjakij Co., Ltd., KE KFS Co., Ltd. and Mr. Kaweepan Iamsakulrat)",
+        "name_th": "เคอี กรุ๊ป",
+        "role_detail": "Not labelled 'sponsor' in the text filings. Largest unitholder (23.68% at 27 May 2026) with its own subscription window; the REIT manager's ultimate shareholders are the Iamsakulrat family.",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 45,
+          "section": null,
+          "quote": "เคอี กรุ๊ป1 / 206,955,800 / 23.68"
+        }
+      }
+    ],
+    "reit_manager": {
+      "name_en": "ALLY REIT Management Company Limited (ARM)",
+      "name_th": "บริษัท อัลไล รีท แมนเนจเมนท์ จำกัด",
+      "role_detail": "Trust manager, offeror and property manager of all assets; formerly K.E. REIT Management Co., Ltd.; 100% held by Ally Global Management, indirectly by KE Sky Co., Ltd. (Iamsakulrat family)",
+      "related_to_sponsor": true,
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 6,
+        "section": null,
+        "quote": "ALLY REIT Management Company Limited"
+      }
+    },
+    "trustee": {
+      "name_en": "SCB Asset Management Company Limited (SCBAM)",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด",
+      "role_detail": "Trustee",
+      "related_to_sponsor": null,
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 28,
+        "section": null,
+        "quote": "ทรัสตี: บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด"
+      }
+    },
+    "property_managers": [
+      {
+        "name_en": "ALLY REIT Management Company Limited (ARM)",
+        "name_th": "บริษัท อัลไล รีท แมนเนจเมนท์ จำกัด",
+        "role_detail": "Property manager of all assets under the trust deed; subcontracts day-to-day management",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-02-Policy.md",
+          "line": 9,
+          "section": null,
+          "quote": "ได้แต่งตั้งผู้จัดการกองทรัสต์เป็นผู้บริหารอสังหาริมทรัพย์ทั้งหมดที่กองทรัสต์เข้าลงทุน"
+        }
+      },
+      {
+        "name_en": "Ally CPM Company Limited (ACPM)",
+        "name_th": "บริษัท อัลไล ซีพีเอ็ม จำกัด",
+        "role_detail": "Main property sub-manager (14 existing projects since 1 Apr 2026); planned sub-manager for the 3 new projects; same major shareholder as ARM",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+          "line": 127,
+          "section": null,
+          "quote": "ACPM มีผู้ถือหุ้นใหญ่รายเดียวกับ ARM"
+        }
+      },
+      {
+        "name_en": "BSK Management Company Limited (BSK)",
+        "name_th": "บริษัท บีเอสเค แมเนจเมนท์ จำกัด",
+        "role_detail": "Property sub-manager for T10 only; no relationship with ARM stated",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+          "line": 148,
+          "section": null,
+          "quote": "โดยปัจจุบัน ARM ได้แต่งตั้ง BSK ให้ปฏิบัติหน้าที่เป็นผู้รับจ้างช่วงบริหารอสังหาริมทรัพย์ของโครงการ T10"
+        }
+      }
+    ],
+    "financial_advisors": [
+      {
+        "name_en": "Bangkok Bank Public Company Limited",
+        "name_th": "ธนาคารกรุงเทพ จำกัด (มหาชน)",
+        "role_detail": "Financial advisor (also lead underwriter and lender)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 29,
+          "section": null,
+          "quote": "ที่ปรึกษาทางการเงิน: ธนาคารกรุงเทพ จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "Bangkok Bank Public Company Limited",
+        "name_th": "ธนาคารกรุงเทพ จำกัด (มหาชน)",
+        "role_detail": "Lead underwriter; firm underwrite effective after final pricing and signing",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 30,
+          "section": null,
+          "quote": "ผู้จัดการการจัดจำหน่ายหน่วยทรัสต์: ธนาคารกรุงเทพ จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "underwriters": [
+      {
+        "name_en": "Asia Plus Securities Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ เอเชีย พลัส จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 151,
+          "section": null,
+          "quote": "บริษัทหลักทรัพย์ เอเชีย พลัส จำกัด"
+        }
+      },
+      {
+        "name_en": "DAOL Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 156,
+          "section": null,
+          "quote": "บริษัทหลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "Maybank Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 161,
+          "section": null,
+          "quote": "บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "TISCO Securities Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ ทิสโก้ จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 166,
+          "section": null,
+          "quote": "บริษัทหลักทรัพย์ ทิสโก้ จำกัด"
+        }
+      },
+      {
+        "name_en": "Yuanta Securities (Thailand) Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 171,
+          "section": null,
+          "quote": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด"
+        }
+      }
+    ],
+    "appraisers": [
+      {
+        "name_en": "Advance Appraisal Company Limited (AA)",
+        "name_th": "บริษัท แอดวานซ์ แอพไพรซัล จำกัด",
+        "role_detail": "Appraiser of the 3 new assets (reports dated 7, 23 and 13 Jan 2026)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 491,
+          "section": null,
+          "quote": "บริษัท แอดวานซ์ แอพไพรซัล จำกัด (“AA”)"
+        }
+      },
+      {
+        "name_en": "KTAC Appraisal and Service Company Limited (KTAC)",
+        "name_th": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด",
+        "role_detail": "Appraiser of the 3 new assets (reports dated 1 Nov 2025)",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 491,
+          "section": null,
+          "quote": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด (“KTAC”)"
+        }
+      },
+      {
+        "name_en": "Quality Appraisal Company Limited (QA)",
+        "name_th": "บริษัท ควอลิตี้ แอพไพรซัล จำกัด",
+        "role_detail": "Appraised the 5-year CDC lease extension (8th investment, not part of this offering): THB 211 mn",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-02-Policy.md",
+          "line": 60,
+          "section": null,
+          "quote": "บริษัท ควอลิตี้ แอพไพรซัล จำกัด"
+        }
+      },
+      {
+        "name_en": "Edmund Tie & Company (Thailand) Co., Ltd. (ETC)",
+        "name_th": null,
+        "role_detail": "Appraised the 5-year CDC lease extension (8th investment, not part of this offering): THB 200 mn",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-02-Policy.md",
+          "line": 60,
+          "section": null,
+          "quote": "บริษัท เอ็ดมันด์ ไต แอนด์ คอมพานี (ประเทศไทย)"
+        }
+      }
+    ],
+    "auditor": {
+      "name_en": "KPMG Phoomchai Audit Limited",
+      "name_th": "บริษัท เคพีเอ็มจี ภูมิไชย สอบบัญชี จำกัด",
+      "role_detail": "Examined the projected income statement (auditor Ms. Piyatida Tangdenchai, No. 11766); the trust's statutory auditor is not named in the text filings",
+      "related_to_sponsor": null,
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+        "line": 175,
+        "section": null,
+        "quote": "ได้รับการตรวจสอบโดยบริษัท เคพีเอ็มจี ภูมิไชย สอบบัญชี จำกัด"
+      }
+    },
+    "legal_advisors": [],
+    "lenders": [
+      {
+        "name_en": "Bangkok Bank Public Company Limited",
+        "name_th": "ธนาคารกรุงเทพ จำกัด (มหาชน)",
+        "role_detail": "Indicative term loan offer of THB 865 mn for the new assets",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 718,
+          "section": null,
+          "quote": "ผู้ให้กู้ | ธนาคารกรุงเทพ จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "sellers_or_lessors": [
+      {
+        "name_en": "Fah Bandan Sap Company Limited",
+        "name_th": "บริษัท ฟ้าบันดาลทรัพย์ จำกัด",
+        "role_detail": "Head lessee of the land and owner of buildings/movables at The Zone Town in Town and Sai Mai Avenue; sub-lessor, building lessor and seller of movables to the trust. Relationship to KE Group/ARM not stated in text filings",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 74,
+          "section": null,
+          "quote": "บริษัท ฟ้าบันดาลทรัพย์ จำกัด (“บจ. ฟ้าบันดาลทรัพย์”)"
+        }
+      },
+      {
+        "name_en": "Thanarom Company Limited",
+        "name_th": "บริษัท ธนารมณ์ จำกัด",
+        "role_detail": "Charn at The Avenue: to become 30-year usufructuary of land and buildings and lease them to the trust; co-seller of movables. Relationship to KE Group/ARM not stated in text filings",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 369,
+          "section": null,
+          "quote": "บริษัท ธนารมณ์ จำกัด (“บจ. ธนารมณ์”)"
+        }
+      },
+      {
+        "name_en": "Excelsus Group Company Limited",
+        "name_th": "บริษัท เอ็กเซลซัส กรุ๊ป จำกัด",
+        "role_detail": "Charn at The Avenue: current sub-lessee of part of the project; co-seller of movables. Relationship to KE Group/ARM not stated in text filings",
+        "related_to_sponsor": null,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 369,
+          "section": null,
+          "quote": "บริษัท เอ็กเซลซัส กรุ๊ป จำกัด (“บจ. เอ็กเซลซัส”)"
+        }
+      }
+    ],
+    "operators_or_master_lessees": [],
+    "not_found_roles": [
+      "legal advisors (section not in text filings)",
+      "operators / master lessees / rental guarantors (none: the trust leases space directly to tenants)",
+      "a party formally designated 'sponsor' (term not used in the text filings)"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 151500000,
+      "status": "found",
+      "unit": "units",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 19,
+        "section": null,
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 151,500,000 หน่วย"
+      },
+      "note": "Maximum ('ไม่เกิน'). P2-01-UseOfProceeds (uploaded 2026-08-10) still refers to up to 185.0 million units, the unitholder-approved ceiling; see ambiguities."
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "No minimum price is stated. The sensitivity analysis covers THB 4.45-5.00, but 4.45 is not stated as a floor."
+      },
+      "max_thb": {
+        "value": 5.0,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 19,
+          "section": null,
+          "quote": "ราคาเสนอขายไม่เกิน 5.00 บาทต่อหน่วย"
+        },
+        "note": "Maximum; the confirmed maximum price is to be announced by 25 Sep 2026."
+      },
+      "final_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Final price to be announced on the SET website by 2 Oct 2026, after bookbuilding; not in the filing."
+      }
+    },
+    "par_value_per_unit_thb": {
+      "value": 9.7996,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "line": 20,
+        "section": null,
+        "quote": "9.7996 บาทต่อหน่วย (ณ วันที่ 30 มิถุนายน 2569)"
+      }
+    },
+    "offering_size_thb_mn": {
+      "value": 757.5,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 12,
+        "section": null,
+        "quote": "การออกและเสนอขายหน่วยทรัสต์ในมูลค่าทั้งสิ้นไม่เกิน | 757,500,000 บาท"
+      },
+      "note": "Maximum new equity ('ไม่เกิน')."
+    },
+    "total_investment_value_thb_mn": {
+      "value": 1495.8,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 16,
+        "section": null,
+        "quote": "1,495,800,0001 บาท"
+      },
+      "note": "Maximum ('ไม่เกิน'), excluding fees, VAT and stamp duty. THB 1,475.8 mn payable on the investment date plus THB 20.0 mn for Charn at The Avenue payable 24 months after lease registration. The '1' after the figure is a footnote marker."
+    },
+    "funding_sources": [
+      {
+        "type": "new_units",
+        "amount_thb_mn": {
+          "value": 757.5,
+          "status": "found",
+          "unit": "THB mn",
+          "source": {
+            "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+            "line": 17,
+            "section": null,
+            "quote": "จำนวนทั้งสิ้นไม่เกิน 185.0 ล้านหน่วย หรือคิดเป็นจำนวนเงินไม่เกิน 757.5 ล้านบาท"
+          },
+          "note": "Maximum"
+        },
+        "note": "Capital increase"
+      },
+      {
+        "type": "debt",
+        "amount_thb_mn": {
+          "value": 1212.0,
+          "status": "found",
+          "unit": "THB mn",
+          "source": {
+            "file": "ALLY_PO_20260901_00-Cover.md",
+            "line": 14,
+            "section": null,
+            "quote": "สำหรับการลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติมในมูลค่าทั้งสิ้นไม่เกิน | 1,212,000,000 บาท"
+          },
+          "note": "Maximum. The plan is at least 50% of the THB 1,515.0 mn raise (about THB 757.5 mn); up to 80% (THB 1,212.0 mn) if the equity raise falls short. Total raise capped at THB 1,515.0 mn."
+        },
+        "note": "Bank / financial institution loans (Bangkok Bank indicative offer THB 865 mn)"
+      },
+      {
+        "type": "security_deposits",
+        "amount_thb_mn": {
+          "value": null,
+          "status": "not_found",
+          "note": "Security deposits of the new assets are listed as a possible source, but no amount is stated."
+        },
+        "note": "Lease and service deposits of the new assets"
+      },
+      {
+        "type": "internal_cash",
+        "amount_thb_mn": {
+          "value": 20.0,
+          "status": "found",
+          "unit": "THB mn",
+          "source": {
+            "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+            "line": 17,
+            "section": null,
+            "quote": "อีกจำนวน 20.0 ล้านบาท ภายหลังครบกำหนด 24 เดือนนับจากจดทะเบียนสิทธิการเช่า โดยมีแหล่งเงินทุนจากเงินสดหมุนเวียนของกองทรัสต์"
+          }
+        },
+        "note": "Deferred Charn at The Avenue payment, funded from the trust's working cash"
+      }
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "The Zone Town in Town (TZ): sub-leasehold land and leasehold buildings, 25 years, plus M&E and movables",
+        "amount_thb_mn": 224.8,
+        "note": "Maximum",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 29,
+          "section": null,
+          "quote": "สิทธิการเช่าช่วงที่ดินบางส่วนและสิทธิการเช่าอาคารบางส่วน ระยะเวลา 25 ปี / ไม่เกิน 224.8 ล้านบาท"
+        }
+      },
+      {
+        "item": "Sai Mai Avenue (SMA): sub-leasehold land and leasehold buildings, 25 years, plus M&E and movables",
+        "amount_thb_mn": 471.0,
+        "note": "Maximum",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 29,
+          "section": null,
+          "quote": "สิทธิการเช่าช่วงที่ดินบางส่วนและสิทธิการเช่าอาคาร ระยะเวลา 25 ปี / ไม่เกิน 471.0 ล้านบาท"
+        }
+      },
+      {
+        "item": "Charn at The Avenue (CHN): leasehold land and buildings, 30 years, plus movables (payable on the investment date)",
+        "amount_thb_mn": 780.0,
+        "note": "Maximum on the transaction date; a further THB 20.0 mn is due 24 months after lease registration (total THB 800.0 mn)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 29,
+          "section": null,
+          "quote": "สิทธิการเช่าที่ดินและอาคาร ระยะเวลา 30 ปี / ไม่เกิน 780.0 ล้านบาท"
+        }
+      },
+      {
+        "item": "Offering and investment expenses",
+        "amount_thb_mn": 39.2,
+        "note": "Estimate incl. VAT",
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 608,
+          "section": null,
+          "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ 39.2"
+        }
+      },
+      {
+        "item": "Working capital of the trust",
+        "amount_thb_mn": null,
+        "note": "Listed as a purpose; no amount stated",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 29,
+          "section": null,
+          "quote": "เพื่อเป็นเงินทุนหมุนเวียนของกองทรัสต์"
+        }
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": 39.2,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "line": 608,
+        "section": null,
+        "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ 39.2"
+      },
+      "note": "Estimated offering-related expenses incl. VAT (SEC fees 0.4 mn + other 38.8 mn)."
+    },
+    "allocation": [
+      {
+        "tranche": "Tranche 1: existing unitholders pro rata (preferential public offering), including KE Group",
+        "units": 121200000,
+        "pct_of_offer": 80.0,
+        "note": "Maximum; ratio 1 existing unit : 0.1386 new unit; about 80% of the offer",
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 49,
+          "section": null,
+          "quote": "ไม่เกิน 121,200,0001 หน่วย"
+        }
+      },
+      {
+        "tranche": "Tranche 2: private placement and/or general public",
+        "units": 30300000,
+        "pct_of_offer": 20.0,
+        "note": "About 30.3 mn units plus any shortfall from Tranche 1; pct derived (30.3/151.5); claw-back/claw-forward allowed",
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 50,
+          "section": null,
+          "quote": "ประมาณ 30,300,000 หน่วย และส่วนที่เหลือจากการจัดสรร และ/หรือ จองซื้อตามส่วนที่ 1"
+        }
+      }
+    ],
+    "subscription_ratio": {
+      "value": "1 existing unit : 0.1386 new unit (record date 15 Sep 2026)",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "line": 26,
+        "section": null,
+        "quote": "1 หน่วยทรัสต์เดิมต่อ 0.1386 หน่วยทรัสต์ที่ออกและเสนอขายเพิ่มเติม"
+      }
+    },
+    "sponsor_commitment": {
+      "value": "No quantified take-up, commitment or lock-up by KE Group is disclosed in the text filings. KE Group (23.68% holder) subscribes as an existing unitholder through Bangkok Bank on 5-6 Oct 2026 at the final price and may receive excess units allocated to oversubscribing existing holders. Allocation to any one person or group is capped at 50% of units outstanding.",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "line": 41,
+        "section": null,
+        "quote": "(ซึ่งอาจรวมถึง เคอี กรุ๊ป และ/หรือกลุ่มบุคคลเดียวกันของเคอี กรุ๊ป)"
+      },
+      "note": "Describes subscription mechanics only; no commitment amount is stated."
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months, 1 Jul 2026 - 30 Jun 2027 (FY2027P, June year-end projection)",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 54,
+          "section": null,
+          "quote": "ตั้งแต่วันที่ 1 กรกฎาคม 2569 ถึงวันที่ 30 มิถุนายน 25701"
+        }
+      },
+      "basis_price_thb": {
+        "value": 5.0,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 56,
+          "section": null,
+          "quote": "กรณีที่กองทรัสต์ออกและเสนอขายหน่วยทรัสต์เพิ่มเติมจำนวน 151.5 ล้านหน่วย ใน"
+        },
+        "note": "Maximum offer price case (151.5 mn units, THB 757.5 mn new debt). The auditor-examined projection uses THB 4.65 (about 163 mn units, VWAP 11-19 Sep 2025): DPU 0.4727, yield 10.2%."
+      },
+      "dpu_thb": {
+        "value": 0.48,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 57,
+          "section": null,
+          "quote": "ประมาณการการจ่ายประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย / 0.44 / 0.47 / 0.44 / 0.48"
+        },
+        "note": "Post-9th-investment DPU at THB 5.00 (no capital reduction); 0.47 (0.4727) in the THB 4.65 case."
+      },
+      "distribution_yield_pct": {
+        "value": 9.6,
+        "status": "found",
+        "unit": "%",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 57,
+          "section": null,
+          "quote": "ร้อยละ 8.8 ต่อปี / ร้อยละ 9.6 ต่อปี"
+        },
+        "note": "At THB 5.00; 10.2% at the THB 4.65 reference price; existing-asset-only yield 8.8% at 5.00."
+      },
+      "total_distribution_thb_mn": {
+        "value": 490.1,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 57,
+          "section": null,
+          "quote": "ประมาณการเงินจ่ายให้แก่ผู้ถือหน่วยทรัสต์ตามสมมติฐาน / 385.6 / 490.1 / 385.6 / 490.1"
+        }
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 782,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+          "line": 194,
+          "section": null,
+          "quote": "กำไรจากการลงทุนสุทธิ | 693 | 782"
+        },
+        "note": "Post-investment projection in the THB 4.65 / about 163 mn unit / THB 757 mn debt reference case."
+      },
+      "yield_sensitivity": [
+        {
+          "offering_price_thb": 4.45,
+          "dpu_thb": 0.47,
+          "yield_pct": 10.7,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 238,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.45 | 151.5 | 674.2 | 840.8 | 0.44 | 0.47 | 9.9 | 10.7"
+          }
+        },
+        {
+          "offering_price_thb": 4.5,
+          "dpu_thb": 0.47,
+          "yield_pct": 10.5,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 239,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.50 | 151.5 | 681.8 | 833.2 | 0.44 | 0.47 | 9.8 | 10.5"
+          }
+        },
+        {
+          "offering_price_thb": 4.55,
+          "dpu_thb": 0.47,
+          "yield_pct": 10.4,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 240,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.55 | 151.5 | 689.3 | 825.7 | 0.44 | 0.47 | 9.7 | 10.4"
+          }
+        },
+        {
+          "offering_price_thb": 4.6,
+          "dpu_thb": 0.48,
+          "yield_pct": 10.3,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 241,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.60 | 151.5 | 696.9 | 818.1 | 0.44 | 0.48 | 9.6 | 10.3"
+          }
+        },
+        {
+          "offering_price_thb": 4.65,
+          "dpu_thb": 0.48,
+          "yield_pct": 10.2,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 242,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.65 | 151.5 | 704.5 | 810.5 | 0.44 | 0.48 | 9.5 | 10.2"
+          }
+        },
+        {
+          "offering_price_thb": 4.7,
+          "dpu_thb": 0.48,
+          "yield_pct": 10.1,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 243,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.70 | 151.5 | 712.1 | 802.9 | 0.44 | 0.48 | 9.4 | 10.1"
+          }
+        },
+        {
+          "offering_price_thb": 4.75,
+          "dpu_thb": 0.48,
+          "yield_pct": 10.0,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 244,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.75 | 151.5 | 719.6 | 795.4 | 0.44 | 0.48 | 9.3 | 10.0"
+          }
+        },
+        {
+          "offering_price_thb": 4.8,
+          "dpu_thb": 0.48,
+          "yield_pct": 9.9,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 245,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.80 | 151.5 | 727.2 | 787.8 | 0.44 | 0.48 | 9.2 | 9.9"
+          }
+        },
+        {
+          "offering_price_thb": 4.85,
+          "dpu_thb": 0.48,
+          "yield_pct": 9.8,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 246,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.85 | 151.5 | 734.8 | 780.2 | 0.44 | 0.48 | 9.1 | 9.8"
+          }
+        },
+        {
+          "offering_price_thb": 4.9,
+          "dpu_thb": 0.48,
+          "yield_pct": 9.7,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 247,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.90 | 151.5 | 742.4 | 772.7 | 0.44 | 0.48 | 9.0 | 9.7"
+          }
+        },
+        {
+          "offering_price_thb": 4.95,
+          "dpu_thb": 0.48,
+          "yield_pct": 9.6,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 248,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "4.95 | 151.5 | 749.9 | 765.1 | 0.44 | 0.48 | 8.9 | 9.6"
+          }
+        },
+        {
+          "offering_price_thb": 5.0,
+          "dpu_thb": 0.48,
+          "yield_pct": 9.6,
+          "note": "Post-9th-investment first-year DPU and yield; 151.5 mn units; debt = 1,515 - equity raised",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+            "line": 249,
+            "section": "การวิเคราะห์ความอ่อนไหว (Sensitivity Analysis) ของประมาณการเงินจ่ายผู้ถือหน่วยต่อหน่วย และ อัตราผลตอบแทนระยะยาว (IRR)",
+            "quote": "5.00 | 151.5 | 757.5 | 757.5 | 0.44 | 0.48 | 8.8 | 9.6"
+          }
+        }
+      ],
+      "pro_forma_note": {
+        "value": "Projected DPU rises from 0.4411 (existing assets only, 874.1 mn units) to 0.4727 after the 9th investment in the THB 4.65 case, about +0.03 THB/unit; at THB 5.00, 0.44 to 0.48 (yield 8.8% to 9.6%). Expected IRR 15.3-16.8% at THB 4.45-5.00.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+          "line": 204,
+          "section": null,
+          "quote": "ประมาณการประโยชน์ตอบแทนต่อหน่วย (บาท) | 0.4411 | 0.4727"
+        }
+      }
+    },
+    "timeline": [
+      {
+        "event": "Unitholders' meeting 1/2568 approves 2nd capital increase",
+        "date": "2025-10-09",
+        "indicative": false,
+        "source": {
+          "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+          "line": 16,
+          "section": null,
+          "quote": "เมื่อวันที่ 9 ตุลาคม 2568"
+        }
+      },
+      {
+        "event": "Registration statement filed with SEC",
+        "date": "2026-03-11",
+        "indicative": false,
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 31,
+          "section": null,
+          "quote": "วันที่ยื่นแบบแสดงรายการข้อมูลและหนังสือชี้ชวน: วันที่ 11 มีนาคม 2569"
+        }
+      },
+      {
+        "event": "Registration statement effective",
+        "date": "2026-09-07",
+        "indicative": false,
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 32,
+          "section": null,
+          "quote": "วันที่แบบแสดงรายการข้อมูลและหนังสือชี้ชวนมีผลใช้บังคับ: 7 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Record date for existing unitholders' entitlement",
+        "date": "2026-09-15",
+        "indicative": false,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 25,
+          "section": null,
+          "quote": "วันที่ 15 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Maximum offer price announced (by)",
+        "date": "2026-09-25",
+        "indicative": true,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 21,
+          "section": null,
+          "quote": "ภายในวันที่ 25 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: existing unitholders, non-bookbuilding institutions, public/PP",
+        "date": "2026-09-28 to 2026-10-02",
+        "indicative": false,
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 36,
+          "section": null,
+          "quote": "วันที่ 28 กันยายน – 2 ตุลาคม 2569"
+        }
+      },
+      {
+        "event": "Final offer price announced (by)",
+        "date": "2026-10-02",
+        "indicative": true,
+        "source": {
+          "file": "ALLY_PO_20260901_P3-Offering.md",
+          "line": 21,
+          "section": null,
+          "quote": "ภายในวันที่ 2 ตุลาคม 2569"
+        }
+      },
+      {
+        "event": "Subscription: bookbuilding institutions and KE Group",
+        "date": "2026-10-05 to 2026-10-06",
+        "indicative": false,
+        "source": {
+          "file": "ALLY_PO_20260901_00-Cover.md",
+          "line": 38,
+          "section": null,
+          "quote": "วันที่ 5 – 6 ตุลาคม 2569"
+        }
+      },
+      {
+        "event": "Acquisition of the new assets (within 60 days after close of offering)",
+        "date": "within 60 days after offer close",
+        "indicative": true,
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 80,
+          "section": null,
+          "quote": "ภายในระยะเวลาไม่เกิน 60 วันนับแต่วันที่ปิดการเสนอขายหน่วยทรัสต์"
+        }
+      }
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 874100000,
+      "status": "found",
+      "unit": "units",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 129,
+        "section": null,
+        "quote": "จำนวนหน่วยทรัสต์ ณ สิ้นงวด | ล้านหน่วย | 874.1 | 874.1 | 874.1 | 874.1"
+      },
+      "note": "Stated as 874.1 million; consistent with 1,025.6 mn after the offer less 151.5 mn new units."
+    },
+    "units_outstanding_after_max": {
+      "value": 1025600000,
+      "status": "found",
+      "unit": "units",
+      "source": {
+        "file": "ALLY_PO_20260901_P3-Offering.md",
+        "line": 39,
+        "section": null,
+        "quote": "ไม่เกิน 1,025,600,000 หน่วย"
+      },
+      "note": "Maximum"
+    },
+    "nav_per_unit_thb": {
+      "value": 10.0582,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 124,
+        "section": null,
+        "quote": "สินทรัพย์สุทธิต่อหน่วย | บาท | 9.7656 | 9.6290 | 9.8631 | 10.0582"
+      }
+    },
+    "total_assets_before_thb_mn": {
+      "value": 13655.5,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 140,
+        "section": null,
+        "quote": "ณ วันที่ 30 มิถุนายน 2569 กองทรัสต์มีสินทรัพย์รวมอยู่ที่ 13,655.5 ล้านบาท"
+      }
+    },
+    "total_assets_after_thb_mn": {
+      "value": 15151,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 30,
+        "section": null,
+        "quote": "สินทรัพย์รวม / 15,151ล้านบาท / 15,151 ล้านบาท"
+      },
+      "note": "Pro forma on 30 Jun 2026 reviewed financials plus investment value; same in both debt cases."
+    },
+    "borrowings_before_thb_mn": {
+      "value": 3475,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 742,
+        "section": null,
+        "quote": "กองทรัสต์มีสถานะของการกู้ยืมเงินคงเหลือจากสถาบันการเงินจำนวนประมาณ 3,475 ล้านบาท"
+      }
+    },
+    "new_borrowings_thb_mn": {
+      "value": 1212.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 14,
+        "section": null,
+        "quote": "1,212,000,000 บาท"
+      },
+      "note": "Maximum; planned about THB 757.5 mn (at least 50% of THB 1,515 mn raise). Bangkok Bank indicative facility is only THB 865 mn."
+    },
+    "borrowings_after_thb_mn": {
+      "value": 4232.5,
+      "status": "derived",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 742,
+        "section": null,
+        "quote": "หรือคิดเป็นประมาณ 757.5 ล้านบาท ซึ่งจะทำให้อัตราส่วนการกู้ยืมเงินต่อสินทรัพย์รวมของกองทรัสต์อยู่ที่ประมาณร้อยละ 28"
+      },
+      "note": "3,475 (30 Jun 2026) + 757.5 planned new debt = 4,232.5; maximum-debt case 3,475 + 1,212 = 4,687."
+    },
+    "ltv_before_pct": {
+      "value": 25,
+      "status": "found",
+      "unit": "%",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 742,
+        "section": null,
+        "quote": "โดยอัตราส่วนการกู้ยืมเงินต่อสินทรัพย์รวมของกองทรัสต์ จะอยู่ที่ประมาณร้อยละ 25"
+      }
+    },
+    "ltv_after_pct": {
+      "value": 27.9,
+      "status": "found",
+      "unit": "%",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 30,
+        "section": null,
+        "quote": "สัดส่วนการกู้ยืม (ไม่รวมหนี้สินตามสัญญาเช่า) / ร้อยละ 27.9 / ร้อยละ 30.9"
+      },
+      "note": "Excl. lease liabilities, THB 757.5 mn new-debt case; 30.9% if THB 1,212 mn is borrowed. P2-03-Leasing shows 29% for the THB 4.65 reference case."
+    },
+    "ltv_limit_pct": {
+      "value": 60,
+      "status": "found",
+      "unit": "%",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 734,
+        "section": null,
+        "quote": "หรือไม่เกินร้อยละ 60 ของมูลค่าทรัพย์สินรวมสำหรับกองทรัสต์ที่อันดับความน่าเชื่อถืออยู่ในอันดับที่สามารถลงทุนได้ (Investment Grade)"
+      },
+      "note": "35% of total assets, or 60% with an investment-grade rating; ALLY rated BBB+ (Stable) by TRIS on 29 May 2026."
+    },
+    "loan_terms": {
+      "value": "Indicative offer from Bangkok Bank PCL: THB 865 mn term loan to the trustee for the new assets; interest MLR-based, average not exceeding MLR minus [1.75]% p.a. (bracketed in the filing); tenor up to 10 years from first drawdown; 12-month principal grace then quarterly amortisation. Covenants: D/E <= 1.5x (0.57x at 30 Jun 2026), loan to total assets <= 50% (25%), interest-bearing debt/EBITDA <= 5.5x (4.32x); loan-to-collateral value <= 70%; equity raise of at least THB 670 mn required. Security: business security over leasehold/sub-leasehold rights of 12 projects (CDC, TC, KAD, SRM, PLN, PHL, AMR, SRP, HPA, TZ, SMA, CHN).",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 722,
+        "section": null,
+        "quote": "วงเงินกู้รวมทั้งหมด | 865 ล้านบาท"
+      },
+      "note": "Terms are indicative and subject to negotiation; the margin 'MLR-[1.75]' is a draft placeholder in brackets."
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "TZ",
+      "name_en": "The Zone Town in Town",
+      "name_th": "โครงการศูนย์การค้า เดอะโซน ทาวน์ อิน ทาวน์",
+      "asset_type": "Community mall (multi-unit commercial buildings)",
+      "location": {
+        "address": "Both sides of Si Wara Road, Town in Town; Zone 1 near SC Park Hotel, Zone 2 opposite, next to The Scene Town in Town",
+        "address_th": "ถนนศรีวรา หน้าชุมชนทาวน์ อิน ทาวน์",
+        "subdistrict": "Phlapphla (deeds 9621-9623); head leases on deeds 186980/186981 cite Wang Thonglang subdistrict",
+        "district": "Wang Thonglang (deeds 9621-9623); deeds 186980/186981 cite Bang Kapi district",
+        "province": "Bangkok",
+        "zone": "Town in Town / Lat Phrao 94, east-central Bangkok",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 839,
+          "section": null,
+          "quote": "ซึ่งตั้งอยู่ถนนศรีวรา แขวงพลับพลา เขตวังทองหลาง กรุงเทพมหานคร"
+        }
+      },
+      "investment_type": {
+        "value": "Sub-leasehold",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 78,
+          "section": null,
+          "quote": "สิทธิการเช่าช่วงที่ดินบางส่วนซึ่งเป็นที่ตั้งของโครงการ เดอะโซน ทาวน์ อิน ทาวน์"
+        },
+        "note": "Sub-lease of part of the land, lease of part of the buildings, common and parking areas for about 25 years, plus ownership of M&E systems and movables."
+      },
+      "components": [
+        {
+          "component": "Land (part, 5-2-28.10 rai)",
+          "right": "Sub-leasehold",
+          "tenure_years": 25,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 79,
+            "section": null,
+            "quote": "มีกำหนดระยะเวลาในการเช่าช่วงที่ดิน เช่าอาคารและสิ่งปลูกสร้างประมาณ 25 ปี นับจากวันที่กองทรัสต์เข้าลงทุน"
+          }
+        },
+        {
+          "component": "Buildings (Zone 1 A-B, Zone 2), common area and parking",
+          "right": "Leasehold",
+          "tenure_years": 25,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 873,
+            "section": null,
+            "quote": "มีกำหนดระยะเวลา 25 ปี นับตั้งแต่วันจดทะเบียนสิทธิการเช่าตามที่กำหนดในสัญญาฉบับนี้"
+          }
+        },
+        {
+          "component": "M&E systems and movable assets",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 78,
+            "section": null,
+            "quote": "กรรมสิทธิ์ในงานระบบ"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": 25,
+        "status": "found",
+        "unit": "years",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 79,
+          "section": null,
+          "quote": "ประมาณ 25 ปี นับจากวันที่กองทรัสต์เข้าลงทุน"
+        }
+      },
+      "lease_start": {
+        "value": null,
+        "status": "not_found",
+        "note": "Starts on the lease registration (investment) date, expected within 60 days after the offering closes (appraisals assume 1 Jul 2026); no fixed date in filing."
+      },
+      "lease_expiry": {
+        "value": null,
+        "status": "not_found",
+        "note": "25 years from the registration date; exact date not stated. Head land leases (expiring 2034-2046) must be extended to cover 25 years as a condition precedent."
+      },
+      "land_area": {
+        "value_sqm": 8912.4,
+        "as_filed": "5-2-28.10 rai",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 78,
+          "section": null,
+          "quote": "มีเนื้อที่ดินตามสัญญาเช่ารวม 5 ไร่ 2 งาน 28.10 ตารางวา"
+        },
+        "note": "5x1,600 + 2x400 + 28.10x4 sqm. Deed numbers differ between sections (9621, 9622, 9623, 9696, 9697 vs head leases on 186980, 186981, 9621-9623); head-lease areas (251 + 499 + 1,478.1 sq.wa) sum to the same 2,228.1 sq.wa."
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 10533,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 40,
+            "section": null,
+            "quote": "พื้นที่ใช้สอยภายในอาคาร/2 (GFA) | 11,243 | 10,533"
+          },
+          "note": "Trust's portion (93.7% of project GFA 11,243 sqm); 15,007 sqm including 4,474 sqm parking (about 112 cars)."
+        },
+        "leasable_sqm": {
+          "value": 9989,
+          "status": "found",
+          "unit": "sqm",
+          "as_of": "2025-12-31",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 41,
+            "section": null,
+            "quote": "พื้นที่ให้เช่าสุทธิ/3 (NLA) | 10,699 | 9,989"
+          }
+        },
+        "rooms": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Retail asset"
+        },
+        "buildings": {
+          "value": 8,
+          "status": "found",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-02-Policy.md",
+            "line": 28,
+            "section": null,
+            "quote": "เป็นเข้าลงทุนในอาคารในโซน 1 จำนวน 2 หลัง และโซน 2 จำนวน 6 หลัง"
+          },
+          "note": "Zone 1: two 4-storey buildings (A, B); Zone 2: buildings A-D, Izakaya building and a steel-frame FT building. Zone 3 and Zone 1 building C excluded."
+        }
+      },
+      "completion_or_age": {
+        "value": "First zone opened 2Q2014; invested buildings about 3-11 years old",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 16,
+          "section": null,
+          "quote": "เริ่มเปิดดำเนินการโซนแรกในไตรมาสที่ 2 ปี 2557"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "Fah Bandan Sap Co., Ltd.: head lessee of the land from individual owners, owner of buildings, M&E and movables; sub-lessor/lessor and seller to the trust",
+        "status": "found",
+        "value_th": "บริษัท ฟ้าบันดาลทรัพย์ จำกัด",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 74,
+          "section": null,
+          "quote": "(ไม่รวมที่ดินและอาคารบริเวณโซน 3 และอาคาร C ของโซน 1) กับ บจ. ฟ้าบันดาลทรัพย์"
+        },
+        "note": "Relationship to KE Group or the REIT manager is not stated in the text filings."
+      },
+      "acquisition_price_thb_mn": {
+        "value": 224.8,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 631,
+          "section": "ราคาที่จะลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "โครงการเดอะโซน ทาวน์ อิน ทาวน์ | 343.17 | 314.70 | 314.70 | 224.80/3 | ร้อยละ 28.57"
+        },
+        "note": "Maximum, excluding fees/VAT/stamp duty; 28.57% below the lower appraisal. Value is net of prepaid monthly land rent for the part not invested. Monthly land rent is payable on top."
+      },
+      "appraisals": [
+        {
+          "appraiser": "Advance Appraisal Co., Ltd. (AA)",
+          "valuation_date": "2026-01-07",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 343.17,
+          "discount_rate_pct": 9.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection 1 Jul 2026-30 Jun 2051; NLA 9,988.69 sqm; occupancy 98.4% throughout; year-1 rent 327.85 THB/sqm/month; rent growth 3.00% p.a.; total land rent about THB 333.78 mn; PM fee 3% of revenue + 7% of NOI; capex reserve 3% of revenue",
+          "note": "Report date 7 Jan 2026; value date 1 Jul 2026 (expected investment date). No terminal value (leasehold).",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 495,
+            "section": "สรุปสาระสำคัญของรายงานการประเมิน",
+            "quote": "โครงการเดอะโซน ทาวน์ อิน ทาวน์ | 343.17 | 314.70 | 7 ม.ค. 2569 | 1 พ.ย. 2568 | 1 ก.ค. 2569"
+          }
+        },
+        {
+          "appraiser": "KTAC Appraisal and Service Co., Ltd. (KTAC)",
+          "valuation_date": "2025-11-01",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 314.7,
+          "discount_rate_pct": 10.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection 1 Jul 2026-30 Jun 2051; NLA 9,988.69 sqm; occupancy 90.00% throughout; year-1 rent 345.92 THB/sqm/month; rent growth 2.83% p.a.; total land rent about THB 331.41 mn; capex reserve 3% of revenue",
+          "note": "Report date 1 Nov 2025; value date 1 Jul 2026. No terminal value (leasehold).",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 495,
+            "section": "สรุปสาระสำคัญของรายงานการประเมิน",
+            "quote": "โครงการเดอะโซน ทาวน์ อิน ทาวน์ | 343.17 | 314.70 | 7 ม.ค. 2569 | 1 พ.ย. 2568 | 1 ก.ค. 2569"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "FY2022",
+          "occupancy_pct": 88.3,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 91,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 88.3 | ร้อยละ 94.4 | ร้อยละ 78.9/1 | ร้อยละ 94.8"
+          }
+        },
+        {
+          "as_of": "FY2023",
+          "occupancy_pct": 94.4,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 91,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 88.3 | ร้อยละ 94.4 | ร้อยละ 78.9/1 | ร้อยละ 94.8"
+          }
+        },
+        {
+          "as_of": "FY2024",
+          "occupancy_pct": 78.9,
+          "basis": "average leased NLA (some tenants terminated Dec 2024; re-let 2Q2025)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 91,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 88.3 | ร้อยละ 94.4 | ร้อยละ 78.9/1 | ร้อยละ 94.8"
+          }
+        },
+        {
+          "as_of": "FY2025",
+          "occupancy_pct": 94.8,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 91,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 88.3 | ร้อยละ 94.4 | ร้อยละ 78.9/1 | ร้อยละ 94.8"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2022",
+          "is_projection": false,
+          "revenue_thb_mn": 40.97,
+          "noi_thb_mn": 28.46,
+          "noi_definition": "Net profit of the invested area, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 88.3,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 285,
+          "other_metrics": "NLA 8,574 sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 88,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "รายได้รวม (ล้านบาท) | 40.97 | 51.83 | 55.97 | 56.2"
+          }
+        },
+        {
+          "period": "FY2023",
+          "is_projection": false,
+          "revenue_thb_mn": 51.83,
+          "noi_thb_mn": 36.38,
+          "noi_definition": "Net profit of the invested area, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 94.4,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 311,
+          "other_metrics": "NLA 9,989 sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 88,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "รายได้รวม (ล้านบาท) | 40.97 | 51.83 | 55.97 | 56.2"
+          }
+        },
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 55.97,
+          "noi_thb_mn": 40.48,
+          "noi_definition": "Net profit of the invested area, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 78.9,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 313,
+          "other_metrics": "NLA 9,989 sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 88,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "รายได้รวม (ล้านบาท) | 40.97 | 51.83 | 55.97 | 56.2"
+          }
+        },
+        {
+          "period": "FY2025",
+          "is_projection": false,
+          "revenue_thb_mn": 56.2,
+          "noi_thb_mn": 39.6,
+          "noi_definition": "Net profit of the invested area, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 94.8,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 352,
+          "other_metrics": "NLA 9,989 sqm; net margin 70.7%",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 88,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ เดอะโซน ทาวน์ อิน ทาวน์",
+            "quote": "รายได้รวม (ล้านบาท) | 40.97 | 51.83 | 55.97 | 56.2"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Direct leases and service agreements between the trust (via trustee) and tenants, typically 1-3 years, deposits 2-4 months; 100% fixed rent; anchor tenants (>=500 sqm) 52.8% of rental revenue; monthly land rent paid via the sub-lessor with step-in rights.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 139,
+          "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+          "quote": "สัญญาเช่าอัตราคงที่ (Fixed Rent) | ร้อยละ 100.0"
+        }
+      },
+      "rental_guarantee": {
+        "value": null,
+        "status": "not_found",
+        "note": "No rental guarantee disclosed in the text filings."
+      },
+      "key_tenants": [
+        {
+          "name": "Dech Popiang Co., Ltd.",
+          "name_th": "บริษัท เดช พอเพียง จำกัด",
+          "business": "Food & beverage / real estate agent",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 42.4,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 119,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท เดช พอเพียง จำกัด | อาหารและเครื่องดื่ม / ตัวแทนอสังหาริมทรัพย์ | ร้อยละ 42.4"
+          }
+        },
+        {
+          "name": "Hong Kong Cha Chan Teng Co., Ltd.",
+          "name_th": "บริษัท ฮ่องกง ฉ่า ชาน เทง จำกัด",
+          "business": "Food & beverage",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 6.8,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 120,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท ฮ่องกง ฉ่า ชาน เทง จำกัด | อาหารและเครื่องดื่ม | ร้อยละ 6.8"
+          }
+        },
+        {
+          "name": "Big Gym Bangkok Co., Ltd.",
+          "name_th": "บริษัท บิ๊กยิม แบ็งคอก จำกัด",
+          "business": "Fitness",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 6.5,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 121,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท บิ๊กยิม แบ็งคอก จำกัด | ศูนย์ออกกำลังกาย | ร้อยละ 6.5"
+          }
+        },
+        {
+          "name": "Hi-Sol Beauty Co., Ltd.",
+          "name_th": "บริษัท ไฮโซล บิวตี้ จำกัด",
+          "business": "Health & beauty",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 4.0,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 122,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท ไฮโซล บิวตี้ จำกัด | สุขภาพและความงาม | ร้อยละ 4.0"
+          }
+        },
+        {
+          "name": "C.P. Extra Co., Ltd.",
+          "name_th": "บริษัท ซี.พี.เอ็กตร้า จำกัด",
+          "business": "Supermarket",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.8,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 123,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท ซี.พี.เอ็กตร้า จำกัด | ซูเปอร์มาร์เก็ต | ร้อยละ 3.8"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "High: top tenant Dech Popiang Co., Ltd. 42.4% of rental and service revenue; top 5 tenants 63.5% (derived); anchors 52.8%; F&B 37.1%.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 119,
+          "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+          "quote": "บริษัท เดช พอเพียง จำกัด | อาหารและเครื่องดื่ม / ตัวแทนอสังหาริมทรัพย์ | ร้อยละ 42.4"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "2026",
+          "pct": 38.6,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 147,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2569 | ร้อยละ 38.6"
+          }
+        },
+        {
+          "period": "2027",
+          "pct": 13.4,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 148,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2570 | ร้อยละ 13.4"
+          }
+        },
+        {
+          "period": "2028",
+          "pct": 44.1,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 149,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2571 | ร้อยละ 44.1"
+          }
+        },
+        {
+          "period": "2029 onwards",
+          "pct": 3.8,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 150,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ เดอะโซน ทาวน์ อิน ทาวน์ ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2572 เป็นต้นไป | ร้อยละ 3.8"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": null,
+        "status": "not_found",
+        "note": "Asset-level WALE not disclosed in the text filings."
+      },
+      "encumbrances": {
+        "value": "Four head land leases expiring 2034-2046 must be registered for extension to cover the trust's 25-year term (condition precedent). The trust pays monthly land rent via the sub-lessor, with step-in rights if the sub-lessor defaults on the head leases. Leasehold rights are to be pledged as business security to the lender. No disputes or use restrictions reported (section 3.2.2: none).",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 808,
+          "section": null,
+          "quote": "โดยการจดทะเบียนขยายระยะเวลาการเช่าดังกล่าวเป็นเงื่อนไขก่อนการเข้าลงทุนของกองทรัสต์"
+        }
+      },
+      "notes": [
+        "Partial investment: Zone 1 (buildings A, B) and Zone 2 only; Zone 3 and Zone 1 building C excluded. Scope was cut from the unitholder-meeting version (Zone 1 three buildings, Zone 2 six, Zone 3 three).",
+        "Makro Foodservice holds 8 Zone 1 units on long-term leasehold ('เซ้งระยะยาว') per the general description.",
+        "Fact Sheet: TZ tenant renewal rate 50.7% in 2025; 1,273 sqm (43.6% of leases) in Zone 2 building A not renewed, fully re-let by 31 Mar 2026.",
+        "Appraisal-report and valuation-date details: AA report 7 Jan 2026, KTAC report 1 Nov 2025; historical rent CAGR 7.29% (2022-2025) vs assumed 2.83-3.00%."
+      ]
+    },
+    {
+      "asset_id": "SMA",
+      "name_en": "Sai Mai Avenue",
+      "name_th": "โครงการศูนย์การค้า สายไหม อเวนิว",
+      "asset_type": "Community mall",
+      "location": {
+        "address": "Sai Mai Road between Soi Sai Mai 78 and 80, next to Sarasas Witaed School, opposite CGH Sai Mai Hospital",
+        "address_th": "ริมถนนสายไหม ระหว่างซอยสายไหม 78 และ 80",
+        "subdistrict": "Sai Mai",
+        "district": "Sai Mai",
+        "province": "Bangkok",
+        "zone": "Sai Mai, northern Bangkok",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 941,
+          "section": null,
+          "quote": "ซึ่งตั้งอยู่ตำบลสายไหม อำเภอสายไหม กรุงเทพมหานคร"
+        }
+      },
+      "investment_type": {
+        "value": "Sub-leasehold",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 230,
+          "section": null,
+          "quote": "สิทธิการเช่าช่วงที่ดินบางส่วนซึ่งเป็นที่ตั้งของโครงการ ประกอบด้วยโฉนดที่ดิน 3 โฉนด"
+        },
+        "note": "Sub-lease of land (3 deeds), lease of buildings, common and parking areas for about 25 years, plus ownership of M&E systems and movables. Part of the land sits under a usufruct."
+      },
+      "components": [
+        {
+          "component": "Land (deeds 23097, 23099, 53676; 19-2-2.78 rai)",
+          "right": "Sub-leasehold",
+          "tenure_years": 25,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 231,
+            "section": null,
+            "quote": "มีกำหนดระยะเวลาในการเช่าช่วงที่ดิน เช่าอาคารและสิ่งปลูกสร้างประมาณ 25 ปี นับจากวันที่กองทรัสต์เข้าลงทุน"
+          }
+        },
+        {
+          "component": "Buildings, common area and parking",
+          "right": "Leasehold",
+          "tenure_years": 25,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 1007,
+            "section": null,
+            "quote": "มีกำหนดระยะเวลา 25 ปี นับตั้งแต่วันจดทะเบียนสิทธิการเช่าตามที่กำหนดในสัญญาฉบับนี้"
+          }
+        },
+        {
+          "component": "M&E systems and movable assets",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 230,
+            "section": null,
+            "quote": "กรรมสิทธิ์ในงานระบบ"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": 25,
+        "status": "found",
+        "unit": "years",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 231,
+          "section": null,
+          "quote": "ประมาณ 25 ปี นับจากวันที่กองทรัสต์เข้าลงทุน"
+        }
+      },
+      "lease_start": {
+        "value": null,
+        "status": "not_found",
+        "note": "Starts on the lease registration (investment) date, expected within 60 days after the offering closes (appraisals assume 1 Jul 2026); no fixed date in filing."
+      },
+      "lease_expiry": {
+        "value": null,
+        "status": "not_found",
+        "note": "25 years from the registration date; exact date not stated. Head land leases (ending 30 Nov 2045 / 31 Dec 2048) must be extended to cover 25 years as a condition precedent."
+      },
+      "land_area": {
+        "value_sqm": 31211.12,
+        "as_filed": "19-2-2.78 rai",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 230,
+          "section": null,
+          "quote": "มีเนื้อที่ดินตามสัญญาเช่ารวม 19 ไร่ 2 งาน 2.78 ตารางวา"
+        },
+        "note": "19x1,600 + 2x400 + 2.78x4 sqm; equals head-lease areas 1,847.2 + 5,600 + 355.58 sq.wa."
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 13754,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 182,
+            "section": null,
+            "quote": "พื้นที่ใช้สอยภายในอาคาร/1 (GFA) | 13,754 | 13,754"
+          },
+          "note": "100% of project GFA; 20,926 sqm including 7,172 sqm parking (about 177 cars)."
+        },
+        "leasable_sqm": {
+          "value": 10007,
+          "status": "found",
+          "unit": "sqm",
+          "as_of": "2025-12-31",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 183,
+            "section": null,
+            "quote": "พื้นที่ให้เช่าสุทธิ/2 (NLA) | 10,007 | 10,007"
+          }
+        },
+        "rooms": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Retail asset"
+        },
+        "buildings": {
+          "value": 19,
+          "status": "ambiguous",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 201,
+            "section": null,
+            "quote": "อาคาร B2 และ B3 | 1,293 | 5"
+          },
+          "note": "Building count not stated; the table lists 18 rows (A1-H2 plus a control room) with B2 and B3 sharing one row, i.e. 19 structures including a 28 sqm control-room building."
+        }
+      },
+      "completion_or_age": {
+        "value": "Opened 2Q2022; buildings about 5 years old (H1/H2 about 1 year)",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 159,
+          "section": null,
+          "quote": "โครงการ สายไหม อเวนิว เริ่มเปิดให้ดำเนินการในไตรมาสที่ 2 ปี 2565"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "Fah Bandan Sap Co., Ltd.: head lessee of deeds 23097/23099 from the usufructuary and of deed 53676 from individual owners; owner of buildings and movables; sub-lessor/lessor and seller to the trust",
+        "status": "found",
+        "value_th": "บริษัท ฟ้าบันดาลทรัพย์ จำกัด",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 226,
+          "section": null,
+          "quote": "บริษัท ฟ้าบันดาลทรัพย์ จำกัด (“บจ. ฟ้าบันดาลทรัพย์”) เป็นผู้ทรงสิทธิการเช่าที่ดินจากผู้ทรงสิทธิเก็บกินดังกล่าว"
+        },
+        "note": "Relationship to KE Group or the REIT manager is not stated in the text filings."
+      },
+      "acquisition_price_thb_mn": {
+        "value": 471.0,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 632,
+          "section": "ราคาที่จะลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "537.60 | 537.60 | 471.00 | ร้อยละ 12.39"
+        },
+        "note": "Maximum, excluding fees/VAT/stamp duty; 12.39% below the lower appraisal. Monthly land rent is payable on top."
+      },
+      "appraisals": [
+        {
+          "appraiser": "Advance Appraisal Co., Ltd. (AA)",
+          "valuation_date": "2026-01-23",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 561.1,
+          "discount_rate_pct": 9.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection 1 Jul 2026-30 Jun 2051; NLA 10,007.49 sqm; occupancy 97.06%; year-1 rent 469.75 THB/sqm/month; rent growth 3.00% p.a.; total land rent about THB 137.67 mn; repairs 6.5% of revenue; capex reserve 3%",
+          "note": "Report date 23 Jan 2026; value date 1 Jul 2026. No terminal value (leasehold).",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 496,
+            "section": "สรุปสาระสำคัญของรายงานการประเมิน",
+            "quote": "561.10 | 537.60 | 23 ม.ค. 2569 | 1 พ.ย. 2568 | 1 ก.ค. 2569"
+          }
+        },
+        {
+          "appraiser": "KTAC Appraisal and Service Co., Ltd. (KTAC)",
+          "valuation_date": "2025-11-01",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 537.6,
+          "discount_rate_pct": 10.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection 1 Jul 2026-30 Jun 2051; NLA 10,007.49 sqm; occupancy 93.60%; year-1 rent 467.64 THB/sqm/month; rent growth about 3.44% p.a.; total land rent about THB 137.67 mn; capex reserve 3%",
+          "note": "Report date 1 Nov 2025; value date 1 Jul 2026. No terminal value (leasehold).",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 496,
+            "section": "สรุปสาระสำคัญของรายงานการประเมิน",
+            "quote": "561.10 | 537.60 | 23 ม.ค. 2569 | 1 พ.ย. 2568 | 1 ก.ค. 2569"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "FY2022",
+          "occupancy_pct": 99.1,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 243,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 99.1 | ร้อยละ 96.9 | ร้อยละ 92.9 | ร้อยละ 99.4"
+          }
+        },
+        {
+          "as_of": "FY2023",
+          "occupancy_pct": 96.9,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 243,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 99.1 | ร้อยละ 96.9 | ร้อยละ 92.9 | ร้อยละ 99.4"
+          }
+        },
+        {
+          "as_of": "FY2024",
+          "occupancy_pct": 92.9,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 243,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 99.1 | ร้อยละ 96.9 | ร้อยละ 92.9 | ร้อยละ 99.4"
+          }
+        },
+        {
+          "as_of": "FY2025",
+          "occupancy_pct": 99.4,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 243,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 99.1 | ร้อยละ 96.9 | ร้อยละ 92.9 | ร้อยละ 99.4"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2022",
+          "is_projection": false,
+          "revenue_thb_mn": 61.71,
+          "noi_thb_mn": 23.95,
+          "noi_definition": "Net profit, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 99.1,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 455,
+          "other_metrics": "Partial year (opened 2Q2022); NLA 9,036 sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 240,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "รายได้รวม (ล้านบาท) | 61.71/1 | 101.23 | 93.52 | 99.29"
+          }
+        },
+        {
+          "period": "FY2023",
+          "is_projection": false,
+          "revenue_thb_mn": 101.23,
+          "noi_thb_mn": 53.65,
+          "noi_definition": "Net profit, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 96.9,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 445,
+          "other_metrics": "NLA 9,036 sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 240,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "รายได้รวม (ล้านบาท) | 61.71/1 | 101.23 | 93.52 | 99.29"
+          }
+        },
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 93.52,
+          "noi_thb_mn": 53.04,
+          "noi_definition": "Net profit, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 92.9,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 448,
+          "other_metrics": "NLA 10,007 sqm after converting temporary and food-court areas",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 240,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "รายได้รวม (ล้านบาท) | 61.71/1 | 101.23 | 93.52 | 99.29"
+          }
+        },
+        {
+          "period": "FY2025",
+          "is_projection": false,
+          "revenue_thb_mn": 99.29,
+          "noi_thb_mn": 58.88,
+          "noi_definition": "Net profit, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 99.4,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 472,
+          "other_metrics": "NLA 10,007 sqm; net margin 59.3%",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 240,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ สายไหม อเวนิว",
+            "quote": "รายได้รวม (ล้านบาท) | 61.71/1 | 101.23 | 93.52 | 99.29"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Direct leases and service agreements between the trust (via trustee) and tenants, typically 1-3 years, deposits 2-4 months; fixed rent 92.4% and GP rent 7.6% of rental revenue; anchors 18.2%; monthly land rent paid via the sub-lessor with step-in rights.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 291,
+          "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+          "quote": "สัญญาเช่าอัตราคงที่ (Fixed Rent) | ร้อยละ 92.4"
+        }
+      },
+      "rental_guarantee": {
+        "value": null,
+        "status": "not_found",
+        "note": "No rental guarantee disclosed in the text filings."
+      },
+      "key_tenants": [
+        {
+          "name": "Fitness & Lifestyle Group Co., Ltd.",
+          "name_th": "บริษัท ฟิตเนส แอนด์ ไลฟ์สไตส์ กรุ๊ป จำกัด",
+          "business": "Fitness",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 6.6,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 271,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท ฟิตเนส แอนด์ ไลฟ์สไตส์ กรุ๊ป จำกัด | ศูนย์ออกกำลังกาย | ร้อยละ 6.6"
+          }
+        },
+        {
+          "name": "BNN Restaurant Group Co., Ltd.",
+          "name_th": "บริษัท บี เอ็น เอ็น เรสเตอรองท์ กรุ๊ป จำกัด",
+          "business": "Food & beverage",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 4.4,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 272,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท บี เอ็น เอ็น เรสเตอรองท์ กรุ๊ป จำกัด | อาหารและเครื่องดื่ม | ร้อยละ 4.4"
+          }
+        },
+        {
+          "name": "Central Food Retail Co., Ltd.",
+          "name_th": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด",
+          "business": "Supermarket",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.6,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 273,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท เซ็นทรัล ฟู้ด รีเทล จำกัด | ซูเปอร์มาร์เก็ต | ร้อยละ 3.6"
+          }
+        },
+        {
+          "name": "Mr. D.I.Y. (Bangkok) Co., Ltd.",
+          "name_th": "บริษัท มิสเตอร์ ดี.ไอ.วาย. (กรุงเทพ) จำกัด",
+          "business": "Lifestyle",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.6,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 274,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท มิสเตอร์ ดี.ไอ.วาย. (กรุงเทพ) จำกัด | ไลฟ์สไตล์ | ร้อยละ 3.6"
+          }
+        },
+        {
+          "name": "Seko N Co., Ltd.",
+          "name_th": "บริษัท เซโกะ เอ็น จำกัด",
+          "business": "Food & beverage",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.2,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 275,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท เซโกะ เอ็น จำกัด | อาหารและเครื่องดื่ม | ร้อยละ 3.2"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "Low: largest tenant 6.6% of rental and service revenue; top 5 tenants 21.4% (derived); F&B 51.0% of revenue.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 271,
+          "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+          "quote": "บริษัท ฟิตเนส แอนด์ ไลฟ์สไตส์ กรุ๊ป จำกัด | ศูนย์ออกกำลังกาย | ร้อยละ 6.6"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "2026",
+          "pct": 4.2,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 299,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2569 | ร้อยละ 4.2"
+          }
+        },
+        {
+          "period": "2027",
+          "pct": 16.9,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 300,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2570 | ร้อยละ 16.9"
+          }
+        },
+        {
+          "period": "2028",
+          "pct": 71.3,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 301,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2571 | ร้อยละ 71.3"
+          }
+        },
+        {
+          "period": "2029 onwards",
+          "pct": 7.6,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 302,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ สายไหม อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2572 เป็นต้นไป | ร้อยละ 7.6"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": null,
+        "status": "not_found",
+        "note": "Asset-level WALE not disclosed in the text filings."
+      },
+      "encumbrances": {
+        "value": "Deeds 23097/23099 are owned by an individual with another individual holding a usufruct; the head lessee's rights derive from that usufruct (risk heading: reliance on lessor's usufruct). Head land leases end 30 Nov 2045 and 31 Dec 2048 and must be registered for extension to cover 25 years (condition precedent); step-in rights on head leases; leasehold to be pledged as business security to the lender; no disputes reported.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 942,
+          "section": null,
+          "quote": "25 ปี เริ่มตั้งแต่วันที่ 1 ธันวาคม 2563 ถึงวันที่ 30 พฤศจิกายน 2588"
+        }
+      },
+      "notes": [
+        "71.3% of Dec-2025 rental revenue expires in 2028.",
+        "Appraisers assume 3.00-3.44% rent growth vs a 2022-2025 historical rent CAGR of 1.23%; the manager cites the start-up phase and the 12.39% discount to the lower appraisal.",
+        "BSK (T10 property manager) also manages Village Hub Sai Mai about 2.3 km from SMA; the trust cancelled its planned investment in that project on 7 May 2026."
+      ]
+    },
+    {
+      "asset_id": "CHN",
+      "name_en": "Charn at The Avenue",
+      "name_th": "โครงการศูนย์การค้า ชาน แอท ดิ อเวนิว",
+      "asset_type": "Community mall",
+      "location": {
+        "address": "Chaeng Watthana Road, on the former The Avenue Chaengwattana site, about 100 m from MRT Pink Line Chaeng Watthana 14 station",
+        "address_th": "ติดถนนแจ้งวัฒนะ",
+        "subdistrict": "Thung Song Hong",
+        "district": "Lak Si",
+        "province": "Bangkok",
+        "zone": "Chaeng Watthana, northern Bangkok",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 1072,
+          "section": null,
+          "quote": "ซึ่งตั้งอยู่ที่ ตำบลทุ่งสองห้อง อำเภอหลักสี่ กรุงเทพมหานคร"
+        }
+      },
+      "investment_type": {
+        "value": "Leasehold",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 375,
+          "section": null,
+          "quote": "สิทธิการเช่าที่ดินซึ่งเป็นที่ตั้งของโครงการ ประกอบด้วยโฉนดที่ดิน 19 โฉนด"
+        },
+        "note": "30-year lease of land (19 deeds), buildings, common and parking areas from Thanarom Co., Ltd. as usufructuary, plus ownership of M&E systems and movables."
+      },
+      "components": [
+        {
+          "component": "Land (19 deeds, 16-1-49.30 rai)",
+          "right": "Leasehold",
+          "tenure_years": 30,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 376,
+            "section": null,
+            "quote": "มีกำหนดระยะเวลาในสิทธิการเช่าที่ดิน เช่าอาคารและสิ่งปลูกสร้างประมาณ 30 ปี นับจากวันที่กองทรัสต์เข้าลงทุน"
+          }
+        },
+        {
+          "component": "Buildings A-G, common area and parking",
+          "right": "Leasehold",
+          "tenure_years": 30,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 1086,
+            "section": null,
+            "quote": "มีกำหนดระยะเวลา 30 ปี นับตั้งแต่วันจดทะเบียนสิทธิการเช่าตามที่กำหนดในสัญญาฉบับนี้"
+          }
+        },
+        {
+          "component": "M&E systems and movable assets",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 375,
+            "section": null,
+            "quote": "กรรมสิทธิ์ในงานระบบ"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": 30,
+        "status": "found",
+        "unit": "years",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 376,
+          "section": null,
+          "quote": "ประมาณ 30 ปี นับจากวันที่กองทรัสต์เข้าลงทุน"
+        }
+      },
+      "lease_start": {
+        "value": null,
+        "status": "not_found",
+        "note": "Starts on the lease registration (investment) date, the same day the 30-year usufruct is registered; expected within 60 days after the offering closes (appraisals assume 1 Jul 2026)."
+      },
+      "lease_expiry": {
+        "value": null,
+        "status": "not_found",
+        "note": "30 years from the registration date; exact date not stated. The contract table gives the usufruct end date as 31 Dec 2048 (B.E. 2591), which conflicts with a 30-year usufruct starting on the investment date (see ambiguities)."
+      },
+      "land_area": {
+        "value_sqm": 26197.2,
+        "as_filed": "16-1-49.30 rai",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 375,
+          "section": null,
+          "quote": "มีเนื้อที่ดินตามสัญญาเช่ารวม 16 ไร่ 1 งาน 49.30 ตารางวา"
+        },
+        "note": "16x1,600 + 1x400 + 49.30x4 sqm."
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 43939,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 338,
+            "section": null,
+            "quote": "พื้นที่ใช้สอยภายในอาคาร/1 (GFA) | 43,939 | 43,939"
+          },
+          "note": "100% of project GFA; 49,157 sqm including 5,174 sqm parking (about 218 cars) and 44 sqm link bridges."
+        },
+        "leasable_sqm": {
+          "value": 19747,
+          "status": "found",
+          "unit": "sqm",
+          "as_of": "2025-12-31",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 339,
+            "section": null,
+            "quote": "พื้นที่ให้เช่าสุทธิ/2 (NLA) | 19,747 | 19,747"
+          }
+        },
+        "rooms": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Retail asset"
+        },
+        "buildings": {
+          "value": 7,
+          "status": "derived",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 355,
+            "section": null,
+            "quote": "อาคาร B C และ D ค.ส.ล. 3 ชั้น | 8,262 | 21"
+          },
+          "note": "Counted from the building table: A, B, C, D (B-D share a row), E, F, G, all 3-storey reinforced concrete."
+        }
+      },
+      "completion_or_age": {
+        "value": "Opened 2Q2024 as a renovated version of the former The Avenue Chaengwattana; buildings about 21 years (A-D) and 35 years (E-G) old per the owner",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 309,
+          "section": null,
+          "quote": "เริ่มเปิดให้ดำเนินการในไตรมาสที่ 2 ปี 2567"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "Thanarom Co., Ltd.: lessor as 30-year usufructuary of the land and buildings (usufruct from individual owners, registered on the investment date); Thanarom and Excelsus Group Co., Ltd. sell the movables",
+        "status": "found",
+        "value_th": "บริษัท ธนารมณ์ จำกัด / บริษัท เอ็กเซลซัส กรุ๊ป จำกัด",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 371,
+          "section": null,
+          "quote": "กองทรัสต์จะเข้าทำสัญญาเช่าที่ดิน อาคาร และสิ่งปลูกสร้างทั้งหมดที่เป็นที่ตั้งของโครงการ ชาน แอท ดิ อเวนิว กับ บจ. ธนารมณ์"
+        },
+        "note": "Existing lease and sub-lease (Thanarom, Excelsus) to be cancelled before investment. Relationship to KE Group or the REIT manager is not stated in the text filings."
+      },
+      "acquisition_price_thb_mn": {
+        "value": 800.0,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 633,
+          "section": "ราคาที่จะลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "960.34 | 864.50 | 864.50 | 800.00/4 | ร้อยละ 7.46"
+        },
+        "note": "Maximum: THB 780.0 mn on registration plus THB 20.0 mn 24 months after registration; 7.46% below the lower appraisal. Monthly land rent to the usufructuary is payable on top."
+      },
+      "appraisals": [
+        {
+          "appraiser": "Advance Appraisal Co., Ltd. (AA)",
+          "valuation_date": "2026-01-13",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 960.34,
+          "discount_rate_pct": 9.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection 1 Jul 2026-30 Jun 2056; NLA 19,769.73 sqm; occupancy 97.74%; year-1 rent 498.26 THB/sqm/month; rent growth 3.00% p.a.; land and parking rent about THB 1,093.17 mn in total; PM fee THB 6 mn p.a. in years 1-3; capex reserve 3%",
+          "note": "Report date 13 Jan 2026; value date 1 Jul 2026. No terminal value (leasehold).",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 497,
+            "section": "สรุปสาระสำคัญของรายงานการประเมิน",
+            "quote": "960.34 | 864.50 | 13 ม.ค. 2569 | 1 พ.ย. 2568 | 1 ก.ค. 2569"
+          }
+        },
+        {
+          "appraiser": "KTAC Appraisal and Service Co., Ltd. (KTAC)",
+          "valuation_date": "2025-11-01",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 864.5,
+          "discount_rate_pct": 9.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection 1 Jul 2026-30 Jun 2056; NLA 19,769.73 sqm; occupancy 97.12% in years 1-2, then 95.77%; year-1 rent 479.25 THB/sqm/month; rent growth about 2.81% p.a.; land and parking rent about THB 1,093.17 mn; no capex reserve",
+          "note": "Report date 1 Nov 2025; value date 1 Jul 2026. No terminal value (leasehold).",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 497,
+            "section": "สรุปสาระสำคัญของรายงานการประเมิน",
+            "quote": "960.34 | 864.50 | 13 ม.ค. 2569 | 1 พ.ย. 2568 | 1 ก.ค. 2569"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "FY2024",
+          "occupancy_pct": 91.5,
+          "basis": "average leased NLA (opened 2Q2024)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 388,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ ชาน แอท ดิ อเวนิว",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 91.5 | ร้อยละ 98.0"
+          }
+        },
+        {
+          "as_of": "FY2025",
+          "occupancy_pct": 98.0,
+          "basis": "average leased NLA",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 388,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ ชาน แอท ดิ อเวนิว",
+            "quote": "อัตราการเช่าพื้นที่เฉลี่ย | ร้อยละ 91.5 | ร้อยละ 98.0"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 85.03,
+          "noi_thb_mn": 38.54,
+          "noi_definition": "Net profit, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 91.5,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 441,
+          "other_metrics": "Partial year (opened 2Q2024); NLA 19,767 sqm",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 385,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ ชาน แอท ดิ อเวนิว",
+            "quote": "รายได้รวม (ล้านบาท) | 85.03 | 164.34"
+          }
+        },
+        {
+          "period": "FY2025",
+          "is_projection": false,
+          "revenue_thb_mn": 164.34,
+          "noi_thb_mn": 72.65,
+          "noi_definition": "Net profit, pre-transfer, adjusted to the post-acquisition operating structure (unaudited project accounts)",
+          "occupancy_pct": 98.0,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 460,
+          "other_metrics": "NLA 19,747 sqm; net margin 44.2%",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 385,
+            "section": "ผลการดำเนินงานที่ผ่านมาของโครงการ ชาน แอท ดิ อเวนิว",
+            "quote": "รายได้รวม (ล้านบาท) | 85.03 | 164.34"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Direct leases and service agreements between the trust (via trustee) and tenants, typically 1-3 years, deposits 2-4 months; fixed rent 91.8% and GP rent 8.2% of rental revenue; anchors 21.5%; monthly land and parking rent paid to the usufructuary lessor.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 437,
+          "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+          "quote": "สัญญาเช่าอัตราคงที่ (Fixed Rent) | ร้อยละ 91.8"
+        }
+      },
+      "rental_guarantee": {
+        "value": null,
+        "status": "not_found",
+        "note": "No rental guarantee disclosed in the text filings."
+      },
+      "key_tenants": [
+        {
+          "name": "Sangkhom Sukkhaphap Co., Ltd.",
+          "name_th": "บริษัท สังคมสุขภาพ จำกัด",
+          "business": "Supermarket and office",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 6.9,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 417,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท สังคมสุขภาพ จำกัด | ซูเปอร์มาร์เก็ต และ สำนักงาน | ร้อยละ 6.9"
+          }
+        },
+        {
+          "name": "MMP Corporation Co., Ltd.",
+          "name_th": "บริษัท เอ็มเอ็มพี คอร์ปอเรชั่น จำกัด",
+          "business": "Food & beverage",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 4.5,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 418,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท เอ็มเอ็มพี คอร์ปอเรชั่น จำกัด | อาหารและเครื่องดื่ม | ร้อยละ 4.5"
+          }
+        },
+        {
+          "name": "Vertical Chaengwattana Alliance Co., Ltd.",
+          "name_th": "บริษัท เวอร์ติคอล แจ้งวัฒนะ อัลไลแอนซ์ จำกัด",
+          "business": "Office",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.7,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 419,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท เวอร์ติคอล แจ้งวัฒนะ อัลไลแอนซ์ จำกัด | สำนักงาน | ร้อยละ 3.7"
+          }
+        },
+        {
+          "name": "The Food Selection Group Co., Ltd.",
+          "name_th": "บริษัท เดอะ ฟู้ด ซีเล็คชั่น กรุ๊ป จำกัด",
+          "business": "Food & beverage",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.3,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 420,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท เดอะ ฟู้ด ซีเล็คชั่น กรุ๊ป จำกัด | อาหารและเครื่องดื่ม | ร้อยละ 3.3"
+          }
+        },
+        {
+          "name": "Villa Market JP Co., Ltd.",
+          "name_th": "บริษัท วิลล่า มาร์เก็ท เจพี จำกัด",
+          "business": "Supermarket",
+          "area_sqm": null,
+          "pct_of_area": null,
+          "pct_of_revenue": 3.1,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 421,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "บริษัท วิลล่า มาร์เก็ท เจพี จำกัด | ซูเปอร์มาร์เก็ต | ร้อยละ 3.1"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "Low: largest tenant 6.9% of rental and service revenue; top 5 tenants 21.5% (derived); F&B 52.0% of revenue.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 417,
+          "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+          "quote": "บริษัท สังคมสุขภาพ จำกัด | ซูเปอร์มาร์เก็ต และ สำนักงาน | ร้อยละ 6.9"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "2026",
+          "pct": 6.4,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 445,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2569 | ร้อยละ 6.4"
+          }
+        },
+        {
+          "period": "2027",
+          "pct": 73.6,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 446,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2570 | ร้อยละ 73.6"
+          }
+        },
+        {
+          "period": "2028",
+          "pct": 18.3,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 447,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2571 | ร้อยละ 18.3"
+          }
+        },
+        {
+          "period": "2029 onwards",
+          "pct": 1.7,
+          "basis": "revenue (Dec 2025 monthly rent; anchor + in-line)",
+          "source": {
+            "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+            "line": 448,
+            "section": "ลักษณะของสัญญาเช่ากับผู้เช่าของโครงการ ชาน แอท ดิ อเวนิว ณ วันที่ 31 ธันวาคม 2568",
+            "quote": "ปี 2572 เป็นต้นไป | ร้อยละ 1.7"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": null,
+        "status": "not_found",
+        "note": "Asset-level WALE not disclosed in the text filings."
+      },
+      "encumbrances": {
+        "value": "Lessor's rights rest on a 30-year usufruct to be registered on the investment date. Conditions precedent: the usufruct must be validly registered, cover the lease term, and have no prior-ranking mortgage or encumbrance. If the usufruct ends, the lease still binds the owner. Leasehold to be pledged as business security to the lender; no disputes reported.",
+        "status": "found",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+          "line": 792,
+          "section": null,
+          "quote": "(3) การตรวจสอบว่าที่ดินและทรัพย์สินดังกล่าวไม่มีการจำนองหรือภาระผูกพันอื่นใดที่มีลำดับสิทธิมาก่อนสิทธิเก็บกิน"
+        }
+      },
+      "notes": [
+        "73.6% of Dec-2025 rental revenue expires in 2027.",
+        "Appraisers' year-1 rent (AA 498, KTAC 479 THB/sqm/month) is above the actual Dec-2025 average of 460; the manager cites about 10% uplifts on renewals.",
+        "Total land and parking rent over 30 years is about THB 1,093 mn per both appraisals, versus the THB 800 mn upfront price.",
+        "Usufruct end date in the contract table (31 Dec 2048) conflicts with a 30-year usufruct registered on the investment date."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2026-06-30",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 8,
+        "section": null,
+        "quote": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569"
+      }
+    },
+    "listing_date": {
+      "value": "2019-12-12",
+      "status": "found",
+      "source": {
+        "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+        "line": 15,
+        "section": null,
+        "quote": "กลุ่มอสังหาริมทรัพย์และก่อสร้าง เมื่อวันที่ 12 ธันวาคม 2562"
+      }
+    },
+    "number_of_assets": {
+      "value": 15,
+      "status": "found",
+      "unit": "projects",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-02-Policy.md",
+        "line": 34,
+        "section": null,
+        "quote": "ณ วันที่ 30 มิถุนายน 2569 กองทรัสต์มีทรัพย์สินที่มีอยู่เดิมจำนวนทั้งสิ้น 15 โครงการ"
+      }
+    },
+    "total_asset_value_thb_mn": {
+      "value": 13655.5,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 140,
+        "section": null,
+        "quote": "ณ วันที่ 30 มิถุนายน 2569 กองทรัสต์มีสินทรัพย์รวมอยู่ที่ 13,655.5 ล้านบาท"
+      }
+    },
+    "investment_value_thb_mn": {
+      "value": 12782.9,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 140,
+        "section": null,
+        "quote": "เพิ่มขึ้นร้อยละ 0.5 เมื่อเทียบกับช่วงเวลาเดียวกันในปีก่อนเป็น 12,782.9 ล้านบาท"
+      },
+      "note": "Fair value of investments in property and leasehold rights."
+    },
+    "nav_thb_mn": {
+      "value": 8791.9,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 123,
+        "section": null,
+        "quote": "สินทรัพย์สุทธิ (NAV) | ล้านบาท | 8,536.2 | 8,416.7 | 8,621.4 | 8,791.9"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 10.0582,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 124,
+        "section": null,
+        "quote": "สินทรัพย์สุทธิต่อหน่วย | บาท | 9.7656 | 9.6290 | 9.8631 | 10.0582"
+      }
+    },
+    "market_price_per_unit_thb": {
+      "value": 4.8,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 128,
+        "section": null,
+        "quote": "ราคาปิด ณ สิ้นงวด3 | บาทต่อหน่วย | 6.45 | 5.25 | 4.36 | 4.80"
+      },
+      "note": "Closing price at period end per SETSMART (P/NAV 0.48x); July 2026 average price 5.11 (high 5.50) per P3-Offering."
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 12123,
+      "status": "derived",
+      "unit": "THB mn",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+        "line": 50,
+        "section": null,
+        "quote": "3,974 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+      },
+      "note": "Sum of the latest appraisal values of the 15 existing projects: 12 dated 5 Jan 2026, KAD 1 Sep 2025, PHL 1 Jan 2026, TCP 15 Jan 2026. Appraiser names not given in text filings."
+    },
+    "historical_dpu": [
+      {
+        "period": "FY2019",
+        "dpu_thb": 0.06,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2562 / 0.0600 / - / 0.0600"
+        }
+      },
+      {
+        "period": "FY2020",
+        "dpu_thb": 0.055,
+        "component": "dividend",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2563 / 0.0550 / 0.3800 / 0.4350"
+        }
+      },
+      {
+        "period": "FY2020",
+        "dpu_thb": 0.38,
+        "component": "capital reduction",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2563 / 0.0550 / 0.3800 / 0.4350"
+        }
+      },
+      {
+        "period": "FY2021",
+        "dpu_thb": 0.372,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2564 / 0.3720 / - / 0.3720"
+        }
+      },
+      {
+        "period": "FY2022",
+        "dpu_thb": 0.65,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2565 / 0.6500 / - / 0.6500"
+        }
+      },
+      {
+        "period": "FY2023",
+        "dpu_thb": 0.66,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2566 / 0.6600 / - / 0.6600"
+        }
+      },
+      {
+        "period": "FY2024",
+        "dpu_thb": 0.525,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2567 / 0.5250 / - / 0.5250"
+        }
+      },
+      {
+        "period": "FY2025",
+        "dpu_thb": 0.443,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "ปี 2568 / 0.4430 / - / 0.4430"
+        }
+      },
+      {
+        "period": "6M2026",
+        "dpu_thb": 0.22,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 51,
+          "section": null,
+          "quote": "1 ม.ค. 2569 – 30 มิ.ย. 2569 / 0.2200 / - / 0.2200"
+        }
+      }
+    ],
+    "historical_performance": [
+      {
+        "period": "FY2022",
+        "total_revenue_thb_mn": 1591,
+        "rental_and_service_revenue_thb_mn": null,
+        "net_investment_income_thb_mn": 619,
+        "net_increase_in_net_assets_thb_mn": null,
+        "occupancy_pct": 93.4,
+        "other_metrics": "Avg rent 546 THB/sqm/month; NLA 160,214 sqm",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 471,
+          "section": null,
+          "quote": "(ล้านบาท) 1 | 1,591 | 1,699 | 1,614 | 1,596 | 773"
+        }
+      },
+      {
+        "period": "FY2023",
+        "total_revenue_thb_mn": 1702.5,
+        "rental_and_service_revenue_thb_mn": 1581.8,
+        "net_investment_income_thb_mn": 648.2,
+        "net_increase_in_net_assets_thb_mn": null,
+        "occupancy_pct": 93.2,
+        "other_metrics": "EBITDA 859.2; DPU 0.66; total assets 13,614.1; avg rent 603",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 110,
+          "section": null,
+          "quote": "รายได้ค่าเช่าและค่าบริการ | ล้านบาท | 1,581.8 | 1,524.4 | 1,491.6 | 734.6"
+        }
+      },
+      {
+        "period": "FY2024",
+        "total_revenue_thb_mn": 1616.8,
+        "rental_and_service_revenue_thb_mn": 1524.4,
+        "net_investment_income_thb_mn": 591.4,
+        "net_increase_in_net_assets_thb_mn": 367.4,
+        "occupancy_pct": 93.1,
+        "other_metrics": "EBITDA 815.9; fair value loss 227.9; total assets 13,687.1; avg rent 590",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 110,
+          "section": null,
+          "quote": "รายได้ค่าเช่าและค่าบริการ | ล้านบาท | 1,581.8 | 1,524.4 | 1,491.6 | 734.6"
+        }
+      },
+      {
+        "period": "FY2025",
+        "total_revenue_thb_mn": 1597.0,
+        "rental_and_service_revenue_thb_mn": 1491.6,
+        "net_investment_income_thb_mn": 606.9,
+        "net_increase_in_net_assets_thb_mn": 609.0,
+        "occupancy_pct": 93.0,
+        "other_metrics": "EBITDA 814.9; finance cost 208.0; total assets 13,597.7; avg rent 590",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 110,
+          "section": null,
+          "quote": "รายได้ค่าเช่าและค่าบริการ | ล้านบาท | 1,581.8 | 1,524.4 | 1,491.6 | 734.6"
+        }
+      },
+      {
+        "period": "6M2026",
+        "total_revenue_thb_mn": 773.2,
+        "rental_and_service_revenue_thb_mn": 734.6,
+        "net_investment_income_thb_mn": 309.5,
+        "net_increase_in_net_assets_thb_mn": 363.4,
+        "occupancy_pct": 89.7,
+        "other_metrics": "EBITDA 404.3; finance cost 94.8; avg rent 588; interest-bearing debt/total assets 0.25x",
+        "source": {
+          "file": "ALLY_PO_20260901_P1-FactSheet.md",
+          "line": 110,
+          "section": null,
+          "quote": "รายได้ค่าเช่าและค่าบริการ | ล้านบาท | 1,581.8 | 1,524.4 | 1,491.6 | 734.6"
+        }
+      }
+    ],
+    "portfolio_occupancy": [
+      {
+        "as_of": "FY2022",
+        "occupancy_pct": 93.4,
+        "basis": "average, weighted by leasable area (anchor + in-line tenants)",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 475,
+          "section": null,
+          "quote": "อัตราการเช่าพื้นที่เฉลี่ย 3 | ร้อยละ 93.4 | ร้อยละ 93.2 | ร้อยละ 93.1 | ร้อยละ 93.0 | ร้อยละ 89.7"
+        }
+      },
+      {
+        "as_of": "FY2023",
+        "occupancy_pct": 93.2,
+        "basis": "average, weighted by leasable area (anchor + in-line tenants)",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 475,
+          "section": null,
+          "quote": "อัตราการเช่าพื้นที่เฉลี่ย 3 | ร้อยละ 93.4 | ร้อยละ 93.2 | ร้อยละ 93.1 | ร้อยละ 93.0 | ร้อยละ 89.7"
+        }
+      },
+      {
+        "as_of": "FY2024",
+        "occupancy_pct": 93.1,
+        "basis": "average, weighted by leasable area (anchor + in-line tenants)",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 475,
+          "section": null,
+          "quote": "อัตราการเช่าพื้นที่เฉลี่ย 3 | ร้อยละ 93.4 | ร้อยละ 93.2 | ร้อยละ 93.1 | ร้อยละ 93.0 | ร้อยละ 89.7"
+        }
+      },
+      {
+        "as_of": "FY2025",
+        "occupancy_pct": 93.0,
+        "basis": "average, weighted by leasable area (anchor + in-line tenants)",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 475,
+          "section": null,
+          "quote": "อัตราการเช่าพื้นที่เฉลี่ย 3 | ร้อยละ 93.4 | ร้อยละ 93.2 | ร้อยละ 93.1 | ร้อยละ 93.0 | ร้อยละ 89.7"
+        }
+      },
+      {
+        "as_of": "6M2026",
+        "occupancy_pct": 89.7,
+        "basis": "average, weighted by leasable area (anchor + in-line tenants)",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 475,
+          "section": null,
+          "quote": "อัตราการเช่าพื้นที่เฉลี่ย 3 | ร้อยละ 93.4 | ร้อยละ 93.2 | ร้อยละ 93.1 | ร้อยละ 93.0 | ร้อยละ 89.7"
+        }
+      }
+    ],
+    "assets": [
+      {
+        "asset_id": "CDC",
+        "name_en": "Crystal Design Center",
+        "name_th": "โครงการศูนย์การค้าคริสตัล ดีไซน์ เซ็นเตอร์",
+        "asset_type": "Community mall (home and design)",
+        "location": "Pradit Manutham Rd, Khlong Chan, Bang Kapi, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2049-12-02",
+        "acquired": "Transferred from CRYSTAL fund and 1st additional investment, Dec 2019",
+        "land_area_sqm": 76247.64,
+        "leasable_area_sqm": 35957,
+        "rooms": null,
+        "acquisition_price_thb_mn": 3624,
+        "latest_appraisal_thb_mn": 3974,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 90.9,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Land 47-2-61.91 rai (part). Price includes value transferred from CRYSTAL, THB 255 mn extension and THB 1,015 mn 1st additional investment. Approved 5-year extension to 2 Dec 2054 via a renovation of up to THB 200 mn (8th investment) still pending. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 44,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 2 ธันวาคม 2592 1 โดยมีเนื้อที่ประมาณ 47-2-61.91 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 50,
+            "section": null,
+            "quote": "3,974 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 445,
+            "section": null,
+            "quote": "ร้อยละ 92.0 | ร้อยละ 90.9"
+          }
+        ]
+      },
+      {
+        "asset_id": "TC",
+        "name_en": "The Crystal Ekamai-Ramintra",
+        "name_th": "โครงการศูนย์การค้าเดอะ คริสตัล เอกมัย-รามอินทรา",
+        "asset_type": "Community mall",
+        "location": "Pradit Manutham Rd, Lat Phrao, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2049-12-02",
+        "acquired": "Transferred from CRYSTAL fund and 1st additional investment, Dec 2019",
+        "land_area_sqm": 40495.72,
+        "leasable_area_sqm": 30927,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2887,
+        "latest_appraisal_thb_mn": 2930,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 94.6,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Land 25-1-23.93 rai (part); price includes CRYSTAL transfer, THB 180 mn extension and THB 1,165 mn 1st additional investment. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 75,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 2 ธันวาคม 2592 โดยมีเนื้อที่ประมาณ 25-1-23.93 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 81,
+            "section": null,
+            "quote": "2,930 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 446,
+            "section": null,
+            "quote": "ร้อยละ 98.6 | ร้อยละ 94.6"
+          }
+        ]
+      },
+      {
+        "asset_id": "TCR",
+        "name_en": "The Crystal SB Ratchaphruek",
+        "name_th": "โครงการศูนย์การค้าเดอะ คริสตัล เอสบี ราชพฤกษ์",
+        "asset_type": "Community mall",
+        "location": "Ratchaphruek Rd, Bang Khanun, Bang Kruai, Nonthaburi",
+        "province": "Nonthaburi",
+        "investment_type": "Sub-leasehold (land) + Leasehold (building part)",
+        "lease_expiry": "2043-02-10",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 23030.4,
+        "leasable_area_sqm": 24540,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1710,
+        "latest_appraisal_thb_mn": 1556,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 82.5,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Land sub-lease stated as 23.2 years but building lease as 23.4 years to the same end date. Anchor tenant SB Design Square. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 104,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 10 กุมภาพันธ์ 2586 โดยมีเนื้อที่ประมาณ 14-1-57.6 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 110,
+            "section": null,
+            "quote": "1,556 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 447,
+            "section": null,
+            "quote": "ร้อยละ 90.3 | ร้อยละ 82.5"
+          }
+        ]
+      },
+      {
+        "asset_id": "AMR",
+        "name_en": "Amorini Ramintra",
+        "name_th": "โครงการศูนย์การค้าอมอรินี่ รามอินทรา",
+        "asset_type": "Community mall",
+        "location": "Suan Siam Rd, Khan Na Yao, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2049-12-03",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 9301.6,
+        "leasable_area_sqm": 5213,
+        "rooms": null,
+        "acquisition_price_thb_mn": 320,
+        "latest_appraisal_thb_mn": 278,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 84.0,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 131,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 3 ธันวาคม 2592 โดยมีเนื้อที่ประมาณ 5-3-25.4 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 137,
+            "section": null,
+            "quote": "278 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 448,
+            "section": null,
+            "quote": "ร้อยละ 84.0 | ร้อยละ 84.0"
+          }
+        ]
+      },
+      {
+        "asset_id": "IMP",
+        "name_en": "Am Park Chula",
+        "name_th": "โครงการศูนย์การค้าแอมพาร์ค จุฬา",
+        "asset_type": "Community mall",
+        "location": "Charoen Mueang Rd, Wang Mai, Pathum Wan, Bangkok (Chulalongkorn University land)",
+        "province": "Bangkok",
+        "investment_type": "Sub-leasehold",
+        "lease_expiry": "2034-08-06",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 6488.0,
+        "leasable_area_sqm": 6720,
+        "rooms": null,
+        "acquisition_price_thb_mn": 310,
+        "latest_appraisal_thb_mn": 189,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 83.6,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Shortest remaining tenure of the existing assets (to Aug 2034); appraisal 39% below original price. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 158,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 6 สิงหาคม 2577 โดยมีเนื้อที่ประมาณ 4-0-22.0 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 164,
+            "section": null,
+            "quote": "189 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 449,
+            "section": null,
+            "quote": "ร้อยละ 87.6 | ร้อยละ 83.6"
+          }
+        ]
+      },
+      {
+        "asset_id": "PLN",
+        "name_en": "Plearnary Mall Watcharapol",
+        "name_th": "โครงการศูนย์การค้าเพลินนารี่ มอลล์ วัชรพล",
+        "asset_type": "Community mall",
+        "location": "Watcharapol Rd, Tha Raeng, Bang Khen, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Sub-leasehold (land) + Leasehold (building part)",
+        "lease_expiry": "2049-12-03",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 30232.0,
+        "leasable_area_sqm": 11093,
+        "rooms": null,
+        "acquisition_price_thb_mn": 700,
+        "latest_appraisal_thb_mn": 626,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 96.5,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 185,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 3 ธันวาคม 2592 โดยมีเนื้อที่ประมาณ 18-3-58.0 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 191,
+            "section": null,
+            "quote": "626 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 450,
+            "section": null,
+            "quote": "ร้อยละ 98.0 | ร้อยละ 96.5"
+          }
+        ]
+      },
+      {
+        "asset_id": "SRM",
+        "name_en": "Sammakorn Place Ramkhamhaeng (West)",
+        "name_th": "โครงการศูนย์การค้าสัมมากร เพลส รามคำแหง (เวสต์)",
+        "asset_type": "Community mall",
+        "location": "Ramkhamhaeng Rd, Saphan Sung, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold (building part with land-use right)",
+        "lease_expiry": "2049-12-03",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 14337.6,
+        "leasable_area_sqm": 10274,
+        "rooms": null,
+        "acquisition_price_thb_mn": 545,
+        "latest_appraisal_thb_mn": 568,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 94.5,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 212,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 3 ธันวาคม 2592 โดยมีเนื้อที่ประมาณ 8-3-84.4 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 218,
+            "section": null,
+            "quote": "568 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 451,
+            "section": null,
+            "quote": "ร้อยละ 93.6 | ร้อยละ 94.5"
+          }
+        ]
+      },
+      {
+        "asset_id": "SRS",
+        "name_en": "Sammakorn Place Rangsit",
+        "name_th": "โครงการศูนย์การค้าสัมมากร เพลส รังสิต",
+        "asset_type": "Community mall",
+        "location": "Rangsit-Nakhon Nayok Rd, Prachathipat, Thanyaburi, Pathum Thani",
+        "province": "Pathum Thani",
+        "investment_type": "Sub-leasehold (land part) + Leasehold (building)",
+        "lease_expiry": "2049-12-03",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 9394.8,
+        "leasable_area_sqm": 3389,
+        "rooms": null,
+        "acquisition_price_thb_mn": 230,
+        "latest_appraisal_thb_mn": 207,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 86.2,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Anchor tenant Max Valu supermarket. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 239,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 3 ธันวาคม 2592 โดยมีเนื้อที่ประมาณ 5-3-48.7 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 245,
+            "section": null,
+            "quote": "207 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 452,
+            "section": null,
+            "quote": "ร้อยละ 86.2 | ร้อยละ 86.2"
+          }
+        ]
+      },
+      {
+        "asset_id": "SRP",
+        "name_en": "Sammakorn Place Ratchaphruek",
+        "name_th": "โครงการศูนย์การค้าสัมมากร เพลส ราชพฤกษ์",
+        "asset_type": "Community mall",
+        "location": "Ratchaphruek Rd, Om Kret, Pak Kret, Nonthaburi",
+        "province": "Nonthaburi",
+        "investment_type": "Sub-leasehold (land) + Leasehold (building)",
+        "lease_expiry": "2049-12-03",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 16028.8,
+        "leasable_area_sqm": 4693,
+        "rooms": null,
+        "acquisition_price_thb_mn": 330,
+        "latest_appraisal_thb_mn": 226,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 82.2,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 266,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 3 ธันวาคม 2592 โดยมีเนื้อที่ประมาณ 10-0-7.2 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 272,
+            "section": null,
+            "quote": "226 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 453,
+            "section": null,
+            "quote": "ร้อยละ 84.7 | ร้อยละ 82.2"
+          }
+        ]
+      },
+      {
+        "asset_id": "TS",
+        "name_en": "The Scene Town in Town",
+        "name_th": "โครงการศูนย์การค้าเดอะ ซีน ทาวน์ อิน ทาวน์",
+        "asset_type": "Community mall",
+        "location": "Soi Lat Phrao 94, Phlapphla, Wang Thonglang, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Sub-leasehold (land part) + Leasehold (building)",
+        "lease_expiry": "2045-01-31",
+        "acquired": "1st additional investment at trust establishment, Dec 2019",
+        "land_area_sqm": 14134.52,
+        "leasable_area_sqm": 6895,
+        "rooms": null,
+        "acquisition_price_thb_mn": 525,
+        "latest_appraisal_thb_mn": 449,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 94.1,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Adjacent to the new TZ asset; the manager cites repositioning synergies. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 294,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 31 มกราคม 2588 โดยมีเนื้อที่ประมาณ 8-3-33.63 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 300,
+            "section": null,
+            "quote": "449 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 454,
+            "section": null,
+            "quote": "ร้อยละ 97.8 | ร้อยละ 94.1"
+          }
+        ]
+      },
+      {
+        "asset_id": "KAD",
+        "name_en": "Kad Farang Village",
+        "name_th": "โครงการศูนย์การค้ากาดฝรั่ง วิลเลจ",
+        "asset_type": "Community mall",
+        "location": "Chiang Mai-Hot Rd km 13, Ban Waen, Hang Dong, Chiang Mai",
+        "province": "Chiang Mai",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2051-05-05",
+        "acquired": "2nd additional investment, 6 May 2021",
+        "land_area_sqm": 17666.0,
+        "leasable_area_sqm": 6904,
+        "rooms": null,
+        "acquisition_price_thb_mn": 390,
+        "latest_appraisal_thb_mn": 377,
+        "appraisal_date": "2025-09-01",
+        "appraiser": null,
+        "occupancy_pct": 99.2,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 322,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 5 พฤษภาคม 2594 โดยมีเนื้อที่ประมาณ 11-0-16.5 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 328,
+            "section": null,
+            "quote": "377 ล้านบาท (มูลค่า ณ วันที่ 1 กันยายน 2568"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 455,
+            "section": null,
+            "quote": "ร้อยละ 99.2 | ร้อยละ 99.2"
+          }
+        ]
+      },
+      {
+        "asset_id": "TCP",
+        "name_en": "The Crystal Chaiyaphruek",
+        "name_th": "โครงการศูนย์การค้าเดอะ คริสตัล ชัยพฤกษ์",
+        "asset_type": "Community mall",
+        "location": "Chaiyaphruek Rd, Khlong Phra Udom, Pak Kret, Nonthaburi",
+        "province": "Nonthaburi",
+        "investment_type": "Sub-leasehold (land) + Leasehold (building)",
+        "lease_expiry": "2042-06-30",
+        "acquired": "3rd additional investment, 1 Dec 2021",
+        "land_area_sqm": null,
+        "leasable_area_sqm": 9010,
+        "rooms": null,
+        "acquisition_price_thb_mn": 280,
+        "latest_appraisal_thb_mn": 206,
+        "appraisal_date": "2026-01-15",
+        "appraiser": null,
+        "occupancy_pct": 87.7,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Land area as filed '9-9-65.2 rai' is invalid (9 ngan); not converted. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 350,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 30 มิถุนายน 2585 โดยมีเนื้อที่ประมาณ 9-9-65.2 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 356,
+            "section": null,
+            "quote": "206 ล้านบาท (มูลค่า ณ วันที่ 15 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 456,
+            "section": null,
+            "quote": "ร้อยละ 88.8 | ร้อยละ 87.7"
+          }
+        ]
+      },
+      {
+        "asset_id": "PHL",
+        "name_en": "The Prime Hualamphong",
+        "name_th": "โครงการเดอะ ไพร์ม หัวลำโพง",
+        "asset_type": "Office / commercial building with car park",
+        "location": "Trimit Rd, Talat Noi, Samphanthawong, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Sub-leasehold",
+        "lease_expiry": "2042-12-20",
+        "acquired": "4th additional investment, 1 Feb 2022",
+        "land_area_sqm": 4807.6,
+        "leasable_area_sqm": 4330,
+        "rooms": null,
+        "acquisition_price_thb_mn": 172,
+        "latest_appraisal_thb_mn": 269,
+        "appraisal_date": "2026-01-01",
+        "appraiser": null,
+        "occupancy_pct": 89.9,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Buildings about 41-49 years old. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 377,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 20 ธันวาคม 2585 โดยมีเนื้อที่ประมาณ 3-0-1.9 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 383,
+            "section": null,
+            "quote": "269 ล้านบาท (มูลค่า ณ วันที่ 1 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 457,
+            "section": null,
+            "quote": "ร้อยละ 94.2 | ร้อยละ 89.9"
+          }
+        ]
+      },
+      {
+        "asset_id": "HPA",
+        "name_en": "Happy Avenue Don Mueang",
+        "name_th": "โครงการแฮปปี้ อเวนิว ดอนเมือง",
+        "asset_type": "Community mall",
+        "location": "Song Prapha Rd, Don Mueang, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "5th additional investment, 30 May 2024",
+        "land_area_sqm": 3364.4,
+        "leasable_area_sqm": 4349,
+        "rooms": null,
+        "acquisition_price_thb_mn": 225,
+        "latest_appraisal_thb_mn": 249,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 64.6,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Only freehold asset; 6M2026 occupancy dropped to 64.6%. Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 405,
+          "section": null,
+          "quote": "โดยมีเนื้อที่ประมาณ 2-0-41.1 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 411,
+            "section": null,
+            "quote": "249 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 458,
+            "section": null,
+            "quote": "ร้อยละ 86.6 | ร้อยละ 64.6"
+          }
+        ]
+      },
+      {
+        "asset_id": "T10",
+        "name_en": "T10 (TeeTen)",
+        "name_th": "โครงการทีเท็น",
+        "asset_type": "Community mall",
+        "location": "Tiwanon Rd, Talat Khwan, Mueang Nonthaburi, Nonthaburi",
+        "province": "Nonthaburi",
+        "investment_type": "Sub-leasehold (land) + Leasehold (building)",
+        "lease_expiry": "2035-03-09",
+        "acquired": "6th additional investment, 13 Aug 2025",
+        "land_area_sqm": 2368.0,
+        "leasable_area_sqm": 746,
+        "rooms": null,
+        "acquisition_price_thb_mn": 15,
+        "latest_appraisal_thb_mn": 19,
+        "appraisal_date": "2026-01-05",
+        "appraiser": null,
+        "occupancy_pct": 89.9,
+        "occupancy_as_of": "6M2026 average",
+        "key_tenants": null,
+        "notes": "Managed by BSK Management (unrelated to ARM). Appraiser not named in the text filings; figures as at 30 Jun 2026.",
+        "source": {
+          "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+          "line": 432,
+          "section": null,
+          "quote": "สัญญาสิ้นสุดวันที่ 9 มีนาคม 2578 โดยมีเนื้อที่ประมาณ 1-1-92.0 ไร่"
+        },
+        "extra_sources": [
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 438,
+            "section": null,
+            "quote": "19 ล้านบาท (มูลค่า ณ วันที่ 5 มกราคม 2569"
+          },
+          {
+            "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+            "line": 459,
+            "section": null,
+            "quote": "ร้อยละ 89.9 | ร้อยละ 89.9"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Total NLA of existing assets 165,038 sqm (30 Jun 2026); rises to 204,781 sqm after the 9th investment.",
+      "Tenant revenue mix at 30 Jun 2026: fixed rent 90.5%, GP rent 9.5%; anchors 19.5%; lease expiry by revenue 2026 32.6%, 2027 26.6%, 2028 31.3%, later 9.5%.",
+      "Sum of original acquisition prices of existing assets THB 12,263 mn vs latest appraisals THB 12,123 mn (derived).",
+      "Planned 7th investment (Village Hub Sai Mai, up to THB 30 mn) cancelled on 7 May 2026; 8th investment (CDC 5-year extension via renovation, up to THB 200 mn) pending."
+    ]
+  },
+  "risks": [
+    {
+      "title": "Partial investment in The Zone Town in Town",
+      "category": "Asset/property",
+      "summary": "The trust takes only Zones 1 (buildings A-B) and 2 of TZ; Zone 3 and building C stay with others, so shared access, parking, common areas and tenant mix depend on third parties. Scope was cut after the unitholder meeting.",
+      "asset_specific": true,
+      "applies_to": [
+        "TZ"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 194,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการลงทุนในพื้นที่บางส่วนของโครงการ เดอะโซน ทาวน์ อิน ทาวน์"
+      }
+    },
+    {
+      "title": "Reliance on the lessor's usufruct",
+      "category": "Leasehold/tenure",
+      "summary": "At SMA (deeds 23097/23099) and all of CHN, the lessor's rights rest on a usufruct over land owned by individuals. Registration defects, early termination or prior mortgages could impair the trust's lease; the filing sets verification as a condition precedent.",
+      "asset_specific": true,
+      "applies_to": [
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 193,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการพึ่งพิงสิทธิเก็บกินของผู้ให้เช่า"
+      }
+    },
+    {
+      "title": "Land sub-lease structure and head-lease extensions",
+      "category": "Leasehold/tenure",
+      "summary": "At TZ and SMA the trust sub-leases land from Fah Bandan Sap, which holds head leases expiring 2034-2048 that must be extended to cover 25 years. Default by the sub-lessor would force the trust to step in and pay land rent directly.",
+      "asset_specific": true,
+      "applies_to": [
+        "TZ",
+        "SMA"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 206,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงที่เกี่ยวข้องกับการเช่าช่วงที่ดิน"
+      }
+    },
+    {
+      "title": "Tenants may not consent to novation to the trust",
+      "category": "Tenant/concentration",
+      "summary": "Existing tenants of the three new malls lease from the current lessors; if they refuse to switch the counterparty to the trust, leases and rental income could be lost or delayed.",
+      "asset_specific": true,
+      "applies_to": [
+        "TZ",
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 180,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการที่ผู้เช่ารายย่อยในทรัพย์สินที่กองทรัสต์จะลงทุนจะไม่ให้ความยินยอม"
+      }
+    },
+    {
+      "title": "Lease renewal concentration and tenant dependence",
+      "category": "Tenant/concentration",
+      "summary": "Short 1-3 year leases dominate. CHN has 73.6% of rent expiring in 2027, SMA 71.3% in 2028 and TZ 38.6% in 2026, while one TZ tenant pays 42.4% of that asset's rent; loss of anchors or weak renewals would cut income.",
+      "asset_specific": true,
+      "applies_to": [
+        "TZ",
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 176,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการที่รายได้ของกองทรัสต์ขึ้นอยู่กับการตัดสินใจต่ออายุสัญญาเช่าและสัญญาบริการ"
+      }
+    },
+    {
+      "title": "Defects or non-compliance of the new assets",
+      "category": "Asset/property",
+      "summary": "The new buildings may have defects or legal non-compliance. CHN buildings are about 21-35 years old despite the 2024 renovation, and some permits must be renewed annually; repair costs could exceed reserves.",
+      "asset_specific": true,
+      "applies_to": [
+        "TZ",
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 190,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการที่ทรัพย์สินที่กองทรัสต์จะเข้าลงทุนเพิ่มเติมอาจจะมีความชำรุดบกพร่อง"
+      }
+    },
+    {
+      "title": "Delay in registering the lease rights",
+      "category": "Regulatory/legal",
+      "summary": "Acquisition requires lease registration, head-lease extensions and usufruct registration within about 60 days after the offering; delays would defer income while new units are already issued.",
+      "asset_specific": true,
+      "applies_to": [
+        "TZ",
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 223,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการที่กองทรัสต์อาจจดทะเบียนสิทธิการเช่าได้ล่าช้า"
+      }
+    },
+    {
+      "title": "Borrowing and interest-rate risk",
+      "category": "Financing/interest rate",
+      "summary": "New debt of about THB 757.5 mn (up to THB 1,212 mn) at MLR-linked rates lifts LTV from 25% to about 27.9-30.9%, pledges 12 projects as security and adds covenant tests; higher rates would reduce distributions.",
+      "asset_specific": false,
+      "applies_to": [
+        "TZ",
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 184,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน"
+      }
+    },
+    {
+      "title": "Conflicts of interest with the manager and property manager",
+      "category": "Sponsor/related-party",
+      "summary": "ACPM, the planned property sub-manager, shares a major shareholder with the REIT manager and also manages non-trust parts of CDC and TC, an office project and another commercial project that could compete for tenants.",
+      "asset_specific": false,
+      "applies_to": [
+        "TZ",
+        "SMA",
+        "CHN"
+      ],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 183,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงในเรื่องความขัดแย้งทางผลประโยชน์ระหว่างเจ้าของอสังหาริมทรัพย์กับผู้จัดการกองทรัสต์และผู้บริหารอสังหาริมทรัพย์"
+      }
+    },
+    {
+      "title": "Financial advisor is also the lender",
+      "category": "Other",
+      "summary": "Bangkok Bank is financial advisor, lead underwriter and the prospective lender for the acquisition debt, which the filing flags as a potential conflict of interest.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 230,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงทางด้านความขัดแย้งทางผลประโยชน์ (Conflict of Interest) ที่อาจเกิดขึ้นของที่ปรึกษาทางการเงินและธนาคารผู้ให้สินเชื่อ"
+      }
+    },
+    {
+      "title": "Control dilution of existing unitholders",
+      "category": "Offering/dilution",
+      "summary": "Up to 151.5 mn new units (17% of units outstanding) are issued at no more than THB 5.00, about half of NAV per unit (10.06); holders who do not subscribe are diluted, and some foreign holders are excluded from the rights tranche.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 215,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงจากการลดลงของสัดส่วนการถือหน่วยทรัสต์ (Control Dilution) ของผู้ถือหน่วยทรัสต์เดิม"
+      }
+    },
+    {
+      "title": "Competition and changing consumer behaviour",
+      "category": "Market/competition",
+      "summary": "Community malls face rising competition and shifting shopping habits; BSK manages Village Hub Sai Mai about 2.3 km from SMA.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 198,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "ความเสี่ยงที่ทรัพย์สินหลักของกองทรัสต์อาจต้องเผชิญกับความเสี่ยงจากภาวะการแข่งขันที่สูงขึ้น"
+      }
+    },
+    {
+      "title": "Projection assumptions may not be achieved",
+      "category": "Other",
+      "summary": "The 12-month projection (DPU 0.4727 at THB 4.65) and IRR of 15.3-16.8% rely on appraisal cash flows, occupancy and rent growth assumptions (e.g. CHN rent above current actuals) that may not materialise.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 225,
+        "section": "สรุปปัจจัยความเสี่ยงที่สำคัญ",
+        "quote": "มีความไม่แน่นอน และขึ้นอยู่กับความเสี่ยงและความไม่แน่นอนทางธุรกิจ"
+      }
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "Total price THB 1,495.8 mn is 12.87% below the sum of the lower appraisals (THB 1,716.80 mn) and 24.66% below the higher ones; by asset TZ -28.57%, SMA -12.39%, CHN -7.46%. All appraisals are income-approach DCF; monthly land rent is payable on top of the price.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 634,
+        "section": null,
+        "quote": "รวม | 1,864.61 | 1,716.80 | 1,716.80 | 1,495.8 | ร้อยละ 12.87"
+      }
+    },
+    {
+      "topic": "Issue price vs NAV",
+      "observation": "Maximum offer price of THB 5.00 is about 50% of NAV per unit (THB 10.0582 at 30 Jun 2026) and of par (9.7996); the unit traded at 4.80 at end-June 2026 (P/NAV 0.48x).",
+      "source": {
+        "file": "ALLY_PO_20260901_00-Cover.md",
+        "line": 19,
+        "section": null,
+        "quote": "ราคาเสนอขายไม่เกิน 5.00 บาทต่อหน่วย และมูลค่าที่ตราไว้ 9.7996 บาทต่อหน่วย"
+      }
+    },
+    {
+      "topic": "DPU accretion",
+      "observation": "Projected FY2027P (Jul-Jun) DPU rises from 0.44 on existing assets to 0.48 after the deal at THB 5.00 (yield 8.8% to 9.6%); the audited reference case at THB 4.65 shows 0.4411 to 0.4727 (+0.03).",
+      "source": {
+        "file": "ALLY_PO_20260901_P1-FactSheet.md",
+        "line": 57,
+        "section": null,
+        "quote": "ประมาณการการจ่ายประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย / 0.44 / 0.47 / 0.44 / 0.48"
+      }
+    },
+    {
+      "topic": "Tenant concentration at TZ",
+      "observation": "One tenant, Dech Popiang Co., Ltd. (F&B / real estate agent), accounts for 42.4% of TZ rental and service revenue; TZ's 2025 renewal rate was 50.7%.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 119,
+        "section": null,
+        "quote": "บริษัท เดช พอเพียง จำกัด | อาหารและเครื่องดื่ม / ตัวแทนอสังหาริมทรัพย์ | ร้อยละ 42.4"
+      }
+    },
+    {
+      "topic": "Lease expiry cliffs",
+      "observation": "73.6% of CHN rent expires in 2027 and 71.3% of SMA rent in 2028, while appraisers assume 96-98% occupancy and 2.8-3.4% annual rent growth; CHN year-1 rent assumptions (479-498) exceed the actual 460 THB/sqm/month.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 446,
+        "section": null,
+        "quote": "ปี 2570 | ร้อยละ 73.6"
+      }
+    },
+    {
+      "topic": "Tenure structure and inconsistent usufruct date",
+      "observation": "No freehold in the deal: TZ and SMA are sub-leases whose head leases must be extended (condition precedent); SMA and CHN rely on usufructs. The CHN usufruct is described as 30 years from the investment date, yet the contract table shows an end date of 31 Dec 2048.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 784,
+        "section": null,
+        "quote": "16 ไร่ 1 งาน 49.30 ตารางวา | 30 ปี | 31 ธันวาคม 2591"
+      }
+    },
+    {
+      "topic": "Debt terms still indicative",
+      "observation": "Bangkok Bank's indicative facility is THB 865 mn versus planned debt of THB 757.5 mn and permitted debt up to THB 1,212 mn; the margin 'MLR minus [1.75]%' is still bracketed. Bangkok Bank is also financial advisor and lead underwriter.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-NewAssets.md",
+        "line": 723,
+        "section": null,
+        "quote": "ลบร้อยละ [1.75] ต่อปี"
+      }
+    },
+    {
+      "topic": "Inconsistent unit count",
+      "observation": "P2-01 Use of Proceeds (uploaded 10 Aug 2026) says up to 185.0 mn units (the unitholder-approved ceiling) for THB 757.5 mn, while the cover, Fact Sheet and P3 offer up to 151.5 mn units. The board's Aug 2025 approval was up to THB 1,561 mn vs THB 1,495.8 mn now.",
+      "source": {
+        "file": "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+        "line": 17,
+        "section": null,
+        "quote": "จำนวนทั้งสิ้นไม่เกิน 185.0 ล้านหน่วย หรือคิดเป็นจำนวนเงินไม่เกิน 757.5 ล้านบาท"
+      }
+    },
+    {
+      "topic": "Related parties",
+      "observation": "The planned property sub-manager ACPM shares its major shareholder with the REIT manager (Iamsakulrat family / KE Sky), and KE Group holds 23.68% of units with its own subscription window. The text filings do not state whether the sellers (Fah Bandan Sap, Thanarom, Excelsus) are related.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-Leasing.md",
+        "line": 127,
+        "section": null,
+        "quote": "ACPM มีผู้ถือหุ้นใหญ่รายเดียวกับ ARM"
+      }
+    },
+    {
+      "topic": "Existing portfolio trend",
+      "observation": "Portfolio occupancy fell to 89.7% in 6M2026 from 93.0% in FY2025, and HPA occupancy dropped to 64.6%. DPU declined from 0.66 (FY2023) to 0.443 (FY2025); rental revenue fell each year from 1,581.8 to 1,491.6 THB mn.",
+      "source": {
+        "file": "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+        "line": 475,
+        "section": null,
+        "quote": "อัตราการเช่าพื้นที่เฉลี่ย 3 | ร้อยละ 93.4 | ร้อยละ 93.2 | ร้อยละ 93.1 | ร้อยละ 93.0 | ร้อยละ 89.7"
+      }
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "_toc.md",
+      "ALLY_PO_20260901_00-Cover.md",
+      "ALLY_PO_20260901_P1-FactSheet.md",
+      "ALLY_PO_20260810_P2-01-UseOfProceeds.md",
+      "ALLY_PO_20260901_P3-Offering.md",
+      "ALLY_PO_20260901_P2-03-NewAssets.md",
+      "ALLY_PO_20260901_P2-03-ExistingAssets.md",
+      "ALLY_PO_20260901_P2-03-Leasing.md",
+      "ALLY_PO_20260901_P2-02-Policy.md",
+      "ALLY_PO_20260901_00-Definitions.md (grep only)"
+    ],
+    "not_found": [
+      {
+        "field": "offering.offering_price_per_unit.min_thb",
+        "reason": "No minimum price stated; THB 4.45 is only the bottom of the sensitivity range"
+      },
+      {
+        "field": "offering.offering_price_per_unit.final_thb",
+        "reason": "Final price to be announced by 2 Oct 2026, after the filing date"
+      },
+      {
+        "field": "offering.funding_sources[security_deposits].amount_thb_mn",
+        "reason": "Listed as a funding source but not quantified"
+      },
+      {
+        "field": "new_assets[*].lease_start / lease_expiry",
+        "reason": "Terms run from the lease registration date, which is not fixed (within 60 days after offering close)"
+      },
+      {
+        "field": "new_assets[*].wale_years",
+        "reason": "Asset-level WALE not disclosed; only expiry profiles by year"
+      },
+      {
+        "field": "new_assets[*].rental_guarantee",
+        "reason": "No rental guarantee disclosed in the text filings"
+      },
+      {
+        "field": "new_assets[*].appraisals[*].terminal_cap_rate_pct",
+        "reason": "Leasehold DCF summaries show no terminal value; full appraisal reports are PDF attachments, which are excluded"
+      },
+      {
+        "field": "new_assets[*].key_tenants[*].area_sqm / lease_expiry",
+        "reason": "Tenant-level area and expiry not disclosed"
+      },
+      {
+        "field": "parties.legal_advisors",
+        "reason": "section not in text filings"
+      },
+      {
+        "field": "parties.auditor (trust statutory auditor)",
+        "reason": "Financial statements filed only as PDFs; only the auditor that examined the projection is named"
+      },
+      {
+        "field": "parties.sellers_or_lessors[*].related_to_sponsor",
+        "reason": "Related-party section (P2-11) section not in text filings"
+      },
+      {
+        "field": "risks (full risk factor text)",
+        "reason": "P2-05-Risks section not in text filings; risks summarised from Fact Sheet headings and asset sections"
+      },
+      {
+        "field": "governance, fees detail, unitholder register, full financial statements and MD&A (P2-08 to P2-13)",
+        "reason": "section not in text filings; key figures taken from the Fact Sheet"
+      },
+      {
+        "field": "existing_portfolio.assets[*].appraiser",
+        "reason": "Appraisers of existing assets not named in the text filings"
+      },
+      {
+        "field": "existing_portfolio.assets[*].key_tenants",
+        "reason": "Tenant lists are given portfolio-wide only"
+      },
+      {
+        "field": "existing_portfolio.assets[TCP].land_area_sqm",
+        "reason": "As-filed land area '9-9-65.2 rai' is invalid, so it was not converted"
+      },
+      {
+        "field": "existing_portfolio.historical_performance[FY2022].rental_and_service_revenue / net_increase_in_net_assets and [FY2023].net_increase_in_net_assets",
+        "reason": "section not in text filings"
+      },
+      {
+        "field": "existing_portfolio.investment WALE by asset",
+        "reason": "Only a portfolio land-lease WALE (23.44 years before, 23.91 after) is given in the Fact Sheet"
+      }
+    ],
+    "ambiguities": [
+      {
+        "field": "offering.units_offered_max",
+        "detail": "P2-01-UseOfProceeds (uploaded 2026-08-10) says up to 185.0 mn units for THB 757.5 mn; cover, Fact Sheet and P3 (2026-09-01) say up to 151,500,000 units at up to THB 5.00. Used 151.5 mn; 185.0 mn is the unitholder-approved ceiling."
+      },
+      {
+        "field": "offering.funding_sources",
+        "detail": "Maximum equity (757.5) plus maximum debt (1,212.0) is 1,969.5, above the stated THB 1,515.0 mn total raise cap; the debt maximum applies only if equity falls short."
+      },
+      {
+        "field": "capital_structure.loan_terms",
+        "detail": "Indicative Bangkok Bank facility THB 865 mn vs planned 757.5 and maximum 1,212 mn debt; margin 'MLR-[1.75]' is a draft placeholder in brackets."
+      },
+      {
+        "field": "capital_structure.ltv_after_pct",
+        "detail": "Fact Sheet 27.9% / 30.9% (757.5 / 1,212 debt), NewAssets about 28% / 31%, Leasing 29% (THB 4.65 reference case). Used 27.9%."
+      },
+      {
+        "field": "offering.projected_distribution.basis_price_thb",
+        "detail": "Audited projection uses THB 4.65 (about 163 mn units; DPU 0.4727; 10.2%) while the offer maximum is THB 5.00 (151.5 mn units; DPU 0.48; 9.6%). Used the 5.00 case."
+      },
+      {
+        "field": "new_assets[CHN].lease_expiry",
+        "detail": "Usufruct described as 30 years from registration on the investment date (NewAssets L1069-1070), but the contract table (L784) shows the 30-year usufruct ending 31 Dec 2591 BE (2048)."
+      },
+      {
+        "field": "new_assets[TZ].land_area",
+        "detail": "Investment description lists deeds 9621, 9622, 9623, 9696, 9697; head leases cover deeds 186980, 186981 and 9621-9623 (in Wang Thonglang/Bang Kapi and Phlapphla/Wang Thonglang). Areas reconcile at 5-2-28.10 rai."
+      },
+      {
+        "field": "new_assets[SMA].building_area.buildings",
+        "detail": "No stated building count; the table has 18 rows with B2 and B3 combined (19 structures incl. control room)."
+      },
+      {
+        "field": "new_assets[SMA].components",
+        "detail": "Head lease on deed 53676 (part): 3 ngan 55.80 sq.wa in the summary table vs 355.58 sq.wa in the contract summary."
+      },
+      {
+        "field": "new_assets[TZ] scope / total investment",
+        "detail": "TZ buildings cut from Zone 1: 3, Zone 2: 6, Zone 3: 3 to Zone 1: 2, Zone 2: 6; board approval in Aug 2025 was up to THB 1,561 mn vs THB 1,495.8 mn now; projection report revised from 25 Sep 2025 to 17 Feb 2026."
+      },
+      {
+        "field": "existing_portfolio.assets[TCR]",
+        "detail": "Land sub-lease tenure 23.2 years vs building lease 23.4 years to the same end date (10 Feb 2043)."
+      },
+      {
+        "field": "parties.sponsors",
+        "detail": "No party is labelled sponsor; KE Group (largest unitholder, separate subscription tranche, family link to the manager's ultimate shareholders) recorded as sponsor for dashboard purposes."
+      }
+    ],
+    "self_checks": [
+      {
+        "check": "max units x max price = offering size (+/-1%)",
+        "result": "pass",
+        "detail": "151,500,000 x 5.00 = THB 757.5 mn vs stated 757.5 mn"
+      },
+      {
+        "check": "DPU / basis price = yield",
+        "result": "pass",
+        "detail": "0.48 / 5.00 = 9.60% vs stated 9.6%; reference case 0.4727 / 4.65 = 10.17% vs 10.2%"
+      },
+      {
+        "check": "funding sources = total investment + costs",
+        "result": "pass",
+        "detail": "Planned 757.5 equity + 757.5 debt = 1,515.0 = 1,475.8 paid at transaction + 39.2 costs; deferred CHN 20.0 funded from trust cash. Maximum-debt case (757.5 + 1,212 = 1,969.5) exceeds the 1,515 cap and is an alternative, not additive."
+      },
+      {
+        "check": "sum of new asset prices <= total investment value",
+        "result": "pass",
+        "detail": "224.8 + 471.0 + 800.0 = 1,495.8 <= 1,495.8"
+      },
+      {
+        "check": "lease start + tenure = expiry (existing assets)",
+        "result": "pass",
+        "detail": "CDC 3 Dec 2019 + 30y = 2 Dec 2049; KAD 6 May 2021 + 30y = 5 May 2051; TCR 3 Dec 2019 + 23.2y = Feb 2043; T10 13 Aug 2025 + 9.6y = Mar 2035"
+      },
+      {
+        "check": "lease start + tenure = expiry (new assets)",
+        "result": "n/a",
+        "detail": "Start dates depend on lease registration (not fixed); tenures 25/25/30 years"
+      },
+      {
+        "check": "CHN usufruct: 30 years from investment date vs stated end date",
+        "result": "fail",
+        "detail": "Registration on investment date (about 2026) + 30y = about 2056, but the contract table shows 31 Dec 2048"
+      },
+      {
+        "check": "units after = units before + new units",
+        "result": "pass",
+        "detail": "874.1 + 151.5 = 1,025.6 mn units vs stated 1,025,600,000"
+      },
+      {
+        "check": "allocation tranches and rights ratio",
+        "result": "pass",
+        "detail": "121.2 + 30.3 = 151.5 mn; 874.1 x 0.1386 = 121.15 mn = about 121.2 mn"
+      },
+      {
+        "check": "appraisal totals and discount",
+        "result": "pass",
+        "detail": "AA 343.17 + 561.10 + 960.34 = 1,864.61; KTAC 314.70 + 537.60 + 864.50 = 1,716.80; 1 - 1,495.8 / 1,716.80 = 12.87%"
+      },
+      {
+        "check": "NLA reconciliation",
+        "result": "pass",
+        "detail": "9,989 + 10,007 + 19,747 = 39,743 = 204,781 - 165,038"
+      },
+      {
+        "check": "LTV after",
+        "result": "pass",
+        "detail": "(3,475 + 757.5) / 15,151 = 27.9%; (3,475 + 1,212) / 15,151 = 30.9%"
+      },
+      {
+        "check": "sensitivity row arithmetic",
+        "result": "pass",
+        "detail": "4.45 x 151.5 = 674.2; 674.2 + 840.8 = 1,515.0"
+      },
+      {
+        "check": "TZ land area vs head leases",
+        "result": "pass",
+        "detail": "251 + 499 + 1,478.1 = 2,228.1 sq.wa = 5-2-28.1 rai = 8,912.4 sqm"
+      }
+    ]
+  }
+}

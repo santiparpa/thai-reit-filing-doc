@@ -1,0 +1,607 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "reit_filing.schema.json",
+  "title": "Thai REIT filing extraction (IPO / PO)",
+  "description": "Contract between extraction agents, the workbook builder and the dashboard. One file per filing: data/reits/{filing_id}.json. Conventions: money in THB million (fields ending _thb_mn), per-unit money in THB (_thb), percentages as 0-100 numbers (_pct), areas in square metres (_sqm), dates ISO Gregorian (YYYY-MM-DD, or YYYY-MM / YYYY when only that is disclosed; convert Buddhist Era by subtracting 543). Periods: FY2024, 9M2025, 1Q2026, FY2027P (P = projection). All free text in English; original Thai names go in *_th fields. Never guess: a value that is not in the text filings is null with status not_found.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "filing", "sector", "parties", "offering", "capital_structure", "new_assets", "existing_portfolio", "risks", "analyst_notes", "extraction"],
+  "properties": {
+    "schema_version": { "const": "1.0.0" },
+
+    "filing": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["filing_id", "sec_filing_no", "ticker", "offering_type", "reit_name_en", "reit_name_th", "offering_type_evidence", "investor_eligibility", "data_as_of", "latest_document_date", "documents_used", "revision_notes"],
+      "properties": {
+        "filing_id": { "type": "string", "pattern": "^[A-Z0-9]+_(IPO|PO)_\\d+$", "description": "Folder name under filings/, e.g. WHART_PO_767525" },
+        "sec_filing_no": { "type": "string", "pattern": "^\\d+$" },
+        "ticker": { "type": "string", "pattern": "^[A-Z0-9]+$" },
+        "offering_type": { "enum": ["IPO", "PO"], "description": "IPO = first investment of a new trust; PO = capital increase by a listed trust to buy additional assets" },
+        "offering_type_evidence": { "$ref": "#/$defs/text", "description": "Quote that proves IPO vs PO (e.g. 'การเพิ่มทุนครั้งที่เก้า' / 'ลงทุนในทรัพย์สินหลักครั้งแรก')" },
+        "reit_name_en": { "$ref": "#/$defs/text" },
+        "reit_name_th": { "$ref": "#/$defs/text" },
+        "reit_structure": { "$ref": "#/$defs/text", "description": "Legal form / special features, e.g. 'Freehold and leasehold REIT, no fixed term, units not redeemable'; buy-back conditions" },
+        "capital_increase_no": { "$ref": "#/$defs/num", "description": "PO only (e.g. 9 for 'เพิ่มทุนครั้งที่เก้า'); not_applicable for IPO" },
+        "additional_investment_no": { "$ref": "#/$defs/num", "description": "PO only (e.g. 12 for 'ลงทุนเพิ่มเติมครั้งที่สิบสอง'); not_applicable for IPO" },
+        "investor_eligibility": { "$ref": "#/$defs/text", "description": "Who can subscribe: existing unitholders' preferential rights, general public, institutional / UHNW only, etc." },
+        "listing": { "$ref": "#/$defs/text", "description": "Listing venue / status, e.g. 'Listed on SET since 2015-07-01' or 'Will apply to list on SET'" },
+        "unitholder_approval_date": { "$ref": "#/$defs/date", "description": "PO: date of unitholders' resolution approving the acquisition/capital increase" },
+        "data_as_of": { "$ref": "#/$defs/date", "description": "'ข้อมูล ณ วันที่' on the latest Fact Sheet" },
+        "latest_document_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "Latest upload date among the Word documents in the set" },
+        "documents_used": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["file", "doc_type", "used_for"],
+            "properties": {
+              "file": { "type": "string" },
+              "doc_type": { "type": "string" },
+              "uploaded": { "type": "string" },
+              "used_for": { "type": "string" }
+            }
+          }
+        },
+        "revision_notes": {
+          "type": "array",
+          "description": "Material differences between an OLDER draft and the latest version of the same document type (the latest always governs the headline field)",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["field", "earlier_value", "earlier_file", "latest_value", "latest_file"],
+            "properties": {
+              "field": { "type": "string" },
+              "earlier_value": { "type": ["string", "number", "null"] },
+              "earlier_file": { "type": "string" },
+              "latest_value": { "type": ["string", "number", "null"] },
+              "latest_file": { "type": "string" },
+              "note": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "sector": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["primary", "sub_sectors", "description"],
+      "properties": {
+        "primary": { "$ref": "#/$defs/sector_enum" },
+        "sub_sectors": { "type": "array", "items": { "type": "string" }, "description": "e.g. Warehouse, Factory, Hotel, Serviced apartment, Community mall, Office" },
+        "description": { "$ref": "#/$defs/text", "description": "1-2 English sentences on what the REIT owns / will own" }
+      }
+    },
+
+    "parties": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sponsors", "reit_manager", "trustee", "property_managers", "financial_advisors", "lead_underwriters", "underwriters", "appraisers", "auditor", "legal_advisors", "lenders", "sellers_or_lessors", "operators_or_master_lessees", "not_found_roles"],
+      "properties": {
+        "sponsors": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "reit_manager": { "oneOf": [{ "$ref": "#/$defs/party" }, { "type": "null" }] },
+        "trustee": { "oneOf": [{ "$ref": "#/$defs/party" }, { "type": "null" }] },
+        "property_managers": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "financial_advisors": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "lead_underwriters": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "underwriters": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "appraisers": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "auditor": { "oneOf": [{ "$ref": "#/$defs/party" }, { "type": "null" }] },
+        "legal_advisors": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "lenders": { "type": "array", "items": { "$ref": "#/$defs/party" } },
+        "sellers_or_lessors": { "type": "array", "items": { "$ref": "#/$defs/party" }, "description": "Owners / grantors of the new assets" },
+        "operators_or_master_lessees": { "type": "array", "items": { "$ref": "#/$defs/party" }, "description": "Hotel operators, master lessees, rental guarantors" },
+        "not_found_roles": { "type": "array", "items": { "type": "string" }, "description": "Roles searched for but not named in the text filings" }
+      }
+    },
+
+    "offering": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["units_offered_max", "offering_price_per_unit", "par_value_per_unit_thb", "offering_size_thb_mn", "total_investment_value_thb_mn", "funding_sources", "use_of_proceeds", "estimated_transaction_costs_thb_mn", "allocation", "sponsor_commitment", "projected_distribution", "timeline"],
+      "properties": {
+        "units_offered_max": { "$ref": "#/$defs/num", "description": "unit = units" },
+        "offering_price_per_unit": {
+          "type": "object", "additionalProperties": false, "required": ["min_thb", "max_thb", "final_thb"],
+          "properties": {
+            "min_thb": { "$ref": "#/$defs/num" },
+            "max_thb": { "$ref": "#/$defs/num" },
+            "final_thb": { "$ref": "#/$defs/num", "description": "Only if the final price is announced in the filing" }
+          }
+        },
+        "par_value_per_unit_thb": { "$ref": "#/$defs/num" },
+        "offering_size_thb_mn": { "$ref": "#/$defs/num", "description": "Maximum new equity raised from unit offering" },
+        "total_investment_value_thb_mn": { "$ref": "#/$defs/num", "description": "Maximum value of the assets to be acquired, as on the cover ('มูลค่าทั้งสิ้นไม่เกิน')" },
+        "funding_sources": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["type", "amount_thb_mn"],
+            "properties": {
+              "type": { "enum": ["new_units", "debt", "internal_cash", "security_deposits", "other"] },
+              "amount_thb_mn": { "$ref": "#/$defs/num" },
+              "note": { "type": "string" }
+            }
+          }
+        },
+        "use_of_proceeds": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["item", "amount_thb_mn", "source"],
+            "properties": {
+              "item": { "type": "string" },
+              "amount_thb_mn": { "type": ["number", "null"] },
+              "note": { "type": "string" },
+              "source": { "$ref": "#/$defs/source" }
+            }
+          }
+        },
+        "estimated_transaction_costs_thb_mn": { "$ref": "#/$defs/num" },
+        "allocation": {
+          "type": "array",
+          "description": "Tranches: existing unitholders (preferential), sponsor / related parties, public, institutional, cornerstone ...",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["tranche", "source"],
+            "properties": {
+              "tranche": { "type": "string" },
+              "units": { "type": ["number", "null"] },
+              "pct_of_offer": { "type": ["number", "null"] },
+              "note": { "type": "string" },
+              "source": { "$ref": "#/$defs/source" }
+            }
+          }
+        },
+        "subscription_ratio": { "$ref": "#/$defs/text", "description": "PO: rights ratio for existing unitholders, e.g. '10.0 existing units : 1 new unit'" },
+        "sponsor_commitment": { "$ref": "#/$defs/text", "description": "Sponsor's intended take-up / lock-up / minimum holding" },
+        "projected_distribution": {
+          "type": "object", "additionalProperties": false,
+          "required": ["projection_period", "basis_price_thb", "dpu_thb", "distribution_yield_pct", "yield_sensitivity"],
+          "properties": {
+            "projection_period": { "$ref": "#/$defs/text", "description": "e.g. '12 months 1 Jan 2027 - 31 Dec 2027'" },
+            "basis_price_thb": { "$ref": "#/$defs/num", "description": "Offering price the projected yield is calculated on" },
+            "dpu_thb": { "$ref": "#/$defs/num", "description": "Projected distribution per unit (dividend + capital reduction if the filing reports a total)" },
+            "distribution_yield_pct": { "$ref": "#/$defs/num" },
+            "total_distribution_thb_mn": { "$ref": "#/$defs/num" },
+            "projected_net_investment_income_thb_mn": { "$ref": "#/$defs/num" },
+            "yield_sensitivity": {
+              "type": "array",
+              "items": {
+                "type": "object", "additionalProperties": false, "required": ["offering_price_thb", "source"],
+                "properties": {
+                  "offering_price_thb": { "type": "number" },
+                  "dpu_thb": { "type": ["number", "null"] },
+                  "yield_pct": { "type": ["number", "null"] },
+                  "note": { "type": "string" },
+                  "source": { "$ref": "#/$defs/source" }
+                }
+              }
+            },
+            "pro_forma_note": { "$ref": "#/$defs/text", "description": "PO: how the deal changes DPU of the enlarged trust vs. the existing trust, if disclosed" }
+          }
+        },
+        "timeline": { "type": "array", "items": { "$ref": "#/$defs/timeline_event" } }
+      }
+    },
+
+    "capital_structure": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["units_outstanding_before", "units_outstanding_after_max", "nav_per_unit_thb", "borrowings_before_thb_mn", "new_borrowings_thb_mn", "borrowings_after_thb_mn", "ltv_before_pct", "ltv_after_pct", "ltv_limit_pct", "loan_terms"],
+      "properties": {
+        "units_outstanding_before": { "$ref": "#/$defs/num", "description": "IPO: not_applicable" },
+        "units_outstanding_after_max": { "$ref": "#/$defs/num" },
+        "nav_per_unit_thb": { "$ref": "#/$defs/num" },
+        "total_assets_before_thb_mn": { "$ref": "#/$defs/num" },
+        "total_assets_after_thb_mn": { "$ref": "#/$defs/num" },
+        "borrowings_before_thb_mn": { "$ref": "#/$defs/num" },
+        "new_borrowings_thb_mn": { "$ref": "#/$defs/num", "description": "Maximum new debt for this transaction" },
+        "borrowings_after_thb_mn": { "$ref": "#/$defs/num" },
+        "ltv_before_pct": { "$ref": "#/$defs/num", "description": "Borrowings / total assets" },
+        "ltv_after_pct": { "$ref": "#/$defs/num" },
+        "ltv_limit_pct": { "$ref": "#/$defs/num", "description": "Regulatory / trust-deed cap (35%, or 60% with investment-grade rating)" },
+        "loan_terms": { "$ref": "#/$defs/text", "description": "Lender, tenor, interest rate basis, security" }
+      }
+    },
+
+    "new_assets": { "type": "array", "items": { "$ref": "#/$defs/new_asset" } },
+
+    "existing_portfolio": {
+      "description": "null for IPO filings; required object for PO filings (existing assets only, excluding the new assets)",
+      "oneOf": [{ "type": "null" }, { "$ref": "#/$defs/existing_portfolio" }]
+    },
+
+    "risks": { "type": "array", "items": { "$ref": "#/$defs/risk" } },
+
+    "analyst_notes": {
+      "type": "array",
+      "description": "Factual observations worth an analyst's attention, each tied to a source (no speculation)",
+      "items": {
+        "type": "object", "additionalProperties": false, "required": ["topic", "observation"],
+        "properties": {
+          "topic": { "type": "string" },
+          "observation": { "type": "string" },
+          "source": { "$ref": "#/$defs/source" }
+        }
+      }
+    },
+
+    "extraction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["extracted_by", "extracted_at", "files_read", "not_found", "ambiguities", "self_checks"],
+      "properties": {
+        "extracted_by": { "type": "string" },
+        "extracted_at": { "type": "string" },
+        "files_read": { "type": "array", "items": { "type": "string" } },
+        "not_found": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["field", "reason"],
+            "properties": { "field": { "type": "string" }, "reason": { "type": "string" } }
+          }
+        },
+        "ambiguities": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["field", "detail"],
+            "properties": { "field": { "type": "string" }, "detail": { "type": "string" } }
+          }
+        },
+        "self_checks": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["check", "result"],
+            "properties": {
+              "check": { "type": "string" },
+              "result": { "enum": ["pass", "fail", "n/a"] },
+              "detail": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "allOf": [
+    {
+      "if": { "properties": { "filing": { "properties": { "offering_type": { "const": "IPO" } } } } },
+      "then": { "properties": { "existing_portfolio": { "type": "null" } } },
+      "else": { "properties": { "existing_portfolio": { "$ref": "#/$defs/existing_portfolio" } } }
+    }
+  ],
+
+  "$defs": {
+    "status": {
+      "enum": ["found", "not_found", "not_applicable", "derived", "ambiguous"],
+      "description": "found = stated in the filing (source required); derived = computed by you from found values (explain in note, cite the inputs); ambiguous = filing is inconsistent/unclear (source + note required); not_found = not in the text filings (value null); not_applicable = does not apply (value null)"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["file"],
+      "properties": {
+        "file": { "type": "string", "pattern": "^[A-Z0-9]+_(IPO|PO)_\\d{8}_.+\\.md$", "description": "Markdown reading copy, e.g. WHART_PO_20260827_P2-03-NewAssets.md" },
+        "line": { "type": ["integer", "null"], "minimum": 1 },
+        "section": { "type": ["string", "null"], "description": "Heading text in the filing (Thai as written)" },
+        "quote": { "type": ["string", "null"], "maxLength": 400, "description": "Short verbatim excerpt containing the figure" }
+      }
+    },
+    "sourced_rules": {
+      "allOf": [
+        {
+          "if": { "properties": { "status": { "enum": ["found", "ambiguous"] } }, "required": ["status"] },
+          "then": { "required": ["source"], "properties": { "source": { "$ref": "#/$defs/source" } } }
+        },
+        {
+          "if": { "properties": { "status": { "enum": ["not_found", "not_applicable"] } }, "required": ["status"] },
+          "then": { "properties": { "value": { "type": "null" } } }
+        },
+        {
+          "if": { "properties": { "status": { "enum": ["derived", "ambiguous"] } }, "required": ["status"] },
+          "then": { "required": ["note"] }
+        }
+      ]
+    },
+    "num": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "status"],
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "unit": { "type": "string" },
+        "as_of": { "type": ["string", "null"] },
+        "status": { "$ref": "#/$defs/status" },
+        "source": { "oneOf": [{ "$ref": "#/$defs/source" }, { "type": "null" }] },
+        "note": { "type": "string" }
+      },
+      "$ref": "#/$defs/sourced_rules"
+    },
+    "text": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "status"],
+      "properties": {
+        "value": { "type": ["string", "null"] },
+        "value_th": { "type": ["string", "null"] },
+        "status": { "$ref": "#/$defs/status" },
+        "source": { "oneOf": [{ "$ref": "#/$defs/source" }, { "type": "null" }] },
+        "note": { "type": "string" }
+      },
+      "$ref": "#/$defs/sourced_rules"
+    },
+    "date": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "status"],
+      "properties": {
+        "value": { "type": ["string", "null"], "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$" },
+        "status": { "$ref": "#/$defs/status" },
+        "source": { "oneOf": [{ "$ref": "#/$defs/source" }, { "type": "null" }] },
+        "note": { "type": "string" }
+      },
+      "$ref": "#/$defs/sourced_rules"
+    },
+    "sector_enum": {
+      "enum": ["Industrial & Logistics", "Retail", "Office", "Hospitality", "Residential & Serviced Apartment", "Data Center", "Healthcare", "Mixed-use", "Infrastructure", "Other"]
+    },
+    "party": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name_en", "source"],
+      "properties": {
+        "name_en": { "type": "string", "description": "Official English name if the filing gives one, otherwise a faithful transliteration" },
+        "name_th": { "type": ["string", "null"] },
+        "role_detail": { "type": ["string", "null"] },
+        "related_to_sponsor": { "type": ["boolean", "null"] },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "timeline_event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["event", "date", "source"],
+      "properties": {
+        "event": { "type": "string" },
+        "date": { "type": ["string", "null"], "description": "ISO date or free text if only a range/indication is given" },
+        "indicative": { "type": "boolean" },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "appraisal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["appraiser", "value_thb_mn", "method", "source"],
+      "properties": {
+        "appraiser": { "type": "string" },
+        "valuation_date": { "type": ["string", "null"] },
+        "method": { "type": ["string", "null"], "description": "e.g. Income approach (DCF), Cost approach, Market comparison" },
+        "value_thb_mn": { "type": ["number", "null"] },
+        "discount_rate_pct": { "type": ["number", "null"] },
+        "terminal_cap_rate_pct": { "type": ["number", "null"] },
+        "key_assumptions": { "type": ["string", "null"] },
+        "note": { "type": "string" },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "occupancy_point": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["as_of", "occupancy_pct", "source"],
+      "properties": {
+        "as_of": { "type": "string" },
+        "occupancy_pct": { "type": ["number", "null"] },
+        "basis": { "type": ["string", "null"], "description": "e.g. leased NLA, room occupancy" },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "asset_performance_row": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["period", "is_projection", "source"],
+      "properties": {
+        "period": { "type": "string" },
+        "is_projection": { "type": "boolean" },
+        "revenue_thb_mn": { "type": ["number", "null"] },
+        "noi_thb_mn": { "type": ["number", "null"] },
+        "noi_definition": { "type": ["string", "null"], "description": "What the filing calls it: NOI, net property income, GOP, rental income under lease ..." },
+        "occupancy_pct": { "type": ["number", "null"] },
+        "adr_thb": { "type": ["number", "null"] },
+        "revpar_thb": { "type": ["number", "null"] },
+        "avg_rent_thb_sqm_month": { "type": ["number", "null"] },
+        "other_metrics": { "type": ["string", "null"] },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "tenant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "source"],
+      "properties": {
+        "name": { "type": "string" },
+        "name_th": { "type": ["string", "null"] },
+        "business": { "type": ["string", "null"] },
+        "area_sqm": { "type": ["number", "null"] },
+        "pct_of_area": { "type": ["number", "null"] },
+        "pct_of_revenue": { "type": ["number", "null"] },
+        "lease_expiry": { "type": ["string", "null"] },
+        "related_to_sponsor": { "type": ["boolean", "null"] },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["address", "district", "province", "source"],
+      "properties": {
+        "address": { "type": ["string", "null"] },
+        "address_th": { "type": ["string", "null"] },
+        "subdistrict": { "type": ["string", "null"] },
+        "district": { "type": ["string", "null"] },
+        "province": { "type": ["string", "null"] },
+        "zone": { "type": ["string", "null"], "description": "e.g. EEC, Bangkok CBD, Bang Na-Trad corridor, Phuket" },
+        "source": { "oneOf": [{ "$ref": "#/$defs/source" }, { "type": "null" }] }
+      }
+    },
+    "tenure_component": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["component", "right", "source"],
+      "properties": {
+        "component": { "type": "string", "description": "Land, Building, Movable assets, ..." },
+        "right": { "enum": ["Freehold", "Leasehold", "Sub-leasehold", "Other"] },
+        "tenure_years": { "type": ["number", "null"] },
+        "start_date": { "type": ["string", "null"] },
+        "expiry_date": { "type": ["string", "null"] },
+        "renewal_option": { "type": ["string", "null"] },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "new_asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["asset_id", "name_en", "name_th", "asset_type", "location", "investment_type", "components", "tenure_years", "lease_expiry", "land_area", "building_area", "acquisition_price_thb_mn", "appraisals", "occupancy", "historical_performance", "lease_structure", "key_tenants", "lease_expiry_profile", "wale_years", "seller_or_lessor"],
+      "properties": {
+        "asset_id": { "type": "string", "pattern": "^[A-Za-z0-9_-]+$" },
+        "name_en": { "type": "string" },
+        "name_th": { "type": ["string", "null"] },
+        "asset_type": { "type": "string", "description": "e.g. Warehouse, Factory, Hotel, Serviced apartment, Community mall, Office building" },
+        "location": { "$ref": "#/$defs/location" },
+        "investment_type": { "$ref": "#/$defs/text", "description": "value one of: Freehold, Leasehold, Sub-leasehold, Freehold + Leasehold, Other" },
+        "components": { "type": "array", "items": { "$ref": "#/$defs/tenure_component" } },
+        "tenure_years": { "$ref": "#/$defs/num", "description": "Headline leasehold tenure; not_applicable for freehold" },
+        "lease_start": { "$ref": "#/$defs/date" },
+        "lease_expiry": { "$ref": "#/$defs/date" },
+        "land_area": {
+          "type": "object", "additionalProperties": false, "required": ["value_sqm", "status"],
+          "properties": {
+            "value_sqm": { "type": ["number", "null"], "description": "1 rai = 1,600 sqm; 1 ngan = 400 sqm; 1 sq.wa = 4 sqm" },
+            "as_filed": { "type": ["string", "null"], "description": "e.g. '52-3-12.4 rai'" },
+            "status": { "$ref": "#/$defs/status" },
+            "source": { "oneOf": [{ "$ref": "#/$defs/source" }, { "type": "null" }] },
+            "note": { "type": "string" }
+          }
+        },
+        "building_area": {
+          "type": "object", "additionalProperties": false, "required": ["gross_sqm", "leasable_sqm", "rooms", "buildings"],
+          "properties": {
+            "gross_sqm": { "$ref": "#/$defs/num" },
+            "leasable_sqm": { "$ref": "#/$defs/num" },
+            "rooms": { "$ref": "#/$defs/num", "description": "Hotel keys / apartment units; not_applicable otherwise" },
+            "buildings": { "$ref": "#/$defs/num" }
+          }
+        },
+        "completion_or_age": { "$ref": "#/$defs/text" },
+        "seller_or_lessor": { "$ref": "#/$defs/text" },
+        "acquisition_price_thb_mn": { "$ref": "#/$defs/num", "description": "Maximum price the trust will pay for this asset" },
+        "appraisals": { "type": "array", "items": { "$ref": "#/$defs/appraisal" }, "description": "One entry per independent appraiser (normally two)" },
+        "occupancy": { "type": "array", "items": { "$ref": "#/$defs/occupancy_point" } },
+        "historical_performance": { "type": "array", "items": { "$ref": "#/$defs/asset_performance_row" }, "description": "2-3 historical periods, plus projection rows if disclosed (is_projection=true)" },
+        "lease_structure": { "$ref": "#/$defs/text", "description": "Direct leases / master lease / hotel lease with fixed + variable rent / rental guarantee ..." },
+        "rental_guarantee": { "$ref": "#/$defs/text" },
+        "key_tenants": { "type": "array", "items": { "$ref": "#/$defs/tenant" } },
+        "tenant_concentration": { "$ref": "#/$defs/text" },
+        "lease_expiry_profile": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["period", "pct", "basis", "source"],
+            "properties": {
+              "period": { "type": "string" },
+              "pct": { "type": ["number", "null"] },
+              "basis": { "type": "string", "description": "area / revenue / rooms" },
+              "source": { "$ref": "#/$defs/source" }
+            }
+          }
+        },
+        "wale_years": { "$ref": "#/$defs/num" },
+        "encumbrances": { "$ref": "#/$defs/text" },
+        "notes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "existing_portfolio": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["as_of", "number_of_assets", "total_asset_value_thb_mn", "market_price_per_unit_thb", "latest_appraisal_total_thb_mn", "nav_per_unit_thb", "historical_dpu", "historical_performance", "assets"],
+      "properties": {
+        "as_of": { "$ref": "#/$defs/date" },
+        "listing_date": { "$ref": "#/$defs/date" },
+        "number_of_assets": { "$ref": "#/$defs/num" },
+        "total_asset_value_thb_mn": { "$ref": "#/$defs/num", "description": "Total assets of the trust per the latest financial statements" },
+        "investment_value_thb_mn": { "$ref": "#/$defs/num", "description": "Investments in properties at fair value" },
+        "nav_thb_mn": { "$ref": "#/$defs/num" },
+        "nav_per_unit_thb": { "$ref": "#/$defs/num" },
+        "market_price_per_unit_thb": { "$ref": "#/$defs/num", "description": "Closing price with as_of date as stated in the filing" },
+        "latest_appraisal_total_thb_mn": { "$ref": "#/$defs/num", "description": "Sum of latest appraisal values of existing assets (say which appraisal in note)" },
+        "historical_dpu": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["period", "dpu_thb", "source"],
+            "properties": {
+              "period": { "type": "string" },
+              "dpu_thb": { "type": ["number", "null"] },
+              "component": { "type": ["string", "null"], "description": "dividend / capital reduction / total" },
+              "source": { "$ref": "#/$defs/source" }
+            }
+          }
+        },
+        "historical_performance": {
+          "type": "array",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["period", "source"],
+            "properties": {
+              "period": { "type": "string" },
+              "total_revenue_thb_mn": { "type": ["number", "null"] },
+              "rental_and_service_revenue_thb_mn": { "type": ["number", "null"] },
+              "net_investment_income_thb_mn": { "type": ["number", "null"] },
+              "net_increase_in_net_assets_thb_mn": { "type": ["number", "null"] },
+              "occupancy_pct": { "type": ["number", "null"] },
+              "other_metrics": { "type": ["string", "null"] },
+              "source": { "$ref": "#/$defs/source" }
+            }
+          }
+        },
+        "portfolio_occupancy": { "type": "array", "items": { "$ref": "#/$defs/occupancy_point" } },
+        "assets": { "type": "array", "items": { "$ref": "#/$defs/existing_asset" } },
+        "notes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "existing_asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["asset_id", "name_en", "asset_type", "province", "investment_type", "source"],
+      "description": "One row per existing asset/project. Plain values; `source` covers the row, `extra_sources` any figure taken from elsewhere.",
+      "properties": {
+        "asset_id": { "type": "string", "pattern": "^[A-Za-z0-9_-]+$" },
+        "name_en": { "type": "string" },
+        "name_th": { "type": ["string", "null"] },
+        "asset_type": { "type": "string" },
+        "location": { "type": ["string", "null"] },
+        "province": { "type": ["string", "null"] },
+        "investment_type": { "type": ["string", "null"], "description": "Freehold / Leasehold / Sub-leasehold / Freehold + Leasehold" },
+        "lease_expiry": { "type": ["string", "null"] },
+        "acquired": { "type": ["string", "null"], "description": "Acquisition date or round, e.g. 'IPO 2015' / '3rd additional investment, 2019'" },
+        "land_area_sqm": { "type": ["number", "null"] },
+        "leasable_area_sqm": { "type": ["number", "null"] },
+        "rooms": { "type": ["number", "null"] },
+        "acquisition_price_thb_mn": { "type": ["number", "null"] },
+        "latest_appraisal_thb_mn": { "type": ["number", "null"] },
+        "appraisal_date": { "type": ["string", "null"] },
+        "appraiser": { "type": ["string", "null"] },
+        "occupancy_pct": { "type": ["number", "null"] },
+        "occupancy_as_of": { "type": ["string", "null"] },
+        "key_tenants": { "type": ["string", "null"] },
+        "notes": { "type": ["string", "null"] },
+        "source": { "$ref": "#/$defs/source" },
+        "extra_sources": { "type": "array", "items": { "$ref": "#/$defs/source" } }
+      }
+    },
+    "risk": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "category", "summary", "asset_specific", "source"],
+      "properties": {
+        "title": { "type": "string" },
+        "category": { "enum": ["Asset/property", "Leasehold/tenure", "Tenant/concentration", "Sponsor/related-party", "Market/competition", "Financing/interest rate", "Offering/dilution", "Regulatory/legal", "Operational", "Structure/buy-back", "Other"] },
+        "summary": { "type": "string", "description": "English, <= 60 words, specific to these assets" },
+        "asset_specific": { "type": "boolean" },
+        "applies_to": { "type": "array", "items": { "type": "string" }, "description": "asset_id values" },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    }
+  }
+}

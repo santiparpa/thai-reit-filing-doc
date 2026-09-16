@@ -1,0 +1,4 @@
+- PO for the trust's 2nd additional investment (Centre Point Chidlom project).
+- There is no separate `P2-03-Leasing` file: look for lease / operator / hotel-management terms inside `P2-03-NewAssets` and `P2-03-ExistingAssets`.
+- `P2-12-Financials` and `P2-13-MDA` were uploaded Dec 2025 (data to 9M2025); cover, Fact Sheet and offering are Jan 2026. Label periods precisely.
+- Use the ticker exactly as printed in the filing.

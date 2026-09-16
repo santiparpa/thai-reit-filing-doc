@@ -1,0 +1,3 @@
+- PO: 5th capital increase for the 6th additional investment — leaseholds of land and factory/warehouse buildings in several WHA industrial estates and logistics parks (the cover lists at least six projects). One `new_assets` entry per project, with building counts; capture the per-project price and both appraisals if disclosed per project, otherwise follow rule 9.
+- The existing portfolio is large: one concise row per project in `existing_portfolio.assets` (short `notes`). Portfolio totals from `P1-FactSheet`, `P2-12-Financials`, `P2-13-MDA`.
+- All Word documents in this set were uploaded on the same day (June 2026); there are no older drafts.

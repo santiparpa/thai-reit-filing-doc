@@ -1,0 +1,127 @@
+<meta charset="utf-8">
+<title>Two navigation designs — REIT Deal Docket</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@500;600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Thai:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="nav-designs.css">
+<style>
+  .pick { max-width: 1060px; margin: 0 auto; padding: 44px var(--gutter) 80px; }
+  .pick h1 { margin: 0; font: 600 clamp(28px, 4vw, 40px)/1.08 var(--font-display); letter-spacing: -0.015em; }
+  .pick .lede { margin: 14px 0 0; max-width: 72ch; font-size: 16px; line-height: 1.6; color: var(--ink-2); }
+  .pick .eyebrow { margin: 0 0 12px; font: 500 11.5px/1.3 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
+  .two { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; margin-top: 32px; }
+  .opt { border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); padding: 20px 22px 22px; display: flex; flex-direction: column; }
+  .opt h2 { margin: 0; font: 600 19px/1.2 var(--font-display); }
+  .opt .tagline { margin: 6px 0 0; font-size: 13.5px; color: var(--ink-3); }
+  .opt ul { margin: 16px 0 0; padding-left: 18px; font-size: 14px; line-height: 1.65; color: var(--ink-2); }
+  .opt ul li { margin-bottom: 5px; }
+  .opt .verdict { margin: 16px 0 0; padding: 11px 13px; border-radius: 7px; background: var(--surface-2); font-size: 13px; line-height: 1.55; }
+  .opt .verdict b { color: var(--ink); }
+  .opt .go { margin-top: auto; padding-top: 18px; }
+  .opt .go a { display: inline-block; padding: 9px 18px; border-radius: 7px; background: var(--accent); color: var(--accent-ink); text-decoration: none; font-weight: 500; font-size: 14px; }
+  .opt .go a:hover { background: var(--accent-hover); color: var(--accent-ink); }
+  .wire { margin: 18px 0 0; border: 1px solid var(--rule); border-radius: 7px; overflow: hidden; background: var(--surface-2); }
+  .wire pre { margin: 0; padding: 14px 15px; font: 400 11px/1.5 var(--font-mono); color: var(--ink-2); overflow-x: auto; }
+  .note { margin-top: 34px; padding: 16px 18px; border: 1px solid var(--rule); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; background: var(--surface); font-size: 14px; line-height: 1.65; color: var(--ink-2); }
+  .note h3 { margin: 0 0 8px; font: 600 15px/1.3 var(--font-display); color: var(--ink); }
+  .note code { font: 500 12.5px/1 var(--font-mono); background: var(--surface-3); padding: 2px 5px; border-radius: 3px; }
+</style>
+
+<div class="pick">
+  <p class="eyebrow">REIT Deal Docket · navigation</p>
+  <h1>Two ways to carry more than one year</h1>
+  <p class="lede">
+    Both prototypes read the real bundle and then pad it with dated copies of the 2026 filings, so the
+    rail and the board are under the pressure of 35 deals across 5 years rather than 9 in one. Open each,
+    switch years, search, and see which way of moving feels right. Nothing here changes the live dashboard.
+  </p>
+
+  <div class="two">
+    <section class="opt">
+      <h2>A · Year book</h2>
+      <p class="tagline">The rail keeps its job, and gains a scope.</p>
+      <div class="wire"><pre>+--------------+-----------------------+
+| 69 Docket    | DOCKET &gt; 2026         |
+|              |                       |
+| +----------+ | The 2026 book         |
+| | 2026   v | |                       |
+| | 9 . 21bn | | +--+ +--+ +--+ +--+   |
+| +----------+ | |23| |24| |25| |26|   |
+| [ search / ] | +--+ +--+ +--+ +--+   |
+|              |                       |
+| &gt; 2026 book  | KPI   KPI   KPI   KPI |
+|   Compare    |                       |
+|   Quality    | Filings               |
+|              | +-------------------+ |
+| GROUP: Year  | | WHART  2026  2.5bn| |
+| v 2026     9 | | ALLY   2026  1.5bn| |
+|   WHART 2.5bn| | MII    2026  1.5bn| |
+|   ALLY  1.5bn| +-------------------+ |
++--------------+-----------------------+</pre></div>
+      <ul>
+        <li><b>Scope control</b> at the top of the rail sets the year for the whole page.</li>
+        <li><b>Search</b> filters the rail live; <kbd>/</kbd> focuses it, and it can reach across all years.</li>
+        <li><b>Group by</b> year, sector or stage — collapsible headers keep the list short.</li>
+        <li><b>Compare years</b> is its own view, since a single-year rail cannot show the trend.</li>
+        <li>Rail collapses to a 60px strip with <kbd>[</kbd>.</li>
+      </ul>
+      <p class="verdict"><b>Best if</b> you mostly work one year at a time and want the current dashboard to keep feeling like itself. Lowest-risk change — the main pane is untouched.</p>
+      <p class="go"><a href="design-a.html">Open Design A →</a></p>
+    </section>
+
+    <section class="opt">
+      <h2>B · Timeline board</h2>
+      <p class="tagline">Year becomes the top axis; the rail steps aside.</p>
+      <div class="wire"><pre>+--+----------------------------------+
+|69| 2026 deal board      [ find ^K ] |
+|  |                                  |
+|[]| All  2023 2024 2025 [2026] 2027  |
+|  |  .    _    ==   ===   ===    -   |
+|##| ---------------------------------|
+|  | (industrial)(retail) | IPO | PO  |
+|[]|                                  |
+|  | Q1 2026 ------------ 2 . 3.43bn  |
+|  | +------------+ +------------+    |
+|[]| | QHHRREIT PO| | DTPBB2  IPO|    |
+|  | | 1.23bn 10.8| | 2.20bn 7.0%|    |
+|  | +------------+ +------------+    |
+|  |                                  |
+|_Q| Q2 2026 ------------ 1 . 1.23bn  |
++--+----------------------------------+</pre></div>
+      <ul>
+        <li><b>Year timeline</b> across the top, each year a bar of property value — the shape of the pipeline is visible before you click.</li>
+        <li><b>Facet chips</b> for sector, IPO/PO and SEC stage, with live counts.</li>
+        <li><b>Quarter board</b> inside a year; grouped by year when scope is All.</li>
+        <li><b>Command palette</b> on <kbd>Ctrl</kbd>+<kbd>K</kbd> reaches any filing in any year without changing scope.</li>
+        <li>56px icon rail for views, so the content gets the width.</li>
+      </ul>
+      <p class="verdict"><b>Best if</b> the docket is heading for hundreds of filings and you read across years as much as within one. More to build, and the main pane becomes a board rather than a report.</p>
+      <p class="go"><a href="design-b.html">Open Design B →</a></p>
+    </section>
+  </div>
+
+  <div class="note">
+    <h3>The year key, as decided</h3>
+    <p>
+      A filing belongs to the book of its <b>filing year</b> — the date it was first submitted to the SEC.
+      Both prototypes read <code>sec_status.first_filed</code>, falling back to the earliest document the
+      SEC published for that filing, then to the newest document date. ALPHART is the only filing that
+      needs the fallback today: it is not on the SEC list yet, so it lands in 2026 on its 31 Aug 2026
+      documents. Where both dates exist the earliest document always agrees with <code>first_filed</code>
+      on the year, so the fallback never moves a filing between books.
+    </p>
+    <p style="margin-bottom:0">
+      <b>What this changes:</b> the current book splits. QHHRREIT (8 Sep 2025) and MII (18 Dec 2025) move
+      into a <b>2025</b> book, leaving <b>seven</b> filings worth THB 18.83bn in 2026 rather than nine
+      worth THB 21.52bn. Worth knowing before the workbook and the folder — both named 2026 — follow suit.
+    </p>
+  </div>
+
+  <div class="proto-switch">
+    <a href="design-a.html">A · Year book</a>
+    <a href="design-b.html">B · Timeline</a>
+    <a href="../index.html">Live</a>
+  </div>
+</div>

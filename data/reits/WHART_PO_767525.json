@@ -1,0 +1,4219 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "WHART_PO_767525",
+    "sec_filing_no": "767525",
+    "ticker": "WHART",
+    "offering_type": "PO",
+    "reit_name_en": {
+      "value": "WHA Premium Growth Freehold and Leasehold Real Estate Investment Trust",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 10,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "WHA Premium Growth Freehold and Leasehold Real Estate Investment Trust (WHART)"
+      }
+    },
+    "reit_name_th": {
+      "value": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 9,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท"
+      }
+    },
+    "offering_type_evidence": {
+      "value": "Cover: prospectus for the 9th capital increase ('การเพิ่มทุนครั้งที่เก้า') to fund the trust's 12th additional investment; the trust already owns 42 projects. Detected type PO confirmed.",
+      "status": "found",
+      "value_th": "การเพิ่มทุนครั้งที่เก้า",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 5,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "หนังสือชี้ชวนการเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่เก้า"
+      }
+    },
+    "reit_structure": {
+      "value": "Freehold and leasehold REIT (Trust Act), no fixed term, units not redeemable; converted from the WHAPF property fund in 2017; externally managed by WHA Real Estate Management Co., Ltd.",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 11,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์"
+      }
+    },
+    "capital_increase_no": {
+      "value": 9,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 5,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "สำหรับการเพิ่มทุนครั้งที่เก้า"
+      }
+    },
+    "additional_investment_no": {
+      "value": 12,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 12,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "จะลงทุนเพิ่มเติมครั้งที่สิบสอง"
+      }
+    },
+    "investor_eligibility": {
+      "value": "Tranche 1: existing unitholders on the 2026-09-04 record date, pro rata at 1 existing unit : 0.0367 new unit (may over- or under-subscribe), excluding holders of 20 listed foreign nationalities whose participation would trigger foreign-law obligations. Tranche 2: any units left over, offered to private placement (incl. institutions) and/or the public. Public/retail tranche may not be offered at all.",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "line": 23,
+        "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย",
+        "quote": "1 หน่วยทรัสต์เดิมต่อ 0.0367 หน่วยทรัสต์ที่ออกและเสนอขายเพิ่มเติม"
+      }
+    },
+    "listing": {
+      "value": "Already listed on the SET; the new units will be listed on the SET, but SET approval of the listing has not yet been obtained when the offering starts. The original listing date is not stated in the text filings.",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "line": 115,
+        "section": "ตลาดรองของหน่วยทรัสต์ WHART ที่เสนอขาย",
+        "quote": "จะดำเนินการให้หน่วยทรัสต์ WHART ที่จะออกและเสนอขายทั้งหมดในครั้งนี้เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์"
+      }
+    },
+    "unitholder_approval_date": {
+      "value": "2026-04-29",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 16,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "เมื่อวันที่ 29 เมษายน 2569"
+      },
+      "note": "Unitholders' meeting no. 1/2569"
+    },
+    "data_as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 5,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"
+      }
+    },
+    "latest_document_date": "2026-08-27",
+    "documents_used": [
+      {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260827",
+        "used_for": "REIT names, PO evidence, max units/price/size, funding sources, parties, timetable"
+      },
+      {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260827",
+        "used_for": "data as-of, capital structure, DPU history, projected yield/IRR, appraisals, top tenants, key financials"
+      },
+      {
+        "file": "WHART_PO_20260827_P2-01-UseOfProceeds.md",
+        "doc_type": "P2-01-UseOfProceeds",
+        "uploaded": "20260827",
+        "used_for": "use of proceeds, recent acquisitions/disposals, property manager"
+      },
+      {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "doc_type": "P3-Offering",
+        "uploaded": "20260827",
+        "used_for": "offering terms, allocation, subscription ratio, timetable, secondary price, offering costs"
+      },
+      {
+        "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+        "doc_type": "P2-03-NewAssets",
+        "uploaded": "20260827",
+        "used_for": "new asset details, appraisals, price, related-party relationship, contracts, loan terms, portfolio area table"
+      },
+      {
+        "file": "WHART_PO_20260827_P2-03-Leasing.md",
+        "doc_type": "P2-03-Leasing",
+        "uploaded": "20260827",
+        "used_for": "WGCL master lease terms, tenant profile, pro forma distribution, sensitivity"
+      },
+      {
+        "file": "WHART_PO_20260827_P2-03-Encumbrances.md",
+        "doc_type": "P2-03-Encumbrances",
+        "uploaded": "20260827",
+        "used_for": "disputes/encumbrances of new asset"
+      },
+      {
+        "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+        "doc_type": "P2-03-ExistingAssets",
+        "uploaded": "20260814",
+        "used_for": "existing projects: land, price, investment date, lease expiry, latest appraisal"
+      },
+      {
+        "file": "WHART_PO_20260512_P2-12-Financials.md",
+        "doc_type": "P2-12-Financials",
+        "uploaded": "20260512",
+        "used_for": "balance sheet, income statement, units outstanding, auditor"
+      },
+      {
+        "file": "WHART_PO_20260512_P2-13-MDA.md",
+        "doc_type": "P2-13-MDA",
+        "uploaded": "20260512",
+        "used_for": "occupancy, borrowings, covenants, ratios"
+      },
+      {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "doc_type": "P2-05-Risks",
+        "uploaded": "20260814",
+        "used_for": "asset-specific risks, dilution, security deposits, lease expiry profile"
+      },
+      {
+        "file": "WHART_PO_20260814_P2-08-Unitholders.md",
+        "doc_type": "P2-08-Unitholders",
+        "uploaded": "20260814",
+        "used_for": "units, par, major unitholders"
+      },
+      {
+        "file": "WHART_PO_20260814_P2-09-Governance.md",
+        "doc_type": "P2-09-Governance",
+        "uploaded": "20260814",
+        "used_for": "auditor, appraisers, legal advisor (grep only)"
+      },
+      {
+        "file": "WHART_PO_20260512_P2-11-RelatedParty.md",
+        "doc_type": "P2-11-RelatedParty",
+        "uploaded": "20260512",
+        "used_for": "WGCL relationship (grep only)"
+      }
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Industrial & Logistics",
+    "sub_sectors": [
+      "Warehouse",
+      "Distribution center",
+      "Factory"
+    ],
+    "description": {
+      "value": "Owns 42 warehouse/distribution-center/factory projects (1,915,361.04 sqm leasable building area), mainly on the Bangna-Trad corridor (Samut Prakan), Eastern Seaboard (Chonburi/Chachoengsao) and Ayutthaya/Saraburi. Will add the freehold WGCL International Distribution Center (99,390 sqm) in Map Ta Phut, Rayong, leased back for 30 years to the seller WGCL.",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+        "line": 7,
+        "section": "ทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+        "quote": "จำนวนทั้งสิ้น 42 โครงการ มีพื้นที่เช่าอาคารรวมทั้งสิ้น 1,915,361.04 ตารางเมตร"
+      }
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "WHA Corporation Public Company Limited (translation)",
+        "name_th": "บริษัท ดับบลิวเอชเอ คอร์ปอเรชั่น จำกัด (มหาชน)",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 163,
+          "section": "ความสัมพันธ์",
+          "quote": "ถือหุ้นในสัดส่วนร้อยละ 99.99 ของจำนวนหุ้นที่มีสิทธิออกเสียงทั้งหมดของผู้จัดการกองทรัสต์"
+        },
+        "role_detail": "Owns 99.99% of the REIT manager, is property manager, holds 15.00% of units (520,351,885 units at 2026-03-24), and indirectly owns 50% of the seller/tenant WGCL",
+        "related_to_sponsor": true
+      }
+    ],
+    "reit_manager": {
+      "name_en": "WHA Real Estate Management Company Limited",
+      "name_th": "บริษัท ดับบลิวเอชเอ เรียล เอสเตท แมเนจเม้นท์ จำกัด",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 7,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "WHA Real Estate Management Company Limited"
+      },
+      "role_detail": "REIT manager and offeror",
+      "related_to_sponsor": true
+    },
+    "trustee": {
+      "name_en": "Kasikorn Asset Management Co., Ltd. (translation)",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 32,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "ทรัสตี : บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด"
+      },
+      "role_detail": "Trustee",
+      "related_to_sponsor": false
+    },
+    "property_managers": [
+      {
+        "name_en": "WHA Corporation Public Company Limited (translation)",
+        "name_th": "บริษัท ดับบลิวเอชเอ คอร์ปอเรชั่น จำกัด (มหาชน)",
+        "source": {
+          "file": "WHART_PO_20260827_P2-01-UseOfProceeds.md",
+          "line": 66,
+          "section": "โครงสร้างของการบริหารจัดการกองทรัสต์ WHART",
+          "quote": "ผู้จัดการกองทรัสต์จะแต่งตั้งให้ดับบลิวเอชเอ คอร์ปอเรชั่น เป็นผู้บริหารอสังหาริมทรัพย์สำหรับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง"
+        },
+        "role_detail": "Property manager for existing and new assets (new asset: 30-year appointment, fixed annual fee schedule, cap 3% of NAV)",
+        "related_to_sponsor": true
+      }
+    ],
+    "financial_advisors": [
+      {
+        "name_en": "Kasikornbank Public Company Limited (translation)",
+        "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)",
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 33,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "ที่ปรึกษาทางการเงิน : ธนาคารกสิกรไทย จำกัด (มหาชน)"
+        },
+        "role_detail": "Financial advisor",
+        "related_to_sponsor": false
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "Kasikornbank Public Company Limited (translation)",
+        "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)",
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 34,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "ผู้จัดการการจัดจำหน่าย : ธนาคารกสิกรไทย จำกัด (มหาชน)"
+        },
+        "role_detail": "Lead underwriter; partly firm underwrite, partly best effort per the underwriting agreement. KBank is a trustee-related party (parent of the trustee is not stated explicitly in the files read).",
+        "related_to_sponsor": false
+      }
+    ],
+    "underwriters": [
+      {
+        "name_en": "Kasikornbank Public Company Limited (translation)",
+        "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)",
+        "source": {
+          "file": "WHART_PO_20260827_P3-Offering.md",
+          "line": 149,
+          "section": "2.1 วิธีการเสนอขายหน่วยทรัสต์ WHART",
+          "quote": "เป็นการจัดจำหน่ายแบบรับประกันการจำหน่าย (Firm Underwrite) บางส่วน"
+        },
+        "role_detail": "Only underwriter named; additional selling agents may be appointed later",
+        "related_to_sponsor": false
+      }
+    ],
+    "appraisers": [
+      {
+        "name_en": "Sims Property Consultant Co., Ltd. (SIM, transliteration)",
+        "name_th": "บริษัท ซิมส์ พร็อพเพอร์ตี้ คอนซัลแทนท์ จำกัด",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 111,
+          "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์ WHART จะเข้าลงทุน",
+          "quote": "| 2,507,600,000 | 2,512,800,000 | 2,507,600,000 |"
+        },
+        "role_detail": "New asset appraiser (income approach THB 2,507.6 mn); also one of the appraisers of existing assets at 2025-12-31",
+        "related_to_sponsor": false
+      },
+      {
+        "name_en": "Salmann (Far East) Co., Ltd. (SMF, transliteration)",
+        "name_th": "บริษัท ซาลแมนน์ (ฟาร์อีสท์) จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 847,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน",
+          "quote": "บริษัท ซาลแมนน์ (ฟาร์อีสท์) จำกัด"
+        },
+        "role_detail": "New asset appraiser (income approach THB 2,512.8 mn)",
+        "related_to_sponsor": false
+      },
+      {
+        "name_en": "Edmund Tie & Company (Thailand) Co., Ltd. (transliteration)",
+        "name_th": "บริษัท เอ็ดมันด์ ไต แอนด์ คอมพานี (ประเทศไทย) จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 839,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน",
+          "quote": "บริษัท เอ็ดมันด์ ไต แอนด์ คอมพานี (ประเทศไทย) จำกัด"
+        },
+        "role_detail": "Existing-asset appraiser (2025-12-31 valuations)",
+        "related_to_sponsor": false
+      },
+      {
+        "name_en": "Graphic A Appraisal Co., Ltd. (transliteration)",
+        "name_th": "บริษัท กราฟฟิค เอ แอพไพรซอล จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 836,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน",
+          "quote": "บริษัท กราฟฟิค เอ แอพไพรซอล จำกัด"
+        },
+        "role_detail": "Existing-asset appraiser",
+        "related_to_sponsor": false
+      },
+      {
+        "name_en": "Krungsiam Appraisal Co., Ltd. (transliteration)",
+        "name_th": "บริษัท กรุงสยามประเมินค่าทรัพย์สิน จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 829,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน",
+          "quote": "บริษัท กรุงสยามประเมินค่าทรัพย์สิน จำกัด"
+        },
+        "role_detail": "Existing-asset appraiser",
+        "related_to_sponsor": false
+      },
+      {
+        "name_en": "Asian Engineering Valuation Co., Ltd. (transliteration)",
+        "name_th": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 833,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน",
+          "quote": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด"
+        },
+        "role_detail": "Existing-asset appraiser",
+        "related_to_sponsor": false
+      },
+      {
+        "name_en": "Bangkok Appraisal Co., Ltd. (translation)",
+        "name_th": "บริษัท กรุงเทพประเมินราคา จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 825,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน",
+          "quote": "บริษัท กรุงเทพประเมินราคา จำกัด"
+        },
+        "role_detail": "Existing-asset appraiser",
+        "related_to_sponsor": false
+      }
+    ],
+    "auditor": {
+      "name_en": "PricewaterhouseCoopers ABAS Ltd. (transliteration)",
+      "name_th": "บริษัท ไพร้ซวอเตอร์เฮาส์คูเปอร์ส เอบีเอเอส จำกัด",
+      "source": {
+        "file": "WHART_PO_20260814_P2-09-Governance.md",
+        "line": 807,
+        "section": "ผู้สอบบัญชี",
+        "quote": "บริษัท ไพร้ซวอเตอร์เฮาส์คูเปอร์ส เอบีเอเอส จำกัด"
+      },
+      "role_detail": "Auditor (FY2024-FY2025 and 1Q2026 signed by Boonrueang Lertwisetwit); also examined the pro forma projection; FY2025 audit fee THB 961,000",
+      "related_to_sponsor": false
+    },
+    "legal_advisors": [
+      {
+        "name_en": "Charin & Partners Co., Ltd. (transliteration)",
+        "name_th": "บริษัท ชรินทร์ แอนด์ พาทเนอร์ส จำกัด",
+        "source": {
+          "file": "WHART_PO_20260814_P2-09-Governance.md",
+          "line": 858,
+          "section": "ที่ปรึกษากฎหมาย",
+          "quote": "บริษัท ชรินทร์ แอนด์ พาทเนอร์ส จำกัด"
+        },
+        "role_detail": "Legal advisor (listed in governance section)"
+      }
+    ],
+    "lenders": [],
+    "sellers_or_lessors": [
+      {
+        "name_en": "WHA GC Logistics Co., Ltd. (WGCL, translation)",
+        "name_th": "บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 359,
+          "section": "ร่างสัญญาจะซื้อจะขายที่ดินและสิ่งปลูกสร้าง สำหรับโครงการดับบลิวจีซีแอล อินเตอร์เนชั่นแนล ดิสทริบิวชั่น เซ็นเตอร์",
+          "quote": "ผู้จะขาย | บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด"
+        },
+        "role_detail": "Seller of the freehold land and building; 50:50 JV of WHA Venture Holding (99.99% owned by WHA Corporation) and PTT Global Chemical PCL",
+        "related_to_sponsor": true
+      }
+    ],
+    "operators_or_master_lessees": [
+      {
+        "name_en": "WHA GC Logistics Co., Ltd. (WGCL, translation)",
+        "name_th": "บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 238,
+          "section": "การให้เช่าทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสองแก่ดับบลิว จีซีแอล",
+          "quote": "ผู้เช่า | บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด"
+        },
+        "role_detail": "Single master lessee of the whole new asset for 30 years (sale-and-leaseback); no rental guarantee",
+        "related_to_sponsor": true
+      },
+      {
+        "name_en": "WHA Corporation Public Company Limited (translation)",
+        "name_th": "บริษัท ดับบลิวเอชเอ คอร์ปอเรชั่น จำกัด (มหาชน)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 89,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ระยะเวลาการชดเชยรายได้ / 3 ปี นับแต่วันที่กองทรัสต์ WHART เข้าลงทุน / 25 ปี นับแต่วันที่กองทรัสต์ WHART เข้าลงทุน"
+        },
+        "role_detail": "Undertaking-agreement provider (vacant-space rent support 3 years; roof-rent support 25 years, 15 years for Ladkrabang) on certain EXISTING projects only",
+        "related_to_sponsor": true
+      }
+    ],
+    "not_found_roles": [
+      "Lenders for the new loan: not named; the filing says one or more domestic commercial banks/financial institutions/insurers, which may include Kasikornbank and other trustee-related parties",
+      "Co-underwriters / selling agents: none named besides Kasikornbank"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 127545000,
+      "status": "found",
+      "unit": "units",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 22,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 127,545,000 หน่วย"
+      },
+      "note": "Maximum ('ไม่เกิน')"
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Only a maximum price is disclosed; the final price will be set by institutional bookbuilding"
+      },
+      "max_thb": {
+        "value": 11.1,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 23,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "ราคาเสนอขายไม่เกิน 11.10 บาทต่อหน่วย"
+        },
+        "note": "Maximum; existing individual/juristic holders and non-bookbuilding institutions subscribe at 11.10 and are refunded any excess"
+      },
+      "final_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Final price to be announced on the SET website after bookbuilding; not in the filing"
+      }
+    },
+    "par_value_per_unit_thb": {
+      "value": 8.8678,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 23,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "เท่ากับ 8.8678 บาทต่อหน่วย"
+      },
+      "note": "Par after 24 capital reductions (original par THB 10)"
+    },
+    "offering_size_thb_mn": {
+      "value": 1415.7495,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 17,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "มูลค่ารวมกันทั้งสิ้นไม่เกิน 1,415,749,500 บาท"
+      },
+      "note": "Maximum new equity (THB 1,415,749,500)"
+    },
+    "total_investment_value_thb_mn": {
+      "value": 2507.6,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 21,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "ในมูลค่าทั้งสิ้นไม่เกิน 2,507,600,000 บาท"
+      },
+      "note": "Maximum; excludes VAT, registration fees, SBT/stamp duty and other costs"
+    },
+    "funding_sources": [
+      {
+        "type": "new_units",
+        "amount_thb_mn": {
+          "value": 1415.7495,
+          "status": "found",
+          "source": {
+            "file": "WHART_PO_20260827_00-Cover.md",
+            "line": 17,
+            "section": "แบบ 69-REIT (cover)",
+            "quote": "มูลค่ารวมกันทั้งสิ้นไม่เกิน 1,415,749,500 บาท"
+          },
+          "note": "Maximum"
+        },
+        "note": "9th capital increase, up to 127,545,000 units at up to THB 11.10"
+      },
+      {
+        "type": "debt",
+        "amount_thb_mn": {
+          "value": 2507.6,
+          "status": "found",
+          "source": {
+            "file": "WHART_PO_20260827_00-Cover.md",
+            "line": 18,
+            "section": "แบบ 69-REIT (cover)",
+            "quote": "ในวงเงินทั้งสิ้นไม่เกิน 2,507,600,000 บาท"
+          },
+          "note": "Maximum long-term loan facility ('และ/หรือ' with equity); the projection and IRR assume about THB 1,197.65 mn of new borrowing"
+        },
+        "note": "Facility cap equals the full asset price; base case ~1,197.65 mn"
+      },
+      {
+        "type": "internal_cash",
+        "amount_thb_mn": {
+          "value": null,
+          "status": "not_found",
+          "note": "Amount at the REIT manager's discretion ('ตามจำนวนที่บริษัทฯ เห็นสมควรและเหมาะสม'); no figure given"
+        },
+        "note": "Trust internal cash, amount not specified"
+      },
+      {
+        "type": "security_deposits",
+        "amount_thb_mn": {
+          "value": 54.0,
+          "status": "found",
+          "source": {
+            "file": "WHART_PO_20260827_00-Cover.md",
+            "line": 20,
+            "section": "แบบ 69-REIT (cover)",
+            "quote": "จำนวนประมาณ 54,000,000 บาท"
+          },
+          "note": "Approximate; part of WGCL's lease security deposit (total deposit about THB 77.52 mn)"
+        },
+        "note": "Part of the WGCL master-lease security deposit"
+      }
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "Acquisition of freehold land and building of WGCL International Distribution Center (12th additional investment)",
+        "amount_thb_mn": 2507.6,
+        "note": "Maximum; net of offering-related expenses per filing",
+        "source": {
+          "file": "WHART_PO_20260827_P2-01-UseOfProceeds.md",
+          "line": 9,
+          "section": "วัตถุประสงค์การใช้เงิน",
+          "quote": "ซึ่งมูลค่าสูงสุดที่กองทรัสต์ WHART เข้าลงทุนจะไม่เกิน 2,507,600,000 บาท"
+        }
+      },
+      {
+        "item": "Estimated offering and acquisition expenses (SEC fees, registration fees, VAT, stamp duty, advisors, underwriting fee, loan fees, acquisition fee, etc.)",
+        "amount_thb_mn": 160.442,
+        "note": "Approximate, VAT-inclusive; may change",
+        "source": {
+          "file": "WHART_PO_20260827_P3-Offering.md",
+          "line": 510,
+          "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายหน่วยทรัสต์ในครั้งนี้",
+          "quote": "ประมาณ 160,442,000 บาท"
+        }
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": 160.442,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "line": 510,
+        "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายหน่วยทรัสต์ในครั้งนี้",
+        "quote": "ประมาณ 160,442,000 บาท"
+      },
+      "note": "Approximate total including VAT"
+    },
+    "allocation": [
+      {
+        "tranche": "Tranche 1: existing unitholders pro rata (record date 2026-09-04), may include WHA and its concert parties",
+        "units": 127545000,
+        "pct_of_offer": 100.0,
+        "note": "Up to 127,545,000 units, about 100% of the offer; excludes holders of 20 listed foreign nationalities; oversubscription allowed at manager/underwriter discretion; claw-back/claw-forward permitted",
+        "source": {
+          "file": "WHART_PO_20260827_P3-Offering.md",
+          "line": 60,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "ไม่เกิน 127,545,000 หน่วย1"
+        }
+      },
+      {
+        "tranche": "Tranche 2: remainder to private placement (institutional investors, underwriter's discretionary clients) and/or public offering",
+        "units": null,
+        "pct_of_offer": null,
+        "note": "Only units left from Tranche 1; the filing says retail/public may not be offered at all",
+        "source": {
+          "file": "WHART_PO_20260827_P3-Offering.md",
+          "line": 61,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "หน่วยทรัสต์ส่วนที่เหลือจากการ เสนอขายในส่วนที่ 1"
+        }
+      }
+    ],
+    "subscription_ratio": {
+      "value": "1 existing unit : 0.0367 new unit (fractions rounded down)",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "line": 23,
+        "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย",
+        "quote": "1 หน่วยทรัสต์เดิมต่อ 0.0367 หน่วยทรัสต์ที่ออกและเสนอขายเพิ่มเติม"
+      }
+    },
+    "sponsor_commitment": {
+      "value": null,
+      "status": "not_found",
+      "note": "No stated sponsor take-up, minimum holding or lock-up; WHA and its concert parties may subscribe their rights at the final price during 2026-09-28 to 2026-10-01 (WHA held 15.00% at 2026-03-24)"
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months 1 Oct 2026 - 30 Sep 2027 (FY2027P, first year after the 12th investment)",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 352,
+          "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ",
+          "quote": "สำหรับปีตั้งแต่วันที่ 1 ตุลาคม 2569 ถึงวันที่ 30 กันยายน 2570"
+        }
+      },
+      "basis_price_thb": {
+        "value": 11.1,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 404,
+          "section": "ประมาณการอัตราการจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย",
+          "quote": "คำนวณจากราคาเสนอขายหน่วยทรัสต์เพิ่มเติมสูงสุดที่ 11.10 บาทต่อหน่วย"
+        },
+        "note": "Maximum offer price"
+      },
+      "dpu_thb": {
+        "value": 0.783,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 385,
+          "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ",
+          "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย | 0.778 | 0.783"
+        },
+        "note": "Total of distributions and capital reduction for the enlarged trust; includes THB 0.007 from existing-asset undertaking income (0.776 without it); no capital reduction projected"
+      },
+      "distribution_yield_pct": {
+        "value": 7.05,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 401,
+          "section": "ประมาณการอัตราการจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย",
+          "quote": "อัตราจ่ายผลประโยชน์ตอบแทนและเงินลดทุน (ร้อยละ)/2 | 7.01 | 7.05"
+        },
+        "note": "At THB 11.10"
+      },
+      "total_distribution_thb_mn": {
+        "value": 2815.34,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 380,
+          "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ",
+          "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุน | 2,699.66 | 2,815.34"
+        },
+        "note": "93.50% payout of net distributable cash (THB 3,011.06 mn)"
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 3004.89,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 367,
+          "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ",
+          "quote": "กำไรสุทธิที่สามารถนำมาจ่ายผลประโยชน์ตอบแทน | 2,849.87 | 3,004.89"
+        },
+        "note": "Filing's 'net profit available for distribution' after interest (THB 437.31 mn) and one-off offering expenses (15.34 mn)"
+      },
+      "yield_sensitivity": [
+        {
+          "offering_price_thb": 11.1,
+          "dpu_thb": 0.781,
+          "yield_pct": 7.04,
+          "note": "Rent on renewed/re-let contracts 1% below base case; IRR 9.70%",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-Leasing.md",
+            "line": 419,
+            "section": "การวิเคราะห์ผลกระทบต่อผลตอบแทนของกองทรัสต์ WHART จากการเปลี่ยนแปลงของสมมติฐานสำคัญ (Sensitivity Analysis)",
+            "quote": "ต่ำกว่ากรณีฐาน ร้อยละ 1.00 | 0.781 | 7.04 | 9.70"
+          }
+        },
+        {
+          "offering_price_thb": 11.1,
+          "dpu_thb": 0.783,
+          "yield_pct": 7.05,
+          "note": "Base case; IRR 9.77% (9.74% excluding undertaking income)",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-Leasing.md",
+            "line": 420,
+            "section": "การวิเคราะห์ผลกระทบต่อผลตอบแทนของกองทรัสต์ WHART จากการเปลี่ยนแปลงของสมมติฐานสำคัญ (Sensitivity Analysis)",
+            "quote": "กรณีฐาน | 0.783 | 7.05 | 9.77"
+          }
+        },
+        {
+          "offering_price_thb": 11.1,
+          "dpu_thb": 0.786,
+          "yield_pct": 7.08,
+          "note": "Rent on renewed/re-let contracts 1% above base case; IRR 9.85%",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-Leasing.md",
+            "line": 421,
+            "section": "การวิเคราะห์ผลกระทบต่อผลตอบแทนของกองทรัสต์ WHART จากการเปลี่ยนแปลงของสมมติฐานสำคัญ (Sensitivity Analysis)",
+            "quote": "สูงกว่ากรณีฐาน ร้อยละ 1.00 | 0.786 | 7.08 | 9.85"
+          }
+        },
+        {
+          "offering_price_thb": 11.1,
+          "dpu_thb": 0.776,
+          "yield_pct": 6.99,
+          "note": "Excluding income from existing-asset undertaking agreements and vacant space",
+          "source": {
+            "file": "WHART_PO_20260827_P1-FactSheet.md",
+            "line": 66,
+            "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+            "quote": "ประมาณการการจ่ายผลประโยชน์ตอบแทนไม่รวมรายได้ตามสัญญาตกลงกระทำการ/3 / 0.776 / 6.99"
+          }
+        }
+      ],
+      "pro_forma_note": {
+        "value": "Existing trust alone: DPU THB 0.778 (7.01% at 11.10); enlarged trust: 0.783 (7.05%), i.e. +0.005 THB/unit (+0.6%). Projection assumes ~127.55 mn new units at 11.10 and ~THB 1,197.65 mn new debt, but uses 3,594.39 mn units after the deal (see ambiguities). New asset adds THB 206.69 mn of accounting rental revenue (3,757.18 vs 3,550.49) and 32.49 mn of extra interest.",
+        "status": "derived",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 385,
+          "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ",
+          "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย | 0.778 | 0.783"
+        },
+        "note": "Differences computed from the two projection columns (Leasing L359, L366, L385, L401)"
+      }
+    },
+    "timeline": [
+      {
+        "event": "Unitholders' meeting approves capital increase and acquisition",
+        "date": "2026-04-29",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 16,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "เมื่อวันที่ 29 เมษายน 2569"
+        }
+      },
+      {
+        "event": "Appraisal reports dated (value as of expected investment date 2026-10-01)",
+        "date": "2026-02-27",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 114,
+          "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์ WHART จะเข้าลงทุน",
+          "quote": "ฉบับลงวันที่ 27 กุมภาพันธ์ 2569 (ราคา ณ วันที่ 1 ตุลาคม 2569"
+        }
+      },
+      {
+        "event": "Registration statement and draft prospectus filed with SEC",
+        "date": "2026-05-18",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 35,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "วันที่ยื่นแบบแสดงรายการข้อมูลและร่างหนังสือชี้ชวน : วันที่ 18 พฤษภาคม 2569"
+        }
+      },
+      {
+        "event": "Registration statement effective",
+        "date": "2026-09-01",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 36,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "วันที่แบบแสดงรายการข้อมูลและหนังสือชี้ชวนมีผลใช้บังคับ : วันที่ 1 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Record date for rights to subscribe",
+        "date": "2026-09-04",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_P3-Offering.md",
+          "line": 22,
+          "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย",
+          "quote": "4 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: existing individual/juristic holders and institutions not submitting bookbuilding forms (at max price)",
+        "date": "2026-09-21 to 2026-09-25",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 38,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "(บุคคลธรรมดาและนิติบุคคล) วันที่ 21 ถึงวันที่ 25 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: existing institutional holders submitting bookbuilding forms (at final price)",
+        "date": "2026-09-28 to 2026-09-30",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 40,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "ซึ่งเป็นผู้ถือหน่วยทรัสต์เดิมที่นำส่งใบ Bookbuilding วันที่ 28 ถึงวันที่ 30 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: WHA and concert parties; other investors (private placement/public)",
+        "date": "2026-09-28 to 2026-10-01",
+        "indicative": false,
+        "source": {
+          "file": "WHART_PO_20260827_00-Cover.md",
+          "line": 41,
+          "section": "แบบ 69-REIT (cover)",
+          "quote": "และ/หรือ กลุ่มบุคคลเดียวกัน วันที่ 28 กันยายน ถึงวันที่ 1 ตุลาคม 2569"
+        }
+      },
+      {
+        "event": "Expected investment (transfer) date of the new asset",
+        "date": "2026-10-01",
+        "indicative": true,
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 20,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "โดยนับจากวันที่กองทรัสต์คาดว่าจะเข้าลงทุน (1 ตุลาคม 2569)"
+        }
+      },
+      {
+        "event": "Latest transfer date under draft sale agreement: within 60 days after close of offering",
+        "date": "within 60 days after offering close",
+        "indicative": true,
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 365,
+          "section": "ร่างสัญญาจะซื้อจะขายที่ดินและสิ่งปลูกสร้าง สำหรับโครงการดับบลิวจีซีแอล อินเตอร์เนชั่นแนล ดิสทริบิวชั่น เซ็นเตอร์",
+          "quote": "ภายใน 60 (หกสิบ) วัน นับตั้งแต่วันที่ปิดการเสนอขายหน่วยทรัสต์"
+        }
+      }
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 3468827441,
+      "status": "found",
+      "unit": "units",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260814_P2-08-Unitholders.md",
+        "line": 9,
+        "section": "8.1  หน่วยทรัสต์",
+        "quote": "มีจำนวนหน่วยทรัสต์ทั้งสิ้น 3,468,827,441 หน่วย"
+      }
+    },
+    "units_outstanding_after_max": {
+      "value": 3596372441,
+      "status": "derived",
+      "unit": "units",
+      "source": {
+        "file": "WHART_PO_20260827_00-Cover.md",
+        "line": 22,
+        "section": "แบบ 69-REIT (cover)",
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 127,545,000 หน่วย"
+      },
+      "note": "3,468,827,441 existing + 127,545,000 max new units. The projection instead uses 3,594.39 mn units (Leasing L381)."
+    },
+    "nav_per_unit_thb": {
+      "value": 10.5476,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 160,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สินทรัพย์สุทธิต่อหน่วย (บาท) | 10.5476"
+      }
+    },
+    "total_assets_before_thb_mn": {
+      "value": 54287.75,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 32,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สินทรัพย์รวม / 54,287.75 ล้านบาท"
+      }
+    },
+    "total_assets_after_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "No pro forma balance sheet in the text filings"
+    },
+    "borrowings_before_thb_mn": {
+      "value": 15297.16,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260512_P2-13-MDA.md",
+        "line": 31,
+        "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา",
+        "quote": "15,297.16 ล้านบาท"
+      },
+      "note": "Loans from financial institutions (ST 3,619.32 + LT 999.57) and debentures (10,678.27), net of fees; excludes lease liabilities of THB 930.37 mn"
+    },
+    "new_borrowings_thb_mn": {
+      "value": 2507.6,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+        "line": 433,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืม",
+        "quote": "วงเงินกู้ทั้งหมดไม่เกิน 2,507.60 ล้านบาท"
+      },
+      "note": "Maximum facility; projection assumes about THB 1,197.65 mn"
+    },
+    "borrowings_after_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Not disclosed; depends on final equity raised and drawdown (base case new debt ~THB 1,197.65 mn)"
+    },
+    "ltv_before_pct": {
+      "value": 28.45,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 32,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สัดส่วนการกู้ยืม (ร้อยละของสินทรัพย์รวม) / ร้อยละ 28.45*"
+      },
+      "note": "Funded interest-bearing debt excl. lease liabilities / total assets; 30.16% including lease liabilities"
+    },
+    "ltv_after_pct": {
+      "value": 33.07,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 34,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สัดส่วนการกู้ยืมสูงสุดจะอยู่ที่ประมาณไม่เกินร้อยละ 33.07 ของสินทรัพย์รวม"
+      },
+      "note": "Maximum after the fundraising; basis (with or without lease liabilities) not stated"
+    },
+    "ltv_limit_pct": {
+      "value": 60,
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+        "line": 409,
+        "section": "การกู้ยืมเงินของกองทรัสต์ WHART",
+        "quote": "อัตราส่วนการกู้ยืมจะไม่เกินร้อยละ 60 ของมูลค่าสินทรัพย์รวมของกองทรัสต์ WHART"
+      },
+      "note": "35% normally, 60% with investment-grade rating (WHART rated A Stable on 2026-01-28). Existing loan covenant caps IBD incl. lease liabilities at 35% (30.16% at 2026-03-31); debenture covenant 50%."
+    },
+    "loan_terms": {
+      "value": "New loan for the 12th investment: facility up to THB 2,507.60 mn from one or more domestic banks/financial institutions/insurers (may include Kasikornbank or other trustee-related parties); interest not above MLR - 1.50% p.a., paid monthly; tenor up to 3 years from first drawdown, bullet repayment, prepayable; possible security: business security/mortgage over existing and/or new assets, insurance and lease receivables; covenants on interest-bearing debt/total assets and debt/EBITDA; event of default includes change of property manager. Terms are preliminary.",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+        "line": 434,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืม",
+        "quote": "ลบร้อยละ 1.50"
+      }
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "WGCL_IDC",
+      "name_en": "WGCL International Distribution Center",
+      "name_th": "โครงการดับบลิวจีซีแอล อินเตอร์เนชั่นแนล ดิสทริบิวชั่น เซ็นเตอร์",
+      "asset_type": "Warehouse, factory and office (single building used for petrochemical logistics / plastic-resin packing and storage)",
+      "location": {
+        "address": "Title deeds 17654 and 22916, Map Ta Phut Subdistrict, Mueang Rayong District, Rayong",
+        "address_th": "ตำบลมาบตาพุด อำเภอเมืองระยอง จังหวัดระยอง",
+        "subdistrict": "Map Ta Phut",
+        "district": "Mueang Rayong",
+        "province": "Rayong",
+        "zone": "EEC (Map Ta Phut petrochemical complex)",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 32,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+          "quote": "ที่ตั้ง | ตำบลมาบตาพุด อำเภอเมืองระยอง จังหวัดระยอง"
+        }
+      },
+      "investment_type": {
+        "value": "Freehold",
+        "status": "found",
+        "value_th": "กรรมสิทธิ์",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 36,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+          "quote": "กรรมสิทธิ์ในที่ดินรวม 2 โฉนด (โฉนดเลขที่ 17654 และ 22916)"
+        }
+      },
+      "components": [
+        {
+          "component": "Land (2 title deeds, 87-1-61.70 rai)",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 36,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "กรรมสิทธิ์ในที่ดินรวม 2 โฉนด (โฉนดเลขที่ 17654 และ 22916)"
+          }
+        },
+        {
+          "component": "Warehouse/factory/office building (1 building) and fixtures forming part of land/building",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 36,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "จำนวน 1 หลัง ขนาดพื้นที่อาคารรวมประมาณ 99,390.00 ตารางเมตร"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": null,
+        "status": "not_applicable",
+        "note": "Freehold; the 30-year term is the WGCL master lease, recorded under lease_structure"
+      },
+      "lease_start": {
+        "value": null,
+        "status": "not_applicable",
+        "note": "Freehold acquisition (no head lease); master lease to WGCL starts on the investment date, expected 2026-10-01"
+      },
+      "lease_expiry": {
+        "value": null,
+        "status": "not_applicable",
+        "note": "Freehold; WGCL master lease expires 30 years from investment (about 2056-09-30)"
+      },
+      "land_area": {
+        "value_sqm": 139846.8,
+        "as_filed": "87 rai 1 ngan 61.70 sq.wa (87-1-61.70)",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 34,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+          "quote": "เนื้อที่ดินตามโฉนดรวม 87 ไร่ 1 งาน 61.70 ตารางวา"
+        },
+        "note": "Converted: 87x1,600 + 1x400 + 61.70x4 sqm; title-deed area, to be resurveyed before transfer with no price adjustment"
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 99390.0,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 36,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "จำนวน 1 หลัง ขนาดพื้นที่อาคารรวมประมาณ 99,390.00 ตารางเมตร"
+          },
+          "note": "Filing uses the same 99,390 sqm for building area and leasable area"
+        },
+        "leasable_sqm": {
+          "value": 99390.0,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 35,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "พื้นที่เช่าอาคารรวมประมาณ 99,390.00 ตารางเมตร"
+          }
+        },
+        "rooms": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Not a hotel/apartment"
+        },
+        "buildings": {
+          "value": 1,
+          "status": "found",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 36,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "จำนวน 1 หลัง ขนาดพื้นที่อาคารรวมประมาณ 99,390.00 ตารางเมตร"
+          }
+        }
+      },
+      "completion_or_age": {
+        "value": "About 17 years old as of 2026-10-01",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 38,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+          "quote": "ประมาณ 17 ปี"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "WHA GC Logistics Co., Ltd. (WGCL), a 50:50 JV of WHA Venture Holding (99.99% owned by sponsor WHA Corporation) and PTT Global Chemical PCL; related party of the REIT manager",
+        "status": "found",
+        "value_th": "บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 359,
+          "section": "ร่างสัญญาจะซื้อจะขายที่ดินและสิ่งปลูกสร้าง สำหรับโครงการดับบลิวจีซีแอล อินเตอร์เนชั่นแนล ดิสทริบิวชั่น เซ็นเตอร์",
+          "quote": "ผู้จะขาย | บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด"
+        }
+      },
+      "acquisition_price_thb_mn": {
+        "value": 2507.6,
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 157,
+          "section": "ราคาที่จะเข้าลงทุน",
+          "quote": "ในราคาไม่เกิน 2,507,600,000 บาท"
+        },
+        "note": "Maximum; equal to the lower of the two income-approach appraisals; excludes VAT, fees, SBT/stamp duty"
+      },
+      "appraisals": [
+        {
+          "appraiser": "Sims Property Consultant Co., Ltd. (SIM)",
+          "valuation_date": "2026-10-01 (report dated 2026-02-27)",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 2507.6,
+          "discount_rate_pct": 8.5,
+          "terminal_cap_rate_pct": 7.0,
+          "key_assumptions": "Income approach (DCF) on trust structure; rent per WGCL master lease for 30 years, then market rent THB 140/sqm/month growing 3.30% p.a.; occupancy 100% during WGCL lease, 95% after; repairs borne by tenant in years 1-30 (1% of revenue at terminal); capex reserve 1% of revenue; property manager fee fixed schedule years 1-30; no selling cost at terminal",
+          "note": "Lower appraisal = maximum price. Full replacement cost (cost approach cross-check) THB 2,455.92 mn (land 1,092.55 + buildings 1,363.37).",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 111,
+            "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์ WHART จะเข้าลงทุน",
+            "quote": "| 2,507,600,000 | 2,512,800,000 | 2,507,600,000 |"
+          }
+        },
+        {
+          "appraiser": "Salmann (Far East) Co., Ltd. (SMF)",
+          "valuation_date": "2026-10-01 (report dated 2026-02-27)",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 2512.8,
+          "discount_rate_pct": 8.5,
+          "terminal_cap_rate_pct": 7.0,
+          "key_assumptions": "Income approach (DCF) on trust structure; rent per WGCL master lease for 30 years, then market rent THB 140/sqm/month growing 3.30% p.a.; occupancy 100% during WGCL lease, 95% after; repairs borne by tenant in years 1-30 (1% of revenue at terminal); capex reserve 1% of revenue; property manager fee fixed schedule years 1-30; selling cost 2% of terminal sale value; terminal PM fee +1.5% over year 30",
+          "note": "Full replacement cost THB 2,343.10 mn (land 874.04 + buildings 1,469.06).",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 111,
+            "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์ WHART จะเข้าลงทุน",
+            "quote": "| 2,507,600,000 | 2,512,800,000 | 2,507,600,000 |"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "2026-10-01",
+          "occupancy_pct": 100.0,
+          "basis": "Leased building area (single tenant WGCL from investment date)",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 37,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "มีผู้เช่าในอัตราร้อยละ 100.00"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2027P (yr 1 of lease, from 2026-10-01)",
+          "is_projection": true,
+          "revenue_thb_mn": 155.05,
+          "noi_thb_mn": null,
+          "noi_definition": "Contractual cash rent under WGCL master lease (years 1-3: THB 12,920,700/month)",
+          "occupancy_pct": 100.0,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 130.0,
+          "other_metrics": "No operating history: WGCL used the property for its own business. Trust projection adds THB 206.69 mn accounting rental revenue for the asset (3,757.18 - 3,550.49, derived; includes straight-line effect). Annual rent rises to about THB 246.45 mn by years 28-30.",
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-Leasing.md",
+            "line": 264,
+            "section": "ความเห็นของผู้จัดการกองทรัสต์เกี่ยวกับความสามารถของดับบลิวจีซีแอลในการปฏิบัติตามสัญญาเช่าเพื่อจัดหาผลประโยชน์",
+            "quote": "ที่ประมาณ 155.05 ล้านบาท ถึง 246.45 ล้านบาทต่อปี"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Sale-and-leaseback: whole property leased to WGCL for 30 years from transfer (to be registered). Fixed rent THB 130.00/sqm/month in years 1-3, +10% every 3 years to 190.33 in years 13-15, reset DOWN to 170.00 in years 16-18, then +5% every 3 years to 206.64 in years 28-30. Tenant pays utilities, repairs (except force-majeure structural damage), insurance (all-risk, liability, 16-month rent business interruption) and land & building tax. Security deposit about THB 77.52 mn (6 months' rent). Renewal to be negotiated in good faith from 24 months before expiry (no fixed option). WGCL may terminate early on 6 months' notice by paying all remaining rent (or rent shortfall if it introduces a replacement tenant). WGCL has a right of first refusal to buy (at higher of third-party offer and average of two income-approach appraisals) or to renew.",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 243,
+          "section": "การให้เช่าทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสองแก่ดับบลิว จีซีแอล",
+          "quote": "ปีที่ 1 ถึงปีที่ 3 / 130.00 บาท / 12,920,700.00 บาท"
+        }
+      },
+      "rental_guarantee": {
+        "value": "None: no undertaking/rental-support agreement for the new asset; income relies solely on the WGCL master lease",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 66,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "จะไม่มีสัญญาตกลงกระทำการในการชดเชยรายได้"
+        }
+      },
+      "key_tenants": [
+        {
+          "name": "WHA GC Logistics Co., Ltd. (WGCL)",
+          "name_th": "บริษัท ดับบลิวเอชเอ จีซี โลจิสติกส์ จำกัด",
+          "business": "Integrated petrochemical logistics: silo, packing, warehouse management, domestic/international distribution, customs",
+          "area_sqm": 99390.0,
+          "pct_of_area": 100.0,
+          "pct_of_revenue": 100.0,
+          "lease_expiry": "30 years from investment date (about 2056-09-30 if invested 2026-10-01)",
+          "related_to_sponsor": true,
+          "source": {
+            "file": "WHART_PO_20260827_P2-03-Leasing.md",
+            "line": 161,
+            "section": "รายละเอียดการเช่าทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+            "quote": "ดับบลิวจีซีแอล | 99,390.00 | 100.00 | 100.00/1 | 30 ปี/1"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "Single tenant (100% of area and revenue); the asset is about 4.13% of the enlarged trust's projected rental revenue and 4.93% of its leasable area",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260814_P2-05-Risks.md",
+          "line": 87,
+          "section": "ความเสี่ยงในการสูญเสียผู้เช่าหลัก ซึ่งอาจทำให้รายได้ของกองทรัสต์ WHART เปลี่ยนแปลงไป",
+          "quote": "คิดเป็นประมาณร้อยละ 4.13 ของรายได้จากค่าเช่าและค่าบริการทั้งหมด"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "2056 (BE 2599), 30 years after investment",
+          "pct": 100.0,
+          "basis": "area",
+          "source": {
+            "file": "WHART_PO_20260814_P2-05-Risks.md",
+            "line": 364,
+            "section": "5.2.5 ความเสี่ยงที่อาจเกิดขึ้นจากการที่กองทรัสต์ WHART นำเงินประกันการเช่ามาใช้ในการเข้าลงทุน",
+            "quote": "ประมาณร้อยละ 4.93"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": 30,
+        "status": "found",
+        "unit": "years",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-Leasing.md",
+          "line": 161,
+          "section": "รายละเอียดการเช่าทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+          "quote": "ดับบลิวจีซีแอล | 99,390.00 | 100.00 | 100.00/1 | 30 ปี/1"
+        },
+        "note": "Single lease; remaining term at expected investment date"
+      },
+      "encumbrances": {
+        "value": "None. No litigation found and the asset will be free of real rights restricting use at transfer. However WGCL keeps free shared use of the access road and rainwater retention pond for as long as the trust owns them and WGCL leases the adjacent land (title deeds 194808 and 18541), with shared maintenance costs; WGCL-owned silos, conveyors, steel bridges, racking and rooftop solar panels remain installed on the property.",
+        "status": "found",
+        "source": {
+          "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+          "line": 39,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสอง",
+          "quote": "ภาระผูกพัน | ไม่มี"
+        }
+      },
+      "notes": [
+        "Price THB 2,507.6 mn equals the lower appraisal (SIM); SMF is THB 5.2 mn (0.2%) higher; both use 8.5% discount and 7.0% terminal cap rates.",
+        "Initial contractual rent THB 155.05 mn/yr = 6.18% of price (derived); rent steps down 10.7% in year 16 (190.33 to 170.00 THB/sqm).",
+        "As of 2026-05-18 WGCL was still obtaining the building construction/modification certificate; the sale agreement requires complete permits, and the manager may delay or cancel the investment if not obtained (Risks L75).",
+        "Excluded from purchase: WGCL's silos, dust-separator steel frames, steel bridges, conveyors, racking, rooftop solar, utility lines serving adjacent land.",
+        "Building can be subdivided into up to 8 units with separate loading docks, subject to extra capex (Risks L91).",
+        "Seller financials FY2025: adjusted revenue THB 3,176.56 mn, adjusted EBITDA 595.50 mn, total assets 4,733.71 mn, D/E 0.43x (Leasing L264-L343).",
+        "Property manager WHA Corporation: 30-year appointment with a fixed annual fee schedule; fee may rise if the WGCL lease ends early without a replacement tenant."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 5,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"
+      }
+    },
+    "listing_date": {
+      "value": null,
+      "status": "not_found",
+      "note": "Listing date on SET not stated in the text filings (trust approval 2014-12-08, first investment 2014-12-15)"
+    },
+    "number_of_assets": {
+      "value": 42,
+      "status": "found",
+      "unit": "projects",
+      "source": {
+        "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+        "line": 7,
+        "section": "ทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+        "quote": "จำนวนทั้งสิ้น 42 โครงการ"
+      }
+    },
+    "total_asset_value_thb_mn": {
+      "value": 54287.75,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 32,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สินทรัพย์รวม / 54,287.75 ล้านบาท"
+      },
+      "note": "Reviewed interim financial statements"
+    },
+    "investment_value_thb_mn": {
+      "value": 52529.7,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260512_P2-13-MDA.md",
+        "line": 29,
+        "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา",
+        "quote": "52,529.70 ล้านบาท"
+      }
+    },
+    "nav_thb_mn": {
+      "value": 36587.95,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 159,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สินทรัพย์สุทธิ (ล้านบาท) | 36,587.95"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 10.5476,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 160,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "สินทรัพย์สุทธิต่อหน่วย (บาท) | 10.5476"
+      }
+    },
+    "market_price_per_unit_thb": {
+      "value": 10.1,
+      "status": "found",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "WHART_PO_20260827_P1-FactSheet.md",
+        "line": 163,
+        "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+        "quote": "ราคาปิด ณ สิ้นงวด (บาท)/2 | 10.10"
+      },
+      "note": "Closing price at end of 1Q2026 (SETSMART); monthly average rose to THB 11.12 in July 2026 (P3 L500)"
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 52060.76,
+      "status": "found",
+      "as_of": "2025-12-31",
+      "source": {
+        "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+        "line": 721,
+        "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+        "quote": "| รวม | 52,060.76 |"
+      },
+      "note": "Sum of latest full/review appraisals (income approach) at 2025-12-31; assets bought in December 2025 shown at purchase price per footnote"
+    },
+    "historical_dpu": [
+      {
+        "period": "FY2021",
+        "dpu_thb": 0.7578,
+        "component": "total (all dividend)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 62,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ปี 2564 / 0.7578 / - / 0.7578"
+        }
+      },
+      {
+        "period": "FY2022",
+        "dpu_thb": 0.7653,
+        "component": "total (all dividend)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 62,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ปี 2565 / 0.7653 / - / 0.7653"
+        }
+      },
+      {
+        "period": "FY2023",
+        "dpu_thb": 0.7735,
+        "component": "total (all dividend)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 62,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ปี 2566 / 0.7735 / - / 0.7735"
+        }
+      },
+      {
+        "period": "FY2024",
+        "dpu_thb": 0.7735,
+        "component": "total (dividend 0.7133 + capital reduction 0.0602)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 62,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ปี 2567 / 0.7133 / 0.0602 / 0.7735"
+        }
+      },
+      {
+        "period": "FY2025",
+        "dpu_thb": 0.7735,
+        "component": "total (dividend 0.6774 + capital reduction 0.0961)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 62,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ปี 2568 / 0.6774 / 0.0961 / 0.7735"
+        }
+      },
+      {
+        "period": "1Q2026",
+        "dpu_thb": 0.1915,
+        "component": "total (all dividend)",
+        "source": {
+          "file": "WHART_PO_20260827_P1-FactSheet.md",
+          "line": 62,
+          "section": "สรุปข้อมูลสำคัญของหน่วยทรัสต์ WHART (Fact Sheet)",
+          "quote": "ไตรมาสที่ 1 ปี 2569 / 0.1915 / - / 0.1915"
+        }
+      }
+    ],
+    "historical_performance": [
+      {
+        "period": "FY2023",
+        "total_revenue_thb_mn": 3397.68,
+        "rental_and_service_revenue_thb_mn": 3372.4,
+        "net_investment_income_thb_mn": 2615.07,
+        "net_increase_in_net_assets_thb_mn": 2245.52,
+        "occupancy_pct": 88.02,
+        "other_metrics": "Occupancy = avg warehouse occupancy before undertaking income (89.60% after; MDA L14-15); rental revenue from Fact Sheet L148",
+        "source": {
+          "file": "WHART_PO_20260512_P2-12-Financials.md",
+          "line": 48,
+          "section": "ฐานะการเงินและผลการดำเนินงานของกองทรัสต์ WHART",
+          "quote": "รวมรายได้ | 857,676,156 | 3,507,809,390 | 3,519,234,190 | 3,397,677,860"
+        }
+      },
+      {
+        "period": "FY2024",
+        "total_revenue_thb_mn": 3519.23,
+        "rental_and_service_revenue_thb_mn": 3485.22,
+        "net_investment_income_thb_mn": 2635.75,
+        "net_increase_in_net_assets_thb_mn": 1920.95,
+        "occupancy_pct": 84.85,
+        "other_metrics": "Occupancy before undertaking (87.78% after); fair-value loss THB 714.81 mn",
+        "source": {
+          "file": "WHART_PO_20260512_P2-12-Financials.md",
+          "line": 48,
+          "section": "ฐานะการเงินและผลการดำเนินงานของกองทรัสต์ WHART",
+          "quote": "รวมรายได้ | 857,676,156 | 3,507,809,390 | 3,519,234,190 | 3,397,677,860"
+        }
+      },
+      {
+        "period": "FY2025",
+        "total_revenue_thb_mn": 3507.81,
+        "rental_and_service_revenue_thb_mn": 3484.62,
+        "net_investment_income_thb_mn": 2645.15,
+        "net_increase_in_net_assets_thb_mn": 2349.81,
+        "occupancy_pct": 87.15,
+        "other_metrics": "Occupancy before undertaking (88.28% after); undertaking income THB 65.85 mn",
+        "source": {
+          "file": "WHART_PO_20260512_P2-12-Financials.md",
+          "line": 48,
+          "section": "ฐานะการเงินและผลการดำเนินงานของกองทรัสต์ WHART",
+          "quote": "รวมรายได้ | 857,676,156 | 3,507,809,390 | 3,519,234,190 | 3,397,677,860"
+        }
+      },
+      {
+        "period": "1Q2026",
+        "total_revenue_thb_mn": 857.68,
+        "rental_and_service_revenue_thb_mn": 855.18,
+        "net_investment_income_thb_mn": 670.49,
+        "net_increase_in_net_assets_thb_mn": 674.91,
+        "occupancy_pct": 86.75,
+        "other_metrics": "Occupancy before undertaking (87.86% after); 3-month period",
+        "source": {
+          "file": "WHART_PO_20260512_P2-12-Financials.md",
+          "line": 48,
+          "section": "ฐานะการเงินและผลการดำเนินงานของกองทรัสต์ WHART",
+          "quote": "รวมรายได้ | 857,676,156 | 3,507,809,390 | 3,519,234,190 | 3,397,677,860"
+        }
+      }
+    ],
+    "portfolio_occupancy": [
+      {
+        "as_of": "1Q2026",
+        "occupancy_pct": 86.75,
+        "basis": "Average warehouse occupancy before rent paid under undertaking agreements",
+        "source": {
+          "file": "WHART_PO_20260512_P2-13-MDA.md",
+          "line": 14,
+          "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา",
+          "quote": "| 86.75 | 87.15 | 84.85 | 88.02 |"
+        }
+      },
+      {
+        "as_of": "1Q2026",
+        "occupancy_pct": 87.86,
+        "basis": "Average warehouse occupancy including space paid under undertaking agreements",
+        "source": {
+          "file": "WHART_PO_20260512_P2-13-MDA.md",
+          "line": 15,
+          "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา",
+          "quote": "| 87.86 | 88.28 | 87.78 | 89.60 |"
+        }
+      }
+    ],
+    "assets": [
+      {
+        "asset_id": "LKB_DC",
+        "name_en": "WHA Ladkrabang D.C.",
+        "name_th": "โครงการดับบลิวเอชเอ ลาดกระบัง ดี.ซี.",
+        "asset_type": "Warehouse",
+        "location": "Khlong Sam Prawet, Lat Krabang",
+        "province": "Bangkok",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "IPO (first investment), 2014-12-15",
+        "land_area_sqm": 56000.0,
+        "leasable_area_sqm": 35093.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1084.65,
+        "latest_appraisal_thb_mn": 1125.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 35-0-0.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 86,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,084.65 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 82,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 35-0-0.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 678,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ ลาดกระบัง ดี.ซี. | 1,125.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 193,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "35,093.00 | 1.83 | - | - | 35,093.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "BNT18",
+        "name_en": "WHA Mega Logistics Center Bangna-Trad Km.18",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.18",
+        "asset_type": "Warehouse",
+        "location": "Bang Chalong, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold (land) + freehold (buildings)",
+        "lease_expiry": "2041-08-03",
+        "acquired": "IPO (first investment), 2014-12-15",
+        "land_area_sqm": 119468.0,
+        "leasable_area_sqm": 72179.48,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1379.8,
+        "latest_appraisal_thb_mn": 1249.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 74-2-67.00 rai. Land lease 30y from 2011-08-04; also 23,976.30 sqm roof area.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 99,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,379.80 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 95,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินรวมประมาณ 74-2-67.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 697,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.18 | 1,249.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 194,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "72,179.48 | 3.77 | - | - | 72,179.48"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 97,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 3 สิงหาคม 2584"
+          }
+        ]
+      },
+      {
+        "asset_id": "BNT23_P1",
+        "name_en": "WHA Mega Logistics Center Bangna-Trad Km.23 Project 1",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 1",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "IPO (first investment), 2014-12-15",
+        "land_area_sqm": 104090.0,
+        "leasable_area_sqm": 60306.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1920.79,
+        "latest_appraisal_thb_mn": 2235.6,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 65-0-22.50 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 112,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,920.79 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 108,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินรวมประมาณ 65-0-22.50 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 679,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 1 | 2,235.60"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 195,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "60,306.00 | 3.15 | - | - | 60,306.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "CLHP4",
+        "name_en": "WHA Mega Logistics Center Chonlaharnpichit Km.4",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.4",
+        "asset_type": "Warehouse",
+        "location": "Bang Pla, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "1st capital increase, 2015-12-29",
+        "land_area_sqm": 129663.6,
+        "leasable_area_sqm": 80745.55,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2496.0,
+        "latest_appraisal_thb_mn": 2828.6,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 81-0-15.90 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 125,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 2,496.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 121,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 81-0-15.90 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 680,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.4 | 2,828.60"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 196,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "80,745.55 | 4.22 | - | - | 80,745.55"
+          }
+        ]
+      },
+      {
+        "asset_id": "WN61",
+        "name_en": "WHA Mega Logistics Center Wangnoi 61",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 61",
+        "asset_type": "Warehouse",
+        "location": "Bo Ta Lo, Wang Noi",
+        "province": "Phra Nakhon Si Ayutthaya",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2042-04-30",
+        "acquired": "1st capital increase, 2015-12-29",
+        "land_area_sqm": 110464.0,
+        "leasable_area_sqm": 61434.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1286.0,
+        "latest_appraisal_thb_mn": 1133.1,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 69-0-16.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 138,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,286.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 134,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 69-0-16.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 698,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 61 | 1,133.10"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 197,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "61,434.00 | 3.21 | - | - | 61,434.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 136,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 30 เมษายน 2585"
+          }
+        ]
+      },
+      {
+        "asset_id": "HITACHI_SRB",
+        "name_en": "WHA Hitachi Saraburi / WHA Mega Logistics Center Saraburi",
+        "name_th": "โครงการดับบลิวเอชเอ ฮิตาชิ สระบุรี / ดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ สระบุรี",
+        "asset_type": "Warehouse",
+        "location": "Nong Pla Mo, Nong Khae",
+        "province": "Saraburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "1st capital increase, 2015-12-29",
+        "land_area_sqm": 55648.0,
+        "leasable_area_sqm": 33018.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 863.91,
+        "latest_appraisal_thb_mn": 951.7,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 34-3-12.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 151,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 863.91 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 147,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 34-3-12.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 681,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ ฮิตาชิ สระบุรี / ดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ สระบุรี | 951.70"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 198,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "33,018.00 | 1.72 | - | - | 33,018.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "CLHP5",
+        "name_en": "WHA Mega Logistics Center Chonlaharnpichit Km.5",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.5",
+        "asset_type": "Warehouse",
+        "location": "Bang Pla, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2043-03-31",
+        "acquired": "2nd capital increase, 2016-12-07",
+        "land_area_sqm": 106740.0,
+        "leasable_area_sqm": 63248.25,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1539.0,
+        "latest_appraisal_thb_mn": 1455.4,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 66-2-85.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 164,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,539.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 160,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 66-2-85.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 699,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.5 | 1,455.40"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 199,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "63,248.25 | 3.30 | - | - | 63,248.25"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 162,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 31 มีนาคม 2586"
+          }
+        ]
+      },
+      {
+        "asset_id": "MLC_LKB",
+        "name_en": "WHA Mega Logistics Center Ladkrabang",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ลาดกระบัง",
+        "asset_type": "Warehouse",
+        "location": "Khlong Sam Prawet, Lat Krabang",
+        "province": "Bangkok",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "2nd capital increase, 2016-12-07",
+        "land_area_sqm": 159004.0,
+        "leasable_area_sqm": 95110.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2651.0,
+        "latest_appraisal_thb_mn": 3000.9,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 99-1-51.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 177,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 2,651.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 173,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 99-1-51.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 682,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ลาดกระบัง | 3,000.90"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 200,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "95,110.00 | 4.97 | - | - | 95,110.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "BNT19",
+        "name_en": "WHA Mega Logistics Center Bangna-Trad Km.19",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.19",
+        "asset_type": "Warehouse",
+        "location": "Bang Chalong, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2041-11-23",
+        "acquired": "WHAPF conversion and 3rd additional investment, 2017-11-29",
+        "land_area_sqm": 113622.0,
+        "leasable_area_sqm": 68725.95,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1439.0,
+        "latest_appraisal_thb_mn": 1208.11,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 71-0-5.50 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 190,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,439.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 186,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 71-0-5.50 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 700,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.19 | 1,208.11"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 201,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "68,725.95 | 3.59 | - | - | 68,725.95"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 188,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 23 พฤศจิกายน 2584"
+          }
+        ]
+      },
+      {
+        "asset_id": "CLHP3_P1",
+        "name_en": "WHA Mega Logistics Center Chonlaharnpichit Km.3 Project 1",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.3 โปรเจค 1",
+        "asset_type": "Warehouse",
+        "location": "Bang Pla, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold (30 years) with 30-year renewal promise",
+        "lease_expiry": "c. 2047-11 (21y1m28d remaining at 2026-10-01)",
+        "acquired": "3rd additional investment, 2017-11-29",
+        "land_area_sqm": 80589.6,
+        "leasable_area_sqm": 47221.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1222.0,
+        "latest_appraisal_thb_mn": 1315.06,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 50-1-47.40 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 203,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,222.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 199,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 50-1-47.40 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 701,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.3 โปรเจค 1 | 1,315.06"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 202,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "47,221.00 | 2.47 | - | - | 47,221.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "LLK",
+        "name_en": "WHA Mega Logistics Center Lamlukka",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ลำลูกกา",
+        "asset_type": "Warehouse",
+        "location": "Lam Luk Ka",
+        "province": "Pathum Thani",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "3rd additional investment, 2017-11-29",
+        "land_area_sqm": 20208.0,
+        "leasable_area_sqm": 8045.64,
+        "rooms": null,
+        "acquisition_price_thb_mn": 587.0,
+        "latest_appraisal_thb_mn": 753.06,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 12-2-52.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 216,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 587.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 212,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 12-2-52.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 683,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ลำลูกกา | 753.06"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 203,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "8,045.64 | 0.42 | - | - | 8,045.64"
+          }
+        ]
+      },
+      {
+        "asset_id": "KAO_DC",
+        "name_en": "Kao D.C.",
+        "name_th": "โครงการคาโอ ดี.ซี.",
+        "asset_type": "Warehouse",
+        "location": "Don Hua Lo, Mueang Chonburi",
+        "province": "Chonburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "WHAPF conversion, 2017-11-29",
+        "land_area_sqm": 75124.0,
+        "leasable_area_sqm": 42310.44,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1148.0,
+        "latest_appraisal_thb_mn": 1399.94,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 46-3-81.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 229,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,148.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 225,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 46-3-81.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 684,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการคาโอ ดี.ซี. | 1,399.94"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 204,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "42,310.44 | 2.21 | - | - | 42,310.44"
+          }
+        ]
+      },
+      {
+        "asset_id": "PANTHONG",
+        "name_en": "WHA Mega Logistics Center Panthong Chonburi",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ พานทอง ชลบุรี",
+        "asset_type": "Warehouse",
+        "location": "Phan Thong",
+        "province": "Chonburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "WHAPF conversion, 2017-11-29",
+        "land_area_sqm": 62472.0,
+        "leasable_area_sqm": 38577.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1085.0,
+        "latest_appraisal_thb_mn": 804.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 39-0-18.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 242,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,085.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 238,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 39-0-18.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 685,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ พานทอง ชลบุรี | 804.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 205,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "38,577.00 | 2.01 | - | - | 38,577.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "DKSH_INTANON",
+        "name_en": "DKSH Consumer Goods / WHA Intanon",
+        "name_th": "โครงการดีเคเอสเอช คอนซูเมอร์ กู๊ดส์ / ดับบลิวเอชเอ อินทนนท์",
+        "asset_type": "Warehouse",
+        "location": "Sisa Chorakhe Yai, Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2035-12-08 (some plots to 2039-02-05)",
+        "acquired": "WHAPF conversion, 2017-11-29",
+        "land_area_sqm": 133124.0,
+        "leasable_area_sqm": 73022.44,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1128.0,
+        "latest_appraisal_thb_mn": 964.44,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 83-0-81.00 rai. Shortest remaining lease (~9y2m).",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 255,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,128.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 251,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 83-0-81.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 702,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดีเคเอสเอช คอนซูเมอร์ กู๊ดส์ / ดับบลิวเอชเอ อินทนนท์ | 964.44"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 206,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "73,022.44 | 3.81 | - | - | 73,022.44"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 253,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 8 ธันวาคม 2578"
+          }
+        ]
+      },
+      {
+        "asset_id": "SRIPHET_DC",
+        "name_en": "Sriphet D.C.",
+        "name_th": "โครงการศรีเพชร ดี.ซี.",
+        "asset_type": "Warehouse",
+        "location": "Bang Chalong, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "WHAPF conversion, 2017-11-29",
+        "land_area_sqm": 75464.0,
+        "leasable_area_sqm": 52706.84,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1797.0,
+        "latest_appraisal_thb_mn": 2346.3,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 47-0-66.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 268,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,797.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 264,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 47-0-66.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 686,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการศรีเพชร ดี.ซี. | 2,346.30"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 207,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "52,706.84 | 2.75 | - | - | 52,706.84"
+          }
+        ]
+      },
+      {
+        "asset_id": "DKSH_BPI",
+        "name_en": "DKSH Consumer Goods Bang Pa-in",
+        "name_th": "โครงการดีเคเอสเอช คอนซูเมอร์ กู๊ดส์ บางปะอิน",
+        "asset_type": "Warehouse",
+        "location": "Bang Pa-in Industrial Estate, Bang Pa-in",
+        "province": "Phra Nakhon Si Ayutthaya",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "WHAPF conversion, 2017-11-29",
+        "land_area_sqm": 49012.0,
+        "leasable_area_sqm": 36000.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 602.0,
+        "latest_appraisal_thb_mn": 797.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 30-2-53.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 281,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 602.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 277,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 30-2-53.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 687,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดีเคเอสเอช คอนซูเมอร์ กู๊ดส์ บางปะอิน | 797.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 208,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "36,000.00 | 1.88 | - | - | 36,000.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "DSGT_DC_SRB",
+        "name_en": "WHA DSGT Distribution Center Saraburi",
+        "name_th": "โครงการดับบลิวเอชเอ ดีเอสจีที ดิสทริบิวชั่น เซ็นเตอร์ สระบุรี",
+        "asset_type": "Warehouse",
+        "location": "WHA Saraburi Industrial Land, Nong Khae",
+        "province": "Saraburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "WHAPF conversion, 2017-11-29",
+        "land_area_sqm": 76906.0,
+        "leasable_area_sqm": 55372.4,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1402.0,
+        "latest_appraisal_thb_mn": 1590.3,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 48-0-26.50 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 294,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,402.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 290,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินประมาณ 48-0-26.50 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 688,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ ดีเอสจีที ดิสทริบิวชั่น เซ็นเตอร์ สระบุรี | 1,590.30"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 209,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "55,372.40 | 2.89 | - | - | 55,372.40"
+          }
+        ]
+      },
+      {
+        "asset_id": "RAMA2_KM35",
+        "name_en": "WHA Mega Logistics Center Rama 2 Km.35",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ พระราม 2 กม.35",
+        "asset_type": "Warehouse",
+        "location": "Bang Krachao, Mueang Samut Sakhon",
+        "province": "Samut Sakhon",
+        "investment_type": "Leasehold (30 years) with 30-year renewal promise",
+        "lease_expiry": "c. 2048-12 (22y2m3d remaining at 2026-10-01)",
+        "acquired": "3rd capital increase, 2018-12-04",
+        "land_area_sqm": 27260.0,
+        "leasable_area_sqm": 14090.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 727.9,
+        "latest_appraisal_thb_mn": 642.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 17-0-15.00 rai. Leased from WHA Corporation.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 307,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 727.90 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 303,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 17-0-15.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 703,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ พระราม 2 กม.35 | 642.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 210,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "14,090.00 | 0.74 | - | - | 14,090.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "DSGT_SRB",
+        "name_en": "DSGT Saraburi",
+        "name_th": "โครงการดีเอสจีที สระบุรี",
+        "asset_type": "Warehouse",
+        "location": "WHA Saraburi Industrial Land, Nong Khae",
+        "province": "Saraburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "3rd capital increase, 2018-12-04",
+        "land_area_sqm": 24000.0,
+        "leasable_area_sqm": 16620.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 487.0,
+        "latest_appraisal_thb_mn": 578.2,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 15-0-0.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 320,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 487.00 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 316,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนด 15-0-0.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 689,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดีเอสจีที สระบุรี | 578.20"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 211,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "16,620.00 | 0.87 | - | - | 16,620.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "WN63_P1P2",
+        "name_en": "WHA Central Mega Logistics Center Wangnoi 63 (Projects 1 and 2)",
+        "name_th": "โครงการดับบลิวเอชเอ เซ็นทรัล เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 63 โปรเจค 1 และ โปรเจค 2",
+        "asset_type": "Warehouse",
+        "location": "Bo Ta Lo / Lam Ta Sao, Wang Noi",
+        "province": "Phra Nakhon Si Ayutthaya",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "3rd capital increase, 2018-12-04",
+        "land_area_sqm": 154176.0,
+        "leasable_area_sqm": 86223.61,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2351.3,
+        "latest_appraisal_thb_mn": 2500.9,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 96-1-44.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 334,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 2,351.30 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 330,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนดรวม 96-1-44.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 690,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เซ็นทรัล เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 63 โปรเจค 1 และ โปรเจค 2 | 2,500.90"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 212,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "86,223.61 | 4.50 | - | - | 86,223.61"
+          }
+        ]
+      },
+      {
+        "asset_id": "KPN_P2_AB",
+        "name_en": "WHA-KPN Mega Logistics Center Bangna-Trad Km.23 Project 2 (Buildings A,B)",
+        "name_th": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร A,B)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2044-01-02",
+        "acquired": "3rd capital increase, 2018-12-04",
+        "land_area_sqm": 69818.0,
+        "leasable_area_sqm": 39712.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 898.3,
+        "latest_appraisal_thb_mn": 784.9,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 43-2-54.50 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 350,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 898.30 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 346,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 43-2-54.50 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 704,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร A,B) | 784.90"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 213,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "39,712.00 | 2.07 | - | - | 39,712.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 348,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 2 มกราคม 2587"
+          }
+        ]
+      },
+      {
+        "asset_id": "CLHP3_P2",
+        "name_en": "WHA Mega Logistics Center Chonlaharnpichit Km.3 Project 2",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.3 โปรเจค 2",
+        "asset_type": "Warehouse",
+        "location": "Bang Pla, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "4th capital increase, 2019-12-11",
+        "land_area_sqm": 120835.2,
+        "leasable_area_sqm": 73049.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2043.55,
+        "latest_appraisal_thb_mn": 2080.35,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 75-2-8.80 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 363,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 2,043.55 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 359,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนดรวม 75-2-8.80 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 694,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.3 โปรเจค 2 | 2,080.35"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 214,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "73,049.00 | 3.81 | - | - | 73,049.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "ROECHLING",
+        "name_en": "WHA Roechling Factory",
+        "name_th": "โครงการดับบลิวเอชเอ โรคคลิ่ง แฟคทอรี่",
+        "asset_type": "Factory",
+        "location": "Khao Khan Song, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "4th capital increase, 2019-12-11",
+        "land_area_sqm": 19991.2,
+        "leasable_area_sqm": 9977.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 368.2,
+        "latest_appraisal_thb_mn": 404.3,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 12-1-97.80 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 376,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 368.20 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 372,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนดรวม 12-1-97.80 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 691,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ โรคคลิ่ง แฟคทอรี่ | 404.30"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 215,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "9,977.00 | 0.52 | - | - | 9,977.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "DTS_DRAEXLMAIER",
+        "name_en": "WHA DTS Draexlmaier Automotive Systems",
+        "name_th": "โครงการดับบลิวเอชเอ ดีทีเอส แดร็คเซิลไมเออร์ ออโทโมทีฟ ซีสเท็มส์",
+        "asset_type": "Factory",
+        "location": "Bo Win, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "4th capital increase, 2019-12-11",
+        "land_area_sqm": 9909.6,
+        "leasable_area_sqm": 5431.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 294.43,
+        "latest_appraisal_thb_mn": 360.6,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 6-0-77.40 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 389,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 294.43 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 385,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนดรวม 6-0-77.40 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 692,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ ดีทีเอส แดร็คเซิลไมเออร์ ออโทโมทีฟ ซีสเท็มส์ | 360.60"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 216,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "5,431.00 | 0.28 | - | - | 5,431.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "KPN_P2_CEH",
+        "name_en": "WHA-KPN Mega Logistics Center Bangna-Trad Km.23 Project 2 (Buildings C,E,H)",
+        "name_th": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร C,E,H)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2044-01-02",
+        "acquired": "4th capital increase, 2019-12-11",
+        "land_area_sqm": 90589.6,
+        "leasable_area_sqm": 50628.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1117.48,
+        "latest_appraisal_thb_mn": 1031.6,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 56-2-47.40 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 406,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,117.48 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 402,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่ารวมประมาณ 56-2-47.40 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 705,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร C,E,H) | 1,031.60"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 217,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "50,628.00 | 2.64 | - | - | 50,628.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 404,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 2 มกราคม 2587"
+          }
+        ]
+      },
+      {
+        "asset_id": "CLHP3_UNILEVER",
+        "name_en": "WHA Mega Logistics Center Chonlaharnpichit Km.3 (Unilever)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.3 (ยูนิลีเวอร์)",
+        "asset_type": "Warehouse",
+        "location": "Bang Pla, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold (30 years) with 30-year renewal promise",
+        "lease_expiry": "c. 2047-11 (21y1m28d remaining at 2026-10-01)",
+        "acquired": "4th capital increase, 2019-12-11",
+        "land_area_sqm": 33859.2,
+        "leasable_area_sqm": 16152.44,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1056.61,
+        "latest_appraisal_thb_mn": 1051.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 21-0-64.80 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 420,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,056.61 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 416,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 21-0-64.80 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 706,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ ชลหารพิจิตร กม.3 (ยูนิลีเวอร์) | 1,051.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 218,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "16,152.44 | 0.84 | - | - | 16,152.44"
+          }
+        ]
+      },
+      {
+        "asset_id": "LCB_P1_A",
+        "name_en": "WHA Mega Logistics Center Laem Chabang Project 1 (Building A)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ แหลมฉบัง โปรเจค 1 (อาคาร A)",
+        "asset_type": "Warehouse",
+        "location": "Nong Kham, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "5th capital increase, 2020-12-03",
+        "land_area_sqm": 34282.0,
+        "leasable_area_sqm": 19599.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 588.75,
+        "latest_appraisal_thb_mn": 612.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 21-1-70.50 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 433,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 588.75 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 429,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนดรวม 21-1-70.50 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 693,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ แหลมฉบัง โปรเจค 1 (อาคาร A) | 612.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 219,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "19,599.00 | 1.02 | - | - | 19,599.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "LCB_P2",
+        "name_en": "WHA Mega Logistics Center Laem Chabang Project 2",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ แหลมฉบัง โปรเจค 2",
+        "asset_type": "Warehouse",
+        "location": "Bueng, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2048-06-07",
+        "acquired": "5th capital increase, 2020-12-03",
+        "land_area_sqm": 80000.0,
+        "leasable_area_sqm": 44798.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 980.67,
+        "latest_appraisal_thb_mn": 947.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 50-0-0.00 rai. Unregistered drainage-pipe easement (Risk 5.1.22).",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 446,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 980.67 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 442,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่แบ่งเช่ารวม 50-0-0.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 707,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ แหลมฉบัง โปรเจค 2 | 947.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 220,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "44,798.00 | 2.34 | - | - | 44,798.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 444,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 7 มิถุนายน 2591"
+          }
+        ]
+      },
+      {
+        "asset_id": "KPN_P2_DIFG",
+        "name_en": "WHA-KPN Mega Logistics Center Bangna-Trad Km.23 Project 2 (Buildings D,I,F,G)",
+        "name_th": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร D,I,F,G)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2044-01-02",
+        "acquired": "5th capital increase, 2020-12-03",
+        "land_area_sqm": 70767.2,
+        "leasable_area_sqm": 64407.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1664.55,
+        "latest_appraisal_thb_mn": 1562.1,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 44-0-91.80 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 463,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 1,664.55 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 459,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่เช่ารวม 44-0-91.80 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 708,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร D,I,F,G) | 1,562.10"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 221,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "64,407.00 | 3.36 | - | - | 64,407.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 461,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 2 มกราคม 2587"
+          }
+        ]
+      },
+      {
+        "asset_id": "BNT23_P3_A",
+        "name_en": "WHA Mega Logistics Center Bangna-Trad Km.23 Project 3 (Building A)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 3 (อาคาร A)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold / sub-leasehold",
+        "lease_expiry": "2051-05-28",
+        "acquired": "6th capital increase, 2021-12-02",
+        "land_area_sqm": 50148.4,
+        "leasable_area_sqm": 30040.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 790.54,
+        "latest_appraisal_thb_mn": 734.05,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 31-1-37.10 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 480,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 790.54 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 476,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 31-1-37.10 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 710,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 3 (อาคาร A) | 734.05"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 222,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "30,040.00 | 1.57 | - | - | 30,040.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 478,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 28 พฤษภาคม 2594"
+          }
+        ]
+      },
+      {
+        "asset_id": "WN62",
+        "name_en": "WHA Mega Logistics Center Wangnoi 62",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 62",
+        "asset_type": "Warehouse",
+        "location": "Bo Ta Lo, Wang Noi",
+        "province": "Phra Nakhon Si Ayutthaya",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2047-12-31",
+        "acquired": "6th capital increase, 2021-12-02",
+        "land_area_sqm": 42872.0,
+        "leasable_area_sqm": 24150.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 548.63,
+        "latest_appraisal_thb_mn": 456.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 26-3-18.00 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 495,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 548.63 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 491,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ที่ดินที่เช่าโดยประมาณ 26-3-18.00 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 709,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 62 | 456.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 223,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "24,150.00 | 1.26 | - | - | 24,150.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 493,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "ถึงวันที่ 31 ธันวาคม 2590"
+          }
+        ]
+      },
+      {
+        "asset_id": "ECOMMERCE_PARK",
+        "name_en": "WHA E-Commerce Park",
+        "name_th": "โครงการดับบลิวเอชเอ อีคอมเมิร์ซ ปาร์ค",
+        "asset_type": "Warehouse",
+        "location": "Bang Samak, Bang Pakong",
+        "province": "Chachoengsao",
+        "investment_type": "Leasehold (30 years) with 30-year renewal promise",
+        "lease_expiry": "c. 2051-12 (25y2m1d remaining at 2026-10-01)",
+        "acquired": "6th capital increase, 2021-12-02",
+        "land_area_sqm": 220365.6,
+        "leasable_area_sqm": 130139.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 4210.55,
+        "latest_appraisal_thb_mn": 4148.2,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 137-2-91.40 rai. Largest project; leased from WHA Venture Holding.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 509,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 4,210.55 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 505,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่ารวมประมาณ 137-2-91.40 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 711,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ อีคอมเมิร์ซ ปาร์ค | 4,148.20"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 224,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "130,139.00 | 6.79 | - | - | 130,139.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "BNT23_P3_BCD",
+        "name_en": "WHA Mega Logistics Center Bangna-Trad Km.23 Project 3 (Buildings B,C,D)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 3 (อาคาร B,C,D)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Sub-leasehold (land) + leasehold (buildings)",
+        "lease_expiry": "2051-05-28",
+        "acquired": "7th capital increase, 2022-12-01",
+        "land_area_sqm": 52975.2,
+        "leasable_area_sqm": 34003.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 826.06,
+        "latest_appraisal_thb_mn": 746.2,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 33-0-43.80 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 526,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 826.06 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 522,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 33-0-43.80 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 712,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 3 (อาคาร B,C,D) | 746.20"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 225,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "34,003.00 | 1.78 | - | - | 34,003.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 524,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 28 พฤษภาคม 2594"
+          }
+        ]
+      },
+      {
+        "asset_id": "SIGNODE",
+        "name_en": "WHA Signode Factory",
+        "name_th": "โครงการดับบลิวเอชเอ ซิกโนด แฟคทอรี่",
+        "asset_type": "Factory",
+        "location": "Khao Khan Song, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Leasehold (30 years) with 30-year renewal promise",
+        "lease_expiry": "c. 2052-12 (26y2m remaining at 2026-10-01)",
+        "acquired": "7th capital increase, 2022-12-01",
+        "land_area_sqm": 21451.2,
+        "leasable_area_sqm": 8151.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 309.65,
+        "latest_appraisal_thb_mn": 279.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 13-1-62.80 rai. WHA may build on vacant rear land (Risk).",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 541,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 309.65 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 537,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ที่ดินที่เช่าโดยประมาณ 13-1-62.80 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 713,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ ซิกโนด แฟคทอรี่ | 279.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 226,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "8,151.00 | 0.43 | - | - | 8,151.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "THEP21_IJ",
+        "name_en": "WHA Mega Logistics Center Theparak Km.21 (Buildings I,J)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร I,J)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold / sub-leasehold",
+        "lease_expiry": "c. 2051-05 (24y7m24d remaining at 2026-10-01)",
+        "acquired": "7th capital increase, 2022-12-01",
+        "land_area_sqm": 45315.6,
+        "leasable_area_sqm": 30233.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 717.89,
+        "latest_appraisal_thb_mn": 639.4,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 28-1-28.90 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 557,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 717.89 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 553,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 28-1-28.90 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 714,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร I,J) | 639.40"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 227,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "30,233.00 | 1.58 | - | - | 30,233.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "KPN_P2_JKLMN",
+        "name_en": "WHA-KPN Mega Logistics Center Bangna-Trad Km.23 Project 2 (Buildings J,K,L,M,N)",
+        "name_th": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร J,K,L,M,N)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2044-01-02",
+        "acquired": "7th capital increase, 2022-12-01",
+        "land_area_sqm": 33868.4,
+        "leasable_area_sqm": 19796.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 414.06,
+        "latest_appraisal_thb_mn": 478.8,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 21-0-67.10 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 574,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 414.06 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 570,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 21-0-67.10 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 715,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ-เคพีเอ็น เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 2 (อาคาร J,K,L,M,N) | 478.80"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 228,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "19,796.00 | 1.03 | - | - | 19,796.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 572,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 2 มกราคม 2587"
+          }
+        ]
+      },
+      {
+        "asset_id": "WN63_P3P4",
+        "name_en": "WHA Central Mega Logistics Center Wangnoi 63 (Projects 3 and 4)",
+        "name_th": "โครงการดับบลิวเอชเอ เซ็นทรัล เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 63 โปรเจค 3 และโปรเจค 4",
+        "asset_type": "Warehouse",
+        "location": "Bo Ta Lo, Wang Noi",
+        "province": "Phra Nakhon Si Ayutthaya",
+        "investment_type": "Leasehold (30 years) with 30-year renewal promise",
+        "lease_expiry": "c. 2052-12 (26y2m remaining at 2026-10-01)",
+        "acquired": "7th capital increase, 2022-12-01",
+        "land_area_sqm": 106858.4,
+        "leasable_area_sqm": 67704.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1783.2,
+        "latest_appraisal_thb_mn": 1896.7,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 66-3-14.60 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 589,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 1,783.20 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 585,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 66-3-14.60 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 716,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เซ็นทรัล เมกกะ โลจิสติกส์ เซ็นเตอร์ วังน้อย 63 โปรเจค 3 และโปรเจค 4 | 1,896.70"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 229,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "67,704.00 | 3.53 | - | - | 67,704.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "THEP21_BEFGH",
+        "name_en": "WHA Mega Logistics Center Theparak Km.21 (Buildings B,E,F,G,H)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร B,E,F,G,H)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold / sub-leasehold",
+        "lease_expiry": "2051-05-24",
+        "acquired": "8th capital increase, 2023-12-25",
+        "land_area_sqm": 132948.4,
+        "leasable_area_sqm": 90862.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2204.01,
+        "latest_appraisal_thb_mn": 2055.73,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 83-0-37.10 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 605,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 2,204.01 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 601,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 83-0-37.10 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 717,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร B,E,F,G,H) | 2,055.73"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 230,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "90,862.00 | 4.74 | - | - | 90,862.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 603,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 24 พฤษภาคม 2594"
+          }
+        ]
+      },
+      {
+        "asset_id": "LCB_P1_B",
+        "name_en": "WHA Mega Logistics Center Laem Chabang Project 1 (Buildings B1-B4)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ แหลมฉบัง โปรเจค 1 (อาคาร B1,B2,B3,B4)",
+        "asset_type": "Warehouse",
+        "location": "Nong Kham, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "8th capital increase, 2023-12-25",
+        "land_area_sqm": 45806.4,
+        "leasable_area_sqm": 24310.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 678.76,
+        "latest_appraisal_thb_mn": 698.0,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 28-2-51.60 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 618,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคาที่เข้าลงทุน | 678.76 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 614,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ตามโฉนดรวม 28-2-51.60 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 695,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ แหลมฉบัง โปรเจค 1 (อาคาร B1,B2,B3,B4) | 698.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 231,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "24,310.00 | 1.27 | - | - | 24,310.00"
+          }
+        ]
+      },
+      {
+        "asset_id": "BNT23_P3_EFG",
+        "name_en": "WHA Mega Logistics Center Bangna-Trad Km.23 Project 3 (Buildings E,F,G)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 3 (อาคาร E,F,G)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold / sub-leasehold",
+        "lease_expiry": "2051-05-28",
+        "acquired": "8th capital increase, 2023-12-25",
+        "land_area_sqm": 51847.6,
+        "leasable_area_sqm": 27724.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 683.71,
+        "latest_appraisal_thb_mn": 641.94,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 32-1-61.90 rai.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 635,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 683.71 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 631,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 32-1-61.90 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 718,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ บางนา-ตราด กม.23 โปรเจค 3 (อาคาร E,F,G) | 641.94"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 232,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "27,724.00 | 1.45 | - | - | 27,724.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 633,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 28 พฤษภาคม 2594"
+          }
+        ]
+      },
+      {
+        "asset_id": "THEP21_LQ",
+        "name_en": "WHA Mega Logistics Center Theparak Km.21 (Buildings L,Q)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร L และ Q)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Sub-leasehold (land) + leasehold (buildings)",
+        "lease_expiry": "2054-05-24",
+        "acquired": "10th additional investment (no new units), 2025-05-29",
+        "land_area_sqm": 47656.0,
+        "leasable_area_sqm": 32524.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 808.08,
+        "latest_appraisal_thb_mn": 787.4,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 29-3-14 rai. Bought from WHA Venture Holding.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 651,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 808.08 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 647,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 29-3-14 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 719,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร L และ Q) | 787.40"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 233,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "32,524.00 | 1.70 | - | - | 32,524.00"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 649,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 24 พฤษภาคม 2597"
+          }
+        ]
+      },
+      {
+        "asset_id": "THEP21_CR",
+        "name_en": "WHA Mega Logistics Center Theparak Km.21 (Buildings C,R)",
+        "name_th": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร C และ R)",
+        "asset_type": "Warehouse",
+        "location": "Bang Sao Thong",
+        "province": "Samut Prakan",
+        "investment_type": "Sub-leasehold (land) + leasehold (buildings)",
+        "lease_expiry": "Building C 2051-05-24; Building R 2054-05-24",
+        "acquired": "11th additional investment (no new units), 2025-12-08",
+        "land_area_sqm": 46540.4,
+        "leasable_area_sqm": 31922.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 769.34,
+        "latest_appraisal_thb_mn": 786.88,
+        "appraisal_date": "2025-12-31",
+        "appraiser": "One of Edmund Tie, Graphic A, Krungsiam, Asian Engineering, Bangkok Appraisal, Sims (allocation per project not stated)",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "Land as filed 29-0-35.10 rai. Bought from WHA Venture Holding; leasable area 31,922 sqm per UseOfProceeds (C 12,274 + R 19,648); NewAssets summary row shows 31,992, which does not reconcile to the portfolio total.",
+        "source": {
+          "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+          "line": 667,
+          "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+          "quote": "ราคา | 769.34 ล้านบาท"
+        },
+        "extra_sources": [
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 663,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "เนื้อที่ดินที่เช่าประมาณ 29-0-35.10 ไร่"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 720,
+            "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+            "quote": "โครงการดับบลิวเอชเอ เมกกะ โลจิสติกส์ เซ็นเตอร์ เทพารักษ์ กม.21 (อาคาร C และ R) | 786.88"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+            "line": 234,
+            "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ WHART",
+            "quote": "31,992.00 | 1.67 | - | - | 31,992.00"
+          },
+          {
+            "file": "WHART_PO_20260827_P2-01-UseOfProceeds.md",
+            "line": 33,
+            "section": "2.2.1  การเข้าลงทุนในทรัพย์สินหลักเพิ่มเติม",
+            "quote": "ขนาดพื้นที่เช่าอาคารรวมประมาณ 31,922 ตารางเมตร"
+          },
+          {
+            "file": "WHART_PO_20260814_P2-03-ExistingAssets.md",
+            "line": 665,
+            "section": "รายละเอียดทรัพย์สินหลักปัจจุบันของกองทรัสต์ WHART",
+            "quote": "สิ้นสุดวันที่ 24 พฤษภาคม 2597"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "42 projects: 1,915,361.04 sqm leasable building area, 555,216.29 sqm roof area, 22,087.33 sqm parking area, land about 1,976-0-35.20 rai (EA L7).",
+      "Per-project occupancy and tenants are not disclosed in the text filings (charts only); portfolio top-10 tenants = 59.14% of projected revenue (DKSH, Alibaba Smart Hub, CRC Thai Watsadu, Sino-Pacific Trading, S Commerce (Thailand), DSG International, Perfect Companion, Kao, Volvo Car, Magnum ICC).",
+      "Disposed: WHA Generalzone Factory Rayong (THB 642 mn, 2025-05-13) and WHA Freezone Factory Rayong (THB 640 mn, 2026-02-12) to unrelated buyers.",
+      "Post-deal lease expiries by area: 2026 14.37%, 2027 14.31%, 2028 15.84%, 2029 10.52%, 2030+ 44.96%; WGCL lease (2056) 4.93%.",
+      "Acquisition prices are prices at each investment/transfer date (WHAPF assets at conversion value); lease expiries marked 'c.' are derived from remaining tenure stated at 2026-10-01."
+    ]
+  },
+  "risks": [
+    {
+      "title": "Single related-party tenant for the whole new asset",
+      "category": "Tenant/concentration",
+      "summary": "The WGCL center is leased entirely to WGCL, the seller and a WHA-group JV, with no rental guarantee. Default, early termination or non-renewal after 30 years would hit income; the asset is about 4.13% of enlarged-trust rental revenue.",
+      "asset_specific": true,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 84,
+        "section": "ความเสี่ยงในการสูญเสียผู้เช่าหลัก ซึ่งอาจทำให้รายได้ของกองทรัสต์ WHART เปลี่ยนแปลงไป",
+        "quote": "มีการให้เช่าเหมาทรัพย์สินแก่ผู้เช่าหลักเพียงรายเดียว"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Re-letting constraints: specialised use and WGCL's shared rights",
+      "category": "Asset/property",
+      "summary": "The building serves WGCL's resin conveyor/silo operation. A new tenant may pay different rent; multi-tenant conversion (up to 8 units) needs capex; WGCL keeps free shared use of the access road and rainwater pond while it leases adjacent land.",
+      "asset_specific": true,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 92,
+        "section": "ความเสี่ยงในการสูญเสียผู้เช่าหลัก ซึ่งอาจทำให้รายได้ของกองทรัสต์ WHART เปลี่ยนแปลงไป",
+        "quote": "สิทธิของดับบลิวจีซีแอลในการใช้ทางเข้าออกและบ่อพักน้ำฝนร่วมกับกองทรัสต์ WHART"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Building certificate still pending",
+      "category": "Regulatory/legal",
+      "summary": "At 2026-05-18 WGCL was still obtaining the building construction/modification certificate. The sale agreement requires complete permits; if not obtained, the manager may postpone or abandon the acquisition. Due diligence may also miss latent defects or non-compliance.",
+      "asset_specific": true,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 75,
+        "section": "ความเสี่ยงเกี่ยวกับการได้มาซึ่งอสังหาริมทรัพย์ของกองทรัสต์ WHART",
+        "quote": "ดับบลิวจีซีแอลอยู่ในระหว่างการดำเนินการเพื่อให้ได้มาซึ่งใบรับรองการก่อสร้างอาคาร"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Rainwater retention pond maintenance obligations",
+      "category": "Asset/property",
+      "summary": "The trust must share maintenance, improvement and repair costs of the rainwater pond used jointly with WGCL, including after the WGCL lease ends, on terms still to be agreed.",
+      "asset_specific": true,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 292,
+        "section": "5.1.23 ความเสี่ยงจากภาระหน้าที่และค่าใช้จ่ายในการบำรุงรักษาบ่อพักน้ำฝนในโครงการดับบลิว จีซีแอล อินเตอร์เนชั่นแนล ดิสทริบิวชั่น เซ็นเตอร์ ที่เพิ่มขึ้น",
+        "quote": "ความเสี่ยงจากภาระหน้าที่และค่าใช้จ่ายในการบำรุงรักษาบ่อพักน้ำฝน"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Security deposit used to fund the acquisition",
+      "category": "Financing/interest rate",
+      "summary": "Up to THB 54 mn of WGCL's ~THB 77.52 mn deposit will fund the purchase, so the deposit is not fully reserved; refunds on lease end could reduce distributions or require borrowing.",
+      "asset_specific": true,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 363,
+        "section": "5.2.5 ความเสี่ยงที่อาจเกิดขึ้นจากการที่กองทรัสต์ WHART นำเงินประกันการเช่ามาใช้ในการเข้าลงทุน",
+        "quote": "ในจำนวนไม่เกิน 54,000,000 บาท"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Related-party acquisition and conflicts of interest",
+      "category": "Sponsor/related-party",
+      "summary": "Seller/tenant WGCL is 50% owned by WHA Venture Holding (WHA Corporation 99.99%). WHA also controls the REIT manager (99.99%), is property manager on a fixed 30-year fee schedule and holds 15% of units.",
+      "asset_specific": true,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 314,
+        "section": "5.2.3 ความเสี่ยงจากความขัดแย้งทางผลประโยชน์ที่อาจเกิดขึ้น",
+        "quote": "5.2.3 ความเสี่ยงจากความขัดแย้งทางผลประโยชน์ที่อาจเกิดขึ้น"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Higher leverage and refinancing risk",
+      "category": "Financing/interest rate",
+      "summary": "Up to THB 2,507.6 mn of new floating-rate debt (<= MLR-1.50%), bullet within 3 years, possibly secured on trust assets; LTV rises from 28.45% to up to about 33.07%. 63.48% of interest-bearing debt already matures within one year (1Q2026).",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 328,
+        "section": "5.2.4 ความเสี่ยงที่อาจเกิดขึ้นจากการที่กองทรัสต์ WHART กู้ยืมเงินและออกหุ้นกู้",
+        "quote": "5.2.4 ความเสี่ยงที่อาจเกิดขึ้นจากการที่กองทรัสต์ WHART กู้ยืมเงินและออกหุ้นกู้"
+      }
+    },
+    {
+      "title": "Lease expiry concentration in the existing portfolio",
+      "category": "Tenant/concentration",
+      "summary": "After the deal, leases on 14.37% of area expire in 2026, 14.31% in 2027, 15.84% in 2028 and 10.52% in 2029; renewals may be at lower rents or not happen.",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 364,
+        "section": "5.2.5 ความเสี่ยงที่อาจเกิดขึ้นจากการที่กองทรัสต์ WHART นำเงินประกันการเช่ามาใช้ในการเข้าลงทุน",
+        "quote": "ร้อยละ 14.37 ร้อยละ 14.31 ร้อยละ 15.84 ร้อยละ 10.52 และร้อยละ 44.96"
+      }
+    },
+    {
+      "title": "Vacancy and expiry of WHA undertaking (rent-support) agreements",
+      "category": "Tenant/concentration",
+      "summary": "Existing portfolio occupancy was 86.75% in 1Q2026 before undertaking income; when WHA's 3-year vacant-space support ends, the trust must find tenants or lose that income.",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 376,
+        "section": "5.2.8 ความเสี่ยงในการจัดหาผู้เช่าเมื่อสัญญาตกลงกระทำการสิ้นสุดลง",
+        "quote": "5.2.8 ความเสี่ยงในการจัดหาผู้เช่าเมื่อสัญญาตกลงกระทำการสิ้นสุดลง"
+      }
+    },
+    {
+      "title": "Declining value of leasehold assets",
+      "category": "Leasehold/tenure",
+      "summary": "Most existing projects are leasehold/sub-leasehold (shortest DKSH/Intanon to about 2035); their value falls towards zero as the remaining term shortens, and some carry demolition/return obligations.",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 36,
+        "section": "ความเสี่ยงที่เกี่ยวข้องกับอสังหาริมทรัพย์",
+        "quote": "ความเสี่ยงในการเข้าลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ ซึ่งมูลค่าจะลดลงตามระยะเวลาการเช่าที่คงเหลืออยู่"
+      }
+    },
+    {
+      "title": "Tenant purchase options / right of first refusal",
+      "category": "Structure/buy-back",
+      "summary": "Some leases give tenants the right to buy the leased property; WGCL gets a right of first refusal on any sale of the new asset (at the higher of a third-party offer and the average of two appraisals).",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 116,
+        "section": "ความเสี่ยงที่เกี่ยวข้องกับอสังหาริมทรัพย์",
+        "quote": "ความเสี่ยงจากข้อกำหนดในสัญญาเช่าในบางโครงการที่ให้สิทธิแก่ผู้เช่าทรัพย์สินในการซื้อทรัพย์สินที่เช่า"
+      },
+      "applies_to": [
+        "WGCL_IDC"
+      ]
+    },
+    {
+      "title": "Control dilution of existing unitholders",
+      "category": "Offering/dilution",
+      "summary": "Holders who do not take up rights are diluted; the Risks section shows up to 4.41% dilution, but it is calculated on an older structure (up to 160 mn units, at least 50% to existing holders) that differs from the cover (127.545 mn units, ~100% rights).",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 483,
+        "section": "5.4.4 ความเสี่ยงจากการลดลงของสัดส่วนการถือหน่วยทรัสต์ WHART (Control Dilution) ของผู้ถือหน่วยทรัสต์ WHART เดิม",
+        "quote": "จำนวนไม่เกิน 160,000,000 หน่วย"
+      }
+    },
+    {
+      "title": "Actual results may differ from the projection",
+      "category": "Other",
+      "summary": "Projected DPU of THB 0.783 and 7.05% yield rely on assumptions on rents, renewals, interest costs, final price and units; sensitivity shows 0.781-0.786 for +/-1% renewal rent.",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 500,
+        "section": "5.4.6 ความเสี่ยงจากการที่ผลการดำเนินงานจริงอาจมีความแตกต่างอย่างมีนัยสำคัญจาก ประมาณการ",
+        "quote": "5.4.6 ความเสี่ยงจากการที่ผลการดำเนินงานจริงอาจมีความแตกต่างอย่างมีนัยสำคัญจาก ประมาณการ"
+      }
+    },
+    {
+      "title": "Generic headings: natural disaster/flood, expropriation, political, economic, liquidity, listing, tax",
+      "category": "Other",
+      "summary": "Generic risks listed by heading only: natural disasters, floods and sabotage; expropriation; Thai political and macro conditions; insurance shortfall; accounting/tax changes; SET listing approval of new units not yet obtained; low trading liquidity.",
+      "asset_specific": false,
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 452,
+        "section": "5.3.7 ความเสี่ยงจากภัยธรรมชาติ อุทกภัย และการก่อวินาศภัย",
+        "quote": "5.3.7 ความเสี่ยงจากภัยธรรมชาติ อุทกภัย และการก่อวินาศภัย"
+      }
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "Maximum price THB 2,507.6 mn equals the lower income-approach appraisal (SIM); SMF is THB 2,512.8 mn (+0.2%). Both use 8.5% discount and 7.0% terminal cap rates; full replacement costs are lower (THB 2,455.9 mn SIM, 2,343.1 mn SMF).",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-NewAssets.md",
+        "line": 111,
+        "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์ WHART จะเข้าลงทุน",
+        "quote": "| 2,507,600,000 | 2,512,800,000 | 2,507,600,000 |"
+      }
+    },
+    {
+      "topic": "Related-party sale-and-leaseback, no guarantee",
+      "observation": "Seller and sole 30-year tenant WGCL is a 50:50 JV of WHA Venture Holding (WHA group) and PTT Global Chemical; no undertaking/rental guarantee for the new asset, unlike several existing projects.",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-Leasing.md",
+        "line": 229,
+        "section": "การให้เช่าทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสองแก่ดับบลิว จีซีแอล",
+        "quote": "บริษัท พีทีที โกลบอล เคมิคอล จำกัด (มหาชน) ซึ่งถือหุ้นในดับบลิวจีซีแอล คิดเป็นสัดส่วนร้อยละ 50.00"
+      }
+    },
+    {
+      "topic": "Initial yield and rent profile",
+      "observation": "Year 1-3 rent THB 12,920,700/month (THB 130/sqm, low end of the stated Rayong asking range of THB 130-180) = THB 155.05 mn/yr, a 6.18% gross initial yield on price (derived). Rent steps +10% every 3 years to THB 190.33/sqm in years 13-15, then falls to 170.00 in year 16.",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-Leasing.md",
+        "line": 243,
+        "section": "การให้เช่าทรัพย์สินหลักที่กองทรัสต์ WHART จะลงทุนเพิ่มเติมครั้งที่สิบสองแก่ดับบลิว จีซีแอล",
+        "quote": "ปีที่ 16 ถึงปีที่ 18 / 170.00 บาท / 16,896,300.00 บาท"
+      }
+    },
+    {
+      "topic": "Modest DPU accretion",
+      "observation": "Projected DPU for 1 Oct 2026-30 Sep 2027 rises from THB 0.778 (existing trust) to 0.783 (+0.6%), 7.05% yield at the THB 11.10 maximum price; IRR 9.77% (9.74% ex-undertaking income). Historical DPU was flat at THB 0.7735 in FY2023-FY2025, with a growing capital-reduction component.",
+      "source": {
+        "file": "WHART_PO_20260827_P2-03-Leasing.md",
+        "line": 385,
+        "section": "งบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสถานการณ์สมมติ",
+        "quote": "การจ่ายผลประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย | 0.778 | 0.783"
+      }
+    },
+    {
+      "topic": "Leverage and short-dated debt",
+      "observation": "LTV 28.45% (30.16% incl. lease liabilities; loan covenant 35%) rises to up to about 33.07%. Base case adds ~THB 1,197.65 mn debt, implying ~45.7% LTV on the new asset; new loan is bullet within 3 years, and 63.48% of existing interest-bearing debt matures within one year.",
+      "source": {
+        "file": "WHART_PO_20260512_P2-13-MDA.md",
+        "line": 74,
+        "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา",
+        "quote": "| ร้อยละ | 63.48 |"
+      }
+    },
+    {
+      "topic": "Inconsistent unit numbers across sections",
+      "observation": "Cover/offering: up to 127,545,000 units with ~100% offered to existing holders; the Risks section (uploaded 2026-08-14) still describes up to 160,000,000 units with at least 50% to existing holders, and the projection uses 3,594.39 mn post-deal units vs 3,596.37 mn implied by the cover.",
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 483,
+        "section": "5.4.4 ความเสี่ยงจากการลดลงของสัดส่วนการถือหน่วยทรัสต์ WHART (Control Dilution) ของผู้ถือหน่วยทรัสต์ WHART เดิม",
+        "quote": "จำนวนไม่เกิน 160,000,000 หน่วย"
+      }
+    },
+    {
+      "topic": "Offer price vs NAV and market",
+      "observation": "Maximum price THB 11.10 is 1.05x NAV/unit of THB 10.5476 (31 Mar 2026). Units traded at a July 2026 monthly average of THB 11.12 (range 10.80-11.60).",
+      "source": {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "line": 500,
+        "section": "ราคาหน่วยทรัสต์ในตลาดรอง",
+        "quote": "กรกฎาคม | 11.12 | 11.60 | 10.80"
+      }
+    },
+    {
+      "topic": "High transaction costs",
+      "observation": "Estimated offering/acquisition expenses of about THB 160.44 mn equal 6.4% of the asset price and 11.3% of the maximum equity raise (derived).",
+      "source": {
+        "file": "WHART_PO_20260827_P3-Offering.md",
+        "line": 510,
+        "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายหน่วยทรัสต์ในครั้งนี้",
+        "quote": "ประมาณ 160,442,000 บาท"
+      }
+    },
+    {
+      "topic": "Permit condition precedent",
+      "observation": "WGCL was still obtaining the building construction/modification certificate as of 18 May 2026; the acquisition could be delayed or dropped if permits are incomplete.",
+      "source": {
+        "file": "WHART_PO_20260814_P2-05-Risks.md",
+        "line": 75,
+        "section": "ความเสี่ยงเกี่ยวกับการได้มาซึ่งอสังหาริมทรัพย์ของกองทรัสต์ WHART",
+        "quote": "ดับบลิวจีซีแอลอยู่ในระหว่างการดำเนินการเพื่อให้ได้มาซึ่งใบรับรองการก่อสร้างอาคาร"
+      }
+    },
+    {
+      "topic": "Existing occupancy below 90%",
+      "observation": "Existing portfolio average warehouse occupancy was 86.75% in 1Q2026 before undertaking income (87.86% after), versus 88.02% in FY2023.",
+      "source": {
+        "file": "WHART_PO_20260512_P2-13-MDA.md",
+        "line": 14,
+        "section": "การวิเคราะห์ผลการดำเนินงานที่ผ่านมา",
+        "quote": "| 86.75 | 87.15 | 84.85 | 88.02 |"
+      }
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "WHART_PO_20260827_00-Cover.md",
+      "WHART_PO_20260827_P1-FactSheet.md",
+      "WHART_PO_20260827_P2-01-UseOfProceeds.md",
+      "WHART_PO_20260827_P3-Offering.md",
+      "WHART_PO_20260827_P2-03-NewAssets.md",
+      "WHART_PO_20260827_P2-03-Leasing.md",
+      "WHART_PO_20260827_P2-03-Encumbrances.md",
+      "WHART_PO_20260814_P2-03-ExistingAssets.md",
+      "WHART_PO_20260512_P2-12-Financials.md",
+      "WHART_PO_20260512_P2-13-MDA.md",
+      "WHART_PO_20260814_P2-05-Risks.md",
+      "WHART_PO_20260814_P2-08-Unitholders.md",
+      "WHART_PO_20260814_P2-09-Governance.md",
+      "WHART_PO_20260512_P2-11-RelatedParty.md"
+    ],
+    "not_found": [
+      {
+        "field": "offering.offering_price_per_unit.min_thb",
+        "reason": "Only a maximum price (THB 11.10) is disclosed; final price via bookbuilding"
+      },
+      {
+        "field": "offering.offering_price_per_unit.final_thb",
+        "reason": "Final price to be announced on SET website after bookbuilding"
+      },
+      {
+        "field": "offering.sponsor_commitment",
+        "reason": "No sponsor take-up, minimum holding or lock-up stated; WHA may subscribe its rights"
+      },
+      {
+        "field": "offering.funding_sources[internal_cash].amount_thb_mn",
+        "reason": "Amount left to the REIT manager's discretion"
+      },
+      {
+        "field": "capital_structure.total_assets_after_thb_mn",
+        "reason": "No pro forma balance sheet in the text filings; appears only in excluded PDF attachments (appraisal report / pro forma / financial statements), not in the text filings"
+      },
+      {
+        "field": "capital_structure.borrowings_after_thb_mn",
+        "reason": "Not stated; depends on final equity and drawdown (base case new debt ~THB 1,197.65 mn)"
+      },
+      {
+        "field": "parties.lenders",
+        "reason": "Lenders not yet named (domestic banks/financial institutions/insurers, possibly trustee-related parties)"
+      },
+      {
+        "field": "new_assets[WGCL_IDC].historical_performance (historical periods)",
+        "reason": "No operating history: WGCL used the property for its own business"
+      },
+      {
+        "field": "new_assets[WGCL_IDC].appraisals key assumptions beyond summary table",
+        "reason": "Detailed cash flows appears only in excluded PDF attachments (appraisal report / pro forma / financial statements), not in the text filings"
+      },
+      {
+        "field": "existing_portfolio.listing_date",
+        "reason": "SET listing date not stated in the text filings"
+      },
+      {
+        "field": "existing_portfolio.assets[].occupancy_pct / key_tenants",
+        "reason": "Per-project occupancy and tenants not disclosed in text (charts only); only portfolio averages"
+      },
+      {
+        "field": "existing_portfolio.assets[].appraiser",
+        "reason": "Appraiser per project not stated; only the list of appraisers for the 2025-12-31 valuations"
+      },
+      {
+        "field": "existing_portfolio.assets[].lease_expiry (exact dates for 30-year renewable leases and Theparak I,J)",
+        "reason": "Only remaining tenure stated in the lines read; approximate expiry derived"
+      },
+      {
+        "field": "offering.timeline bookbuilding / final price announcement / listing dates",
+        "reason": "Not stated as specific dates in the text filings"
+      }
+    ],
+    "ambiguities": [
+      {
+        "field": "offering.units_offered_max / risks dilution",
+        "detail": "Risks 5.4.4 (uploaded 2026-08-14) refers to up to 160,000,000 units with >=50% to existing holders and dilution up to 4.41%; the later cover, fact sheet and offering section (2026-08-27) state up to 127,545,000 units, ~100% to existing holders. Latest documents used."
+      },
+      {
+        "field": "offering.projected_distribution",
+        "detail": "Projection uses 3,594.39 mn post-deal units, 1.98 mn fewer than 3,468.83 + 127.545 mn; the filing says unit numbers are for reference only."
+      },
+      {
+        "field": "existing_portfolio.assets[THEP21_CR].leasable_area_sqm",
+        "detail": "31,992 sqm in the NewAssets summary row vs 31,922 sqm in UseOfProceeds (= 12,274 + 19,648). 31,922 is used because only it reconciles to the stated 1,915,361.04 sqm total; the summary row appears to be a typo."
+      },
+      {
+        "field": "existing_portfolio.assets[THEP21_CR].latest_appraisal_thb_mn",
+        "detail": "Appraisal footnote says December-2025 acquisitions are shown at purchase price, but the table shows THB 786.88 mn vs purchase price THB 769.34 mn (769.335 mn in UseOfProceeds)."
+      },
+      {
+        "field": "existing_portfolio.assets[7th capital increase projects].acquired",
+        "detail": "Detail tables give 1 Dec 2022 as investment date; the investment history table gives 2 Dec 2022."
+      },
+      {
+        "field": "capital_structure.ltv_after_pct",
+        "detail": "33.07% maximum after fundraising; whether lease liabilities are included is not stated."
+      },
+      {
+        "field": "offering.funding_sources[debt]",
+        "detail": "Loan facility cap (THB 2,507.6 mn) equals the full asset price and is joined to equity with 'and/or'; base case uses ~THB 1,197.65 mn."
+      },
+      {
+        "field": "new_assets[WGCL_IDC]",
+        "detail": "Portfolio summary table labels the new asset round as 'เพิ่มทุนครั้งที่ 9' (capital increase no.) rather than investment no. 12; draft sale agreement misspells project as 'จีซีดับบลิวแอล'. IRR stated as '9.742/3' in Leasing (footnote markers), 9.74% in Fact Sheet."
+      }
+    ],
+    "self_checks": [
+      {
+        "check": "max units x max price = offering size (+/-1%)",
+        "result": "pass",
+        "detail": "127,545,000 x 11.10 = 1,415,749,500 vs filing 1,415,749,500 (0.00%)"
+      },
+      {
+        "check": "DPU / basis price = projected yield",
+        "result": "pass",
+        "detail": "0.783 / 11.10 = 7.054% vs 7.05%"
+      },
+      {
+        "check": "Funding sources = total investment value + costs",
+        "result": "pass",
+        "detail": "Base case (new debt ~1,197.65): 1,415.75 + 1,197.65 + 54.00 = 2,667.40 vs 2,507.60 + 160.44 = 2,668.04 (-0.02%). Maximum sources 3,977.35 exceed uses because the debt facility is sized at the full asset price as an alternative to equity."
+      },
+      {
+        "check": "Sum of new asset prices <= total investment value",
+        "result": "pass",
+        "detail": "2,507.60 <= 2,507.60 (single asset)"
+      },
+      {
+        "check": "WGCL lease start + tenure = expiry",
+        "result": "pass",
+        "detail": "Expected start 2026-10-01 + 30 years = 2056-09-30; Risks L364 says WGCL lease expires in BE 2599 = 2056"
+      },
+      {
+        "check": "New asset head-lease tenure",
+        "result": "n/a",
+        "detail": "Freehold acquisition; no head lease"
+      },
+      {
+        "check": "Rent x area = monthly rent; deposit = 6 months",
+        "result": "pass",
+        "detail": "130 x 99,390 = 12,920,700/month; x12 = 155.05 mn/yr (matches Leasing L264); 6 x 12,920,700 = 77,524,200 = stated deposit"
+      },
+      {
+        "check": "Existing leasable areas sum to reported total",
+        "result": "pass",
+        "detail": "Sum of 42 rows = 1,915,361.04 vs 1,915,361.04 (using 31,922 sqm for Theparak C,R; with the summary-row figure 31,992 the sum would be 1,915,431.04)"
+      },
+      {
+        "check": "Existing appraisals sum to reported total",
+        "result": "pass",
+        "detail": "Sum = 52,060.76 vs 52,060.76"
+      },
+      {
+        "check": "Theparak Km.21 (C,R) leasable area consistent across sections",
+        "result": "fail",
+        "detail": "31,992 sqm in NewAssets summary row (L234) vs 31,922 sqm in UseOfProceeds (L33; 12,274 + 19,648). Only 31,922 reconciles to the 1,915,361.04 portfolio total, so 31,922 is used"
+      },
+      {
+        "check": "Projection post-deal units = existing units + max new units",
+        "result": "fail",
+        "detail": "3,468.83 + 127.545 = 3,596.37 mn vs 3,594.39 mn used in projection (Leasing L381); gap 1.98 mn units (0.06%)"
+      },
+      {
+        "check": "Projected total distribution / projected units = DPU",
+        "result": "pass",
+        "detail": "2,815.34 / 3,594.39 = 0.7833 vs 0.783"
+      },
+      {
+        "check": "NAV / units = NAV per unit",
+        "result": "pass",
+        "detail": "36,587.95 / 3,468.83 = 10.5476 vs 10.5476"
+      },
+      {
+        "check": "Sum of existing acquisition prices (information)",
+        "result": "n/a",
+        "detail": "Sum of 42 historical purchase/transfer prices = THB 50,954.37 mn vs latest appraisal total 52,060.76"
+      }
+    ]
+  }
+}

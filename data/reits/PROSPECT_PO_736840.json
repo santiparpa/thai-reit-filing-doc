@@ -1,0 +1,2886 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "PROSPECT_PO_736840",
+    "sec_filing_no": "736840",
+    "ticker": "PROSPECT",
+    "offering_type": "PO",
+    "offering_type_evidence": {
+      "value": "Offering of trust units for the 3rd capital increase to make the 5th additional investment (leasehold in Bangkok Free Trade Zone 4); PO confirmed",
+      "value_th": "การเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่สาม",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 5,
+        "section": "Cover",
+        "quote": "การเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่สาม"
+      }
+    },
+    "reit_name_en": {
+      "value": "Prospect Logistics and Industrial Freehold and Leasehold Real Estate Investment Trust",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 9,
+        "section": "Cover",
+        "quote": "Prospect Logistics and Industrial Freehold and Leasehold Real Estate Investment Trust (PROSPECT)"
+      }
+    },
+    "reit_name_th": {
+      "value": "Prospect Logistics and Industrial Freehold and Leasehold REIT (Thai name)",
+      "value_th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ พรอสเพค โลจิสติกส์และอินดัสเทรียล",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 8,
+        "section": "Cover",
+        "quote": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ พรอสเพค โลจิสติกส์และอินดัสเทรียล"
+      }
+    },
+    "reit_structure": {
+      "value": "Freehold and leasehold REIT; no fixed term; units not redeemable",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 10,
+        "section": "Cover",
+        "quote": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์"
+      }
+    },
+    "capital_increase_no": {
+      "value": 3,
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 5,
+        "section": "Cover",
+        "quote": "การเพิ่มทุนครั้งที่สาม"
+      }
+    },
+    "additional_investment_no": {
+      "value": 5,
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 11,
+        "section": "Cover",
+        "quote": "เพื่อลงทุนในทรัพย์สินหลักเพิ่มเติมครั้งที่ 5"
+      }
+    },
+    "investor_eligibility": {
+      "value": "Tranche 1: existing unitholders pro rata (1 existing : 0.3822 new; up to 360,000,000 units; excluding holders that would trigger foreign-law obligations). Tranche 2: Mankhong Kehakarn / Prospect Development / their group / Sansiri, capped at 35% of new units including their tranche-1 entitlement. Tranche 3: remainder to private placement and/or general public (institutional bookbuilding investors and persons at underwriters' discretion).",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 23,
+        "section": "Cover - offered to",
+        "quote": "ไม่เกิน 360,000,000 หน่วย"
+      }
+    },
+    "listing": {
+      "value": "Listed on SET since 2020-08-20; new units to be listed on SET, but the offering is made before SET approves listing of the new units",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-02-Policy.md",
+        "line": 8,
+        "section": "วัตถุประสงค์ของกองทรัสต์",
+        "quote": "แล้วเมื่อวันที่ 20 สิงหาคม 2563"
+      }
+    },
+    "unitholder_approval_date": {
+      "value": "2026-01-09",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 13,
+        "section": "Cover",
+        "quote": "เมื่อวันที่ 9 มกราคม 2569"
+      }
+    },
+    "data_as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 6,
+        "section": "ส่วนที่ 1 Fact Sheet",
+        "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"
+      }
+    },
+    "latest_document_date": "2026-08-18",
+    "documents_used": [
+      {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260730",
+        "used_for": "Offering type, names, max units/price/par, funding maxima, parties, subscription periods, definitions"
+      },
+      {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260730",
+        "used_for": "Data date, capital structure before/after, appraisals, DPU history, key financials, projected yield, tenants, guarantee"
+      },
+      {
+        "file": "PROSPECT_PO_20260730_P2-01-UseOfProceeds.md",
+        "doc_type": "P2-01-UseOfProceeds",
+        "uploaded": "20260730",
+        "used_for": "Use of proceeds, renewal rent"
+      },
+      {
+        "file": "PROSPECT_PO_20260730_P2-02-Policy.md",
+        "doc_type": "P2-02-Policy",
+        "uploaded": "20260730",
+        "used_for": "Listing date, acquisition history, property managers, ownership of BFTZ Bangpakong"
+      },
+      {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "doc_type": "P2-03-Assets",
+        "uploaded": "20260730",
+        "used_for": "Existing portfolio, new asset details, contracts, appraisal assumptions, loan terms, tenants, projection, sensitivity"
+      },
+      {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "doc_type": "P2-05-Risks",
+        "uploaded": "20260730",
+        "used_for": "Risk factors"
+      },
+      {
+        "file": "PROSPECT_PO_20260818_P3-Offering.md",
+        "doc_type": "P3-Offering",
+        "uploaded": "20260818",
+        "used_for": "Offering terms, allocation, underwriters, timetable, secondary-market prices, offering expenses"
+      }
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Industrial & Logistics",
+    "sub_sectors": [
+      "Warehouse",
+      "Factory",
+      "Mini-factory",
+      "Built-to-suit",
+      "Free zone"
+    ],
+    "description": {
+      "value": "Owns freehold and (sub-)leasehold ready-built warehouses and factories in five projects in Samut Prakan (Bangkok Free Trade Zone 1, 2, 3, 6 and X44 Bangna KM.18); will add a 30-year leasehold (plus 30-year renewal option) over 31 buildings (187,949 sqm NLA) in Bangkok Free Trade Zone 4, Chachoengsao.",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 6,
+        "section": "ทรัพย์สินหลักที่กองทรัสต์ลงทุนในปัจจุบัน",
+        "quote": "มีพื้นที่เช่าอาคารรวมประมาณ 564,758.0 ตารางเมตร"
+      }
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "Prospect Development Co., Ltd.",
+        "name_th": "บริษัท พรอสเพค ดีเวลลอปเมนท์ จำกัด",
+        "role_detail": "Holds 99.99% of the REIT manager and 50% of the seller BFTZ Bangpakong; largest unitholder (18.5%); property manager of existing assets; co-guarantor of rent",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 537,
+          "section": "การซื้อทรัพย์สินจากบุคคลที่เกี่ยวโยงกัน",
+          "quote": "พรอสเพค ดีเวลลอปเมนท์เป็นผู้ถือหุ้นใหญ่ของผู้จัดการกองทรัสต์ คิดเป็นสัดส่วนร้อยละ 99.99"
+        }
+      },
+      {
+        "name_en": "Sansiri Public Company Limited",
+        "name_th": "บริษัท แสนสิริ จำกัด (มหาชน)",
+        "role_detail": "50% shareholder of BFTZ Bangpakong; 10.0% unitholder; party to unit-holding undertaking; eligible for tranche 2",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-02-Policy.md",
+          "line": 45,
+          "section": "โครงสร้างของการบริหารจัดการกองทรัสต์",
+          "quote": "(2) บริษัท แสนสิริ จำกัด (มหาชน) คิดเป็นสัดส่วนร้อยละ 50.00"
+        }
+      },
+      {
+        "name_en": "Mankhong Kehakarn Public Company Limited",
+        "name_th": "บริษัท มั่นคงเคหะการ จำกัด (มหาชน)",
+        "role_detail": "Sponsor-group entity eligible for tranche 2; party to unit-holding undertaking (>=15% combined)",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 25,
+          "section": "Cover - offered to",
+          "quote": "บริษัท มั่นคงเคหะการ จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "FNS Holdings Public Company Limited",
+        "name_th": "บริษัท เอฟเอ็นเอส โฮลดิ้งส์ จำกัด (มหาชน)",
+        "role_detail": "Named with the sponsor group in the unit-holding covenant and future sell-down risk; role not otherwise described in text filings",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 180,
+          "section": "คำจำกัดความ",
+          "quote": "บริษัท เอฟเอ็นเอส โฮลดิ้งส์ จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "reit_manager": {
+      "name_en": "Prospect REIT Management Co., Ltd.",
+      "name_th": "บริษัท พรอสเพค รีท แมเนจเมนท์ จำกัด",
+      "role_detail": "REIT manager and offeror; 99.99% owned by Prospect Development",
+      "related_to_sponsor": true,
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 10,
+        "section": "Fact Sheet",
+        "quote": "บริษัท พรอสเพค รีท แมเนจเมนท์ จำกัด"
+      }
+    },
+    "trustee": {
+      "name_en": "SCB Asset Management Co., Ltd.",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด",
+      "role_detail": "Trustee",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 29,
+        "section": "Cover",
+        "quote": "ทรัสตี : บริษัท หลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด"
+      }
+    },
+    "property_managers": [
+      {
+        "name_en": "Prospect Development Co., Ltd.",
+        "name_th": "บริษัท พรอสเพค ดีเวลลอปเมนท์ จำกัด",
+        "role_detail": "Property manager of existing assets",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-02-Policy.md",
+          "line": 46,
+          "section": "โครงสร้างของการบริหารจัดการกองทรัสต์",
+          "quote": "ผู้จัดการกองทรัสต์ได้แต่งตั้ง พรอสเพค ดีเวลลอปเมนท์ เป็นผู้บริหารอสังหาริมทรัพย์ในทรัพย์สินหลักที่กองทรัสต์ลงทุนในปัจจุบัน"
+        }
+      },
+      {
+        "name_en": "BFTZ Bangpakong Co., Ltd.",
+        "name_th": "บริษัท บีเอฟทีแซด บางปะกง จำกัด",
+        "role_detail": "To be appointed property manager of Bangkok Free Trade Zone 4 (delegates operations to Prospect Development); also lessor, free-zone licence holder and rent guarantor",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-02-Policy.md",
+          "line": 9,
+          "section": "วัตถุประสงค์ของกองทรัสต์",
+          "quote": "จะแต่งตั้ง บริษัท บีเอฟทีแซด บางปะกง จำกัด"
+        }
+      }
+    ],
+    "financial_advisors": [
+      {
+        "name_en": "Krungthai XSpring Securities Co., Ltd.",
+        "name_th": "บริษัทหลักทรัพย์ กรุงไทย เอ็กซ์สปริง จำกัด",
+        "role_detail": "Financial advisor",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 30,
+          "section": "Cover",
+          "quote": "ที่ปรึกษาทางการเงิน : บริษัทหลักทรัพย์ กรุงไทย เอ็กซ์สปริง จำกัด"
+        }
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "Krungthai XSpring Securities Co., Ltd.",
+        "name_th": "บริษัทหลักทรัพย์ กรุงไทย เอ็กซ์สปริง จำกัด",
+        "role_detail": "Lead underwriter (firm underwrite after signing the underwriting agreement)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 31,
+          "section": "Cover",
+          "quote": "ผู้จัดการการจัดจำหน่ายหน่วยทรัสต์: บริษัทหลักทรัพย์ กรุงไทย เอ็กซ์สปริง จำกัด"
+        }
+      },
+      {
+        "name_en": "Siam Commercial Bank Public Company Limited",
+        "name_th": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+        "role_detail": "Lead underwriter (firm underwrite after signing the underwriting agreement)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 31,
+          "section": "Cover",
+          "quote": "และ ธนาคารไทยพาณิชย์ จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "underwriters": [
+      {
+        "name_en": "DAOL Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 172,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "TISCO Securities Co., Ltd.",
+        "name_th": "บริษัทหลักทรัพย์ ทิสโก้ จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 176,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ ทิสโก้ จำกัด"
+        }
+      },
+      {
+        "name_en": "Beyond Securities Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ บียอนด์ จำกัด (มหาชน)",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 180,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ บียอนด์ จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "Finansia Syrus Securities Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ ฟินันเซีย ไซรัส จำกัด (มหาชน)",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 184,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ ฟินันเซีย ไซรัส จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "Maybank Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 188,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "Yuanta Securities (Thailand) Co., Ltd.",
+        "name_th": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 193,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด"
+        }
+      },
+      {
+        "name_en": "InnovestX Securities Co., Ltd.",
+        "name_th": "บริษัทหลักทรัพย์ อินโนเวสท์ เอกซ์ จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 197,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ อินโนเวสท์ เอกซ์ จำกัด"
+        }
+      },
+      {
+        "name_en": "Asia Plus Securities Co., Ltd.",
+        "name_th": "บริษัทหลักทรัพย์ เอเชีย พลัส จำกัด",
+        "role_detail": "Co-underwriter (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 201,
+          "section": "2.1.3.2 ผู้ร่วมจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ เอเชีย พลัส จำกัด"
+        }
+      },
+      {
+        "name_en": "Kasikorn Securities Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ กสิกรไทย จำกัด (มหาชน)",
+        "role_detail": "Selling agent (best effort)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 206,
+          "section": "2.1.3.3 ตัวแทนจำหน่ายหน่วยทรัสต์",
+          "quote": "บริษัทหลักทรัพย์ กสิกรไทย จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "appraisers": [
+      {
+        "name_en": "Krung Siam Appraisal Co., Ltd.",
+        "name_th": "บริษัท กรุงสยามประเมินค่าทรัพย์สิน จำกัด",
+        "role_detail": "Appraiser of BFTZ4 (new asset); also BFTZ1 and BFTZ6 (existing)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 460,
+          "section": "ราคาประเมิน",
+          "quote": "บริษัท กรุงสยามประเมินค่าทรัพย์สิน จำกัด และ บริษัท ซิมส์ พร็อพเพอร์ตี้ คอนซัลแทนท์ จำกัด"
+        }
+      },
+      {
+        "name_en": "Sims Property Consultant Co., Ltd.",
+        "name_th": "บริษัท ซิมส์ พร็อพเพอร์ตี้ คอนซัลแทนท์ จำกัด",
+        "role_detail": "Appraiser of BFTZ4 (new asset); also BFTZ2, BFTZ3 and BFTZ6 (existing)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 460,
+          "section": "ราคาประเมิน",
+          "quote": "บริษัท ซิมส์ พร็อพเพอร์ตี้ คอนซัลแทนท์ จำกัด"
+        }
+      },
+      {
+        "name_en": "Grand Asset Advisory Co., Ltd.",
+        "name_th": "บริษัท แกรนด์ แอสเซท แอดไวเซอรี่ จำกัด",
+        "role_detail": "Appraiser of existing assets (BFTZ1, BFTZ2, BFTZ3 parts)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 107,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "บริษัท แกรนด์ แอสเซท แอดไวเซอรี่ จำกัด"
+        }
+      },
+      {
+        "name_en": "Asian Engineering Valuation Co., Ltd.",
+        "name_th": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด",
+        "role_detail": "Appraiser of existing X44 Bangna KM.18",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 112,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่นจำกัด"
+        }
+      }
+    ],
+    "auditor": {
+      "name_en": "KPMG Phoomchai Audit Ltd.",
+      "name_th": "บริษัท เคพีเอ็มจี ภูมิไชย สอบบัญชี จำกัด",
+      "role_detail": "Auditor of the trust",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 151,
+        "section": "คำจำกัดความ - ผู้สอบบัญชีรับอนุญาต",
+        "quote": "เคพีเอ็มจี ภูมิไชย สอบบัญชี"
+      }
+    },
+    "legal_advisors": [],
+    "lenders": [],
+    "sellers_or_lessors": [
+      {
+        "name_en": "BFTZ Bangpakong Co., Ltd.",
+        "name_th": "บริษัท บีเอฟทีแซด บางปะกง จำกัด",
+        "role_detail": "Owner and lessor of BFTZ4 land and buildings (30-year lease + 30-year renewal promise) and seller of related movable assets; 50% Prospect Development / 50% Sansiri",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 251,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน",
+          "quote": "บริษัท บีเอฟทีแซด บางปะกง จำกัด"
+        }
+      },
+      {
+        "name_en": "Bangpakong Management Services Co., Ltd.",
+        "name_th": "บริษัท บางปะกง แมเนจเมนท์ เซอร์วิสเซส จำกัด",
+        "role_detail": "99.99% subsidiary of BFTZ Bangpakong; co-owner of common road/utility land; party to utilities and roads service agreement",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 245,
+          "section": "สรุปสาระสำคัญของร่างของสัญญาที่เกี่ยวข้อง",
+          "quote": "บริษัท บางปะกง แมเนจเมนท์ เซอร์วิสเซส จำกัด"
+        }
+      }
+    ],
+    "operators_or_master_lessees": [
+      {
+        "name_en": "BFTZ Bangpakong Co., Ltd. and Prospect Development Co., Ltd.",
+        "name_th": "บริษัท บีเอฟทีแซด บางปะกง จำกัด / บริษัท พรอสเพค ดีเวลลอปเมนท์ จำกัด",
+        "role_detail": "Rental guarantors: 2-year rent guarantee at 170 THB/sqm/month on BFTZ4 area without tenants at the investment date",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 708,
+          "section": "เงื่อนไขการรับประกันรายได้",
+          "quote": "ในอัตรา 170.0 บาทต่อตารางเมตรต่อเดือน"
+        }
+      }
+    ],
+    "not_found_roles": [
+      "legal advisor (not named in the text filings)",
+      "lender (described only as 'a domestic commercial bank')",
+      "tenant-level master lessee (not applicable: multi-tenant direct sub-leases)"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 450000000,
+      "unit": "units",
+      "status": "found",
+      "note": "Maximum ('ไม่เกิน')",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 19,
+        "section": "Cover",
+        "quote": "450,000,000 หน่วย"
+      }
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "No minimum price or price range stated; only a maximum price"
+      },
+      "max_thb": {
+        "value": 10.5,
+        "status": "found",
+        "note": "Maximum offer price; the actual maximum subscription price is to be announced by 4 Sep 2026",
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 20,
+          "section": "Cover",
+          "quote": "ราคาเสนอขายไม่เกิน 10.5 บาทต่อหน่วย"
+        }
+      },
+      "final_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Final price to be announced on the SET website on 17 Sep 2026; not in the filing"
+      }
+    },
+    "par_value_per_unit_thb": {
+      "value": 9.3765,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 20,
+        "section": "Cover",
+        "quote": "9.3765 บาทต่อหน่วย"
+      }
+    },
+    "offering_size_thb_mn": {
+      "value": 4725.0,
+      "status": "found",
+      "note": "Maximum new equity ('ไม่เกิน')",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 15,
+        "section": "Cover",
+        "quote": "4,725,000,000"
+      }
+    },
+    "total_investment_value_thb_mn": {
+      "value": 5040.0,
+      "status": "found",
+      "note": "Maximum investment value, excluding VAT, registration fees and other expenses; a further renewal rent of up to 250.0 is payable only if the 30-year renewal is exercised",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 18,
+        "section": "Cover",
+        "quote": "5,040,000,000"
+      }
+    },
+    "funding_sources": [
+      {
+        "type": "new_units",
+        "amount_thb_mn": {
+          "value": 4725.0,
+          "status": "found",
+          "note": "Maximum; sources may be used in any combination",
+          "source": {
+            "file": "PROSPECT_PO_20260730_00-Cover.md",
+            "line": 15,
+            "section": "Cover",
+            "quote": "4,725,000,000"
+          }
+        }
+      },
+      {
+        "type": "debt",
+        "amount_thb_mn": {
+          "value": 2000.0,
+          "status": "found",
+          "note": "Maximum loan from financial institutions",
+          "source": {
+            "file": "PROSPECT_PO_20260730_00-Cover.md",
+            "line": 16,
+            "section": "Cover",
+            "quote": "2,000,000,000"
+          }
+        }
+      },
+      {
+        "type": "internal_cash",
+        "amount_thb_mn": {
+          "value": 50.0,
+          "status": "found",
+          "note": "Maximum; trust working capital such as excess cash and tenant security deposits",
+          "source": {
+            "file": "PROSPECT_PO_20260730_00-Cover.md",
+            "line": 17,
+            "section": "Cover",
+            "quote": "50,000,000"
+          }
+        },
+        "note": "Includes security deposits"
+      }
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "Investment in the leasehold of Bangkok Free Trade Zone 4 land and buildings plus related movable assets (5th additional investment)",
+        "amount_thb_mn": 5040.0,
+        "note": "Maximum, excluding VAT, registration and other fees",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-01-UseOfProceeds.md",
+          "line": 10,
+          "section": "วัตถุประสงค์การใช้เงิน",
+          "quote": "ไม่เกิน 5,040.0 ล้านบาท"
+        }
+      },
+      {
+        "item": "Offering and transaction expenses",
+        "amount_thb_mn": 253.9,
+        "note": "Estimate excluding VAT: SEC fees 0.8 plus other costs 253.1 (registrar, legal, appraisers, FA, underwriting, loan arrangement, engineering, audit, printing, REIT manager acquisition fee, marketing)",
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 707,
+          "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+          "quote": "รวมค่าใช้จ่ายในการเสนอขายหน่วยทรัสต์ทั้งหมด | ประมาณ 253.9"
+        }
+      },
+      {
+        "item": "Working capital of the trust",
+        "amount_thb_mn": null,
+        "note": "Amount not stated",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-01-UseOfProceeds.md",
+          "line": 9,
+          "section": "วัตถุประสงค์การใช้เงิน",
+          "quote": "ใช้เป็นเงินหมุนเวียนของกองทรัสต์"
+        }
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": 253.9,
+      "status": "found",
+      "note": "Approximate total offering-related expenses, excluding VAT",
+      "source": {
+        "file": "PROSPECT_PO_20260818_P3-Offering.md",
+        "line": 707,
+        "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+        "quote": "ประมาณ 253.9"
+      }
+    },
+    "allocation": [
+      {
+        "tranche": "Tranche 1: existing unitholders, pro rata (1 existing : 0.3822 new), record date 6 Aug 2026",
+        "units": 360000000,
+        "pct_of_offer": null,
+        "note": "Up to 360,000,000 units; footnote: not less than 50% offered to existing holders pro rata; oversubscription allowed; claw-back/forward at underwriters' discretion",
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 81,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "ไม่เกิน 360,000,000 หน่วย"
+        }
+      },
+      {
+        "tranche": "Tranche 2: Mankhong Kehakarn and/or Prospect Development and/or their group and/or Sansiri",
+        "units": null,
+        "pct_of_offer": 35.0,
+        "note": "Cap of 35% of new units including their tranche-1 entitlement",
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 72,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "จะมีจำนวนไม่เกินร้อยละ 35.0 ของหน่วยทรัสต์ที่จะมีการออกและเสนอขายในการเพิ่มทุนครั้งนี้"
+        }
+      },
+      {
+        "tranche": "Tranche 3: private placement and/or general public (institutional/juristic bookbuilding investors; persons at underwriters' discretion)",
+        "units": null,
+        "pct_of_offer": null,
+        "note": "Remaining units after tranches 1 and 2, at the same price",
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 83,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "หน่วยทรัสต์ส่วนที่เหลือจากการเสนอขายในส่วนที่ 1 และส่วนที่ 2"
+        }
+      }
+    ],
+    "subscription_ratio": {
+      "value": "1 existing unit : 0.3822 new unit",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260818_P3-Offering.md",
+        "line": 26,
+        "section": "รายละเอียดของหน่วยทรัสต์ที่เสนอขาย",
+        "quote": "1 หน่วยทรัสต์เดิมต่อ 0.3822 หน่วยทรัสต์ที่ออกและเสนอขายเพิ่มเติม"
+      }
+    },
+    "sponsor_commitment": {
+      "value": "No intended take-up amount is stated. The sponsor group (Mankhong Kehakarn, Prospect Development and its group, Sansiri) may take up to 35% of the new units including rights. Under an undertaking tied to the loan agreement, they will together hold at least 15% of all units for the loan period (or an agreed period from the investment date) and will not transfer units below that level without the trust's consent. The loan covenant also requires the Prospect Development group to hold at least 7.5%.",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 356,
+        "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของมั่นคงเคหะการ แสนสิริ และ พรอสเพค ดีเวลลอปเมนท์",
+        "quote": "ตกลงจะดำรงสัดส่วนการถือหน่วยทรัสต์รวมกันเป็นจำนวนไม่น้อยกว่าร้อยละ 15 ของจำนวนหน่วยทรัสต์ในกองทรัสต์ที่ออกและเสนอขายทั้งหมด"
+      }
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months, 1 Jun 2026 - 31 May 2027 (assumes BFTZ4 acquired on 1 Jun 2026; expected investment date later moved to by 30 Sep 2026)",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 79,
+          "section": "ประมาณการผลตอบแทนระยะสั้นของกองทรัสต์",
+          "quote": "ตั้งแต่วันที่ 1 มิถุนายน 2569 ถึง 31 พฤษภาคม 2570"
+        }
+      },
+      "basis_price_thb": {
+        "value": 7.5,
+        "status": "found",
+        "note": "Projection assumes 430.8mn new units at 7.5 THB and 2,000.0mn debt (below the 10.5 THB maximum price)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 85,
+          "section": "ประมาณการผลตอบแทนระยะสั้นของกองทรัสต์",
+          "quote": "ที่ราคา 7.5 บาทต่อหน่วย"
+        }
+      },
+      "dpu_thb": {
+        "value": 0.689,
+        "status": "found",
+        "note": "With rental-guarantee income; 0.6744 without guarantee income; no capital reduction",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 83,
+          "section": "ประมาณการผลตอบแทนระยะสั้นของกองทรัสต์",
+          "quote": "ประโยชน์ตอบแทน / 0.6890 / 0.6744 / 9.2 / 9.0"
+        }
+      },
+      "distribution_yield_pct": {
+        "value": 9.2,
+        "status": "found",
+        "note": "With guarantee income; 9.0% without. Expected IRR 9.6% / 9.5%",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 83,
+          "section": "ประมาณการผลตอบแทนระยะสั้นของกองทรัสต์",
+          "quote": "ประโยชน์ตอบแทน / 0.6890 / 0.6744 / 9.2 / 9.0"
+        }
+      },
+      "total_distribution_thb_mn": {
+        "value": 740.5,
+        "status": "found",
+        "note": "Enlarged trust, 98% payout of 755.6 distributable cash",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 981,
+          "section": "ประมาณการงบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสมมติฐาน",
+          "quote": "ประมาณการการจ่ายประโยชน์ตอบแทนและเงินลดทุน | 525.6 |  | 740.5"
+        }
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 925.0,
+        "status": "found",
+        "note": "Enlarged trust; existing assets only 704.3",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 969,
+          "section": "ประมาณการงบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสมมติฐาน",
+          "quote": "กำไรจากการลงทุนสุทธิ | 704.3 |  | 925.0"
+        }
+      },
+      "yield_sensitivity": [
+        {
+          "offering_price_thb": 7.5,
+          "dpu_thb": 0.69,
+          "yield_pct": 9.2,
+          "note": "Asset value 5,040mn, debt 2,000mn; DPU from line 1162",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "การวิเคราะห์ความไวต่อการเปลี่ยนแปลงของมูลค่าทรัพย์สินที่กองทรัสต์จะเข้าลงทุน และราคาเสนอขายหน่วยทรัสต์เพิ่มเติม",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 8.0,
+          "dpu_thb": 0.71,
+          "yield_pct": 8.8,
+          "note": "Asset value 5,040mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "Sensitivity",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 8.5,
+          "dpu_thb": 0.72,
+          "yield_pct": 8.5,
+          "note": "Asset value 5,040mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "Sensitivity",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 9.0,
+          "dpu_thb": 0.74,
+          "yield_pct": 8.2,
+          "note": "Asset value 5,040mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "Sensitivity",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 9.5,
+          "dpu_thb": 0.75,
+          "yield_pct": 7.9,
+          "note": "Asset value 5,040mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "Sensitivity",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 10.0,
+          "dpu_thb": 0.77,
+          "yield_pct": 7.7,
+          "note": "Asset value 5,040mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "Sensitivity",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 10.5,
+          "dpu_thb": 0.78,
+          "yield_pct": 7.4,
+          "note": "Asset value 5,040mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1175,
+            "section": "Sensitivity",
+            "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+          }
+        },
+        {
+          "offering_price_thb": 7.5,
+          "dpu_thb": 0.64,
+          "yield_pct": 8.5,
+          "note": "Case including 197.4mn reserve for existing-loan repayment (investment by 30 Sep 2026); asset value 5,040mn; DPU from line 1204",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1217,
+            "section": "Sensitivity incl. loan repayment reserve",
+            "quote": "5,040.0 | 8.5% | 8.2% | 7.9% | 7.6% | 7.3% | 7.1% | 6.9%"
+          }
+        },
+        {
+          "offering_price_thb": 9.0,
+          "dpu_thb": 0.68,
+          "yield_pct": 7.6,
+          "note": "Case including 197.4mn loan repayment reserve",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1217,
+            "section": "Sensitivity incl. loan repayment reserve",
+            "quote": "5,040.0 | 8.5% | 8.2% | 7.9% | 7.6% | 7.3% | 7.1% | 6.9%"
+          }
+        },
+        {
+          "offering_price_thb": 10.5,
+          "dpu_thb": 0.72,
+          "yield_pct": 6.9,
+          "note": "Case including 197.4mn loan repayment reserve",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 1217,
+            "section": "Sensitivity incl. loan repayment reserve",
+            "quote": "5,040.0 | 8.5% | 8.2% | 7.9% | 7.6% | 7.3% | 7.1% | 6.9%"
+          }
+        }
+      ],
+      "pro_forma_note": {
+        "value": "On the same 7.5 THB basis, the existing assets alone are projected to pay 0.82 THB/unit (10.9%) on 644.0mn units, versus 0.69 THB/unit (9.2%) for the enlarged trust on 1,074.8mn units. The deal therefore lowers projected DPU at the assumed price.",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 983,
+          "section": "ประมาณการงบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสมมติฐาน",
+          "quote": "ประมาณการการจ่ายประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย (บาท) | 0.824/ |  | 0.695/"
+        }
+      }
+    },
+    "timeline": [
+      {
+        "event": "Unitholders' meeting approves capital increase and acquisition",
+        "date": "2026-01-09",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 13,
+          "section": "Cover",
+          "quote": "เมื่อวันที่ 9 มกราคม 2569"
+        }
+      },
+      {
+        "event": "Registration statement filed",
+        "date": "2026-01-14",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 32,
+          "section": "Cover",
+          "quote": "วันที่ 14 มกราคม 2569"
+        }
+      },
+      {
+        "event": "Registration statement effective",
+        "date": "2026-07-31",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 33,
+          "section": "Cover",
+          "quote": "วันที่ 31 กรกฎาคม 2569"
+        }
+      },
+      {
+        "event": "Record date for rights entitlement",
+        "date": "2026-08-06",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 23,
+          "section": "รายละเอียดของหน่วยทรัสต์ที่เสนอขาย",
+          "quote": "วันที่ 6 สิงหาคม 2569"
+        }
+      },
+      {
+        "event": "Maximum offer price announced on SET website",
+        "date": "by 2026-09-04",
+        "indicative": true,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 37,
+          "section": "สรุปข้อมูลการจองและการจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "ภายในวันที่ 4 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: existing unitholders, non-bookbuilding institutions, persons at underwriters' discretion",
+        "date": "2026-09-09 to 2026-09-17",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 35,
+          "section": "Cover - offering period",
+          "quote": "วันที่ 9 - 17 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Final offer price announced",
+        "date": "2026-09-17",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260818_P3-Offering.md",
+          "line": 43,
+          "section": "สรุปข้อมูลการจองและการจัดจำหน่ายหน่วยทรัสต์",
+          "quote": "ในวันที่ 17 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: bookbuilding institutions and sponsor group (tranche 2)",
+        "date": "2026-09-21 to 2026-09-23",
+        "indicative": false,
+        "source": {
+          "file": "PROSPECT_PO_20260730_00-Cover.md",
+          "line": 37,
+          "section": "Cover - offering period",
+          "quote": "วันที่ 21 - 23 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Expected investment in BFTZ4",
+        "date": "by 2026-09-30",
+        "indicative": true,
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 1190,
+          "section": "Sensitivity analysis",
+          "quote": "ภายในวันที่ 30 กันยายน 2569"
+        }
+      }
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 644000000,
+      "unit": "units",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "note": "Stated as 644.0 million units (projection footnote: units as of 30 Sep 2025); exact unit count not in text filings",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 982,
+        "section": "ประมาณการงบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสมมติฐาน",
+        "quote": "จำนวนหน่วยทรัสต์ (ล้านหน่วย) | 644.0 |  | 1,074.8"
+      }
+    },
+    "units_outstanding_after_max": {
+      "value": 1094000000,
+      "unit": "units",
+      "status": "derived",
+      "note": "644.0mn existing + 450.0mn maximum new units; the projection case is 1,074.8mn (430.8mn new at 7.5 THB)",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 19,
+        "section": "Cover",
+        "quote": "450,000,000 หน่วย"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 8.638,
+      "as_of": "2026-03-31",
+      "status": "derived",
+      "note": "NAV 5,563.0mn / 644.0mn units (unit count as of 30 Sep 2025; no issuance disclosed since)",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ ณ วันที่ 31 มีนาคม 2569",
+        "quote": "สินทรัพย์สุทธิ / 5,563.0 ล้านบาท"
+      }
+    },
+    "total_assets_before_thb_mn": {
+      "value": 10064.5,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ ณ วันที่ 31 มีนาคม 2569",
+        "quote": "สินทรัพย์รวม / 10,064.5 ล้านบาท"
+      }
+    },
+    "total_assets_after_thb_mn": {
+      "value": 14947.6,
+      "status": "found",
+      "note": "Maximum, on projection assumptions (430.8mn units at 7.5 THB, 2,000mn debt)",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ภายหลังการระดมทุน",
+        "quote": "สินทรัพย์รวม / ไม่เกิน 14,947.6 ล้านบาท"
+      }
+    },
+    "borrowings_before_thb_mn": {
+      "value": 3824.9,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 587,
+        "section": "การกู้ยืมเงินของกองทรัสต์",
+        "quote": "กองทรัสต์มีภาระหนี้เงินกู้ทั้งสิ้น 3,824.9 ล้านบาท"
+      }
+    },
+    "new_borrowings_thb_mn": {
+      "value": 2000.0,
+      "status": "found",
+      "note": "Maximum",
+      "source": {
+        "file": "PROSPECT_PO_20260730_00-Cover.md",
+        "line": 16,
+        "section": "Cover",
+        "quote": "2,000,000,000"
+      }
+    },
+    "borrowings_after_thb_mn": {
+      "value": 5824.9,
+      "status": "derived",
+      "note": "3,824.9 existing + 2,000.0 maximum new debt, before scheduled amortisation. The filing gives only total liabilities after of up to 6,400.2mn and LTV of about 38.7% (which implies about 5,785mn on 14,947.6mn assets)",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 587,
+        "section": "การกู้ยืมเงินของกองทรัสต์",
+        "quote": "กองทรัสต์มีภาระหนี้เงินกู้ทั้งสิ้น 3,824.9 ล้านบาท"
+      }
+    },
+    "ltv_before_pct": {
+      "value": 38.0,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ ณ วันที่ 31 มีนาคม 2569",
+        "quote": "สัดส่วนการกู้ยืม (ร้อยละของสินทรัพย์รวม) / ร้อยละ 38.0"
+      }
+    },
+    "ltv_after_pct": {
+      "value": 38.7,
+      "status": "found",
+      "note": "Approximate, projection assumptions",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ภายหลังการระดมทุน",
+        "quote": "ประมาณร้อยละ 38.7"
+      }
+    },
+    "ltv_limit_pct": {
+      "value": 60.0,
+      "status": "found",
+      "note": "35% of total assets normally; 60% for an investment-grade trust. PROSPECT is rated BBB- (TRIS, 29 Sep 2025), so the 60% cap applies; the new loan covenant mirrors this",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 589,
+        "section": "การกู้ยืมเงินของกองทรัสต์",
+        "quote": "หรือไม่เกินร้อยละ 60.0 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"
+      }
+    },
+    "loan_terms": {
+      "value": "New facility of up to THB 2,000mn from an unnamed domestic commercial bank. Interest not above MLR; repayment within 15 years including a 2-year grace period; monthly interest; 1.0% front-end fee; 2.0% prepayment fee if refinanced with another lender. Covenants: interest-bearing debt/TAV <=35% (60% if investment grade); IBD/EBITDA <=5.0x from FY2027 accounts; sponsor group to hold >=15% of units (Prospect Development group >=7.5%). Security: business collateral over the BFTZ4 lease, movables purchase, mortgage appendix, utilities/roads service and guarantee undertaking agreements, plus property-all-risk (>=2,000mn) and business-interruption insurance naming the bank. Existing facilities at 31 Mar 2026: 1,050 / 700 / 1,450 / 850mn at MLR-1.25% to MLR-1.50%.",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 576,
+        "section": "การกู้ยืมเงินของกองทรัสต์",
+        "quote": "ระยะเวลาชำระคืนเงินกู้รวมไม่เกิน 15 ปี"
+      }
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "BFTZ4",
+      "name_en": "Bangkok Free Trade Zone 4",
+      "name_th": "โครงการบางกอกฟรีเทรดโซน 4",
+      "asset_type": "Warehouse and factory (ready-built warehouses, factories, mini-factories, built-to-suit; free zone and general zone)",
+      "location": {
+        "address": "Old Sukhumvit Road, Tha Kham, Bang Pakong, Chachoengsao",
+        "address_th": "ถนนสุขุมวิท(สายเก่า) ตำบลท่าข้าม อำเภอบางปะกง จังหวัดฉะเชิงเทรา",
+        "subdistrict": "Tha Kham",
+        "district": "Bang Pakong",
+        "province": "Chachoengsao",
+        "zone": "Eastern Economic Corridor (EEC); partly a Customs free zone",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 130,
+          "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+          "quote": "ถนนสุขุมวิท(สายเก่า) ตำบลท่าข้าม อำเภอบางปะกง จังหวัดฉะเชิงเทรา"
+        }
+      },
+      "investment_type": {
+        "value": "Leasehold",
+        "value_th": "สิทธิการเช่าที่ดินบางส่วนและสิทธิการเช่าอาคาร",
+        "status": "found",
+        "note": "Leasehold of part of the land and of the buildings for 30 years plus a 30-year renewal option; related movable assets bought outright; common roads and utilities not acquired",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 132,
+          "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+          "quote": "สิทธิการเช่าที่ดินบางส่วนและสิทธิการเช่าอาคาร"
+        }
+      },
+      "components": [
+        {
+          "component": "Land (part of 34 title deeds owned by BFTZ Bangpakong, 202-1-43.2 rai)",
+          "right": "Leasehold",
+          "tenure_years": 30,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": "Lessor's promise of a further 30 years; notice in lease years 21-25; renewal rent up to 250.0mn payable at registration of the renewal (about 252.8mn with ~1.1% registration fee)",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 257,
+            "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน",
+            "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี"
+          }
+        },
+        {
+          "component": "Buildings (31 buildings, 101 units)",
+          "right": "Leasehold",
+          "tenure_years": 30,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": "Same 30-year renewal as land",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 125,
+            "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "สิทธิการเช่าอาคารโรงงาน คลังสินค้า สำนักงานและสิ่งปลูกสร้างอื่น ๆ บางส่วนในโครงการ รวม 31 หลัง"
+          }
+        },
+        {
+          "component": "Movable assets (building systems, equipment, utilities) bought outright; price to be agreed at the transfer date",
+          "right": "Other",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 279,
+            "section": "สรุปสาระสำคัญของร่างสัญญาซื้อขายสังหาริมทรัพย์",
+            "quote": "งานระบบ อุปกรณ์ สาธารณูปโภค"
+          }
+        },
+        {
+          "component": "Common roads and utility land: not acquired; used under a utilities and roads service agreement plus registered servitude from BFTZ Bangpakong and its subsidiary",
+          "right": "Other",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 144,
+            "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "กองทรัสต์ไม่ได้เข้าลงทุนในส่วนของระบบสาธารณูปโภคและที่ดินถนนส่วนกลางในโครงการบางกอก"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": 30,
+        "unit": "years",
+        "status": "found",
+        "note": "Plus a 30-year renewal option",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 257,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าทรัพย์สิน",
+          "quote": "มีกำหนดระยะเวลา 30 (สามสิบ) ปี"
+        }
+      },
+      "lease_start": {
+        "value": null,
+        "status": "not_found",
+        "note": "The lease starts on the lease-start (investment) date, expected by 30 Sep 2026; no fixed date in the filing"
+      },
+      "lease_expiry": {
+        "value": null,
+        "status": "not_found",
+        "note": "30 years from the lease start (about Sep 2056 if the investment happens by 30 Sep 2026), up to 60 years if renewed; no expiry date stated"
+      },
+      "land_area": {
+        "value_sqm": 323772.9,
+        "as_filed": "202-1-43.2 rai (free zone 264,787.6 sqm; general zone 58,985.3 sqm)",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 134,
+          "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+          "quote": "ประมาณ 202-1-43.2 ไร่ (323,772.9 ตารางเมตร)"
+        }
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": null,
+          "status": "not_found",
+          "note": "Only net leasable area is disclosed"
+        },
+        "leasable_sqm": {
+          "value": 187949.0,
+          "unit": "sqm",
+          "status": "found",
+          "note": "Free zone 153,788.0; general zone 34,161.0. By type: warehouse 129,135.0; factory 9,900.0; mini-factory 43,730.0; built-to-suit 5,184.0",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 135,
+            "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "ประมาณ 187,949.0 ตารางเมตร"
+          }
+        },
+        "rooms": {
+          "value": null,
+          "status": "not_applicable"
+        },
+        "buildings": {
+          "value": 31,
+          "unit": "buildings",
+          "status": "found",
+          "note": "101 units: 18 warehouse buildings/58 units, 5 factory/7, 7 mini-factory/34, 1 built-to-suit/2",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 132,
+            "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "ประกอบด้วยอาคารจำนวน 31 หลัง แบ่งออกเป็น 101 ยูนิต"
+          }
+        }
+      },
+      "completion_or_age": {
+        "value": "Average building age about 2.0 years as of 30 Sep 2026; the project is due to be fully completed in 2026 (development started 2021)",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 136,
+          "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+          "quote": "ประมาณ 2.0 ปี"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "BFTZ Bangpakong Co., Ltd., owned 50% by Prospect Development and 50% by Sansiri; a related party of the REIT manager",
+        "value_th": "บริษัท บีเอฟทีแซด บางปะกง จำกัด",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 133,
+          "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+          "quote": "บีเอฟทีแซด บางปะกง ซึ่งถือหุ้นโดย (1) พรอสเพค ดีเวลลอปเมนท์ คิดเป็นสัดส่วนร้อยละ 50.0"
+        }
+      },
+      "acquisition_price_thb_mn": {
+        "value": 5040.0,
+        "status": "found",
+        "note": "Maximum, excluding VAT and fees; 258.7mn (5.4%) above the lowest appraisal. A renewal rent of up to 250.0mn is payable if the 30-year renewal is exercised",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 533,
+          "section": "ราคาที่จะลงทุน",
+          "quote": "กองทรัสต์จะเข้าลงทุนในมูลค่ารวมสูงสุดไม่เกิน 5,040.0 ล้านบาท"
+        }
+      },
+      "appraisals": [
+        {
+          "appraiser": "Krung Siam Appraisal Co., Ltd.",
+          "valuation_date": "2026-06-01",
+          "method": "Income approach (DCF) over 60 years (30-year lease + 30-year renewal)",
+          "value_thb_mn": 4852.0,
+          "discount_rate_pct": 9.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Market rent (THB/sqm/month): warehouse 170, factory 185, mini-factory 175, built-to-suit 290; existing contract rents until expiry. Occupancy 100% until existing leases expire, then 95% (yrs 1-30), 90% (31-40), 85% (41-60). Rent growth 2.5% (yrs 2-30), 2.0% (31-40), 1.5% (41-50), 1.0% (51-60). Property management fee 2.0% of rent + incentive 4.0%; repairs 1.5%/2.5% of rent; CAPEX reserve 2.0%; renewal cost 252.8mn in year 30",
+          "note": "Report dated 1 Dec 2025, value as of 1 Jun 2026",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 465,
+            "section": "ราคาประเมิน",
+            "quote": "| โครงการบางกอกฟรีเทรดโซน 4 | 4,852.0 | 4,781.3 | 4,781.3 |"
+          }
+        },
+        {
+          "appraiser": "Sims Property Consultant Co., Ltd.",
+          "valuation_date": "2026-06-01",
+          "method": "Income approach (DCF) over 60 years",
+          "value_thb_mn": 4781.3,
+          "discount_rate_pct": null,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Market rent (THB/sqm/month): warehouse 170, factory 185, mini-factory 175, built-to-suit 220. Occupancy 100% (yrs 1-2), 95% (3-30), 90% (31-60); built-to-suit 100% (yrs 1-9). Rent growth 2.5% (yrs 2-30), 2.0% (31-60). Commission 1.4% of revenue; repairs 1.5%/2.0% of revenue; CAPEX reserve 2.0% of revenue; other expenses 1.0%",
+          "note": "Report dated 24 Nov 2025, value as of 1 Jun 2026; lowest of the two appraisals. Discount-rate and several other assumption cells are blank for Sims in the text copy (the 9.0% may be a merged cell shared with Krung Siam)",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 465,
+            "section": "ราคาประเมิน",
+            "quote": "| โครงการบางกอกฟรีเทรดโซน 4 | 4,852.0 | 4,781.3 | 4,781.3 |"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "2026-03-31",
+          "occupancy_pct": 96.8,
+          "basis": "Signed leases in force + signed future-start leases + booking letters, on completed area only",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 137,
+            "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "พื้นที่เช่าอาคาร มีผู้เช่าร้อยละ 96.8"
+          }
+        },
+        {
+          "as_of": "2026-03-31",
+          "occupancy_pct": 95.1,
+          "basis": "Signed leases in force only, completed area",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 141,
+            "section": "ข้อมูลทั่วไปเกี่ยวกับทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "เท่ากับ ร้อยละ 95.1"
+          }
+        },
+        {
+          "as_of": "FY2023",
+          "occupancy_pct": 59.4,
+          "basis": "Headline basis incl. booking letters",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 702,
+            "section": "ตารางแสดงอัตราค่าเช่าเฉลี่ยและอัตราการเช่า",
+            "quote": "บางกอกฟรีเทรดโซน 4 | 189.3 | 174.0 | 171.9 | 169.8 | 59.4 | 68.2 | 100.0 | 96.8"
+          }
+        },
+        {
+          "as_of": "FY2024",
+          "occupancy_pct": 68.2,
+          "basis": "Headline basis incl. booking letters",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 702,
+            "section": "ตารางแสดงอัตราค่าเช่าเฉลี่ยและอัตราการเช่า",
+            "quote": "บางกอกฟรีเทรดโซน 4 | 189.3 | 174.0 | 171.9 | 169.8 | 59.4 | 68.2 | 100.0 | 96.8"
+          }
+        },
+        {
+          "as_of": "FY2025",
+          "occupancy_pct": 100.0,
+          "basis": "Headline basis incl. booking letters (89.3% on signed leases)",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 702,
+            "section": "ตารางแสดงอัตราค่าเช่าเฉลี่ยและอัตราการเช่า",
+            "quote": "บางกอกฟรีเทรดโซน 4 | 189.3 | 174.0 | 171.9 | 169.8 | 59.4 | 68.2 | 100.0 | 96.8"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2023",
+          "is_projection": false,
+          "revenue_thb_mn": 92.5,
+          "noi_thb_mn": 77.8,
+          "noi_definition": "EBITDA of the owner company BFTZ Bangpakong (company level, audited; not asset-level NOI)",
+          "occupancy_pct": 59.4,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 189.3,
+          "other_metrics": "Owner net loss 22.6mn; only built-to-suit buildings were let in 2023",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 720,
+            "section": "สรุปข้อมูลทางการเงินที่สำคัญ ของบีเอฟทีแซด บางปะกง",
+            "quote": "| รายได้รวม | 92.5 | 238.1 | 265.3 |"
+          }
+        },
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 238.1,
+          "noi_thb_mn": 165.3,
+          "noi_definition": "EBITDA of the owner company BFTZ Bangpakong",
+          "occupancy_pct": 68.2,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 174.0,
+          "other_metrics": "Owner net loss 3.0mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 720,
+            "section": "สรุปข้อมูลทางการเงินที่สำคัญ ของบีเอฟทีแซด บางปะกง",
+            "quote": "| รายได้รวม | 92.5 | 238.1 | 265.3 |"
+          }
+        },
+        {
+          "period": "FY2025",
+          "is_projection": false,
+          "revenue_thb_mn": 265.3,
+          "noi_thb_mn": 208.3,
+          "noi_definition": "EBITDA of the owner company BFTZ Bangpakong",
+          "occupancy_pct": 100.0,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 171.9,
+          "other_metrics": "Owner net loss 72.5mn; interest-bearing debt 5,327.2mn; equity 389.0mn",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 720,
+            "section": "สรุปข้อมูลทางการเงินที่สำคัญ ของบีเอฟทีแซด บางปะกง",
+            "quote": "| รายได้รวม | 92.5 | 238.1 | 265.3 |"
+          }
+        },
+        {
+          "period": "1Q2026",
+          "is_projection": false,
+          "revenue_thb_mn": null,
+          "noi_thb_mn": null,
+          "noi_definition": null,
+          "occupancy_pct": 96.8,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 169.8,
+          "other_metrics": "Revenue for the period is not in the text",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 702,
+            "section": "ตารางแสดงอัตราค่าเช่าเฉลี่ยและอัตราการเช่า",
+            "quote": "บางกอกฟรีเทรดโซน 4 | 189.3 | 174.0 | 171.9 | 169.8 | 59.4 | 68.2 | 100.0 | 96.8"
+          }
+        },
+        {
+          "period": "FY2027P (Jun 2026 - May 2027)",
+          "is_projection": true,
+          "revenue_thb_mn": 370.9,
+          "noi_thb_mn": null,
+          "noi_definition": null,
+          "occupancy_pct": null,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Derived: enlarged-trust rental and service revenue 1,505.8 minus existing assets 1,134.9. Total incremental revenue is 388.7 including other income (with guarantee income). Projected occupancy: warehouse 95.0%, factory 99.6%, mini-factory 96.7%, built-to-suit 95.0%; no rent growth until 2027, then 2.5%",
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 954,
+            "section": "ประมาณการงบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสมมติฐาน",
+            "quote": "รายได้ค่าเช่าและบริการ | 1,134.9 |  | 1,505.8"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "The trust leases part of the land and the buildings from BFTZ Bangpakong for 30 years (renewable for 30 years at up to 250.0mn) and buys the related movable assets. It takes over existing tenant leases and service agreements and sub-leases space directly to multiple tenants; standard tenant contracts run 3 years with monthly rent and service fees. BFTZ Bangpakong will be property manager, and roads and utilities are provided under a service agreement.",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 632,
+          "section": "ลักษณะการจัดหาผลประโยชน์จากอสังหาริมทรัพย์",
+          "quote": "สัญญามาตรฐานส่วนใหญ่ที่ทำกับผู้เช่ารายย่อยในปัจจุบันจะมีอายุสัญญา 3 ปี"
+        }
+      },
+      "rental_guarantee": {
+        "value": "BFTZ Bangpakong and Prospect Development guarantee rent on area without tenants at the investment date for 2 years at 170.0 THB/sqm/month, topping up any monthly shortfall. Tenant defaults count as income received. Maximum exposure is 383.4mn/yr if all 187,949 sqm were vacant, or 118.2mn/yr on the 57,927 sqm (30.8%) without effective leases at 31 Mar 2026. Prospect Development (TRIS BB-, FY2025 EBITDA 881.2mn) must keep a credit rating during the guarantee period.",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 342,
+          "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการของบีเอฟทีแซด บางปะกง",
+          "quote": "โดยกำหนดอัตราค่าเช่าขั้นต่ำในอัตรา 170.0 บาท ต่อตารางเมตร ต่อ เดือน"
+        }
+      },
+      "key_tenants": [
+        {
+          "name": "ADD Suspension (Thailand) Co., Ltd.",
+          "name_th": "บริษัท เอดีดี ซัสเพนชั่น (ไทยแลนด์) จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 12.5,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 684,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรกของทรัพย์สินหลักที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 5",
+            "quote": "บริษัท เอดีดี ซัสเพนชั่น (ไทยแลนด์) จำกัด | 12.5 | 8.6"
+          }
+        },
+        {
+          "name": "Max Green Pack Co., Ltd.",
+          "name_th": "บริษัท แมกซ์ กรีน แพ็ค จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 6.4,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 685,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท แมกซ์ กรีน แพ็ค จำกัด | 6.4 | 4.4"
+          }
+        },
+        {
+          "name": "U-Play (Thailand) Co., Ltd.",
+          "name_th": "บริษัท ยู-เพลย์ (ไทยแลนด์) จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 6.2,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 686,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท ยู-เพลย์ (ไทยแลนด์) จำกัด | 6.2 | 4.3"
+          }
+        },
+        {
+          "name": "Lesaus Intelligent Supply Chain Management (Thailand) Co., Ltd.",
+          "name_th": "บริษัท เลซัส อินเทลลิเจนท์ ซัพพลายเชน แมเนจเมนท์ (ประเทศไทย) จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 5.3,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 687,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "แมเนจเมนท์ (ประเทศไทย) จำกัด | 5.3 | 3.6"
+          }
+        },
+        {
+          "name": "Prime Stainless Siam Co., Ltd.",
+          "name_th": "บริษัท ไพร์ม สแตนเลส สยาม จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 4.0,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 688,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท ไพร์ม สแตนเลส สยาม จำกัด | 4.0 | 2.8"
+          }
+        },
+        {
+          "name": "Haocheng Electronics (Thailand) Co., Ltd.",
+          "name_th": "บริษัท ฮ่าวเชิง อิเล็คทรอนิคส์ (ไทยแลนด์) จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 3.2,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 689,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "อิเล็คทรอนิคส์ (ไทยแลนด์) จำกัด | 3.2 | 2.2"
+          }
+        },
+        {
+          "name": "Huana Technology (Thailand) Co., Ltd.",
+          "name_th": "บริษัท ฮั่วนา เทคโนโลยี (ประเทศไทย) จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 3.2,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 690,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท ฮั่วนา เทคโนโลยี (ประเทศไทย) จำกัด | 3.2 | 2.2"
+          }
+        },
+        {
+          "name": "E-Combell Motor Co., Ltd.",
+          "name_th": "บริษัท อี-คอมเบลล์ มอเตอร์ จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 3.0,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 691,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท อี-คอมเบลล์ มอเตอร์ จำกัด | 3.0 | 2.1"
+          }
+        },
+        {
+          "name": "Expressions Parfumees Asia Co., Ltd.",
+          "name_th": "บริษัท เอ็กซ์เพรสชั่นส์ พาร์ฟูมีส์ เอเชีย จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 2.5,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 692,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท เอ็กซ์เพรสชั่นส์ พาร์ฟูมีส์ เอเชีย จำกัด | 2.5 | 1.8"
+          }
+        },
+        {
+          "name": "Thai Jili Food Co., Ltd.",
+          "name_th": "บริษัท ไทย จีลี่ ฟู้ด จำกัด",
+          "business": null,
+          "area_sqm": null,
+          "pct_of_area": 2.5,
+          "pct_of_revenue": null,
+          "lease_expiry": null,
+          "related_to_sponsor": null,
+          "source": {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 693,
+            "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+            "quote": "บริษัท ไทย จีลี่ ฟู้ด จำกัด | 2.5 | 1.7"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "At 31 Mar 2026 the top-10 tenants held 48.8% of leased area (33.8% of NLA); the largest, ADD Suspension, held 12.5% of leased area (8.6% of NLA). For the enlarged trust, the top-10 hold 21.9% of leased area and about 16.3% of projected revenue (largest about 3.0%). Chinese tenants account for 36.2% of contracted area portfolio-wide. Tenant pct_of_area figures are shares of leased area.",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 694,
+          "section": "ผู้เช่าที่มีพื้นที่เช่าสูงสุด 10 อันดับแรก",
+          "quote": "| รวม |  | 48.8 | 33.8 |"
+        }
+      },
+      "lease_expiry_profile": [],
+      "wale_years": {
+        "value": null,
+        "status": "not_found",
+        "note": "Tenant WALE for BFTZ4 not disclosed and the remaining-lease chart is an image. The Fact Sheet WALE (15.1 years before / 28.1 years after the raise) measures land-lease tenure, not tenant leases"
+      },
+      "encumbrances": {
+        "value": "To secure the renewal promise, the lessor will mortgage 40 title deeds (about 252-0-76.1 rai, 403,504.4 sqm, more than the leased area) with buildings to the trust, capped at the average of the two appraisals; the trust holds the deeds. The lender takes business collateral over the lease and related agreements. Roads and utilities are used under a registered servitude. 8 buildings (37.7% of NLA) still await building inspection certificates, and 4 buildings (15.5% of NLA) need structural repairs by the seller. No disputes or use restrictions reported.",
+        "status": "found",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 518,
+          "section": "รายละเอียดเพิ่มเติมเกี่ยวกับการใช้สิทธิต่อสัญญาเช่าอีก 30 ปี",
+          "quote": "โดยมีเนื้อที่ดินประมาณ 252 ไร่ 0 งาน 76.1 ตารางวา (403,504.4 ตารางเมตร)"
+        }
+      },
+      "notes": [
+        "Single project; price and both appraisals are given at project level.",
+        "Located in a light-purple-with-white-dots EEC land-use zone allowing warehouse and factory use; 81.8% of NLA (153,788 sqm) is in the Customs free zone, licensed to BFTZ Bangpakong.",
+        "Average rent fell from 189.3 THB/sqm/month (2023, built-to-suit only) to 169.8 (Mar 2026) as lower-rent warehouse and mini-factory buildings were completed; the 170 THB guarantee rate is roughly at the current average.",
+        "Renewal funding: notice in years 21-25; up to 252.8mn payable in year 30. The appraisers already deduct this cost.",
+        "Non-compete: while BFTZ Bangpakong is property manager, it and its group must not undercut the trust on rents for properties within 5 km of BFTZ4.",
+        "Historical revenue and EBITDA are for the owner company BFTZ Bangpakong, not the leased asset alone."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 6,
+        "section": "Fact Sheet",
+        "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"
+      }
+    },
+    "listing_date": {
+      "value": "2020-08-20",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-02-Policy.md",
+        "line": 8,
+        "section": "วัตถุประสงค์ของกองทรัสต์",
+        "quote": "แล้วเมื่อวันที่ 20 สิงหาคม 2563"
+      }
+    },
+    "number_of_assets": {
+      "value": 5,
+      "unit": "projects",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 6,
+        "section": "ทรัพย์สินหลักที่กองทรัสต์ลงทุนในปัจจุบัน",
+        "quote": "ใน 5 โครงการ"
+      }
+    },
+    "total_asset_value_thb_mn": {
+      "value": 10064.5,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ ณ วันที่ 31 มีนาคม 2569",
+        "quote": "สินทรัพย์รวม / 10,064.5 ล้านบาท"
+      }
+    },
+    "investment_value_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Fair value of investment properties at 31 Mar 2026 appears only in the financial statements (PDF attachment)"
+    },
+    "nav_thb_mn": {
+      "value": 5563.0,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ ณ วันที่ 31 มีนาคม 2569",
+        "quote": "สินทรัพย์สุทธิ / 5,563.0 ล้านบาท"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 8.638,
+      "as_of": "2026-03-31",
+      "status": "derived",
+      "note": "NAV 5,563.0mn / 644.0mn units",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 30,
+        "section": "โครงสร้างเงินทุนของกองทรัสต์ ณ วันที่ 31 มีนาคม 2569",
+        "quote": "สินทรัพย์สุทธิ / 5,563.0 ล้านบาท"
+      }
+    },
+    "market_price_per_unit_thb": {
+      "value": 7.0,
+      "as_of": "2026-03-31",
+      "status": "found",
+      "note": "Closing price at end of 1Q2026 (SETSMART). Units later traded higher: June 2026 average 9.70, range 9.15-10.30",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 188,
+        "section": "ตัวเลขทางการเงินที่สำคัญ",
+        "quote": "ราคาปิด ณ สิ้นงวด (บาท)2/ | 8.5 | 8.5 | 7.0 | 7.0"
+      }
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 9416.8,
+      "status": "derived",
+      "note": "Sum of latest income-approach appraisals: BFTZ1 2,989.1 + 2,137.9; BFTZ2 411.9 + 116.5; BFTZ3 1,422.0 + 1,280.2 (all dated 1 Dec 2025); X44 96.2 (1 Dec 2025); BFTZ6 963.0 (Sims, 1 Sep 2025; Krung Siam gave 967.9 for the same deeds, so the total would be 9,421.7 using that figure)",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 106,
+        "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+        "quote": "2,989.1"
+      }
+    },
+    "historical_dpu": [
+      {
+        "period": "FY2020 (14 Aug - 31 Dec 2020)",
+        "dpu_thb": 0.4032,
+        "component": "total (dividend 0.4032)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "0.4032 / - / 0.4032"
+        }
+      },
+      {
+        "period": "FY2021",
+        "dpu_thb": 1.1158,
+        "component": "total (dividend 0.7830 + capital reduction 0.3328)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "ปี 2564 / 0.7830 / 0.3328 / 1.1158"
+        }
+      },
+      {
+        "period": "FY2022",
+        "dpu_thb": 0.9025,
+        "component": "total (dividend 0.7050 + capital reduction 0.1975)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "ปี 2565 / 0.7050 / 0.1975 / 0.9025"
+        }
+      },
+      {
+        "period": "FY2023",
+        "dpu_thb": 0.7895,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "ปี 2566 / 0.7895 / - / 0.7895"
+        }
+      },
+      {
+        "period": "FY2024",
+        "dpu_thb": 0.856,
+        "component": "total (dividend 0.7628 + capital reduction 0.0932; the key-financials table shows capital reduction 0.0202)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "ปี 2567 / 0.7628 / 0.0932 / 0.8560"
+        }
+      },
+      {
+        "period": "FY2025",
+        "dpu_thb": 0.828,
+        "component": "total (dividend only)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "ปี 2568 / 0.8280 / - / 0.8280"
+        }
+      },
+      {
+        "period": "5M2026",
+        "dpu_thb": 0.359,
+        "component": "total (dividend only; key-financials table shows 1Q2026 DPU 0.2175)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 76,
+          "section": "นโยบายการจ่ายเงินปันผล",
+          "quote": "5 เดือนแรก ปี 2569 / 0.3590 / - / 0.3590"
+        }
+      }
+    ],
+    "historical_performance": [
+      {
+        "period": "FY2023",
+        "total_revenue_thb_mn": 567.6,
+        "rental_and_service_revenue_thb_mn": 508.7,
+        "net_investment_income_thb_mn": 327.8,
+        "net_increase_in_net_assets_thb_mn": 241.9,
+        "occupancy_pct": 95.4,
+        "other_metrics": "EBITDA 414.5; undertaking compensation income 26.5; other income 32.4; EPU 0.6450; DPU 0.7895. Total revenue and NII from the MD&A text (Fact Sheet lines 195-199); occupancy on signed-lease basis (line 151)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 169,
+          "section": "ตัวเลขทางการเงินที่สำคัญ",
+          "quote": "รายได้ค่าเช่าและค่าบริการ (ล้านบาท) | 508.7 | 578.1 | 842.3 | 284.4"
+        }
+      },
+      {
+        "period": "FY2024",
+        "total_revenue_thb_mn": 599.4,
+        "rental_and_service_revenue_thb_mn": 578.1,
+        "net_investment_income_thb_mn": 336.5,
+        "net_increase_in_net_assets_thb_mn": 285.9,
+        "occupancy_pct": 93.5,
+        "other_metrics": "EBITDA 436.7; undertaking compensation income 1.0; other income 20.3; EPU 0.7625; DPU 0.7628",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 169,
+          "section": "ตัวเลขทางการเงินที่สำคัญ",
+          "quote": "รายได้ค่าเช่าและค่าบริการ (ล้านบาท) | 508.7 | 578.1 | 842.3 | 284.4"
+        }
+      },
+      {
+        "period": "FY2025",
+        "total_revenue_thb_mn": 877.3,
+        "rental_and_service_revenue_thb_mn": 842.3,
+        "net_investment_income_thb_mn": null,
+        "net_increase_in_net_assets_thb_mn": 577.9,
+        "occupancy_pct": 98.3,
+        "other_metrics": "EBITDA 639.4; other income 35.0; EPU 0.8974; DPU 0.8280; funded IBD/total assets 40.5%; 3rd and 4th additional investments completed 4 Jun and 31 Oct 2025; NII not stated in text",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 169,
+          "section": "ตัวเลขทางการเงินที่สำคัญ",
+          "quote": "รายได้ค่าเช่าและค่าบริการ (ล้านบาท) | 508.7 | 578.1 | 842.3 | 284.4"
+        }
+      },
+      {
+        "period": "1Q2026",
+        "total_revenue_thb_mn": 297.9,
+        "rental_and_service_revenue_thb_mn": 284.4,
+        "net_investment_income_thb_mn": null,
+        "net_increase_in_net_assets_thb_mn": 174.8,
+        "occupancy_pct": 96.5,
+        "other_metrics": "EBITDA 225.9; other income 13.6; EPU 0.2714; DPU 0.2175; funded IBD/total assets 40.2%; NII not stated in text",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 169,
+          "section": "ตัวเลขทางการเงินที่สำคัญ",
+          "quote": "รายได้ค่าเช่าและค่าบริการ (ล้านบาท) | 508.7 | 578.1 | 842.3 | 284.4"
+        }
+      }
+    ],
+    "portfolio_occupancy": [
+      {
+        "as_of": "FY2021",
+        "occupancy_pct": 93.8,
+        "basis": "Average occupancy: signed leases in force plus signed leases starting later (excludes booking letters)",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 151,
+          "section": "ภาพรวมผลการดำเนินงานของทรัพย์สินหลักที่กองทรัสต์ลงทุนในปัจจุบัน",
+          "quote": "ร้อยละ 93.8 ร้อยละ 91.1 ร้อยละ 95.4 ร้อยละ 93.5 ร้อยละ 98.3 และร้อยละ 96.5"
+        }
+      },
+      {
+        "as_of": "FY2022",
+        "occupancy_pct": 91.1,
+        "basis": "Average occupancy, signed-lease basis",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 151,
+          "section": "ภาพรวมผลการดำเนินงาน",
+          "quote": "ร้อยละ 93.8 ร้อยละ 91.1 ร้อยละ 95.4 ร้อยละ 93.5 ร้อยละ 98.3 และร้อยละ 96.5"
+        }
+      },
+      {
+        "as_of": "FY2023",
+        "occupancy_pct": 95.4,
+        "basis": "Average occupancy, signed-lease basis",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 151,
+          "section": "ภาพรวมผลการดำเนินงาน",
+          "quote": "ร้อยละ 93.8 ร้อยละ 91.1 ร้อยละ 95.4 ร้อยละ 93.5 ร้อยละ 98.3 และร้อยละ 96.5"
+        }
+      },
+      {
+        "as_of": "FY2024",
+        "occupancy_pct": 93.5,
+        "basis": "Average occupancy, signed-lease basis",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 151,
+          "section": "ภาพรวมผลการดำเนินงาน",
+          "quote": "ร้อยละ 93.8 ร้อยละ 91.1 ร้อยละ 95.4 ร้อยละ 93.5 ร้อยละ 98.3 และร้อยละ 96.5"
+        }
+      },
+      {
+        "as_of": "FY2025",
+        "occupancy_pct": 98.3,
+        "basis": "Average occupancy, signed-lease basis",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 151,
+          "section": "ภาพรวมผลการดำเนินงาน",
+          "quote": "ร้อยละ 93.8 ร้อยละ 91.1 ร้อยละ 95.4 ร้อยละ 93.5 ร้อยละ 98.3 และร้อยละ 96.5"
+        }
+      },
+      {
+        "as_of": "1Q2026",
+        "occupancy_pct": 96.5,
+        "basis": "Average occupancy, signed-lease basis",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+          "line": 151,
+          "section": "ภาพรวมผลการดำเนินงาน",
+          "quote": "ร้อยละ 93.8 ร้อยละ 91.1 ร้อยละ 95.4 ร้อยละ 93.5 ร้อยละ 98.3 และร้อยละ 96.5"
+        }
+      }
+    ],
+    "assets": [
+      {
+        "asset_id": "BFTZ1",
+        "name_en": "Bangkok Free Trade Zone 1",
+        "name_th": "โครงการบางกอกฟรีเทรดโซน 1",
+        "asset_type": "Warehouse / factory / mini-factory / built-to-suit (117 buildings, 343 units; free zone and general zone)",
+        "location": "Bang Na-Trad Rd Km 23, Bang Sao Thong, Bang Sao Thong, Samut Prakan",
+        "province": "Samut Prakan",
+        "investment_type": "Sub-leasehold",
+        "lease_expiry": "2039-12-22 (IPO portion); 2038-12-31 (3rd additional investment portion)",
+        "acquired": "IPO 2020-08-18 (3,429.4mn) + 3rd additional investment 2025-06-04 (1,831.7mn)",
+        "land_area_sqm": 604721.4,
+        "leasable_area_sqm": 377431.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 5261.1,
+        "latest_appraisal_thb_mn": 5127.0,
+        "appraisal_date": "2025-12-01",
+        "appraiser": "Krung Siam Appraisal (deeds 36059, 4496: 2,989.1) and Grand Asset Advisory (deed 4494: 2,137.9)",
+        "occupancy_pct": 98.8,
+        "occupancy_as_of": "2026-03-31",
+        "key_tenants": null,
+        "notes": "Acquisition price and appraisal are sums of two rounds/deeds. Head leases from Wat Paknam, Wat Mongkol Nimit and the Priest Hospital Foundation are sub-leased via Chainan-Bangplee Parkland. Average building age 10.7 years (IPO part) and 7.5 years (3rd part); about 13 years of lease left. 66.8% of existing NLA.",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 24,
+          "section": "โครงการบางกอกฟรีเทรดโซน 1",
+          "quote": "พื้นที่เช่าอาคาร มีผู้เช่าร้อยละ 98.8"
+        },
+        "extra_sources": [
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 371,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "สิทธิการเช่าคงเหลือถึงวันที่ 22 ธันวาคม 2582"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 372,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "สิทธิการเช่าคงเหลือถึงวันที่ 31 ธันวาคม 2581"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 106,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "2,989.1"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 107,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "2,137.9"
+          }
+        ]
+      },
+      {
+        "asset_id": "BFTZ2",
+        "name_en": "Bangkok Free Trade Zone 2",
+        "name_th": "โครงการบางกอกฟรีเทรดโซน 2",
+        "asset_type": "Warehouse / factory / mini-factory (9 buildings, 15 units; general zone)",
+        "location": "Thepharak Rd, Bang Sao Thong, Bang Sao Thong, Samut Prakan",
+        "province": "Samut Prakan",
+        "investment_type": "Sub-leasehold land + freehold buildings",
+        "lease_expiry": "2050-05-15",
+        "acquired": "2nd additional investment 2023-03-22 (465.1mn) + 3rd additional investment 2025-06-04 (190.1mn)",
+        "land_area_sqm": 56579.3,
+        "leasable_area_sqm": 33477.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 655.2,
+        "latest_appraisal_thb_mn": 528.4,
+        "appraisal_date": "2025-12-01",
+        "appraiser": "Sims Property Consultant (411.9) and Grand Asset Advisory (116.5)",
+        "occupancy_pct": 100.0,
+        "occupancy_as_of": "2026-03-31",
+        "key_tenants": null,
+        "notes": "Land leased by Prospect Development from Chiewchan Property and sub-leased to the trust. Price and appraisal are sums of two rounds. Latest appraisal (528.4) is below the acquisition cost (655.2).",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 44,
+          "section": "โครงการบางกอกฟรีเทรดโซน 2",
+          "quote": "พื้นที่เช่าอาคาร มีผู้เช่าร้อยละ 100.0"
+        },
+        "extra_sources": [
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 374,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "สิทธิการเช่าคงเหลือถึงวันที่ 15 พฤษภาคม 2593"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 375,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "465.1 ล้านบาท"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 377,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "190.1 ล้านบาท"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 108,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "411.9"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 109,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "116.5"
+          }
+        ]
+      },
+      {
+        "asset_id": "BFTZ3",
+        "name_en": "Bangkok Free Trade Zone 3",
+        "name_th": "โครงการบางกอกฟรีเทรดโซน 3",
+        "asset_type": "Warehouse (10 buildings, 38 units; free zone and general zone)",
+        "location": "Bang Na-Trad Rd Km 19, Bang Pla, Bang Phli, Samut Prakan",
+        "province": "Samut Prakan",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "2nd additional investment 2023-03-22 (1,394.5mn) + 3rd additional investment 2025-06-04 (1,287.3mn)",
+        "land_area_sqm": 173884.0,
+        "leasable_area_sqm": 100015.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 2681.8,
+        "latest_appraisal_thb_mn": 2702.2,
+        "appraisal_date": "2025-12-01",
+        "appraiser": "Sims Property Consultant (1,422.0) and Grand Asset Advisory (1,280.2)",
+        "occupancy_pct": 93.4,
+        "occupancy_as_of": "2026-03-31",
+        "key_tenants": null,
+        "notes": "Roads not owned; a servitude is registered by Prospect Development. Price and appraisal are sums of two rounds.",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 59,
+          "section": "โครงการบางกอกฟรีเทรดโซน 3",
+          "quote": "พื้นที่เช่าอาคาร มีผู้เช่าร้อยละ 93.4"
+        },
+        "extra_sources": [
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 379,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "1,394.5 ล้านบาท"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 380,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "1,287.3 ล้านบาท"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 110,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "1,422.0"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 111,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "1,280.2"
+          }
+        ]
+      },
+      {
+        "asset_id": "X44",
+        "name_en": "X44 Bangna KM.18",
+        "name_th": "โครงการ X44 บางนา กม. 18",
+        "asset_type": "Built-to-suit factory/office (1 building, single tenant)",
+        "location": "Bang Na-Trad Rd, Bang Chalong, Bang Phli, Samut Prakan",
+        "province": "Samut Prakan",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "1st additional investment 2022-03-21 (81.8mn incl. acquisition costs)",
+        "land_area_sqm": 4400.0,
+        "leasable_area_sqm": 3087.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 81.8,
+        "latest_appraisal_thb_mn": 96.2,
+        "appraisal_date": "2025-12-01",
+        "appraiser": "Asian Engineering Valuation",
+        "occupancy_pct": 100.0,
+        "occupancy_as_of": "2026-03-31",
+        "key_tenants": null,
+        "notes": "Average building age about 30 years; long-term lease with fixed rent until 2031 per projection assumptions.",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 76,
+          "section": "โครงการ X44 บางนา กม. 18",
+          "quote": "พื้นที่เช่าอาคาร มีผู้เช่าร้อยละ 100.0"
+        },
+        "extra_sources": [
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 382,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "81.8 ล้านบาท"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 112,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "96.2"
+          }
+        ]
+      },
+      {
+        "asset_id": "BFTZ6",
+        "name_en": "Bangkok Free Trade Zone 6",
+        "name_th": "โครงการบางกอกฟรีเทรดโซน 6",
+        "asset_type": "Warehouse (2 buildings, 10 units; general zone)",
+        "location": "Suvarnabhumi drainage canal road, Bang Pla, Bang Phli, Samut Prakan",
+        "province": "Samut Prakan",
+        "investment_type": "Sub-leasehold land + freehold buildings",
+        "lease_expiry": "2052-12-31 and 2054-02-28",
+        "acquired": "4th additional investment 2025-10-31 (1,124.4mn incl. acquisition costs)",
+        "land_area_sqm": 72460.4,
+        "leasable_area_sqm": 50748.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": 1124.4,
+        "latest_appraisal_thb_mn": 963.0,
+        "appraisal_date": "2025-09-01",
+        "appraiser": "Sims Property Consultant (963.0); Krung Siam Appraisal also 967.9",
+        "occupancy_pct": 83.0,
+        "occupancy_as_of": "2026-03-31",
+        "key_tenants": null,
+        "notes": "Land leased by Prospect Development from four individual landowners and sub-leased to the trust. Average building age 1.9 years; remaining lease about 26.5-26.8 years (figures differ across sections).",
+        "source": {
+          "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+          "line": 93,
+          "section": "โครงการบางกอกฟรีเทรดโซน 6",
+          "quote": "พื้นที่เช่าอาคาร มีผู้เช่าร้อยละ 83.0"
+        },
+        "extra_sources": [
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 383,
+            "section": "สรุปภาพรวมทรัพย์สินหลัก",
+            "quote": "สิทธิการเช่าคงเหลือถึงวันที่ 31 ธันวาคม 2595 และ 28 กุมภาพันธ์ 2597"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 113,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "963.0"
+          },
+          {
+            "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+            "line": 114,
+            "section": "ราคาประเมินครั้งล่าสุด",
+            "quote": "967.9"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Existing portfolio: 564,758 sqm NLA on about 570-0-11.5 rai in five Samut Prakan projects; by building type 65.9% warehouse, 17.4% factory, 13.2% mini-factory, 3.5% built-to-suit.",
+      "Top-10 tenants of existing assets (31 Mar 2026): RT Plus Logistics, Thai Haso, Union J.Plus (Thailand), Peri Formwork & Scaffolding (Thailand), Avius ULD, Yadea Technology (Thailand), T Partner, J&C Packaging, IT Luggage (Thailand), Jagota Brothers Trading; together 24.9% of leased area (23.9% of NLA).",
+      "TRIS corporate rating BBB- (Stable), reaffirmed 29 Sep 2025. The rent guarantee on the 2nd additional investment ended 22 Mar 2025.",
+      "Existing-assets-only projection (Jun 2026-May 2027): rental revenue 1,134.9mn, NII 704.3mn, DPU 0.82 THB on 644.0mn units.",
+      "Asset rows are per project; acquisition prices and appraisals are sums across investment rounds and title-deed groups as disclosed."
+    ]
+  },
+  "risks": [
+    {
+      "title": "Vacant space after the 2-year rent guarantee ends",
+      "category": "Market/competition",
+      "summary": "The 170 THB/sqm/month guarantee covers only BFTZ4 area vacant at the investment date and lasts 2 years. About 30.8% of final NLA had no effective lease at 31 Mar 2026. Space not let by expiry would cut income and distributions.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 144,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงที่กองทรัสต์อาจไม่สามารถหาผู้เช่าได้ภายหลังสิ้นสุดระยะเวลาที่มีการชดเชยรายได้ค่าเช่า"
+      }
+    },
+    {
+      "title": "Guarantee structure may lead to below-guarantee rents",
+      "category": "Sponsor/related-party",
+      "summary": "The related-party owner/manager only tops up shortfalls against 170 THB, so it could sign 3-year leases below that rate. Rents after the guarantee would then be lower, with pressure on renewals of existing tenants.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 151,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงจากการชดเชยค่าเช่าส่วนขาดจากค่าเช่ารับประกันตามสัญญาตกลงกระทำการ"
+      }
+    },
+    {
+      "title": "30-year lease renewal not assured",
+      "category": "Leasehold/tenure",
+      "summary": "Renewal needs notice in years 21-25 and up to 250mn (252.8mn with fees) in year 30. It relies on the lessor's promise backed by a mortgage capped at the average appraisal; lessor default, insolvency, law changes or lack of funding could end the lease after 30 years.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 130,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงจากการที่อาจไม่ได้รับการต่อสัญญาเช่าทรัพย์สินออกไปอีก 30 ปี"
+      }
+    },
+    {
+      "title": "Purchase price above independent appraisals",
+      "category": "Asset/property",
+      "summary": "The 5,040mn maximum price is 5.41% above the lower appraisal of 4,781.3mn. If later annual appraisals come in below cost, the trust books impairment losses, NAV falls, and part of distributions may become capital returns.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 189,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลักของกองทรัสต์",
+        "quote": "ความเสี่ยงที่กองทรัสต์เข้าลงทุนในอสังหาริมทรัพย์ในมูลค่าสูงกว่ามูลค่าตามการประเมินมูลค่าโดยผู้ประเมินมูลค่าทรัพย์สิน"
+      }
+    },
+    {
+      "title": "Structural defects in four buildings",
+      "category": "Asset/property",
+      "summary": "A structural inspection found cracks in office areas and columns of 4 BFTZ4 buildings (about 15.5% of NLA). The seller is repairing them at its own cost, but hidden defects may remain and the seller's warranties are limited in scope, amount and time.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 178,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลักของกองทรัสต์",
+        "quote": "จำนวน 4 หลัง คิดเป็นประมาณร้อยละ 15.5 ของพื้นที่อาคารให้เช่าสุทธิในโครงการบางกอกฟรีเทรดโซน 4"
+      }
+    },
+    {
+      "title": "Building inspection certificates still pending",
+      "category": "Regulatory/legal",
+      "summary": "Eight BFTZ4 buildings (about 37.7% of NLA) have not received the annual building inspection certificate (R.1). Delays or adverse findings could lead to penalties, repair orders or use restrictions; the seller must obtain the first certificates.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 240,
+        "section": "ความเสี่ยงเกี่ยวกับใบรับรองการตรวจสอบอาคารของทรัพย์สินที่จะลงทุน",
+        "quote": "จำนวน 8 อาคาร คิดเป็นประมาณร้อยละ 37.7 ของพื้นที่อาคารให้เช่าสุทธิในโครงการบางกอกฟรีเทรดโซน 4"
+      }
+    },
+    {
+      "title": "Free-zone licence held by the seller",
+      "category": "Regulatory/legal",
+      "summary": "BFTZ Bangpakong holds the free-zone establishment licence covering most of BFTZ4's NLA. If revoked, tenants' free-zone licences lapse. Remedies include a trust-appointed replacement licensee, lease termination with prorated refund, or conversion to general zone with damages.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4",
+        "BFTZ1",
+        "BFTZ3"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 226,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลักของกองทรัสต์",
+        "quote": "ความเสี่ยงเกี่ยวกับใบอนุญาตจัดตั้งเขตปลอดอากร และ ใบอนุญาตประกอบกิจการในเขตปลอดอากร"
+      }
+    },
+    {
+      "title": "Reliance on owner for roads and utilities",
+      "category": "Operational",
+      "summary": "The trust does not own BFTZ4's common roads and utilities. Access and services depend on a service agreement and servitude from BFTZ Bangpakong and its subsidiary, so their failure to perform could disrupt tenants.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 113,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "กองทรัสต์ต้องพึ่งพาบริษัทเจ้าของทรัพย์สิน"
+      }
+    },
+    {
+      "title": "Related-party conflicts of interest",
+      "category": "Sponsor/related-party",
+      "summary": "Prospect Development owns the REIT manager and half of BFTZ4's seller, lessor, property manager and guarantor, and its group runs competing warehouse projects. This creates conflicts on pricing, leasing and contract enforcement, only partly addressed by a 5 km rent non-compete clause.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 74,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงจากความขัดแย้งทางผลประโยชน์ที่อาจเกิดขึ้น"
+      }
+    },
+    {
+      "title": "Tenant and nationality concentration",
+      "category": "Tenant/concentration",
+      "summary": "BFTZ4's top-10 tenants lease 48.8% of occupied area. For the enlarged trust, the top-10 give about 16.3% of projected revenue (largest 3.0%) and Chinese tenants lease 36.2% of contracted area.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ4"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 173,
+        "section": "ความเสี่ยงจากการพึ่งพิงผู้เช่ารายย่อยรายใหญ่",
+        "quote": "ที่ร้อยละ 36.2 ของพื้นที่เช่าที่มีสัญญาแล้ว"
+      }
+    },
+    {
+      "title": "Head-lease termination and declining leasehold value",
+      "category": "Leasehold/tenure",
+      "summary": "BFTZ1, BFTZ2 and BFTZ6 are sub-leaseholds, so termination of a head lease could end the trust's sub-lease. Leasehold values amortise to zero; BFTZ1 (66.8% of existing NLA) has only about 12-13 years left, to 2038-2039.",
+      "asset_specific": true,
+      "applies_to": [
+        "BFTZ1",
+        "BFTZ2",
+        "BFTZ6"
+      ],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 38,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงจากการที่สัญญาเช่าหลักถูกยกเลิก ซึ่งทำให้สัญญาเช่าช่วงอาจถูกยกเลิกไปด้วย"
+      }
+    },
+    {
+      "title": "Higher leverage and floating-rate debt",
+      "category": "Financing/interest rate",
+      "summary": "Up to 2,000mn of new floating-rate debt lifts LTV to about 38.7%, above the 35% cap for non-investment-grade trusts. Keeping the BBB- rating is therefore essential; rate rises, covenant breaches or refinancing problems could cut distributions.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 124,
+        "section": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน",
+        "quote": "กองทรัสต์จะมีสัดส่วนการกู้ยืมคิดเป็นประมาณร้อยละ 38.7"
+      }
+    },
+    {
+      "title": "Competition for tenants",
+      "category": "Market/competition",
+      "summary": "New warehouse and factory supply near the Samut Prakan and Chachoengsao sites could reduce occupancy and rents at renewal (generic risk heading).",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 163,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลักของกองทรัสต์",
+        "quote": "ความเสี่ยงจากการแข่งขันที่สูงขึ้น ซึ่งอาจส่งผลกระทบต่อการจัดหาผู้เช่ารายย่อย อัตราการเช่า และอัตราค่าเช่า"
+      }
+    },
+    {
+      "title": "Offer price below market and DPU dilution",
+      "category": "Offering/dilution",
+      "summary": "A final price below the pre-offer market price may pull the unit price down, and holders who do not subscribe are diluted. At the 7.5 THB projection basis, DPU falls from 0.82 (existing assets alone) to 0.69 after the deal.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 368,
+        "section": "ความเสี่ยงที่เกี่ยวกับการลงทุนในหน่วยทรัสต์ของกองทรัสต์",
+        "quote": "ราคาตลาดของหน่วยทรัสต์อาจลดลง หากราคาเสนอขายของหน่วยทรัสต์ที่ออกใหม่ต่ำกว่าราคาตลาดของหน่วยทรัสต์ก่อนการเสนอขายหน่วยทรัสต์เพิ่มเติม"
+      }
+    },
+    {
+      "title": "Sponsor-group unit sales",
+      "category": "Offering/dilution",
+      "summary": "Large future unit sales by Prospect Development, Mankhong Kehakarn, FNS, Sansiri or their groups could depress the price. Their commitment to hold at least 15% combined applies only for the loan-linked period.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 370,
+        "section": "ความเสี่ยงที่เกี่ยวกับการลงทุนในหน่วยทรัสต์ของกองทรัสต์",
+        "quote": "การขายหน่วยทรัสต์ในอนาคตของ พรอสเพค ดีเวลลอปเมนท์"
+      }
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "The maximum price of 5,040.0mn is 258.7mn (5.4%) above the lower appraisal (Sims, 4,781.3mn) and 3.9% above Krung Siam's 4,852.0mn, both income-approach values as of 1 Jun 2026.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 533,
+        "section": "ราคาที่จะลงทุน",
+        "quote": "ซึ่งอยู่ที่ประมาณ 258.7 ล้านบาท หรือคิดเป็นมูลค่าสูงกว่าประมาณร้อยละ 5.4"
+      }
+    },
+    {
+      "topic": "Related-party seller, manager and guarantor",
+      "observation": "BFTZ Bangpakong is the seller/lessor, property manager, free-zone licensee and co-guarantor. It is owned 50% by Prospect Development, which owns 99.99% of the REIT manager and 18.5% of units, and 50% by Sansiri (10.0% of units).",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 537,
+        "section": "การซื้อทรัพย์สินจากบุคคลที่เกี่ยวโยงกันกับผู้จัดการกองทรัสต์",
+        "quote": "และเป็นผู้ถือหุ้นใหญ่ของ บีเอฟทีแซด บางปะกง คิดเป็นสัดส่วนร้อยละ 50.0"
+      }
+    },
+    {
+      "topic": "Occupancy basis and guarantee exposure",
+      "observation": "BFTZ4 reports 96.8% occupancy, measured on completed area and including booking letters (95.1% on signed leases). Yet 57,927 sqm (30.8% of final NLA) had no effective lease at 31 Mar 2026. The 2-year guarantee on that area is worth up to about 118.2mn/yr. Projected yield is 9.2% with guarantee income vs 9.0% without; guarantor Prospect Development is rated BB-.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 106,
+        "section": "เงื่อนไขการรับประกันรายได้",
+        "quote": "คิดเป็นพื้นที่ประมาณ 57,927 ตารางเมตร"
+      }
+    },
+    {
+      "topic": "Yield basis vs maximum price",
+      "observation": "The headline 9.2% yield assumes a 7.5 THB offer price. At the 10.5 THB maximum the sensitivity shows 0.78 DPU and a 7.4% yield. Units traded at 9.15-10.30 THB in June 2026 (average 9.70), against 7.0 at end-March.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 1175,
+        "section": "การวิเคราะห์ความไวต่อการเปลี่ยนแปลง",
+        "quote": "5,040.0 | 9.2% | 8.8% | 8.5% | 8.2% | 7.9% | 7.7% | 7.4%"
+      }
+    },
+    {
+      "topic": "Projection timing",
+      "observation": "The projection assumes acquisition on 1 Jun 2026, but the expected investment date is now by 30 Sep 2026. Including the 197.4mn reserve for existing-loan repayments, first-year yield drops to 8.5% at 7.5 THB and 6.9% at 10.5 THB.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 1190,
+        "section": "การวิเคราะห์ความไวต่อการเปลี่ยนแปลง",
+        "quote": "จะเปลี่ยนแปลงเป็นภายในวันที่ 30 กันยายน 2569"
+      }
+    },
+    {
+      "topic": "DPU dilution",
+      "observation": "On the same 7.5 THB basis, existing assets alone project 0.82 THB/unit (10.9%) on 644.0mn units, versus 0.69 THB/unit (9.2%) for the enlarged trust on 1,074.8mn units.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 983,
+        "section": "ประมาณการงบกำไรขาดทุนและการจ่ายผลประโยชน์ตอบแทนตามสมมติฐาน",
+        "quote": "ประมาณการการจ่ายประโยชน์ตอบแทนและเงินลดทุนต่อหน่วย (บาท) | 0.824/ |  | 0.695/"
+      }
+    },
+    {
+      "topic": "Leasehold tenure",
+      "observation": "BFTZ4 is a 30-year lease with a 30-year renewal option (up to 250mn payable in year 30); the post-raise WALE of 28.1 years counts the full 60 years. In the existing portfolio, BFTZ1 sub-leases (66.8% of existing NLA) expire Dec 2038 / Dec 2039.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 371,
+        "section": "สรุปภาพรวมทรัพย์สินหลักของกองทรัสต์ภายหลังการลงทุนเพิ่มเติมครั้งที่ 5",
+        "quote": "สิทธิการเช่าคงเหลือถึงวันที่ 22 ธันวาคม 2582 (ไม่เกิน 13.6 ปี)"
+      }
+    },
+    {
+      "topic": "Building compliance",
+      "observation": "Eight BFTZ4 buildings (37.7% of NLA) are still awaiting inspection certificates (R.1). Four buildings (15.5% of NLA) have structural cracks the seller is repairing at its own cost.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-05-Risks.md",
+        "line": 240,
+        "section": "ความเสี่ยงเกี่ยวกับใบรับรองการตรวจสอบอาคาร",
+        "quote": "จำนวน 8 อาคาร คิดเป็นประมาณร้อยละ 37.7 ของพื้นที่อาคารให้เช่าสุทธิในโครงการบางกอกฟรีเทรดโซน 4"
+      }
+    },
+    {
+      "topic": "Counterparty strength of the seller",
+      "observation": "BFTZ Bangpakong's revenue was 92.5/238.1/265.3mn in FY2023-FY2025, with net losses of 22.6/3.0/72.5mn. At end-2025 it had 5,327.2mn of interest-bearing debt against 389.0mn of equity. Its mortgage backs the renewal promise, and it co-guarantees rent with Prospect Development (FY2025 EBITDA 881.2mn).",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P2-03-Assets.md",
+        "line": 723,
+        "section": "สรุปข้อมูลทางการเงินที่สำคัญ ของบีเอฟทีแซด บางปะกง",
+        "quote": "| กำไรสุทธิ | (22.6) | (3.0) | (72.5) |"
+      }
+    },
+    {
+      "topic": "Filing inconsistencies",
+      "observation": "The Fact Sheet dates the trust's approval to 14 Aug 2021, while the policy section says it was established 14 Aug 2020. FY2024 capital return per unit is 0.0932 in the DPU table vs 0.0202 in key financials. The tranche-1 cap of 360mn units far exceeds the 0.3822 rights ratio × ~644mn units (~246mn). Remaining lease terms for BFTZ1 and BFTZ6 differ between sections.",
+      "source": {
+        "file": "PROSPECT_PO_20260730_P1-FactSheet.md",
+        "line": 19,
+        "section": "Fact Sheet",
+        "quote": "14 สิงหาคม 2564"
+      }
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "_toc.md",
+      "PROSPECT_PO_20260730_00-Cover.md",
+      "PROSPECT_PO_20260730_P1-FactSheet.md",
+      "PROSPECT_PO_20260730_P2-01-UseOfProceeds.md",
+      "PROSPECT_PO_20260730_P2-02-Policy.md",
+      "PROSPECT_PO_20260730_P2-03-Assets.md (selected sections)",
+      "PROSPECT_PO_20260730_P2-05-Risks.md (selected sections)",
+      "PROSPECT_PO_20260818_P3-Offering.md (offering, allocation, underwriters, prices, expenses)"
+    ],
+    "not_found": [
+      {
+        "field": "offering.offering_price_per_unit.min_thb",
+        "reason": "Only a maximum price (10.5 THB) is given; no price range or floor"
+      },
+      {
+        "field": "offering.offering_price_per_unit.final_thb",
+        "reason": "Final price to be announced 17 Sep 2026, after the filing"
+      },
+      {
+        "field": "parties.legal_advisors",
+        "reason": "Not named in the text filings; governance/related-party sections (P2-09, P2-11) are not in this set"
+      },
+      {
+        "field": "parties.lenders",
+        "reason": "Lender described only as 'a domestic commercial bank'"
+      },
+      {
+        "field": "new_assets[BFTZ4].lease_start / lease_expiry",
+        "reason": "Lease runs 30 years from the investment date (expected by 30 Sep 2026); no fixed dates stated"
+      },
+      {
+        "field": "new_assets[BFTZ4].building_area.gross_sqm",
+        "reason": "Only net leasable area disclosed"
+      },
+      {
+        "field": "new_assets[BFTZ4].lease_expiry_profile",
+        "reason": "The remaining-lease-term chart in the Fact Sheet and P2-03 is an image with no figures in the text"
+      },
+      {
+        "field": "new_assets[BFTZ4].wale_years",
+        "reason": "Tenant WALE not disclosed; only land-lease WALE for the trust"
+      },
+      {
+        "field": "new_assets[BFTZ4].appraisals[Sims].discount_rate_pct",
+        "reason": "Cell blank for Sims in the text copy of the assumptions table; full assumptions are only in the PDF appraisal report, which is excluded"
+      },
+      {
+        "field": "new_assets[BFTZ4].appraisals[*].terminal_cap_rate_pct",
+        "reason": "Not disclosed (60-year leasehold DCF without a stated terminal value)"
+      },
+      {
+        "field": "new_assets[BFTZ4].historical_performance asset-level NOI and 1Q2026 revenue",
+        "reason": "Only owner-company (BFTZ Bangpakong) FY2023-FY2025 financials and a revenue chart image are given"
+      },
+      {
+        "field": "new_assets[BFTZ4].key_tenants business / lease expiry / revenue share",
+        "reason": "Business-type and nationality breakdowns are image charts; tenant expiries not disclosed"
+      },
+      {
+        "field": "existing_portfolio.investment_value_thb_mn",
+        "reason": "Fair value of investment properties appears only in the financial statements (PDF attachment)"
+      },
+      {
+        "field": "existing_portfolio.historical_performance FY2025 and 1Q2026 net_investment_income",
+        "reason": "Not stated in the Fact Sheet MD&A text; financial statements are PDF only"
+      },
+      {
+        "field": "capital_structure.units_outstanding_before (exact count)",
+        "reason": "Only '644.0 million units' is given; P2-08 unitholder section is not in the text filings"
+      },
+      {
+        "field": "offering.sponsor_commitment intended take-up amount",
+        "reason": "Not disclosed; only the 35% cap and the >=15% holding undertaking"
+      },
+      {
+        "field": "filing.listing date of the new units",
+        "reason": "Not stated in the text filings"
+      }
+    ],
+    "ambiguities": [
+      {
+        "field": "parties / trust approval date",
+        "detail": "Fact Sheet line 19 gives 14 Aug 2564 (2021) as the trust approval date; P2-02 says the trust was established 14 Aug 2563 (2020)."
+      },
+      {
+        "field": "existing_portfolio.historical_dpu FY2024",
+        "detail": "Capital reduction per unit is 0.0932 in the DPU table (Fact Sheet line 76) but 0.0202 in the key-financials table (line 176)."
+      },
+      {
+        "field": "offering.allocation tranche 1",
+        "detail": "Tranche 1 cap of 360,000,000 units vs rights ratio 0.3822 x ~644.0mn existing units ≈ 246mn units."
+      },
+      {
+        "field": "offering.projected_distribution",
+        "detail": "The projection assumes investment on 1 Jun 2026 but the expected date is by 30 Sep 2026. A separate sensitivity including a 197.4mn debt-repayment reserve gives lower yields. The IRR paragraph contains a typo ('31 พฤษภาคม 2629')."
+      },
+      {
+        "field": "new_assets[BFTZ4].occupancy",
+        "detail": "96.8% (and FY2025 100.0%) uses completed area and includes booking letters; signed-lease basis is 95.1% (FY2025 89.3%), while 30.8% of final NLA had no effective lease at 31 Mar 2026."
+      },
+      {
+        "field": "new_assets[BFTZ4].appraisals",
+        "detail": "In the assumptions table several Sims cells (method, horizon, discount rate, utilities, renewal cost) are blank in the text copy, probably merged cells; the 9.0% discount rate is attributed only to Krung Siam here."
+      },
+      {
+        "field": "existing_portfolio.assets remaining lease terms",
+        "detail": "BFTZ1 remaining term is 13.2/12.3 years (line 23) vs 'not exceeding 13.6/12.6 years' (line 371). BFTZ6 is 26.5 years (line 92) vs about 26.8 (line 383) vs 26.3/27.4 (Risks table). The Risks table also repeats the BFTZ1 rows."
+      },
+      {
+        "field": "existing_portfolio.assets BFTZ6 appraisal",
+        "detail": "Two appraisals of the same deeds dated 1 Sep 2025: Sims 963.0 and Krung Siam 967.9; 963.0 used in the totals."
+      },
+      {
+        "field": "offering underwriting basis",
+        "detail": "Fact Sheet checkbox rendering 'Firm underwrite1/ | ☐ Best effort' is unclear; P3 states the lead underwriters firm-underwrite after signing agreements and co-underwriters/selling agents act on a best-effort basis."
+      }
+    ],
+    "self_checks": [
+      {
+        "check": "Max units x max price = offering size",
+        "result": "pass",
+        "detail": "450,000,000 x 10.5 = 4,725.0mn vs stated 4,725.0mn (0.0%)"
+      },
+      {
+        "check": "Projected DPU / basis price = projected yield",
+        "result": "pass",
+        "detail": "0.6890 / 7.5 = 9.19% vs 9.2%; without guarantee 0.6744 / 7.5 = 8.99% vs 9.0%"
+      },
+      {
+        "check": "Funding sources (maxima) = total investment value + costs",
+        "result": "fail",
+        "detail": "Maximum sources 4,725.0 + 2,000.0 + 50.0 = 6,775.0mn vs 5,040.0 + 253.9 = 5,293.9mn. The sources are alternative maxima used in any combination, so they are not meant to add up; not a filing error"
+      },
+      {
+        "check": "Funding sources (projection case) = total investment value + costs",
+        "result": "pass",
+        "detail": "430.8mn units x 7.5 = 3,231.0 + debt 2,000.0 (+ up to 50.0 cash) = 5,231.0-5,281.0mn vs 5,293.9mn (-1.2% to -0.2%)"
+      },
+      {
+        "check": "Sum of asset prices <= total investment value",
+        "result": "pass",
+        "detail": "BFTZ4 5,040.0mn <= 5,040.0mn"
+      },
+      {
+        "check": "Lease start + tenure = expiry",
+        "result": "n/a",
+        "detail": "Lease start depends on the investment date (by 30 Sep 2026); no start or expiry date stated"
+      },
+      {
+        "check": "Price premium over lowest appraisal",
+        "result": "pass",
+        "detail": "5,040.0 / 4,781.3 - 1 = 5.41% vs stated 5.4% / 5.41%"
+      },
+      {
+        "check": "BFTZ4 NLA by building type sums to total",
+        "result": "pass",
+        "detail": "129,135.0 + 9,900.0 + 43,730.0 + 5,184.0 = 187,949.0 sqm"
+      },
+      {
+        "check": "Land area rai conversion",
+        "result": "pass",
+        "detail": "202-1-43.2 rai = 323,200 + 400 + 172.8 = 323,772.8 sqm vs stated 323,772.9"
+      },
+      {
+        "check": "Total distribution / units = DPU",
+        "result": "pass",
+        "detail": "740.5mn / 1,074.8mn = 0.6890 THB"
+      },
+      {
+        "check": "Units after (projection) = before + new",
+        "result": "pass",
+        "detail": "644.0 + 430.8 = 1,074.8mn"
+      },
+      {
+        "check": "LTV before = borrowings / total assets",
+        "result": "pass",
+        "detail": "3,824.9 / 10,064.5 = 38.0%"
+      },
+      {
+        "check": "Guarantee exposure on vacant area",
+        "result": "pass",
+        "detail": "57,927 sqm x 170 x 12 = 118.2mn/yr; 187,949 x 170 x 12 = 383.4mn/yr"
+      },
+      {
+        "check": "Existing NLA by project sums to total",
+        "result": "pass",
+        "detail": "377,431 + 33,477 + 100,015 + 3,087 + 50,748 = 564,758 sqm"
+      },
+      {
+        "check": "Existing FY2023 revenue components = total revenue",
+        "result": "pass",
+        "detail": "508.7 + 26.5 + 32.4 = 567.6mn; FY2025 842.3 + 35.0 = 877.3mn"
+      },
+      {
+        "check": "Largest holder implies unit count",
+        "result": "pass",
+        "detail": "118,977,246 / 18.5% ≈ 643.1mn vs 644.0mn"
+      }
+    ]
+  }
+}

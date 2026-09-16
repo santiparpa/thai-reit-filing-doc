@@ -1,0 +1,2428 @@
+{
+  "generated_at": "2026-09-15T19:13:13",
+  "as_of": "2026-09-15",
+  "status_fetched_at": "2026-09-15T19:10:56",
+  "order": [
+    "QHHRREIT_PO_713446",
+    "MII_PO_732645",
+    "PROSPECT_PO_736840",
+    "DTPBB2_IPO_750921",
+    "ALLY_PO_751283",
+    "WHART_PO_767525",
+    "WHAIR_PO_777345",
+    "LHHOTEL_PO_789906",
+    "ALPHART_IPO_810000"
+  ],
+  "filings": {
+    "QHHRREIT_PO_713446": {
+      "filing_id": "QHHRREIT_PO_713446",
+      "ticker": "QHHRREIT",
+      "offering_type": "PO",
+      "name_en": "Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust",
+      "name_th": "Quality Houses Hotel and Residence Freehold and Leasehold REIT",
+      "sector": "Hospitality",
+      "sub_sectors": [
+        "Hotel",
+        "Serviced apartment"
+      ],
+      "sponsors": [
+        "Quality Houses Public Company Limited (QH)"
+      ],
+      "reit_manager": [
+        "Land and Houses Fund Management Company Limited"
+      ],
+      "trustee": [
+        "SCB Asset Management Company Limited (SCBAM)"
+      ],
+      "property_managers": [
+        "Q.H. International Company Limited (QHI)"
+      ],
+      "financial_advisors": [
+        "Siam Commercial Bank Public Company Limited (SCB)",
+        "J Capital Advisory Company Limited"
+      ],
+      "underwriters": [
+        "Siam Commercial Bank Public Company Limited (SCB)"
+      ],
+      "appraisers": [
+        "15 Business Advisory Company Limited",
+        "Asian Engineering Valuation Company Limited",
+        "KTAC Appraisal and Service Company Limited"
+      ],
+      "sellers": [
+        "Crown Property Bureau (CPB)"
+      ],
+      "seller_related_to_sponsor": false,
+      "investor_eligibility": "Tranche 1: existing unitholders pro rata (preferential public offering, ratio 1 existing unit : 0.1642 new unit), excluding holders whose participation would trigger foreign-law obligations; up to 55,171,200 units. Tranche 2: remaining units to private placement (incl. institutional investors that are not existing holders) and/or the general public; retail/public tranche may not be offered",
+      "data_as_of": "2025-09-30",
+      "latest_document_date": "2026-01-28",
+      "sec_status": {
+        "trans_id": "713446",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=713446&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า ควอลิตี้ เฮ้าส์ โฮเทล แอนด์ เรซิเดนซ์ / บริษัท หลักทรัพย์จัดการกองทุนแลนด์ แอนด์ เฮ้าส์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2025-09-08",
+        "first_filed_th": "08/09/2568",
+        "last_amended": "2026-01-15",
+        "last_amended_th": "15/01/2569",
+        "effective": "2026-01-30",
+        "effective_th": "30/01/2569",
+        "offer_start": "2026-02-23",
+        "offer_start_th": "23/02/2569",
+        "offer_end": "2026-03-05",
+        "offer_end_th": "05/03/2569",
+        "remark": "",
+        "stage": "closed",
+        "stage_label": "Offering closed"
+      },
+      "metrics": {
+        "units_offered_max": 69000000,
+        "price_min_thb": null,
+        "price_max_thb": 6.7,
+        "price_final_thb": null,
+        "par_thb": 11.9801,
+        "offering_size_thb_mn": 462.3,
+        "total_investment_thb_mn": 1233.5,
+        "new_debt_thb_mn": 1000,
+        "funding_thb_mn": {
+          "new_units": 462.3,
+          "debt": 1000.0
+        },
+        "transaction_costs_thb_mn": 53.9,
+        "projected_dpu_thb": 0.73,
+        "projected_yield_pct": 10.8,
+        "yield_basis_price_thb": 6.7,
+        "projection_period": "12 months 1 Jun 2026 - 31 May 2027 (FY2027P basis, June-May)",
+        "ltv_before_pct": 22.01,
+        "ltv_after_pct": 29.43,
+        "ltv_limit_pct": 35,
+        "units_before": 336000000,
+        "units_after_max": 405000000,
+        "nav_per_unit_thb": 13.9454,
+        "new_equity_thb_mn": 462.3,
+        "equity_share_pct": 31.6,
+        "new_units_vs_existing_pct": 20.5,
+        "new_assets": [
+          {
+            "asset_id": "CP_CHIDLOM_LEASE_2026_2056",
+            "name": "Centre Point Chidlom (new 30-year building lease, 2026-2056)",
+            "asset_type": "Hotel / serviced apartment",
+            "province": "Bangkok",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 1233.5,
+            "appraisal_low_thb_mn": 1314.1,
+            "appraisal_high_thb_mn": 1324.0,
+            "appraisers": [
+              "15 Business Advisory Company Limited",
+              "Asian Engineering Valuation Company Limited"
+            ],
+            "price_vs_low_appraisal_pct": -6.13,
+            "appraisal_spread_pct": 0.75,
+            "lease_expiry": "2056-05-31",
+            "remaining_tenure_years": 29.7,
+            "occupancy_pct": 90.0,
+            "occupancy_as_of": "FY2024",
+            "leasable_sqm": null,
+            "rooms": 178,
+            "wale_years": 8.58
+          }
+        ],
+        "new_asset_count": 1,
+        "acquisition_total_thb_mn": 1233.5,
+        "appraisal_low_total_thb_mn": 1314.1,
+        "appraisal_high_total_thb_mn": 1324.0,
+        "price_vs_low_appraisal_pct": -6.13,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": null,
+        "tenure_mix": {
+          "leasehold": 1
+        },
+        "shortest_tenure_asset": "CP_CHIDLOM_LEASE_2026_2056",
+        "existing": {
+          "as_of": "2025-09-30",
+          "asset_count": 4,
+          "total_assets_thb_mn": 6116.765,
+          "investment_value_thb_mn": 5855.264,
+          "nav_thb_mn": 4685.682,
+          "nav_per_unit_thb": 13.9454,
+          "market_price_thb": 6.25,
+          "market_price_as_of": "2025-09-30",
+          "price_to_nav": 0.45,
+          "latest_appraisal_total_thb_mn": 5876.45,
+          "trailing_dpu_period": null,
+          "trailing_dpu_thb": null,
+          "trailing_yield_at_market_pct": null,
+          "max_offer_vs_market_pct": 7.2,
+          "deal_vs_total_assets_pct": 20.2
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "pass",
+          "detail": "69,000,000 units × THB 6.70 = THB 462m vs stated THB 462m (+0.0%)"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.7300 ÷ THB 6.70 = 10.90% vs stated 10.80%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "pass",
+          "detail": "sources THB 1.46bn vs investment THB 1.23bn (maximums; the difference funds costs or is unused capacity)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 1.23bn vs total THB 1.23bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "Centre Point Chidlom (new 30-year building lease, 2026-2056): -6.1% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "1 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "29.4% vs limit 35%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "pass",
+          "detail": "1 leasehold component(s) consistent"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 4 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "pro forma unit count = 336 mn + 69 mn offered: P2-03 pro forma uses 395 mn units (336 + 58.9 at THB 6.60) vs 405 mn at the offered maximum of 69 mn units."
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        },
+        {
+          "id": "draft_figures",
+          "label": "Figures still ambiguous / draft placeholders",
+          "result": "warn",
+          "detail": "3 value(s) marked ambiguous"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 58,
+          "derived": 4,
+          "not_found": 2,
+          "ambiguous": 3,
+          "not_applicable": 1
+        },
+        "found_pct": 92.5,
+        "not_found_fields": 14
+      }
+    },
+    "MII_PO_732645": {
+      "filing_id": "MII_PO_732645",
+      "ticker": "MII",
+      "offering_type": "PO",
+      "name_en": "MFC Industrial Investment Freehold and Leasehold Real Estate Investment Trust",
+      "name_th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์",
+      "sector": "Industrial & Logistics",
+      "sub_sectors": [
+        "Factory",
+        "Warehouse",
+        "Commercial-office"
+      ],
+      "sponsors": [
+        "JCK International Public Company Limited"
+      ],
+      "reit_manager": [
+        "MFC Asset Management Public Company Limited"
+      ],
+      "trustee": [
+        "Land and Houses Fund Management Company Limited"
+      ],
+      "property_managers": [
+        "JCK International Public Company Limited"
+      ],
+      "financial_advisors": [
+        "Baker Tilly Corporate Advisory Services (Thailand) Limited"
+      ],
+      "underwriters": [
+        "MFC Asset Management Public Company Limited"
+      ],
+      "appraisers": [
+        "Knight Frank Chartered (Thailand) Company Limited",
+        "The Valuation & Consultants Company Limited",
+        "Salmann (Far East) Company Limited"
+      ],
+      "sellers": [
+        "JCK Utilities Company Limited (formerly Total Industrial Services Company Limited)"
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "(1) Existing unitholders pro rata at 1 existing : 0.3924 new units, up to 68,220,000 units, excluding holders whose participation would impose foreign-law obligations (preliminary list: American, Chinese, French, Japanese, South Korean, Nepalese and Singaporean nationals); (2) JCK International and/or its concert group, not exceeding 7% of new units including its tranche-1 allocation; (3) remaining units to private placement and/or the general public. Best-effort distribution.",
+      "data_as_of": "2026-06-30",
+      "latest_document_date": "2026-08-18",
+      "sec_status": {
+        "trans_id": "732645",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=732645&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์ / บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2025-12-18",
+        "first_filed_th": "18/12/2568",
+        "last_amended": "2026-04-10",
+        "last_amended_th": "10/04/2569",
+        "effective": "2026-08-20",
+        "effective_th": "20/08/2569",
+        "offer_start": "2026-09-14",
+        "offer_start_th": "14/09/2569",
+        "offer_end": "2026-09-23",
+        "offer_end_th": "23/09/2569",
+        "remark": "",
+        "stage": "offering",
+        "stage_label": "Offering in progress"
+      },
+      "metrics": {
+        "units_offered_max": 75800000,
+        "price_min_thb": null,
+        "price_max_thb": 6.0,
+        "price_final_thb": null,
+        "par_thb": 9.4309,
+        "offering_size_thb_mn": 455.0,
+        "total_investment_thb_mn": 1455.0,
+        "new_debt_thb_mn": 1000.0,
+        "funding_thb_mn": {
+          "new_units": 455.0,
+          "debt": 1000.0
+        },
+        "transaction_costs_thb_mn": 41.0,
+        "projected_dpu_thb": 0.7082,
+        "projected_yield_pct": 12.88,
+        "yield_basis_price_thb": 5.5,
+        "projection_period": "12 months 1 Apr 2026 - 31 Mar 2027 (pro forma, investment assumed from 1 Apr 2026)",
+        "ltv_before_pct": 0.0,
+        "ltv_after_pct": 30.0,
+        "ltv_limit_pct": 35.0,
+        "units_before": 172000000,
+        "units_after_max": 247800000,
+        "nav_per_unit_thb": 9.7747,
+        "new_equity_thb_mn": 455.0,
+        "equity_share_pct": 31.3,
+        "new_units_vs_existing_pct": 44.1,
+        "new_assets": [
+          {
+            "asset_id": "GP1",
+            "name": "Green Park 1",
+            "asset_type": "Factory / warehouse with office",
+            "province": "Chachoengsao",
+            "investment_type": "Freehold",
+            "tenure": "freehold",
+            "price_thb_mn": 1455.0,
+            "appraisal_low_thb_mn": 1567.3,
+            "appraisal_high_thb_mn": 1617.0,
+            "appraisers": [
+              "Knight Frank Chartered (Thailand) Co., Ltd.",
+              "The Valuation & Consultants Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": -7.17,
+            "appraisal_spread_pct": 3.17,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 93.2,
+            "occupancy_as_of": "2026-06-30",
+            "leasable_sqm": 60611.7,
+            "rooms": null,
+            "wale_years": null
+          }
+        ],
+        "new_asset_count": 1,
+        "acquisition_total_thb_mn": 1455.0,
+        "appraisal_low_total_thb_mn": 1567.3,
+        "appraisal_high_total_thb_mn": 1617.0,
+        "price_vs_low_appraisal_pct": -7.17,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": 60611.7,
+        "tenure_mix": {
+          "freehold": 1
+        },
+        "shortest_tenure_asset": null,
+        "existing": {
+          "as_of": "2026-06-30",
+          "asset_count": 4,
+          "total_assets_thb_mn": 1891.6,
+          "investment_value_thb_mn": 1734.68,
+          "nav_thb_mn": 1681.25,
+          "nav_per_unit_thb": 9.7747,
+          "market_price_thb": 5.95,
+          "market_price_as_of": "2026-06-30",
+          "price_to_nav": 0.61,
+          "latest_appraisal_total_thb_mn": 1598.8,
+          "trailing_dpu_period": "FY2025",
+          "trailing_dpu_thb": 0.6391,
+          "trailing_yield_at_market_pct": 10.74,
+          "max_offer_vs_market_pct": 0.8,
+          "deal_vs_total_assets_pct": 76.9
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "pass",
+          "detail": "75,800,000 units × THB 6.00 = THB 455m vs stated THB 455m (-0.0%)"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.7082 ÷ THB 5.50 = 12.88% vs stated 12.88%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "pass",
+          "detail": "sources THB 1.46bn vs investment THB 1.46bn (maximums; the difference funds costs or is unused capacity)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 1.46bn vs total THB 1.46bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "Green Park 1: -7.2% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "1 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "30.0% vs limit 35%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "n/a",
+          "detail": "no dated leasehold components"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 4 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "Projection unit basis consistent with cover maximum: Projection uses 88M new units (172M + 88M = 260M, matching the table) at THB 5.50 = THB 484M, above the cover cap of 75.8M units / THB 455M. Filing figures left unchanged.; Projection funding covers the acquisition price: 88M x 5.50 = 484 + 900 debt = THB 1,384M < THB 1,455M max price (difference may reflect a different assumed price; not explained)."
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        },
+        {
+          "id": "draft_figures",
+          "label": "Figures still ambiguous / draft placeholders",
+          "result": "warn",
+          "detail": "4 value(s) marked ambiguous"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 53,
+          "ambiguous": 4,
+          "not_found": 5,
+          "derived": 2,
+          "not_applicable": 4
+        },
+        "found_pct": 85.9,
+        "not_found_fields": 15
+      }
+    },
+    "PROSPECT_PO_736840": {
+      "filing_id": "PROSPECT_PO_736840",
+      "ticker": "PROSPECT",
+      "offering_type": "PO",
+      "name_en": "Prospect Logistics and Industrial Freehold and Leasehold Real Estate Investment Trust",
+      "name_th": "Prospect Logistics and Industrial Freehold and Leasehold REIT (Thai name)",
+      "sector": "Industrial & Logistics",
+      "sub_sectors": [
+        "Warehouse",
+        "Factory",
+        "Mini-factory",
+        "Built-to-suit",
+        "Free zone"
+      ],
+      "sponsors": [
+        "Prospect Development Co., Ltd.",
+        "Sansiri Public Company Limited",
+        "Mankhong Kehakarn Public Company Limited",
+        "FNS Holdings Public Company Limited"
+      ],
+      "reit_manager": [
+        "Prospect REIT Management Co., Ltd."
+      ],
+      "trustee": [
+        "SCB Asset Management Co., Ltd."
+      ],
+      "property_managers": [
+        "Prospect Development Co., Ltd.",
+        "BFTZ Bangpakong Co., Ltd."
+      ],
+      "financial_advisors": [
+        "Krungthai XSpring Securities Co., Ltd."
+      ],
+      "underwriters": [
+        "Krungthai XSpring Securities Co., Ltd.",
+        "Siam Commercial Bank Public Company Limited",
+        "DAOL Securities (Thailand) Public Company Limited",
+        "TISCO Securities Co., Ltd.",
+        "Beyond Securities Public Company Limited",
+        "Finansia Syrus Securities Public Company Limited",
+        "Maybank Securities (Thailand) Public Company Limited",
+        "Yuanta Securities (Thailand) Co., Ltd.",
+        "InnovestX Securities Co., Ltd.",
+        "Asia Plus Securities Co., Ltd.",
+        "Kasikorn Securities Public Company Limited"
+      ],
+      "appraisers": [
+        "Krung Siam Appraisal Co., Ltd.",
+        "Sims Property Consultant Co., Ltd.",
+        "Grand Asset Advisory Co., Ltd.",
+        "Asian Engineering Valuation Co., Ltd."
+      ],
+      "sellers": [
+        "BFTZ Bangpakong Co., Ltd.",
+        "Bangpakong Management Services Co., Ltd."
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "Tranche 1: existing unitholders pro rata (1 existing : 0.3822 new; up to 360,000,000 units; excluding holders that would trigger foreign-law obligations). Tranche 2: Mankhong Kehakarn / Prospect Development / their group / Sansiri, capped at 35% of new units including their tranche-1 entitlement. Tranche 3: remainder to private placement and/or general public (institutional bookbuilding investors and persons at underwriters' discretion).",
+      "data_as_of": "2026-03-31",
+      "latest_document_date": "2026-08-18",
+      "sec_status": {
+        "trans_id": "736840",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=736840&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ พรอสเพค โลจิสติกส์และอินดัสเทรียล / บริษัท พรอสเพค รีท แมเนจเมนท์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2026-01-14",
+        "first_filed_th": "14/01/2569",
+        "last_amended": "2026-05-15",
+        "last_amended_th": "15/05/2569",
+        "effective": "2026-07-31",
+        "effective_th": "31/07/2569",
+        "offer_start": "2026-09-09",
+        "offer_start_th": "09/09/2569",
+        "offer_end": "2026-09-23",
+        "offer_end_th": "23/09/2569",
+        "remark": "",
+        "stage": "offering",
+        "stage_label": "Offering in progress"
+      },
+      "metrics": {
+        "units_offered_max": 450000000,
+        "price_min_thb": null,
+        "price_max_thb": 10.5,
+        "price_final_thb": null,
+        "par_thb": 9.3765,
+        "offering_size_thb_mn": 4725.0,
+        "total_investment_thb_mn": 5040.0,
+        "new_debt_thb_mn": 2000.0,
+        "funding_thb_mn": {
+          "new_units": 4725.0,
+          "debt": 2000.0,
+          "internal_cash": 50.0
+        },
+        "transaction_costs_thb_mn": 253.9,
+        "projected_dpu_thb": 0.689,
+        "projected_yield_pct": 9.2,
+        "yield_basis_price_thb": 7.5,
+        "projection_period": "12 months, 1 Jun 2026 - 31 May 2027 (assumes BFTZ4 acquired on 1 Jun 2026; expected investment date later moved to by 30 Sep 2026)",
+        "ltv_before_pct": 38.0,
+        "ltv_after_pct": 38.7,
+        "ltv_limit_pct": 60.0,
+        "units_before": 644000000,
+        "units_after_max": 1094000000,
+        "nav_per_unit_thb": 8.638,
+        "new_equity_thb_mn": 4725.0,
+        "equity_share_pct": 70.3,
+        "new_units_vs_existing_pct": 69.9,
+        "new_assets": [
+          {
+            "asset_id": "BFTZ4",
+            "name": "Bangkok Free Trade Zone 4",
+            "asset_type": "Warehouse and factory (ready-built warehouses, factories, mini-factories, built-to-suit; free zone and general zone)",
+            "province": "Chachoengsao",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 5040.0,
+            "appraisal_low_thb_mn": 4781.3,
+            "appraisal_high_thb_mn": 4852.0,
+            "appraisers": [
+              "Krung Siam Appraisal Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 5.41,
+            "appraisal_spread_pct": 1.48,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "FY2025",
+            "leasable_sqm": 187949.0,
+            "rooms": null,
+            "wale_years": null
+          }
+        ],
+        "new_asset_count": 1,
+        "acquisition_total_thb_mn": 5040.0,
+        "appraisal_low_total_thb_mn": 4781.3,
+        "appraisal_high_total_thb_mn": 4852.0,
+        "price_vs_low_appraisal_pct": 5.41,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": 187949.0,
+        "tenure_mix": {
+          "leasehold": 1
+        },
+        "shortest_tenure_asset": null,
+        "existing": {
+          "as_of": "2026-03-31",
+          "asset_count": 5,
+          "total_assets_thb_mn": 10064.5,
+          "investment_value_thb_mn": null,
+          "nav_thb_mn": 5563.0,
+          "nav_per_unit_thb": 8.638,
+          "market_price_thb": 7.0,
+          "market_price_as_of": "2026-03-31",
+          "price_to_nav": 0.81,
+          "latest_appraisal_total_thb_mn": 9416.8,
+          "trailing_dpu_period": "FY2025",
+          "trailing_dpu_thb": 0.828,
+          "trailing_yield_at_market_pct": 11.83,
+          "max_offer_vs_market_pct": 50.0,
+          "deal_vs_total_assets_pct": 50.1
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "pass",
+          "detail": "450,000,000 units × THB 10.50 = THB 4.72bn vs stated THB 4.72bn (+0.0%)"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.6890 ÷ THB 7.50 = 9.19% vs stated 9.20%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "pass",
+          "detail": "sources THB 6.78bn vs investment THB 5.04bn (maximums; the difference funds costs or is unused capacity)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 5.04bn vs total THB 5.04bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "warn",
+          "detail": "Bangkok Free Trade Zone 4: +5.4% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "1 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "38.7% vs limit 60%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "n/a",
+          "detail": "no dated leasehold components"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 5 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "Funding sources (maxima) = total investment value + costs: Maximum sources 4,725.0 + 2,000.0 + 50.0 = 6,775.0mn vs 5,040.0 + 253.9 = 5,293.9mn. The sources are alternative maxima used in any combination, so they are not meant to add up; not a filing error"
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 56,
+          "not_found": 7,
+          "derived": 5,
+          "not_applicable": 1
+        },
+        "found_pct": 89.7,
+        "not_found_fields": 17
+      }
+    },
+    "DTPBB2_IPO_750921": {
+      "filing_id": "DTPBB2_IPO_750921",
+      "ticker": "DTPBB2",
+      "offering_type": "IPO",
+      "name_en": "DTP Office Real Estate Investment Trust with Buy-Back Condition",
+      "name_th": "ทรัสต์เพื่อการลงทุนในกรรมสิทธิ์อสังหาริมทรัพย์ ดีทีพี ออฟฟิศ ที่มีข้อตกลงในการซื้อคืน",
+      "sector": "Office",
+      "sub_sectors": [
+        "Office",
+        "Co-working space"
+      ],
+      "sponsors": [
+        "DTGO Corporation Limited"
+      ],
+      "reit_manager": [
+        "DTP Global REITs Management Limited"
+      ],
+      "trustee": [
+        "Krungthai Asset Management Public Company Limited"
+      ],
+      "property_managers": [],
+      "financial_advisors": [
+        "Discover Management Company Limited"
+      ],
+      "underwriters": [
+        "Yuanta Securities (Thailand) Company Limited",
+        "DAOL Securities (Thailand) Public Company Limited",
+        "Beyond Securities Public Company Limited",
+        "Maybank Securities (Thailand) Public Company Limited",
+        "UOB Kay Hian Securities (Thailand) Public Company Limited"
+      ],
+      "appraisers": [
+        "Prefer Appraisal Company Limited (PFA)",
+        "Grand Asset Advisory Company Limited (GAA)"
+      ],
+      "sellers": [
+        "MQDC Town Royal Asset Company Limited (MTRA)"
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "Institutional investors and/or ultra-high-net-worth (UHNW) investors only. Units may only be transferred within those two groups, except by inheritance. Minimum subscription is 1,000 units (THB 10,000) for institutional investors and 10,000 units (THB 100,000) for UHNW investors. The original-owner group (MTRA, the REIT manager and their related persons) may voluntarily subscribe for up to 50% of units sold. Foreign holdings are capped at 49%.",
+      "data_as_of": "2026-03-31",
+      "latest_document_date": "2026-05-18",
+      "sec_status": {
+        "trans_id": "750921",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=750921&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในกรรมสิทธิ์อสังหาริมทรัพย์ ดีทีพี ออฟฟิศ ที่มีข้อตกลงในการซื้อคืน / บริษัท ดีทีพี โกลบอล รีทส์ แมเนจเม้นท์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "IPO",
+        "first_filed": "2026-02-25",
+        "first_filed_th": "25/02/2569",
+        "last_amended": "2026-05-14",
+        "last_amended_th": "14/05/2569",
+        "effective": null,
+        "effective_th": "",
+        "offer_start": null,
+        "offer_start_th": "",
+        "offer_end": null,
+        "offer_end_th": "",
+        "remark": "",
+        "stage": "amended",
+        "stage_label": "Under SEC review (amended)"
+      },
+      "metrics": {
+        "units_offered_max": 220000000,
+        "price_min_thb": 10,
+        "price_max_thb": 10,
+        "price_final_thb": null,
+        "par_thb": 10,
+        "offering_size_thb_mn": 2200,
+        "total_investment_thb_mn": 2200,
+        "new_debt_thb_mn": 500,
+        "funding_thb_mn": {
+          "new_units": 2200.0,
+          "debt": 500.0
+        },
+        "transaction_costs_thb_mn": null,
+        "projected_dpu_thb": 0.7,
+        "projected_yield_pct": 7.0,
+        "yield_basis_price_thb": 10,
+        "projection_period": "12 months, 1 Apr 2026 - 31 Mar 2027",
+        "ltv_before_pct": null,
+        "ltv_after_pct": 22.73,
+        "ltv_limit_pct": 35,
+        "units_before": null,
+        "units_after_max": 220000000,
+        "nav_per_unit_thb": null,
+        "new_equity_thb_mn": 2200.0,
+        "equity_share_pct": 81.5,
+        "new_assets": [
+          {
+            "asset_id": "DTGO_CAMPUS",
+            "name": "DTGO Campus",
+            "asset_type": "Office building (co-working office campus)",
+            "province": "Samut Prakan",
+            "investment_type": "Freehold",
+            "tenure": "freehold",
+            "price_thb_mn": 2200,
+            "appraisal_low_thb_mn": 2224,
+            "appraisal_high_thb_mn": 2245,
+            "appraisers": [
+              "Prefer Appraisal Co., Ltd. (PFA)",
+              "Grand Asset Advisory Co., Ltd. (GAA)"
+            ],
+            "price_vs_low_appraisal_pct": -1.08,
+            "appraisal_spread_pct": 0.94,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 56.93,
+            "occupancy_as_of": "2025-12-31",
+            "leasable_sqm": null,
+            "rooms": null,
+            "wale_years": 3.0
+          }
+        ],
+        "new_asset_count": 1,
+        "acquisition_total_thb_mn": 2200,
+        "appraisal_low_total_thb_mn": 2224,
+        "appraisal_high_total_thb_mn": 2245,
+        "price_vs_low_appraisal_pct": -1.08,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": null,
+        "tenure_mix": {
+          "freehold": 1
+        },
+        "shortest_tenure_asset": null
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "pass",
+          "detail": "220,000,000 units × THB 10.00 = THB 2.20bn vs stated THB 2.20bn (+0.0%)"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.7000 ÷ THB 10.00 = 7.00% vs stated 7.00%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "pass",
+          "detail": "sources THB 2.70bn vs investment THB 2.20bn (maximums; the difference funds costs or is unused capacity)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 2.20bn vs total THB 2.20bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "DTGO Campus: -1.1% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "1 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "22.7% vs limit 35%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "n/a",
+          "detail": "no dated leasehold components"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "IPO with 0 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "Funding sources (maximum caps) = total investment value (+ costs): Equity cap 2,200 + debt cap 500 = 2,700 vs investment cap 2,200 (+22.7%). The caps are alternatives, not additive; offering costs are borne by MTRA.; Fact Sheet balance sheet caps: assets = equity + liabilities: Assets up to [2,200] vs equity up to [2,200] plus debt up to [500]; liabilities '[]'. The caps do not reconcile."
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: IPO"
+        },
+        {
+          "id": "draft_figures",
+          "label": "Figures still ambiguous / draft placeholders",
+          "result": "warn",
+          "detail": "11 value(s) marked ambiguous"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 29,
+          "not_applicable": 13,
+          "ambiguous": 11,
+          "not_found": 4,
+          "derived": 2
+        },
+        "found_pct": 67.4,
+        "not_found_fields": 13
+      }
+    },
+    "ALLY_PO_751283": {
+      "filing_id": "ALLY_PO_751283",
+      "ticker": "ALLY",
+      "offering_type": "PO",
+      "name_en": "ALLY Freehold and Leasehold Real Estate Investment Trust",
+      "name_th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ อัลไล",
+      "sector": "Retail",
+      "sub_sectors": [
+        "Community mall",
+        "Office / commercial building"
+      ],
+      "sponsors": [
+        "KE Group (KE Benjakij Co., Ltd., KE KFS Co., Ltd. and Mr. Kaweepan Iamsakulrat)"
+      ],
+      "reit_manager": [
+        "ALLY REIT Management Company Limited (ARM)"
+      ],
+      "trustee": [
+        "SCB Asset Management Company Limited (SCBAM)"
+      ],
+      "property_managers": [
+        "ALLY REIT Management Company Limited (ARM)",
+        "Ally CPM Company Limited (ACPM)",
+        "BSK Management Company Limited (BSK)"
+      ],
+      "financial_advisors": [
+        "Bangkok Bank Public Company Limited"
+      ],
+      "underwriters": [
+        "Bangkok Bank Public Company Limited",
+        "Asia Plus Securities Company Limited",
+        "DAOL Securities (Thailand) Public Company Limited",
+        "Maybank Securities (Thailand) Public Company Limited",
+        "TISCO Securities Company Limited",
+        "Yuanta Securities (Thailand) Company Limited"
+      ],
+      "appraisers": [
+        "Advance Appraisal Company Limited (AA)",
+        "KTAC Appraisal and Service Company Limited (KTAC)",
+        "Quality Appraisal Company Limited (QA)",
+        "Edmund Tie & Company (Thailand) Co., Ltd. (ETC)"
+      ],
+      "sellers": [
+        "Fah Bandan Sap Company Limited",
+        "Thanarom Company Limited",
+        "Excelsus Group Company Limited"
+      ],
+      "seller_related_to_sponsor": false,
+      "investor_eligibility": "Tranche 1: existing unitholders on the 15 Sep 2026 record date, pro rata (preferential public offering), excluding holders whose participation would impose foreign-law obligations (19 listed nationalities); may oversubscribe. Tranche 2: remainder to private placement and/or the general public (institutional investors with/without bookbuilding, underwriter-discretion investors).",
+      "data_as_of": "2026-06-30",
+      "latest_document_date": "2026-09-01",
+      "sec_status": {
+        "trans_id": "751283",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=751283&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ และสิทธิการเช่าอสังหาริมทรัพย์ อัลไล / บริษัท อัลไล รีท แมนเนจเมนท์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2026-03-11",
+        "first_filed_th": "11/03/2569",
+        "last_amended": "2026-08-14",
+        "last_amended_th": "14/08/2569",
+        "effective": "2026-09-07",
+        "effective_th": "07/09/2569",
+        "offer_start": "2026-09-28",
+        "offer_start_th": "28/09/2569",
+        "offer_end": "2026-10-06",
+        "offer_end_th": "06/10/2569",
+        "remark": "",
+        "stage": "effective",
+        "stage_label": "Filing effective"
+      },
+      "metrics": {
+        "units_offered_max": 151500000,
+        "price_min_thb": null,
+        "price_max_thb": 5.0,
+        "price_final_thb": null,
+        "par_thb": 9.7996,
+        "offering_size_thb_mn": 757.5,
+        "total_investment_thb_mn": 1495.8,
+        "new_debt_thb_mn": 1212.0,
+        "funding_thb_mn": {
+          "new_units": 757.5,
+          "debt": 1212.0,
+          "internal_cash": 20.0
+        },
+        "transaction_costs_thb_mn": 39.2,
+        "projected_dpu_thb": 0.48,
+        "projected_yield_pct": 9.6,
+        "yield_basis_price_thb": 5.0,
+        "projection_period": "12 months, 1 Jul 2026 - 30 Jun 2027 (FY2027P, June year-end projection)",
+        "ltv_before_pct": 25,
+        "ltv_after_pct": 27.9,
+        "ltv_limit_pct": 60,
+        "units_before": 874100000,
+        "units_after_max": 1025600000,
+        "nav_per_unit_thb": 10.0582,
+        "new_equity_thb_mn": 757.5,
+        "equity_share_pct": 38.5,
+        "new_units_vs_existing_pct": 17.3,
+        "new_assets": [
+          {
+            "asset_id": "TZ",
+            "name": "The Zone Town in Town",
+            "asset_type": "Community mall (multi-unit commercial buildings)",
+            "province": "Bangkok",
+            "investment_type": "Sub-leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 224.8,
+            "appraisal_low_thb_mn": 314.7,
+            "appraisal_high_thb_mn": 343.17,
+            "appraisers": [
+              "Advance Appraisal Co., Ltd. (AA)",
+              "KTAC Appraisal and Service Co., Ltd. (KTAC)"
+            ],
+            "price_vs_low_appraisal_pct": -28.57,
+            "appraisal_spread_pct": 9.05,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 94.8,
+            "occupancy_as_of": "FY2025",
+            "leasable_sqm": 9989,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "SMA",
+            "name": "Sai Mai Avenue",
+            "asset_type": "Community mall",
+            "province": "Bangkok",
+            "investment_type": "Sub-leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 471.0,
+            "appraisal_low_thb_mn": 537.6,
+            "appraisal_high_thb_mn": 561.1,
+            "appraisers": [
+              "Advance Appraisal Co., Ltd. (AA)",
+              "KTAC Appraisal and Service Co., Ltd. (KTAC)"
+            ],
+            "price_vs_low_appraisal_pct": -12.39,
+            "appraisal_spread_pct": 4.37,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 99.4,
+            "occupancy_as_of": "FY2025",
+            "leasable_sqm": 10007,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "CHN",
+            "name": "Charn at The Avenue",
+            "asset_type": "Community mall",
+            "province": "Bangkok",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 800.0,
+            "appraisal_low_thb_mn": 864.5,
+            "appraisal_high_thb_mn": 960.34,
+            "appraisers": [
+              "Advance Appraisal Co., Ltd. (AA)",
+              "KTAC Appraisal and Service Co., Ltd. (KTAC)"
+            ],
+            "price_vs_low_appraisal_pct": -7.46,
+            "appraisal_spread_pct": 11.09,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 98.0,
+            "occupancy_as_of": "FY2025",
+            "leasable_sqm": 19747,
+            "rooms": null,
+            "wale_years": null
+          }
+        ],
+        "new_asset_count": 3,
+        "acquisition_total_thb_mn": 1495.8,
+        "appraisal_low_total_thb_mn": 1716.8,
+        "appraisal_high_total_thb_mn": 1864.6,
+        "price_vs_low_appraisal_pct": -12.87,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": 39743,
+        "tenure_mix": {
+          "leasehold": 3
+        },
+        "shortest_tenure_asset": null,
+        "existing": {
+          "as_of": "2026-06-30",
+          "asset_count": 15,
+          "total_assets_thb_mn": 13655.5,
+          "investment_value_thb_mn": 12782.9,
+          "nav_thb_mn": 8791.9,
+          "nav_per_unit_thb": 10.0582,
+          "market_price_thb": 4.8,
+          "market_price_as_of": "2026-06-30",
+          "price_to_nav": 0.48,
+          "latest_appraisal_total_thb_mn": 12123,
+          "trailing_dpu_period": "FY2025",
+          "trailing_dpu_thb": 0.443,
+          "trailing_yield_at_market_pct": 9.23,
+          "max_offer_vs_market_pct": 4.2,
+          "deal_vs_total_assets_pct": 11.0
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "pass",
+          "detail": "151,500,000 units × THB 5.00 = THB 758m vs stated THB 758m (+0.0%)"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.4800 ÷ THB 5.00 = 9.60% vs stated 9.60%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "n/a",
+          "detail": "amount not disclosed for: security_deposits (blank or placeholder in the filing)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 1.50bn vs total THB 1.50bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "The Zone Town in Town: -28.6% vs lower appraisal; Sai Mai Avenue: -12.4% vs lower appraisal; Charn at The Avenue: -7.5% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "warn",
+          "detail": "Charn at The Avenue: 11.1% apart"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "27.9% vs limit 60%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "n/a",
+          "detail": "no dated leasehold components"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 15 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "CHN usufruct: 30 years from investment date vs stated end date: Registration on investment date (about 2026) + 30y = about 2056, but the contract table shows 31 Dec 2048"
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        },
+        {
+          "id": "draft_figures",
+          "label": "Figures still ambiguous / draft placeholders",
+          "result": "warn",
+          "detail": "1 value(s) marked ambiguous"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 82,
+          "not_found": 15,
+          "derived": 3,
+          "not_applicable": 3,
+          "ambiguous": 1
+        },
+        "found_pct": 84.2,
+        "not_found_fields": 18
+      }
+    },
+    "WHART_PO_767525": {
+      "filing_id": "WHART_PO_767525",
+      "ticker": "WHART",
+      "offering_type": "PO",
+      "name_en": "WHA Premium Growth Freehold and Leasehold Real Estate Investment Trust",
+      "name_th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท",
+      "sector": "Industrial & Logistics",
+      "sub_sectors": [
+        "Warehouse",
+        "Distribution center",
+        "Factory"
+      ],
+      "sponsors": [
+        "WHA Corporation Public Company Limited (translation)"
+      ],
+      "reit_manager": [
+        "WHA Real Estate Management Company Limited"
+      ],
+      "trustee": [
+        "Kasikorn Asset Management Co., Ltd. (translation)"
+      ],
+      "property_managers": [
+        "WHA Corporation Public Company Limited (translation)"
+      ],
+      "financial_advisors": [
+        "Kasikornbank Public Company Limited (translation)"
+      ],
+      "underwriters": [
+        "Kasikornbank Public Company Limited (translation)"
+      ],
+      "appraisers": [
+        "Sims Property Consultant Co., Ltd. (SIM, transliteration)",
+        "Salmann (Far East) Co., Ltd. (SMF, transliteration)",
+        "Edmund Tie & Company (Thailand) Co., Ltd. (transliteration)",
+        "Graphic A Appraisal Co., Ltd. (transliteration)",
+        "Krungsiam Appraisal Co., Ltd. (transliteration)",
+        "Asian Engineering Valuation Co., Ltd. (transliteration)",
+        "Bangkok Appraisal Co., Ltd. (translation)"
+      ],
+      "sellers": [
+        "WHA GC Logistics Co., Ltd. (WGCL, translation)"
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "Tranche 1: existing unitholders on the 2026-09-04 record date, pro rata at 1 existing unit : 0.0367 new unit (may over- or under-subscribe), excluding holders of 20 listed foreign nationalities whose participation would trigger foreign-law obligations. Tranche 2: any units left over, offered to private placement (incl. institutions) and/or the public. Public/retail tranche may not be offered at all.",
+      "data_as_of": "2026-03-31",
+      "latest_document_date": "2026-08-27",
+      "sec_status": {
+        "trans_id": "767525",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=767525&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท / บริษัท ดับบลิวเอชเอ เรียล เอสเตท แมเนจเม้นท์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2026-05-18",
+        "first_filed_th": "18/05/2569",
+        "last_amended": "2026-08-18",
+        "last_amended_th": "18/08/2569",
+        "effective": "2026-09-01",
+        "effective_th": "01/09/2569",
+        "offer_start": null,
+        "offer_start_th": "",
+        "offer_end": null,
+        "offer_end_th": "",
+        "remark": "",
+        "stage": "effective",
+        "stage_label": "Filing effective"
+      },
+      "metrics": {
+        "units_offered_max": 127545000,
+        "price_min_thb": null,
+        "price_max_thb": 11.1,
+        "price_final_thb": null,
+        "par_thb": 8.8678,
+        "offering_size_thb_mn": 1415.7495,
+        "total_investment_thb_mn": 2507.6,
+        "new_debt_thb_mn": 2507.6,
+        "funding_thb_mn": {
+          "new_units": 1415.7495,
+          "debt": 2507.6,
+          "security_deposits": 54.0
+        },
+        "transaction_costs_thb_mn": 160.442,
+        "projected_dpu_thb": 0.783,
+        "projected_yield_pct": 7.05,
+        "yield_basis_price_thb": 11.1,
+        "projection_period": "12 months 1 Oct 2026 - 30 Sep 2027 (FY2027P, first year after the 12th investment)",
+        "ltv_before_pct": 28.45,
+        "ltv_after_pct": 33.07,
+        "ltv_limit_pct": 60,
+        "units_before": 3468827441,
+        "units_after_max": 3596372441,
+        "nav_per_unit_thb": 10.5476,
+        "new_equity_thb_mn": 1415.7495,
+        "equity_share_pct": 36.1,
+        "new_units_vs_existing_pct": 3.7,
+        "new_assets": [
+          {
+            "asset_id": "WGCL_IDC",
+            "name": "WGCL International Distribution Center",
+            "asset_type": "Warehouse, factory and office (single building used for petrochemical logistics / plastic-resin packing and storage)",
+            "province": "Rayong",
+            "investment_type": "Freehold",
+            "tenure": "freehold",
+            "price_thb_mn": 2507.6,
+            "appraisal_low_thb_mn": 2507.6,
+            "appraisal_high_thb_mn": 2512.8,
+            "appraisers": [
+              "Sims Property Consultant Co., Ltd. (SIM)",
+              "Salmann (Far East) Co., Ltd. (SMF)"
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 0.21,
+            "lease_expiry": null,
+            "remaining_tenure_years": null,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-10-01",
+            "leasable_sqm": 99390.0,
+            "rooms": null,
+            "wale_years": 30
+          }
+        ],
+        "new_asset_count": 1,
+        "acquisition_total_thb_mn": 2507.6,
+        "appraisal_low_total_thb_mn": 2507.6,
+        "appraisal_high_total_thb_mn": 2512.8,
+        "price_vs_low_appraisal_pct": 0.0,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": 99390.0,
+        "tenure_mix": {
+          "freehold": 1
+        },
+        "shortest_tenure_asset": null,
+        "existing": {
+          "as_of": "2026-03-31",
+          "asset_count": 42,
+          "total_assets_thb_mn": 54287.75,
+          "investment_value_thb_mn": 52529.7,
+          "nav_thb_mn": 36587.95,
+          "nav_per_unit_thb": 10.5476,
+          "market_price_thb": 10.1,
+          "market_price_as_of": "2026-03-31",
+          "price_to_nav": 0.96,
+          "latest_appraisal_total_thb_mn": 52060.76,
+          "trailing_dpu_period": "FY2025",
+          "trailing_dpu_thb": 0.7735,
+          "trailing_yield_at_market_pct": 7.66,
+          "max_offer_vs_market_pct": 9.9,
+          "deal_vs_total_assets_pct": 4.6
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "pass",
+          "detail": "127,545,000 units × THB 11.10 = THB 1.42bn vs stated THB 1.42bn (+0.0%)"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.7830 ÷ THB 11.10 = 7.05% vs stated 7.05%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "n/a",
+          "detail": "amount not disclosed for: internal_cash (blank or placeholder in the filing)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 2.51bn vs total THB 2.51bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "WGCL International Distribution Center: +0.0% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "1 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "33.1% vs limit 60%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "n/a",
+          "detail": "no dated leasehold components"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 42 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "Theparak Km.21 (C,R) leasable area consistent across sections: 31,992 sqm in NewAssets summary row (L234) vs 31,922 sqm in UseOfProceeds (L33; 12,274 + 19,648). Only 31,922 reconciles to the 1,915,361.04 portfolio total, so 31,922 is used; Projection post-deal units = existing units + max new units: 3,468.83 + 127.545 = 3,596.37 mn vs 3,594.39 mn used in projection (Leasing L381); gap 1.98 mn units (0.06%)"
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 57,
+          "not_found": 7,
+          "derived": 2,
+          "not_applicable": 4
+        },
+        "found_pct": 89.4,
+        "not_found_fields": 14
+      }
+    },
+    "WHAIR_PO_777345": {
+      "filing_id": "WHAIR_PO_777345",
+      "ticker": "WHAIR",
+      "offering_type": "PO",
+      "name_en": "WHA Industrial Leasehold Real Estate Investment Trust",
+      "name_th": "WHA Industrial Leasehold Real Estate Investment Trust (Thai name)",
+      "sector": "Industrial & Logistics",
+      "sub_sectors": [
+        "Factory",
+        "Warehouse"
+      ],
+      "sponsors": [
+        "WHA Industrial Development PCL (WHAID)"
+      ],
+      "reit_manager": [
+        "WHA Industrial REIT Management Co., Ltd."
+      ],
+      "trustee": [
+        "SCB Asset Management Co., Ltd. (SCBAM)"
+      ],
+      "property_managers": [
+        "WHA Industrial Development PCL (WHAID)"
+      ],
+      "financial_advisors": [
+        "Kasikornbank PCL"
+      ],
+      "underwriters": [
+        "Kasikornbank PCL"
+      ],
+      "appraisers": [
+        "Asian Engineering Valuation Co., Ltd.",
+        "Sims Property Consultant Co., Ltd."
+      ],
+      "sellers": [
+        "WHA Industrial Development PCL (WHAID)",
+        "WHA Eastern Seaboard Industrial Estate Co., Ltd.",
+        "WHA Rayong 36 Co., Ltd.",
+        "WHA Industrial Building Co., Ltd."
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "Tranche 1: existing unitholders on the record date, pro rata (excluding holders whose nationality would subject the trust to foreign law; 23 nationalities listed preliminarily). Tranche 2: remaining units to private placement (institutional investors / persons at the underwriter's discretion) and/or the general public. The cover also shows a separate subscription window for WHAID and/or its group. Retail/public offering may not take place if institutional demand suffices.",
+      "data_as_of": "2026-03-31",
+      "latest_document_date": "2026-06-21",
+      "sec_status": {
+        "trans_id": "777345",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=777345&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ดับบลิวเอชเอ อินดัสเตรียล / บริษัท ดับบลิวเอชเอ อินดัสเตรียล รีท แมนเนจเม้นท์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2026-06-23",
+        "first_filed_th": "23/06/2569",
+        "last_amended": null,
+        "last_amended_th": "",
+        "effective": null,
+        "effective_th": "",
+        "offer_start": null,
+        "offer_start_th": "",
+        "offer_end": null,
+        "offer_end_th": "",
+        "remark": "",
+        "stage": "review",
+        "stage_label": "Under SEC review"
+      },
+      "metrics": {
+        "units_offered_max": 150000000,
+        "price_min_thb": null,
+        "price_max_thb": null,
+        "price_final_thb": null,
+        "par_thb": 8.8572,
+        "offering_size_thb_mn": null,
+        "total_investment_thb_mn": 1234.6,
+        "new_debt_thb_mn": 350.0,
+        "funding_thb_mn": {
+          "debt": 350.0
+        },
+        "transaction_costs_thb_mn": null,
+        "projected_dpu_thb": 0.577,
+        "projected_yield_pct": 7.71,
+        "yield_basis_price_thb": 7.48,
+        "projection_period": "12 months 1 Jan 2027 - 31 Dec 2027 (FY2027P)",
+        "ltv_before_pct": 34.44,
+        "ltv_after_pct": 33.95,
+        "ltv_limit_pct": 35.0,
+        "units_before": 1058806116,
+        "units_after_max": 1208806116,
+        "nav_per_unit_thb": 8.3034,
+        "new_equity_thb_mn": null,
+        "new_units_vs_existing_pct": 14.2,
+        "new_assets": [
+          {
+            "asset_id": "WHA_CIE1",
+            "name": "WHA Chonburi Industrial Estate 1 (WHA CIE 1) - units Z21 and A8B",
+            "asset_type": "Factory (1 detached unit, 1 attached unit)",
+            "province": "Chonburi",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 122.7,
+            "appraisal_low_thb_mn": 122.7,
+            "appraisal_high_thb_mn": 125.0,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 1.87,
+            "lease_expiry": "2056-12-31",
+            "remaining_tenure_years": 30.3,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-03-31",
+            "leasable_sqm": 4152,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "WHA_ESIE1",
+            "name": "WHA Eastern Seaboard Industrial Estate 1 (WHA ESIE 1) - unit D42B",
+            "asset_type": "Factory (detached)",
+            "province": "Rayong",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 209.1,
+            "appraisal_low_thb_mn": 209.1,
+            "appraisal_high_thb_mn": 213.9,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 2.3,
+            "lease_expiry": "2056-12-31",
+            "remaining_tenure_years": 30.3,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-03-31",
+            "leasable_sqm": 7019,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "WHA_ESIE3",
+            "name": "WHA Eastern Seaboard Industrial Estate 3 (WHA ESIE 3) - unit T32-2",
+            "asset_type": "Factory (detached)",
+            "province": "Chonburi",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 195.7,
+            "appraisal_low_thb_mn": 195.7,
+            "appraisal_high_thb_mn": 199.4,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 1.89,
+            "lease_expiry": "2056-12-31",
+            "remaining_tenure_years": 30.3,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-03-31",
+            "leasable_sqm": 6598,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "WHA_RY36",
+            "name": "WHA Rayong 36 Industrial Estate (WHA Rayong 36) - unit J12",
+            "asset_type": "Factory (detached)",
+            "province": "Rayong",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 139.6,
+            "appraisal_low_thb_mn": 139.6,
+            "appraisal_high_thb_mn": 142.7,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 2.22,
+            "lease_expiry": "2056-12-31",
+            "remaining_tenure_years": 30.3,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-03-31",
+            "leasable_sqm": 4680,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "WHA_LP1",
+            "name": "WHA Logistics Park 1 (WHA LP 1) - factory A2-2 and warehouse B2/B4",
+            "asset_type": "Factory (1 detached unit) and warehouse (2 units)",
+            "province": "Chonburi",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 334.8,
+            "appraisal_low_thb_mn": 334.8,
+            "appraisal_high_thb_mn": 342.5,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 2.3,
+            "lease_expiry": "2056-12-31",
+            "remaining_tenure_years": 30.3,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-03-31",
+            "leasable_sqm": 13668,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "WHA_SIL",
+            "name": "WHA Saraburi Industrial Land (WHA SIL) - units 142/1 and 142/3",
+            "asset_type": "Factory (2 attached units)",
+            "province": "Saraburi",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 232.7,
+            "appraisal_low_thb_mn": 232.7,
+            "appraisal_high_thb_mn": 237.5,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "Sims Property Consultant Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": 0.0,
+            "appraisal_spread_pct": 2.06,
+            "lease_expiry": "2056-12-31",
+            "remaining_tenure_years": 30.3,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-03-31",
+            "leasable_sqm": 9212,
+            "rooms": null,
+            "wale_years": null
+          }
+        ],
+        "new_asset_count": 6,
+        "acquisition_total_thb_mn": 1234.6,
+        "appraisal_low_total_thb_mn": 1234.6,
+        "appraisal_high_total_thb_mn": 1261.0,
+        "price_vs_low_appraisal_pct": 0.0,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": 45329,
+        "tenure_mix": {
+          "leasehold": 6
+        },
+        "shortest_tenure_asset": "WHA_CIE1",
+        "existing": {
+          "as_of": "2026-03-31",
+          "asset_count": 10,
+          "total_assets_thb_mn": 13883.12,
+          "investment_value_thb_mn": 13200.12,
+          "nav_thb_mn": 8791.77,
+          "nav_per_unit_thb": 8.3034,
+          "market_price_thb": 6.9,
+          "market_price_as_of": "2026-03-31",
+          "price_to_nav": 0.83,
+          "latest_appraisal_total_thb_mn": 13222.125,
+          "trailing_dpu_period": "FY2025",
+          "trailing_dpu_thb": 0.573,
+          "trailing_yield_at_market_pct": 8.3,
+          "max_offer_vs_market_pct": null,
+          "deal_vs_total_assets_pct": 8.9
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "n/a",
+          "detail": "units, price or offering size not disclosed"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.5770 ÷ THB 7.48 = 7.71% vs stated 7.71%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "n/a",
+          "detail": "amount not disclosed for: new_units, internal_cash, security_deposits (blank or placeholder in the filing)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 1.23bn vs total THB 1.23bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "WHA Chonburi Industrial Estate 1 (WHA CIE 1) - units Z21 and A8B: +0.0% vs lower appraisal; WHA Eastern Seaboard Industrial Estate 1 (WHA ESIE 1) - unit D42B: +0.0% vs lower appraisal; WHA Eastern Seaboard Industrial Estate 3 (WHA ESIE 3) - unit T32-2: +0.0% vs lower appraisal; WHA Rayong 36 Industrial Estate (WHA Rayong 36) - unit J12: +0.0% vs lower appraisal; WHA Logistics Park 1 (WHA LP 1) - factory A2-2 and warehouse B2/B4: +0.0% vs lower appraisal; WHA Saraburi Industrial Land (WHA SIL) - units 142/1 and 142/3: +0.0% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "6 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "34.0% vs limit 35%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "pass",
+          "detail": "12 leasehold component(s) consistent"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 10 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "pass",
+          "detail": "14 passed or n/a"
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        },
+        {
+          "id": "draft_figures",
+          "label": "Figures still ambiguous / draft placeholders",
+          "result": "warn",
+          "detail": "2 value(s) marked ambiguous"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 110,
+          "not_found": 21,
+          "derived": 16,
+          "not_applicable": 6,
+          "ambiguous": 2
+        },
+        "found_pct": 84.6,
+        "not_found_fields": 16
+      }
+    },
+    "LHHOTEL_PO_789906": {
+      "filing_id": "LHHOTEL_PO_789906",
+      "ticker": "LHHOTEL",
+      "offering_type": "PO",
+      "name_en": "LH Hotel Leasehold Real Estate Investment Trust",
+      "name_th": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล",
+      "sector": "Hospitality",
+      "sub_sectors": [
+        "Hotel"
+      ],
+      "sponsors": [
+        "Land and Houses Public Company Limited (LH)",
+        "LH Mall & Hotel Company Limited (LHMH)"
+      ],
+      "reit_manager": [
+        "Land and Houses Fund Management Company Limited"
+      ],
+      "trustee": [
+        "SCB Asset Management Company Limited (SCBAM)"
+      ],
+      "property_managers": [
+        "LH Mall & Hotel Company Limited (LHMH)"
+      ],
+      "financial_advisors": [
+        "Kasikornbank Public Company Limited"
+      ],
+      "underwriters": [
+        "Kasikornbank Public Company Limited"
+      ],
+      "appraisers": [
+        "Asian Engineering Valuation Company Limited",
+        "KTAC Appraisal and Service Company Limited",
+        "15 Business Advisory Company Limited"
+      ],
+      "sellers": [
+        "LH Mall & Hotel Company Limited (LHMH)"
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "Tranche 1: existing unitholders pro rata (Preferential Public Offering), excluding holders whose participation would impose foreign-law obligations on the trust (preliminary list of 18 nationalities incl. UK, Japan, China, US, Singapore); existing holders may oversubscribe. Tranche 2: units remaining from Tranche 1 by private placement and/or public offering to institutional investors and persons at the underwriter's discretion.",
+      "data_as_of": "2026-03-31",
+      "latest_document_date": "2026-07-16",
+      "sec_status": {
+        "trans_id": "789906",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=789906&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล / บริษัท หลักทรัพย์จัดการกองทุนแลนด์ แอนด์ เฮ้าส์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "PO",
+        "first_filed": "2026-07-24",
+        "first_filed_th": "24/07/2569",
+        "last_amended": null,
+        "last_amended_th": "",
+        "effective": null,
+        "effective_th": "",
+        "offer_start": null,
+        "offer_start_th": "",
+        "offer_end": null,
+        "offer_end_th": "",
+        "remark": "",
+        "stage": "review",
+        "stage_label": "Under SEC review"
+      },
+      "metrics": {
+        "units_offered_max": 190000000,
+        "price_min_thb": null,
+        "price_max_thb": null,
+        "price_final_thb": null,
+        "par_thb": 10.0,
+        "offering_size_thb_mn": null,
+        "total_investment_thb_mn": 3000.0,
+        "new_debt_thb_mn": 1265.0,
+        "funding_thb_mn": {
+          "debt": 1265.0
+        },
+        "transaction_costs_thb_mn": null,
+        "projected_dpu_thb": 1.2,
+        "projected_yield_pct": 9.25,
+        "yield_basis_price_thb": 13.0,
+        "projection_period": "12 months, 1 Jan 2027 - 31 Dec 2027 (FY2027P)",
+        "ltv_before_pct": 41.59,
+        "ltv_after_pct": 42.0,
+        "ltv_limit_pct": 60.0,
+        "units_before": 1048919900,
+        "units_after_max": 1238919900,
+        "nav_per_unit_thb": 13.0201,
+        "new_equity_thb_mn": null,
+        "new_units_vs_existing_pct": 18.1,
+        "new_assets": [
+          {
+            "asset_id": "GCP_SURAWONG",
+            "name": "Grand Centre Point Surawong",
+            "asset_type": "Hotel",
+            "province": "Bangkok",
+            "investment_type": "Leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": 3000.0,
+            "appraisal_low_thb_mn": 3003.0,
+            "appraisal_high_thb_mn": 3007.7,
+            "appraisers": [
+              "KTAC Appraisal and Service Company Limited",
+              "Asian Engineering Valuation Company Limited"
+            ],
+            "price_vs_low_appraisal_pct": -0.1,
+            "appraisal_spread_pct": 0.16,
+            "lease_expiry": "2053-07-31",
+            "remaining_tenure_years": 26.9,
+            "occupancy_pct": 71.1,
+            "occupancy_as_of": "FY2025",
+            "leasable_sqm": null,
+            "rooms": 399,
+            "wale_years": 9.0
+          }
+        ],
+        "new_asset_count": 1,
+        "acquisition_total_thb_mn": 3000.0,
+        "appraisal_low_total_thb_mn": 3003.0,
+        "appraisal_high_total_thb_mn": 3007.7,
+        "price_vs_low_appraisal_pct": -0.1,
+        "price_vs_low_appraisal_basis": "sum of asset prices",
+        "leasable_sqm_total": null,
+        "tenure_mix": {
+          "leasehold": 1
+        },
+        "shortest_tenure_asset": "GCP_SURAWONG",
+        "existing": {
+          "as_of": "2026-03-31",
+          "asset_count": 5,
+          "total_assets_thb_mn": 23455.04,
+          "investment_value_thb_mn": 22456.0,
+          "nav_thb_mn": 13657.06,
+          "nav_per_unit_thb": 13.0201,
+          "market_price_thb": 12.7,
+          "market_price_as_of": "2026-03-31",
+          "price_to_nav": 0.98,
+          "latest_appraisal_total_thb_mn": 22389.5,
+          "trailing_dpu_period": "FY2025",
+          "trailing_dpu_thb": 1.19,
+          "trailing_yield_at_market_pct": 9.37,
+          "max_offer_vs_market_pct": null,
+          "deal_vs_total_assets_pct": 12.8
+        }
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "n/a",
+          "detail": "units, price or offering size not disclosed"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 1.2000 ÷ THB 13.00 = 9.23% vs stated 9.25%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "n/a",
+          "detail": "amount not disclosed for: new_units, internal_cash (blank or placeholder in the filing)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "pass",
+          "detail": "sum of asset prices THB 3.00bn vs total THB 3.00bn"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "pass",
+          "detail": "Grand Centre Point Surawong: -0.1% vs lower appraisal"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "1 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "42.0% vs limit 60%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "pass",
+          "detail": "2 leasehold component(s) consistent"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "PO with 5 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "pass",
+          "detail": "14 passed or n/a"
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: PO"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 53,
+          "not_found": 11,
+          "derived": 4,
+          "not_applicable": 1
+        },
+        "found_pct": 83.8,
+        "not_found_fields": 19
+      }
+    },
+    "ALPHART_IPO_810000": {
+      "filing_id": "ALPHART_IPO_810000",
+      "ticker": "ALPHART",
+      "offering_type": "IPO",
+      "name_en": "ALPHA Industrial Leasehold Real Estate Investment Trust",
+      "name_th": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอลฟา อินดัสเทรียล",
+      "sector": "Industrial & Logistics",
+      "sub_sectors": [
+        "Warehouse",
+        "Built-to-suit warehouse",
+        "Free Zone warehouse"
+      ],
+      "sponsors": [
+        "Alpha Industrial Solution Co., Ltd.",
+        "Origin Property Public Company Limited",
+        "SCGJWD Logistics Public Company Limited"
+      ],
+      "reit_manager": [
+        "Alpha REIT Management Co., Ltd."
+      ],
+      "trustee": [
+        "SCB Asset Management Co., Ltd."
+      ],
+      "property_managers": [
+        "Alpha Industrial Solution Co., Ltd."
+      ],
+      "financial_advisors": [
+        "TISCO Bank Public Company Limited"
+      ],
+      "underwriters": [
+        "TISCO Securities Co., Ltd."
+      ],
+      "appraisers": [
+        "Asian Engineering Valuation Co., Ltd.",
+        "CPM Capital Co., Ltd."
+      ],
+      "sellers": [
+        "Alpha Industrial Laem Chabang Co., Ltd.",
+        "Alpha Industrial Suwinthawong Co., Ltd.",
+        "Alpha Industrial Km.19 Co., Ltd.",
+        "Sakol Sappayakorn Co., Ltd.",
+        "BNF Asset Management Co., Ltd.",
+        "B.N.F. Logistics Co., Ltd."
+      ],
+      "seller_related_to_sponsor": true,
+      "investor_eligibility": "Offered through the underwriter to four investor groups: [•] (name placeholder) and related persons, patrons of [•], institutional investors, and persons at the underwriters' discretion. No offering to retail investors or the general public. Foreign holding capped at 49%.",
+      "data_as_of": "2026-07-31",
+      "latest_document_date": "2026-09-03",
+      "sec_status": {
+        "trans_id": "810000",
+        "detail_url": "https://market.sec.or.th/public/ipos/IPOSEQ01.aspx?TransID=810000&lang=th",
+        "issuer": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์แอลฟา อินดัสเทรียล / บริษัท แอลฟา รีท แมเนจเม้นท์ จำกัด",
+        "security_type": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+        "offering_type": "IPO",
+        "first_filed": null,
+        "first_filed_th": "",
+        "last_amended": null,
+        "last_amended_th": "",
+        "effective": null,
+        "effective_th": "",
+        "offer_start": null,
+        "offer_start_th": "",
+        "offer_end": null,
+        "offer_end_th": "",
+        "remark": "",
+        "stage": "review",
+        "stage_label": "Under SEC review"
+      },
+      "metrics": {
+        "units_offered_max": 265000000,
+        "price_min_thb": null,
+        "price_max_thb": null,
+        "price_final_thb": null,
+        "par_thb": 10.0,
+        "offering_size_thb_mn": 2650.0,
+        "total_investment_thb_mn": 3350.0,
+        "new_debt_thb_mn": 1150.0,
+        "funding_thb_mn": {
+          "new_units": 2650.0,
+          "debt": 1150.0
+        },
+        "transaction_costs_thb_mn": null,
+        "projected_dpu_thb": 0.89,
+        "projected_yield_pct": 8.92,
+        "yield_basis_price_thb": 10.0,
+        "projection_period": "12 months, 1 Apr 2027 - 31 Mar 2028 (FY2027P, non-calendar)",
+        "ltv_before_pct": null,
+        "ltv_after_pct": 33.2,
+        "ltv_limit_pct": 35.0,
+        "units_before": null,
+        "units_after_max": 265000000,
+        "nav_per_unit_thb": null,
+        "new_equity_thb_mn": 2650.0,
+        "equity_share_pct": 69.7,
+        "new_assets": [
+          {
+            "asset_id": "ALPHA-LCB",
+            "name": "ALPHA Laem Chabang (Phases 1 and 2)",
+            "asset_type": "Warehouse (ready-built and built-to-suit; Phase 2 in a Free Zone)",
+            "province": "Chonburi",
+            "investment_type": "Sub-leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": null,
+            "appraisal_low_thb_mn": 1748.0,
+            "appraisal_high_thb_mn": 1754.1,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "CPM Capital Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": null,
+            "appraisal_spread_pct": 0.35,
+            "lease_expiry": "2053-10-24",
+            "remaining_tenure_years": 27.1,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-07-31",
+            "leasable_sqm": 92997.0,
+            "rooms": null,
+            "wale_years": null
+          },
+          {
+            "asset_id": "ALPHA-BN19",
+            "name": "ALPHA Bangna KM.19",
+            "asset_type": "Warehouse (ready-built and built-to-suit)",
+            "province": "Samut Prakan",
+            "investment_type": "Sub-leasehold",
+            "tenure": "leasehold",
+            "price_thb_mn": null,
+            "appraisal_low_thb_mn": 1586.5,
+            "appraisal_high_thb_mn": 1620.2,
+            "appraisers": [
+              "Asian Engineering Valuation Co., Ltd.",
+              "CPM Capital Co., Ltd."
+            ],
+            "price_vs_low_appraisal_pct": null,
+            "appraisal_spread_pct": 2.12,
+            "lease_expiry": "2054-03-08",
+            "remaining_tenure_years": 27.5,
+            "occupancy_pct": 100.0,
+            "occupancy_as_of": "2026-07-31",
+            "leasable_sqm": 82110.0,
+            "rooms": null,
+            "wale_years": null
+          }
+        ],
+        "new_asset_count": 2,
+        "acquisition_total_thb_mn": null,
+        "appraisal_low_total_thb_mn": 3334.5,
+        "appraisal_high_total_thb_mn": 3374.3,
+        "price_vs_low_appraisal_pct": 0.46,
+        "price_vs_low_appraisal_basis": "total investment value (no per-asset prices disclosed)",
+        "leasable_sqm_total": 175107.0,
+        "tenure_mix": {
+          "leasehold": 2
+        },
+        "shortest_tenure_asset": "ALPHA-LCB"
+      },
+      "checks": [
+        {
+          "id": "offering_size",
+          "label": "Units × price = offering size",
+          "result": "n/a",
+          "detail": "units, price or offering size not disclosed"
+        },
+        {
+          "id": "yield",
+          "label": "Yield = projected DPU ÷ offer price",
+          "result": "pass",
+          "detail": "THB 0.8900 ÷ THB 10.00 = 8.90% vs stated 8.92%"
+        },
+        {
+          "id": "funding",
+          "label": "Funding sources cover the investment",
+          "result": "pass",
+          "detail": "sources THB 3.80bn vs investment THB 3.35bn (maximums; the difference funds costs or is unused capacity)"
+        },
+        {
+          "id": "asset_prices",
+          "label": "Asset prices within total investment",
+          "result": "n/a",
+          "detail": "per-asset prices not disclosed"
+        },
+        {
+          "id": "appraisal",
+          "label": "Price at or below lower appraisal",
+          "result": "warn",
+          "detail": "total investment THB 3.35bn vs summed lower appraisals THB 3.33bn (+0.5%); per-asset prices not disclosed"
+        },
+        {
+          "id": "appraisal_spread",
+          "label": "Appraisers within 10% of each other",
+          "result": "pass",
+          "detail": "2 asset(s) within range"
+        },
+        {
+          "id": "ltv",
+          "label": "Post-deal LTV within limit",
+          "result": "pass",
+          "detail": "33.2% vs limit 35%"
+        },
+        {
+          "id": "tenure_dates",
+          "label": "Lease start + tenure = expiry",
+          "result": "warn",
+          "detail": "ALPHA Bangna KM.19 Land (28 title deeds: 3742, 53359, 99680-99698, 128550-128556; 78-2-6.8 rai; General Zone): 28.0 yrs but 2027-04-01→2054-03-08; ALPHA Bangna KM.19 Buildings (3 buildings / 9 units: ready-built 1 building / 6 units; built-to-suit 2 buildings / 3 units): 28.0 yrs but 2027-04-01→2054-03-08"
+        },
+        {
+          "id": "structure",
+          "label": "IPO has no existing portfolio / PO has one",
+          "result": "pass",
+          "detail": "IPO with 0 existing asset rows"
+        },
+        {
+          "id": "agent_self_checks",
+          "label": "Extraction agent self-checks",
+          "result": "warn",
+          "detail": "funding sources vs total investment value (+ costs), at maximum caps: 2,650.0 + 1,150.0 = 3,800.0 vs 3,350.0 investment cap (+450.0, +13.4%). Both are 'not exceeding' caps; offering costs are [•].; lease start + tenure = expiry (ALPHA Bangna Km.19): 2027-04-01 + 28.0 years = 2055-04-01 vs stated expiry 2054-03-08 (1.07 years short; actual 26.9 years). Head lease: 2024-03-09 + 30 years = 2054-03-08 (exact).; LTV at maximum debt: 1,150.0 / 3,350.0 = 34.3% vs 33.2% stated in Risks. The Fact Sheet assumption of 30.3% relates to the 1,040.2 mn case. All are under the 35% cap."
+        },
+        {
+          "id": "sec_type",
+          "label": "SEC lists the same offering type",
+          "result": "pass",
+          "detail": "SEC: IPO"
+        },
+        {
+          "id": "draft_figures",
+          "label": "Figures still ambiguous / draft placeholders",
+          "result": "warn",
+          "detail": "5 value(s) marked ambiguous"
+        }
+      ],
+      "completeness": {
+        "counts": {
+          "found": 45,
+          "not_applicable": 10,
+          "not_found": 13,
+          "derived": 2,
+          "ambiguous": 5
+        },
+        "found_pct": 72.3,
+        "not_found_fields": 16
+      }
+    }
+  },
+  "totals": {
+    "filings": 9,
+    "ipo": 2,
+    "po": 7,
+    "total_investment_thb_mn": 21516.5,
+    "new_equity_thb_mn": 12665.5,
+    "new_debt_thb_mn": 10984.6,
+    "new_assets": 17,
+    "by_sector": {
+      "Hospitality": {
+        "filings": 2,
+        "total_investment_thb_mn": 4233.5
+      },
+      "Industrial & Logistics": {
+        "filings": 5,
+        "total_investment_thb_mn": 13587.2
+      },
+      "Office": {
+        "filings": 1,
+        "total_investment_thb_mn": 2200.0
+      },
+      "Retail": {
+        "filings": 1,
+        "total_investment_thb_mn": 1495.8
+      }
+    }
+  },
+  "insights": [
+    {
+      "kind": "pipeline",
+      "text": "9 filings (2 IPO, 7 PO) would add up to THB 21.52bn of property to Thai REITs, funded by up to THB 12.67bn of new units and THB 10.98bn of new borrowings.",
+      "filings": [
+        "QHHRREIT_PO_713446",
+        "MII_PO_732645",
+        "PROSPECT_PO_736840",
+        "DTPBB2_IPO_750921",
+        "ALLY_PO_751283",
+        "WHART_PO_767525",
+        "WHAIR_PO_777345",
+        "LHHOTEL_PO_789906",
+        "ALPHART_IPO_810000"
+      ]
+    },
+    {
+      "kind": "sector",
+      "text": "Industrial & Logistics accounts for 63% of deal value across 5 of 9 filings.",
+      "filings": [
+        "MII_PO_732645",
+        "PROSPECT_PO_736840",
+        "WHART_PO_767525",
+        "WHAIR_PO_777345",
+        "ALPHART_IPO_810000"
+      ]
+    },
+    {
+      "kind": "size",
+      "text": "Largest deal: PROSPECT at up to THB 5.04bn; smallest: QHHRREIT at up to THB 1.23bn.",
+      "filings": [
+        "PROSPECT_PO_736840",
+        "QHHRREIT_PO_713446"
+      ]
+    },
+    {
+      "kind": "yield",
+      "text": "Projected distribution yields run from 7.00% (DTPBB2) to 12.88% (MII), each on its own filing's basis price.",
+      "filings": [
+        "DTPBB2_IPO_750921",
+        "MII_PO_732645"
+      ]
+    },
+    {
+      "kind": "valuation",
+      "text": "7 of 9 deals with appraisal values disclosed are priced at or below the lower independent appraisal; the widest discount is ALLY at -12.9%. Above the lower appraisal: PROSPECT (+5.4%), ALPHART (+0.5%).",
+      "filings": [
+        "QHHRREIT_PO_713446",
+        "MII_PO_732645",
+        "PROSPECT_PO_736840",
+        "DTPBB2_IPO_750921",
+        "ALLY_PO_751283",
+        "WHART_PO_767525",
+        "WHAIR_PO_777345",
+        "LHHOTEL_PO_789906",
+        "ALPHART_IPO_810000"
+      ]
+    },
+    {
+      "kind": "leverage",
+      "text": "Highest post-deal LTV: LHHOTEL at 42.0% against a 60% limit.",
+      "filings": [
+        "LHHOTEL_PO_789906"
+      ]
+    },
+    {
+      "kind": "tenure_mix",
+      "text": "14 of 17 new assets are wholly or partly leasehold; 3 are freehold.",
+      "filings": [
+        "ALLY_PO_751283",
+        "ALPHART_IPO_810000",
+        "DTPBB2_IPO_750921",
+        "LHHOTEL_PO_789906",
+        "MII_PO_732645",
+        "PROSPECT_PO_736840",
+        "QHHRREIT_PO_713446",
+        "WHAIR_PO_777345",
+        "WHART_PO_767525"
+      ]
+    },
+    {
+      "kind": "tenure",
+      "text": "Shortest remaining leasehold among new assets: Grand Centre Point Surawong (LHHOTEL), about 27 years to 31 Jul 2053.",
+      "filings": [
+        "LHHOTEL_PO_789906"
+      ]
+    },
+    {
+      "kind": "scale",
+      "text": "Relative to trust size, MII is the biggest step: the acquisition equals 77% of its current total assets.",
+      "filings": [
+        "MII_PO_732645"
+      ]
+    },
+    {
+      "kind": "pricing",
+      "text": "Maximum PO offer prices versus the last market price quoted in each filing: MII +0.8%, ALLY +4.2%, QHHRREIT +7.2%, WHART +9.9%, PROSPECT +50.0%.",
+      "filings": [
+        "MII_PO_732645",
+        "ALLY_PO_751283",
+        "QHHRREIT_PO_713446",
+        "WHART_PO_767525",
+        "PROSPECT_PO_736840"
+      ]
+    },
+    {
+      "kind": "status",
+      "text": "SEC filing stage on 15 Sep 2026: 3 under SEC review, 2 in their offer period, 2 effective, offer not yet open, 1 with the offer closed, 1 under SEC review after amendment.",
+      "filings": [
+        "QHHRREIT_PO_713446",
+        "MII_PO_732645",
+        "PROSPECT_PO_736840",
+        "DTPBB2_IPO_750921",
+        "ALLY_PO_751283",
+        "WHART_PO_767525",
+        "WHAIR_PO_777345",
+        "LHHOTEL_PO_789906",
+        "ALPHART_IPO_810000"
+      ]
+    },
+    {
+      "kind": "data",
+      "text": "Least complete extraction: DTPBB2 (67% of applicable fields found in the text filings); gaps are listed per REIT and on the Validation sheet.",
+      "filings": [
+        "DTPBB2_IPO_750921"
+      ]
+    },
+    {
+      "kind": "checks",
+      "text": "17 consistency checks need a look across 8 filings.",
+      "filings": [
+        "ALLY_PO_751283",
+        "ALPHART_IPO_810000",
+        "DTPBB2_IPO_750921",
+        "MII_PO_732645",
+        "PROSPECT_PO_736840",
+        "QHHRREIT_PO_713446",
+        "WHAIR_PO_777345",
+        "WHART_PO_767525"
+      ]
+    }
+  ]
+}

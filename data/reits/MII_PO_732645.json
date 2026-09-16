@@ -1,0 +1,2554 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "MII_PO_732645",
+    "sec_filing_no": "732645",
+    "ticker": "MII",
+    "offering_type": "PO",
+    "offering_type_evidence": {
+      "value": "PO confirmed: first capital increase of the listed MII trust to fund its first additional investment (Green Park 1)",
+      "status": "found",
+      "value_th": "การเพิ่มทุนครั้งที่หนึ่ง / ทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 5,
+        "section": "Cover page",
+        "quote": "หนังสือชี้ชวนการเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่หนึ่ง"
+      }
+    },
+    "reit_name_en": {
+      "value": "MFC Industrial Investment Freehold and Leasehold Real Estate Investment Trust",
+      "status": "ambiguous",
+      "source": {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "line": 8,
+        "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+        "quote": "MFC Industrial Investment Freehold and Leasehold Real Estate Investment Trust"
+      },
+      "note": "Fact Sheet and Use of Proceeds include 'Investment'; the latest cover (L9) reads 'MFC Industrial Freehold and Leasehold Real Estate Investment Trust (MII)'."
+    },
+    "reit_name_th": {
+      "value": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์",
+      "status": "found",
+      "value_th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์",
+      "source": {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "line": 7,
+        "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+        "quote": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์"
+      }
+    },
+    "reit_structure": {
+      "value": "Freehold and leasehold REIT with no fixed term; units are not redeemable. Established 2024-11-07 to convert property fund M-II (assets and liabilities transferred 2024-12-12).",
+      "status": "found",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 10,
+        "section": "Cover page",
+        "quote": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์"
+      }
+    },
+    "capital_increase_no": {
+      "value": 1,
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 5,
+        "section": "Cover page",
+        "quote": "สำหรับการเพิ่มทุนครั้งที่หนึ่ง"
+      }
+    },
+    "additional_investment_no": {
+      "value": 1,
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 11,
+        "section": "Cover page",
+        "quote": "เพื่อลงทุนในทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง"
+      }
+    },
+    "investor_eligibility": {
+      "value": "(1) Existing unitholders pro rata at 1 existing : 0.3924 new units, up to 68,220,000 units, excluding holders whose participation would impose foreign-law obligations (preliminary list: American, Chinese, French, Japanese, South Korean, Nepalese and Singaporean nationals); (2) JCK International and/or its concert group, not exceeding 7% of new units including its tranche-1 allocation; (3) remaining units to private placement and/or the general public. Best-effort distribution.",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 26,
+        "section": "Cover page",
+        "quote": "เสนอขายต่อผู้ลงทุนอื่น ได้แก่ บุคคลในวงจำกัด และ/หรือ ประชาชนทั่วไป"
+      }
+    },
+    "listing": {
+      "value": "Listed on the Stock Exchange of Thailand (ticker MII); first trading day 2024-12-19 per the event table",
+      "status": "ambiguous",
+      "source": {
+        "file": "MII_PO_20251212_P2-02-Policy.md",
+        "line": 17,
+        "section": "การเปลี่ยนแปลงและพัฒนาการที่สำคัญ",
+        "quote": "19 ธันวาคม 2567 | หลักทรัพย์ MII เริ่มซื้อขายในตลาดหลักทรัพย์"
+      },
+      "note": "The same document (L7) says trading started on 17 December 2024 (เมื่อวันที่ 17 ธันวาคม 2567)."
+    },
+    "unitholder_approval_date": {
+      "value": "2025-12-09",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 13,
+        "section": "Cover page",
+        "quote": "อินเวสเมนท์ เมื่อวันที่ 9 ธันวาคม 2568"
+      },
+      "note": "Unitholders' meeting No. 1/2568 (Policy L25)."
+    },
+    "data_as_of": {
+      "value": "2026-06-30",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "line": 6,
+        "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+        "quote": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569"
+      }
+    },
+    "latest_document_date": "2026-08-18",
+    "documents_used": [
+      {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260817",
+        "used_for": "Headline deal terms, tranches, offer periods, parties"
+      },
+      {
+        "file": "MII_PO_20260403_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260403",
+        "used_for": "OLDER draft - revision notes only"
+      },
+      {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260818",
+        "used_for": "Data as-of, appraisals, capital structure, DPU, projection, top tenants, key financials"
+      },
+      {
+        "file": "MII_PO_20260403_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260403",
+        "used_for": "OLDER draft - revision notes only"
+      },
+      {
+        "file": "MII_PO_20251212_P2-01-UseOfProceeds.md",
+        "doc_type": "P2-01-UseOfProceeds",
+        "uploaded": "20251212",
+        "used_for": "Use of proceeds"
+      },
+      {
+        "file": "MII_PO_20260818_P3-Offering.md",
+        "doc_type": "P3-Offering",
+        "uploaded": "20260818",
+        "used_for": "Offering details, allocation, timetable, distributor, secondary prices, offering costs"
+      },
+      {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "doc_type": "P2-03-NewAssets",
+        "uploaded": "20260818",
+        "used_for": "Green Park 1 asset data, appraisals, draft contracts, loan terms"
+      },
+      {
+        "file": "MII_PO_20260818_P2-03-Leasing.md",
+        "doc_type": "P2-03-Leasing",
+        "uploaded": "20260818",
+        "used_for": "Tenants, lease expiry, property manager, projection, IRR sensitivity"
+      },
+      {
+        "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+        "doc_type": "P2-03-ExistingAssets",
+        "uploaded": "20260403",
+        "used_for": "Existing portfolio assets and appraisal"
+      },
+      {
+        "file": "MII_PO_20260818_P2-12-Financials.md",
+        "doc_type": "P2-12-Financials",
+        "uploaded": "20260818",
+        "used_for": "Balance sheet, income statement, auditor"
+      },
+      {
+        "file": "MII_PO_20260817_P2-13-MDA.md",
+        "doc_type": "P2-13-MDA",
+        "uploaded": "20260817",
+        "used_for": "Cross-check of financials, expropriation update"
+      },
+      {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "doc_type": "P2-08-Unitholders",
+        "uploaded": "20260817",
+        "used_for": "Units outstanding, NAV, closing price, distribution history, major holders"
+      },
+      {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "doc_type": "P2-05-Risks",
+        "uploaded": "20260818",
+        "used_for": "Risk factors, seller-PM relationship, lease expiry by revenue"
+      },
+      {
+        "file": "MII_PO_20251212_P2-02-Policy.md",
+        "doc_type": "P2-02-Policy",
+        "uploaded": "20251212",
+        "used_for": "Trust history, listing date, approval terms"
+      },
+      {
+        "file": "MII_PO_20260818_P2-09-Governance.md",
+        "doc_type": "P2-09-Governance",
+        "uploaded": "20260818",
+        "used_for": "Auditor and appraiser names (grep only)"
+      },
+      {
+        "file": "MII_PO_20260817_P2-11-RelatedParty.md",
+        "doc_type": "P2-11-RelatedParty",
+        "uploaded": "20260817",
+        "used_for": "Related-party parties (grep/skim)"
+      },
+      {
+        "file": "MII_PO_20260403_P2-10-Fees.md",
+        "doc_type": "P2-10-Fees",
+        "uploaded": "20260403",
+        "used_for": "Fee caps, checked against August Fact Sheet"
+      }
+    ],
+    "revision_notes": [
+      {
+        "field": "offering.units_offered_max",
+        "earlier_value": 90000000,
+        "earlier_file": "MII_PO_20260403_00-Cover.md",
+        "latest_value": 75800000,
+        "latest_file": "MII_PO_20260817_00-Cover.md",
+        "note": "Maximum new units cut by 14.2M; older Fact Sheet also showed 90,000,000."
+      },
+      {
+        "field": "offering.offering_size_thb_mn",
+        "earlier_value": "[•] (cover placeholder); 455 in older Fact Sheet",
+        "earlier_file": "MII_PO_20260403_00-Cover.md",
+        "latest_value": 455.0,
+        "latest_file": "MII_PO_20260817_00-Cover.md"
+      },
+      {
+        "field": "offering.offering_price_per_unit.max_thb",
+        "earlier_value": "[•]",
+        "earlier_file": "MII_PO_20260403_00-Cover.md",
+        "latest_value": 6.0,
+        "latest_file": "MII_PO_20260817_00-Cover.md"
+      },
+      {
+        "field": "offering.par_value_per_unit_thb",
+        "earlier_value": "[•] on cover; 9.4309 as of 2025-09-30 in older Fact Sheet",
+        "earlier_file": "MII_PO_20260403_00-Cover.md",
+        "latest_value": "9.4309 as of 2026-06-30",
+        "latest_file": "MII_PO_20260817_00-Cover.md"
+      },
+      {
+        "field": "offering.allocation (tranche 1 and JCK tranche)",
+        "earlier_value": "[•] units / [•]",
+        "earlier_file": "MII_PO_20260403_00-Cover.md",
+        "latest_value": "up to 68,220,000 units / JCK incl. tranche 1 <= 7% of new units",
+        "latest_file": "MII_PO_20260817_00-Cover.md"
+      },
+      {
+        "field": "offering.timeline (effective date, offer periods)",
+        "earlier_value": "[•]",
+        "earlier_file": "MII_PO_20260403_00-Cover.md",
+        "latest_value": "Effective 2026-08-20; subscriptions 2026-09-14 to 2026-09-23",
+        "latest_file": "MII_PO_20260817_00-Cover.md"
+      },
+      {
+        "field": "filing.data_as_of",
+        "earlier_value": "2025-12-31",
+        "earlier_file": "MII_PO_20260403_P1-FactSheet.md",
+        "latest_value": "2026-06-30",
+        "latest_file": "MII_PO_20260818_P1-FactSheet.md"
+      },
+      {
+        "field": "Expected investment date / WALE (leasehold assets)",
+        "earlier_value": "2026-04-01; WALE 13.98 yrs before / 13.73 yrs after",
+        "earlier_file": "MII_PO_20260403_P1-FactSheet.md",
+        "latest_value": "about 2026-09-30; WALE 13.48 yrs before / 13.23 yrs after",
+        "latest_file": "MII_PO_20260818_P1-FactSheet.md"
+      },
+      {
+        "field": "new_assets[GP1].key_tenants",
+        "earlier_value": "Top 4: Leadasun IoT, ATK Technology, Fagerdala, Manhua Electric; top tenants = 100.00% of total leasable area",
+        "earlier_file": "MII_PO_20260403_P1-FactSheet.md",
+        "latest_value": "Top 4: Leadasun IoT, Jianxing Construction, ATK Technology, Fagerdala; top tenants = 93.22% of total leasable area",
+        "latest_file": "MII_PO_20260818_P1-FactSheet.md",
+        "note": "Tenant change and occupancy decline between the two drafts."
+      },
+      {
+        "field": "Fact Sheet note on new-asset investment value",
+        "earlier_value": "ไม่เกิน 1,445 ล้านบาท (typo)",
+        "earlier_file": "MII_PO_20260403_P1-FactSheet.md",
+        "latest_value": "ไม่เกิน 1,455 ล้านบาท",
+        "latest_file": "MII_PO_20260818_P1-FactSheet.md"
+      },
+      {
+        "field": "offering.projected_distribution (assumptions)",
+        "earlier_value": "DPU 0.7082 / 12.88% on 88M units at THB 5.50 and THB 900M debt; IRR 11.97% on 90M units at THB 5.30 and THB 1,000M debt",
+        "earlier_file": "MII_PO_20260403_P1-FactSheet.md",
+        "latest_value": "Unchanged",
+        "latest_file": "MII_PO_20260818_P1-FactSheet.md",
+        "note": "Projection was not updated for the cut to 75.8M units / THB 6.00 max price."
+      },
+      {
+        "field": "capital_structure.total_assets_before_thb_mn",
+        "earlier_value": 1886.76,
+        "earlier_file": "MII_PO_20260403_P1-FactSheet.md",
+        "latest_value": 1891.6,
+        "latest_file": "MII_PO_20260818_P1-FactSheet.md",
+        "note": "Balance-sheet date moved from 2025-12-31 to 2026-06-30."
+      }
+    ]
+  },
+  "sector": {
+    "primary": "Industrial & Logistics",
+    "sub_sectors": [
+      "Factory",
+      "Warehouse",
+      "Commercial-office"
+    ],
+    "description": {
+      "value": "MII owns 52 ready-built factory-office and commercial-office buildings in four projects (TFD Industrial Estate, Navanakorn, Laem Chabang Industrial Estate, Kingkaew Road) and will buy three freehold factory/warehouse buildings (about 60,611.70 sqm) in Green Park 1, Bang Pakong, Chachoengsao.",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20251212_P2-02-Policy.md",
+        "line": 22,
+        "section": "การเปลี่ยนแปลงและพัฒนาการที่สำคัญ",
+        "quote": "รวมจำนวน 52 หลัง ใน 4 โครงการ"
+      }
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "JCK International Public Company Limited",
+        "name_th": "บริษัท เจซีเค อินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+        "role_detail": "Not labelled 'sponsor' in the filing; de facto sponsor: parent of the seller JCK Utilities, property manager of all assets, 5.30% unitholder, must hold >=7% of the new units for 5 years, grants ROFR and a 20 km non-compete",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "MII_PO_20260818_P2-05-Risks.md",
+          "line": 120,
+          "section": "ความเสี่ยงของผลประกอบการของกองทรัสต์ขึ้นอยู่กับความสามารถในการบริหารของผู้จัดการกองทรัสต์ และผู้บริหารอสังหาริมทรัพย์",
+          "quote": "เป็นบริษัทแม่ของเจซีเค ยูทิลิตี้ส์ ซึ่งเป็นเจ้าของทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 1"
+        }
+      }
+    ],
+    "reit_manager": {
+      "name_en": "MFC Asset Management Public Company Limited",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุนเอ็มเอฟซี จำกัด (มหาชน)",
+      "role_detail": "REIT manager, offeror and distribution manager",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 28,
+        "section": "Cover page",
+        "quote": "ผู้เสนอขายหน่วยทรัสต์ (ผู้จัดการกองทรัสต์) : บริษัทหลักทรัพย์จัดการกองทุนเอ็มเอฟซี จำกัด (มหาชน)"
+      }
+    },
+    "trustee": {
+      "name_en": "Land and Houses Fund Management Company Limited",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด",
+      "role_detail": "Trustee",
+      "related_to_sponsor": null,
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 29,
+        "section": "Cover page",
+        "quote": "ทรัสตี : บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด"
+      }
+    },
+    "property_managers": [
+      {
+        "name_en": "JCK International Public Company Limited",
+        "name_th": "บริษัท เจซีเค อินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+        "role_detail": "Property manager of existing and new assets; 5-year auto-renewing term; management plus incentive fee capped at 4.50% of projected rental and service revenue; no shareholding link to the REIT manager",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 134,
+          "section": "ข้อมูลทั่วไป",
+          "quote": "ชื่อผู้บริหารอสังหาริมทรัพย์ | : | บริษัท เจซีเค อินเตอร์เนชั่นแนล จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "financial_advisors": [
+      {
+        "name_en": "Baker Tilly Corporate Advisory Services (Thailand) Limited",
+        "name_th": "บริษัท เบเคอร์ ทิลลี่ คอร์ปอเรท แอ็ดไวเซอรี่ เซอร์วิสเซส (ประเทศไทย) จำกัด",
+        "role_detail": "Independent financial adviser (IFA) opinion on the acquisition and the specific allocation; the cover states there is no financial adviser for the offering",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 306,
+          "section": "ประมาณการอัตราผลตอบแทนภายใน (Internal Rate of Return)",
+          "quote": "จัดทำโดยบริษัทบริษัท เบเคอร์ ทิลลี่ คอร์ปอเรท แอ็ดไวเซอรี่ เซอร์วิสเซส (ประเทศไทย) จำกัด"
+        }
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "MFC Asset Management Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์จัดการกองทุนเอ็มเอฟซี จำกัด (มหาชน)",
+        "role_detail": "Distribution manager (ผู้จัดการการจัดจำหน่าย) on a best-effort basis; no firm underwriting",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 8,
+          "section": "รายละเอียดของหน่วยทรัสต์ที่เสนอขาย",
+          "quote": "ผู้เสนอขายหน่วยทรัสต์และผู้จัดการการจัดจำหน่าย | บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "underwriters": [],
+    "appraisers": [
+      {
+        "name_en": "Knight Frank Chartered (Thailand) Company Limited",
+        "name_th": "บริษัท ไนท์แฟรงค์ ชาร์เตอร์ (ประเทศไทย) จำกัด",
+        "role_detail": "Appraiser of Green Park 1 (report dated 2025-10-09)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "MII_PO_20260818_P2-09-Governance.md",
+          "line": 1056,
+          "section": "บริษัทประเมินค่าทรัพย์สินสำหรับทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "บริษัท ไนท์แฟรงค์ ชาร์เตอร์ (ประเทศไทย) จำกัด"
+        }
+      },
+      {
+        "name_en": "The Valuation & Consultants Company Limited",
+        "name_th": "บริษัท เดอะแวลูเอชั่น แอนด์ คอนซัลแทนท์ส จำกัด",
+        "role_detail": "Appraiser of Green Park 1 (report dated 2025-09-29)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "MII_PO_20260818_P2-09-Governance.md",
+          "line": 1063,
+          "section": "บริษัทประเมินค่าทรัพย์สินสำหรับทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "บริษัท เดอะแวลูเอชั่น แอนด์ คอนซัลแทนท์ส จำกัด"
+        }
+      },
+      {
+        "name_en": "Salmann (Far East) Company Limited",
+        "name_th": "บริษัท ซาลแมนน์ (ฟาร์อีสท์) จำกัด",
+        "role_detail": "Appraiser of the existing portfolio (valuation as of 2025-08-01)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+          "line": 151,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "จัดทำโดย บริษัท ซาลแมนน์ (ฟาร์อีสท์) จำกัด ณ วันที่ 1 สิงหาคม 2568"
+        }
+      }
+    ],
+    "auditor": {
+      "name_en": "Dharmniti Auditing Company Limited",
+      "name_th": "บริษัท สอบบัญชีธรรมนิติ จำกัด",
+      "role_detail": "Auditor; FY2025 audit and 1H2026 review signed by Ms. Nannaphat Wannasomboon (CPA 7793)",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "MII_PO_20260818_P2-09-Governance.md",
+        "line": 1038,
+        "section": "ผู้สอบบัญชี",
+        "quote": "บริษัท สอบบัญชีธรรมนิติ จำกัด"
+      }
+    },
+    "legal_advisors": [],
+    "lenders": [],
+    "sellers_or_lessors": [
+      {
+        "name_en": "JCK Utilities Company Limited (formerly Total Industrial Services Company Limited)",
+        "name_th": "บริษัท เจซีเค ยูทิลิตี้ส์ จำกัด",
+        "role_detail": "Seller of Green Park 1 land and buildings; subsidiary of JCK International; bears transfer taxes/fees and the offering expenses",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 144,
+          "section": "สรุปสาระสำคัญของร่างของสัญญาที่เกี่ยวข้องกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+          "quote": "สรุปสาระสำคัญของร่างสัญญาจะซื้อจะขายทรัพย์สิน กับ บริษัท เจซีเค ยูทิลิตี้ส์ จำกัด"
+        }
+      }
+    ],
+    "operators_or_master_lessees": [],
+    "not_found_roles": [
+      "Legal advisor (not named in the text filings)",
+      "Lenders (only described as one or more domestic commercial banks / financial institutions)",
+      "Underwriters or selling agents other than MFC (may be appointed later)",
+      "Financial advisor for the offering (cover states none)",
+      "Master lessee / rental guarantor (none described; direct leases with tenants)"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 75800000,
+      "status": "found",
+      "unit": "units",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 18,
+        "section": "Cover page",
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 75,800,000 หน่วย"
+      },
+      "note": "Maximum ('ไม่เกิน')."
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Only a maximum price is disclosed; no price range floor."
+      },
+      "max_thb": {
+        "value": 6.0,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "MII_PO_20260817_00-Cover.md",
+          "line": 19,
+          "section": "Cover page",
+          "quote": "ราคาเสนอขายสูงสุดไม่เกิน 6.00 บาทต่อหน่วย"
+        },
+        "note": "Maximum offer price."
+      },
+      "final_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Final price to be announced on the SET website by 2026-09-11 (P3 L15); not in the text filings."
+      }
+    },
+    "par_value_per_unit_thb": {
+      "value": 9.4309,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 19,
+        "section": "Cover page",
+        "quote": "มูลค่าที่ตราไว้ของหน่วยทรัสต์ ณ วันที่ 30 มิถุนายน 2569 เท่ากับ 9.4309 บาท"
+      }
+    },
+    "offering_size_thb_mn": {
+      "value": 455.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 15,
+        "section": "Cover page",
+        "quote": "การระดมทุนโดยการเสนอขายหน่วยทรัสต์ในการเพิ่มทุนครั้งที่หนึ่งมูลค่ารวมกันทั้งสิ้นไม่เกิน 455,000,000 บาท"
+      },
+      "note": "Maximum new equity ('ไม่เกิน')."
+    },
+    "total_investment_value_thb_mn": {
+      "value": 1455.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 17,
+        "section": "Cover page",
+        "quote": "ในมูลค่าทั้งสิ้นไม่เกิน 1,455,000,000 บาท"
+      },
+      "note": "Maximum; excludes taxes, fees and expenses borne by JCK Utilities."
+    },
+    "funding_sources": [
+      {
+        "type": "new_units",
+        "amount_thb_mn": {
+          "value": 455.0,
+          "status": "found",
+          "unit": "THB mn",
+          "source": {
+            "file": "MII_PO_20260817_00-Cover.md",
+            "line": 15,
+            "section": "Cover page",
+            "quote": "การระดมทุนโดยการเสนอขายหน่วยทรัสต์ในการเพิ่มทุนครั้งที่หนึ่งมูลค่ารวมกันทั้งสิ้นไม่เกิน 455,000,000 บาท"
+          },
+          "note": "Maximum."
+        }
+      },
+      {
+        "type": "debt",
+        "amount_thb_mn": {
+          "value": 1000.0,
+          "status": "found",
+          "unit": "THB mn",
+          "source": {
+            "file": "MII_PO_20260817_00-Cover.md",
+            "line": 16,
+            "section": "Cover page",
+            "quote": "ในวงเงินทั้งสิ้นไม่เกิน 1,000,000,000 บาท"
+          },
+          "note": "Maximum long-term loan facility."
+        },
+        "note": "Projection assumes about THB 900M drawn."
+      }
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "Purchase of Green Park 1 land, three factory-office buildings and related assets",
+        "amount_thb_mn": 1455.0,
+        "note": "Maximum; excludes taxes, fees and other expenses borne by JCK Utilities.",
+        "source": {
+          "file": "MII_PO_20251212_P2-01-UseOfProceeds.md",
+          "line": 7,
+          "section": "วัตถุประสงค์การใช้เงิน",
+          "quote": "จะเหลือเงินที่จะนำไปใช้ตามวัตถุประสงค์ที่ระบุไว้เป็นจำนวนไม่เกิน 1,455,000,000 บาท"
+        }
+      },
+      {
+        "item": "Working capital of the trust",
+        "amount_thb_mn": null,
+        "note": "Amount not stated.",
+        "source": {
+          "file": "MII_PO_20251212_P2-01-UseOfProceeds.md",
+          "line": 7,
+          "section": "วัตถุประสงค์การใช้เงิน",
+          "quote": "ใช้เป็นเงินหมุนเวียนของกองทรัสต์"
+        }
+      },
+      {
+        "item": "Offering expenses (SEC and SET fees, advisers, appraisers, distribution, loan arrangement, printing, marketing)",
+        "amount_thb_mn": 41.0,
+        "note": "Estimate including VAT; P3 L439 states JCK Utilities bears all offering expenses.",
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 436,
+          "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+          "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ 41,000,000 บาท"
+        }
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": 41.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "MII_PO_20260818_P3-Offering.md",
+        "line": 436,
+        "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+        "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ 41,000,000 บาท"
+      },
+      "note": "Offering expenses incl. VAT (SEC 0.37M, SET 0.64M, other 39.8M); borne by JCK Utilities per the note."
+    },
+    "allocation": [
+      {
+        "tranche": "Tranche 1: existing unitholders pro rata (1 : 0.3924)",
+        "units": 68220000,
+        "pct_of_offer": 90.0,
+        "note": "Maximum; about 90% of new units; includes JCK's pro-rata entitlement; oversubscription may be allocated.",
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 67,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "ไม่เกิน 68,220,000 หน่วย"
+        }
+      },
+      {
+        "tranche": "Tranche 2: JCK International and/or its concert group",
+        "units": null,
+        "pct_of_offer": 7.0,
+        "note": "Maximum 7% of new units including JCK's tranche-1 allocation (about 5,306,000 units at 75.8M units).",
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 68,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "จะมีจำนวนไม่เกินร้อยละ 7 ของหน่วยทรัสต์ที่ออกและเสนอขายในการเพิ่มทุนครั้งนี้"
+        }
+      },
+      {
+        "tranche": "Tranche 3: private placement and/or general public",
+        "units": null,
+        "pct_of_offer": null,
+        "note": "Remainder after tranches 1 and 2; claw-back/claw-forward permitted.",
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 69,
+          "section": "สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "หน่วยทรัสต์ส่วนที่เหลือจากการเสนอขาย ในส่วนที่ 1 และส่วนที่ 2"
+        }
+      }
+    ],
+    "subscription_ratio": {
+      "value": "1 existing unit : 0.3924 new units (record date 2026-08-26)",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260818_P3-Offering.md",
+        "line": 20,
+        "section": "รายละเอียดของหน่วยทรัสต์ที่เสนอขาย",
+        "quote": "1 หน่วยทรัสต์เดิมต่อ 0.3924 หน่วยทรัสต์ที่จะมีการออกและเสนอขายในการเพิ่มทุนครั้งนี้"
+      }
+    },
+    "sponsor_commitment": {
+      "value": "JCK International and/or its concert group must hold at least 7% of the units issued in the 1st capital increase for 5 years from the investment date, with no sale or pledge below that level (except pledges for the trust's benefit with trustee consent). JCK held 9,110,600 units (5.30%) at 2026-03-26.",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 168,
+        "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการ",
+        "quote": "ตลอดระยะเวลา 5 ปีนับแต่วันที่สัญญามีผลใช้บังคับ"
+      }
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months 1 Apr 2026 - 31 Mar 2027 (pro forma, investment assumed from 1 Apr 2026)",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 198,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570"
+        }
+      },
+      "basis_price_thb": {
+        "value": 5.5,
+        "status": "ambiguous",
+        "unit": "THB",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 233,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "จำนวน 88 ล้านหน่วย ในราคาหน่วยละ 5.50 บาท"
+        },
+        "note": "Projection basis: 88M new units at THB 5.50 (THB 484M) and about THB 900M debt; this differs from the cover maximum of 75.8M units at up to THB 6.00 (THB 455M) and THB 1,000M debt."
+      },
+      "dpu_thb": {
+        "value": 0.7082,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 229,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "การจ่ายประโยชน์ตอบแทน และการลดทุนต่อหน่วย (บาท) | 0.6783 | 0.7082"
+        },
+        "note": "Dividend only; no capital reduction projected."
+      },
+      "distribution_yield_pct": {
+        "value": 12.88,
+        "status": "found",
+        "unit": "%",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 230,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "อัตราการจ่ายประโยชน์ตอบแทน และการลดทุนต่อหน่วย (%Yield)/1 | 12.33 | 12.88"
+        },
+        "note": "On the THB 5.50 assumption."
+      },
+      "total_distribution_thb_mn": {
+        "value": 184.13,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 224,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "การจ่ายประโยชน์ตอบแทน และการลดทุน | 116.67 | 184.13"
+        }
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 193.04,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 215,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "กำไรจากการลงทุนสุทธิก่อนปรับปรุง | 124.20 | 193.04"
+        },
+        "note": "Before the lease-liability adjustment (-5.15); distributable cash 187.89; 98% payout."
+      },
+      "yield_sensitivity": [
+        {
+          "offering_price_thb": 5.5,
+          "dpu_thb": 0.7082,
+          "yield_pct": 12.88,
+          "note": "Base case only; no offer-price sensitivity is disclosed. IRR sensitivity: occupancy +/-0.25% gives 11.46-12.46%; rent growth +/-0.25% gives 11.67-12.26% (base IRR 11.97%).",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 230,
+            "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+            "quote": "อัตราการจ่ายประโยชน์ตอบแทน และการลดทุนต่อหน่วย (%Yield)/1 | 12.33 | 12.88"
+          }
+        }
+      ],
+      "pro_forma_note": {
+        "value": "Existing assets only: DPU THB 0.6783 (12.33% on THB 5.50) on 172M units; after the investment: DPU THB 0.7082 (12.88%) on 260M units, +4.4% DPU accretion under the projection assumptions (88M new units at THB 5.50; THB 900M loan at 4.55%). Long-term IRR about 11.97% (90M units at THB 5.30, THB 1,000M debt).",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 229,
+          "section": "ประมาณการงบกำไรขาดทุนตามสถานการณ์สมมติสำหรับงวด 12 เดือน ช่วงเวลาประมาณการตั้งแต่วันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+          "quote": "การจ่ายประโยชน์ตอบแทน และการลดทุนต่อหน่วย (บาท) | 0.6783 | 0.7082"
+        }
+      }
+    },
+    "timeline": [
+      {
+        "event": "Trust established",
+        "date": "2024-11-07",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20251212_P2-02-Policy.md",
+          "line": 15,
+          "section": "การเปลี่ยนแปลงและพัฒนาการที่สำคัญ",
+          "quote": "7 พฤศจิกายน 2567 | กองทรัสต์จัดตั้งขึ้นตาม พ.ร.บ. ทรัสต์ฯ"
+        }
+      },
+      {
+        "event": "Unitholders approve the acquisition and capital increase",
+        "date": "2025-12-09",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20251212_P2-02-Policy.md",
+          "line": 18,
+          "section": "การเปลี่ยนแปลงและพัฒนาการที่สำคัญ",
+          "quote": "9 ธันวาคม 2568 | กองทรัสต์ได้รับมติอนุมัติ"
+        }
+      },
+      {
+        "event": "Registration statement filed",
+        "date": "2025-12-18",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260817_00-Cover.md",
+          "line": 31,
+          "section": "Cover page",
+          "quote": "วันที่ยื่นแบบแสดงรายการข้อมูลและร่างหนังสือชี้ชวน : วันที่ 18 ธันวาคม 2568"
+        }
+      },
+      {
+        "event": "Registration statement effective",
+        "date": "2026-08-20",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260817_00-Cover.md",
+          "line": 32,
+          "section": "Cover page",
+          "quote": "มีผลใช้บังคับ : วันที่ 20 สิงหาคม 2569"
+        }
+      },
+      {
+        "event": "Record date for existing unitholders' rights",
+        "date": "2026-08-26",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 19,
+          "section": "รายละเอียดของหน่วยทรัสต์ที่เสนอขาย",
+          "quote": "(Record Date) | วันที่ 26 สิงหาคม 2569"
+        }
+      },
+      {
+        "event": "Final offer price announced (deadline)",
+        "date": "2026-09-11",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260818_P3-Offering.md",
+          "line": 15,
+          "section": "รายละเอียดของหน่วยทรัสต์ที่เสนอขาย",
+          "quote": "ประกาศผ่านเว็บไซต์ตลาดหลักทรัพย์แห่งประเทศไทยภายในวันที่ 11 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: existing unitholders and non-bookbuilding institutions",
+        "date": "2026-09-14 to 2026-09-18",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260817_00-Cover.md",
+          "line": 34,
+          "section": "Cover page",
+          "quote": "วันที่ 14-18 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: bookbuilding institutions and JCK group",
+        "date": "2026-09-21 to 2026-09-23",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260817_00-Cover.md",
+          "line": 37,
+          "section": "Cover page",
+          "quote": "สำหรับ JCK และ/หรือกลุ่มบุคคลเดียวกัน วันที่ 21-23 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Subscription: private placement / general public",
+        "date": "2026-09-14 to 2026-09-23",
+        "indicative": false,
+        "source": {
+          "file": "MII_PO_20260817_00-Cover.md",
+          "line": 38,
+          "section": "Cover page",
+          "quote": "ประชาชนทั่วไป วันที่ 14-23 กันยายน 2569"
+        }
+      },
+      {
+        "event": "Expected investment in Green Park 1",
+        "date": "2026-09-30",
+        "indicative": true,
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 25,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+          "quote": "คาดว่าจะเข้าลงทุนประมาณวันที่ 30 กันยายน 2569"
+        }
+      }
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 172000000,
+      "status": "found",
+      "unit": "units",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 12,
+        "section": "หน่วยทรัสต์",
+        "quote": "จำนวนหน่วยทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 172,000,000 หน่วย"
+      }
+    },
+    "units_outstanding_after_max": {
+      "value": 247800000,
+      "status": "derived",
+      "unit": "units",
+      "source": {
+        "file": "MII_PO_20260817_00-Cover.md",
+        "line": 18,
+        "section": "Cover page",
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 75,800,000 หน่วย"
+      },
+      "note": "172,000,000 existing units + 75,800,000 maximum new units."
+    },
+    "nav_per_unit_thb": {
+      "value": 9.7747,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 17,
+        "section": "หน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิต่อหน่วยของกองทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 9.7747 บาทต่อหน่วย"
+      }
+    },
+    "total_assets_before_thb_mn": {
+      "value": 1891.6,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "line": 39,
+        "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+        "quote": "สินทรัพย์รวม | 1,891.60 ล้านบาท"
+      }
+    },
+    "total_assets_after_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Post-transaction total assets not stated; only an approximate 30% LTV is disclosed."
+    },
+    "borrowings_before_thb_mn": {
+      "value": 0.0,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "line": 44,
+        "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+        "quote": "(ร้อยละของสินทรัพย์รวม) | ไม่มีเงินกู้ยืม"
+      },
+      "note": "No borrowings at 2026-06-30; lease liabilities of THB 135.88M are not borrowings."
+    },
+    "new_borrowings_thb_mn": {
+      "value": 1000.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 229,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืม",
+        "quote": "วงเงินกู้ทั้งหมดไม่เกิน 1,000 ล้านบาท"
+      },
+      "note": "Maximum facility ('ไม่เกิน')."
+    },
+    "borrowings_after_thb_mn": {
+      "value": 1000.0,
+      "status": "derived",
+      "unit": "THB mn",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 229,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืม",
+        "quote": "วงเงินกู้ทั้งหมดไม่เกิน 1,000 ล้านบาท"
+      },
+      "note": "0 existing borrowings + up to 1,000 new facility (maximum)."
+    },
+    "ltv_before_pct": {
+      "value": 0.0,
+      "status": "found",
+      "unit": "%",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260818_P1-FactSheet.md",
+        "line": 44,
+        "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+        "quote": "(ร้อยละของสินทรัพย์รวม) | ไม่มีเงินกู้ยืม"
+      },
+      "note": "No borrowings."
+    },
+    "ltv_after_pct": {
+      "value": 30.0,
+      "status": "found",
+      "unit": "%",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 241,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืม",
+        "quote": "บนมูลค่าการกู้ยืมสูงสุดไม่เกิน 1,000 ล้านบาทจะคิดได้เป็นประมาณร้อยละ 30"
+      },
+      "note": "Approximate, on the THB 1,000M maximum loan."
+    },
+    "ltv_limit_pct": {
+      "value": 35.0,
+      "status": "found",
+      "unit": "%",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 220,
+        "section": "การกู้ยืมเงินของกองทรัสต์",
+        "quote": "กองทรัสต์มีข้อจำกัดในการกู้ยืมเงินได้ไม่เกินอัตราส่วนร้อยละ 35"
+      },
+      "note": "60% if investment-grade rated; MII has no credit rating."
+    },
+    "loan_terms": {
+      "value": "Lender(s) not named: one or more domestic commercial banks and/or other financial institutions. Facility up to THB 1,000M for Green Park 1 and working capital; tenor up to 8 years from first drawdown; interest based on MLR with an average not above the lender's MLR (projection assumes MLR minus a fixed margin, 4.55% p.a.); monthly interest, quarterly principal with a 1-year grace period; security may include a mortgage over part of the existing assets and/or the new asset plus business security over tenant leases.",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 231,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืม",
+        "quote": "ไม่เกิน 8 ปี นับตั้งแต่วันเบิกเงินกู้ครั้งแรก"
+      }
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "GP1",
+      "name_en": "Green Park 1",
+      "name_th": "โครงการกรีน พาร์ค 1",
+      "asset_type": "Factory / warehouse with office",
+      "location": {
+        "address": "Green Park 1 project, Tha Sa-an, Bang Pakong, Chachoengsao; Bangkok-Chonburi motorway corridor; about 43 km to Suvarnabhumi Airport, 73 km to Laem Chabang Port, 74 km to Bangkok",
+        "address_th": "โครงการกรีน พาร์ค 1 ตำบลท่าสะอ้าน อำเภอบางปะกง จังหวัดฉะเชิงเทรา",
+        "subdistrict": "Tha Sa-an",
+        "district": "Bang Pakong",
+        "province": "Chachoengsao",
+        "zone": "EEC",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 32,
+          "section": "ทำเลที่ตั้ง",
+          "quote": "ตำบลท่าสะอ้าน อำเภอบางปะกง จังหวัดฉะเชิงเทรา"
+        }
+      },
+      "investment_type": {
+        "value": "Freehold",
+        "status": "found",
+        "value_th": "กรรมสิทธิ์ในที่ดินและอาคาร",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 11,
+          "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+          "quote": "รูปแบบการลงทุน: กรรมสิทธิ์ในที่ดินและอาคาร"
+        }
+      },
+      "components": [
+        {
+          "component": "Land (7 title deeds, about 57-1-25.2 rai)",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 23,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รวมขนาดที่ดินประมาณ | | 57 | 1 | 25.2"
+          }
+        },
+        {
+          "component": "Buildings (3 steel-structure factory/warehouse-office buildings)",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 34,
+            "section": "ทำเลที่ตั้ง",
+            "quote": "อาคารโรงงาน จำนวน 3 หลัง"
+          }
+        },
+        {
+          "component": "Related assets and fixtures",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "MII_PO_20260818_P1-FactSheet.md",
+            "line": 57,
+            "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+            "quote": "กรรมสิทธิ์ในทรัพย์สินอื่นที่เกี่ยวข้อง เกี่ยวเนื่อง และจำเป็นต่อการใช้ประโยชน์ของที่ดินและอาคารโรงงานในโครงการกรีน พาร์ค 1"
+          }
+        },
+        {
+          "component": "Access servitude over JCK Utilities and JCK International road land",
+          "right": "Other",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": "Perpetual and free of charge",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 183,
+            "section": "สรุปสาระสำคัญของร่างบันทึกข้อตกลงภาระจำยอม",
+            "quote": "โดยไม่มีค่าตอบแทนและไม่มีกำหนดระยะเวลา"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": null,
+        "status": "not_applicable",
+        "note": "Freehold."
+      },
+      "lease_start": {
+        "value": null,
+        "status": "not_applicable",
+        "note": "Freehold."
+      },
+      "lease_expiry": {
+        "value": null,
+        "status": "not_applicable",
+        "note": "Freehold."
+      },
+      "land_area": {
+        "value_sqm": 91700.8,
+        "as_filed": "57-1-25.2 rai",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P1-FactSheet.md",
+          "line": 57,
+          "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+          "quote": "โดยมีเนื้อที่ที่ดินประมาณ 57-1-25.2 ไร่ พื้นที่อาคารรวมประมาณ 60,611.70 ตารางเมตร"
+        },
+        "note": "57 x 1,600 + 1 x 400 + 25.2 x 4 sqm."
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 60611.7,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 23,
+            "section": "ข้อมูลเกี่ยวกับทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รวมพื้นที่อาคารประมาณ | | 60,611.70"
+          }
+        },
+        "leasable_sqm": {
+          "value": 60611.7,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 56,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "พื้นที่ให้เช่า (ตร.ม.)/2 | 30,763.70 | 60,611.70"
+          },
+          "note": "Leasable area per lease contracts (8 lease units)."
+        },
+        "rooms": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Not a hotel or residential asset."
+        },
+        "buildings": {
+          "value": 3,
+          "status": "found",
+          "unit": "buildings",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 34,
+            "section": "ทำเลที่ตั้ง",
+            "quote": "อาคารโรงงาน จำนวน 3 หลัง"
+          }
+        }
+      },
+      "completion_or_age": {
+        "value": "About 9 years old at the expected investment date (2026-09-30); RC buildings with steel roof, 3 t/sqm floor load, 7-11 m clear height, 7,264-29,847 sqm per building",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 88,
+          "section": "จุดเด่นของของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+          "quote": "โดยมีอายุอาคารเฉลี่ยประมาณ 9 ปี"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "JCK Utilities Co., Ltd. (subsidiary of JCK International)",
+        "status": "found",
+        "value_th": "บริษัท เจซีเค ยูทิลิตี้ส์ จำกัด",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 152,
+          "section": "สรุปสาระสำคัญของร่างสัญญาจะซื้อจะขายทรัพย์สิน",
+          "quote": "ผู้จะขาย: บริษัท เจซีเค ยูทิลิตี้ส์ จำกัด"
+        }
+      },
+      "acquisition_price_thb_mn": {
+        "value": 1455.0,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 139,
+          "section": "ราคาที่จะลงทุน",
+          "quote": "กองทรัสต์จะลงทุนในทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่งในราคาไม่เกิน 1,455,000,000 บาท"
+        },
+        "note": "Maximum price; about 7% below the lower appraisal; excludes taxes, fees and expenses borne by JCK Utilities."
+      },
+      "appraisals": [
+        {
+          "appraiser": "Knight Frank Chartered (Thailand) Co., Ltd.",
+          "valuation_date": "2026-04-01",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 1617.0,
+          "discount_rate_pct": 8.0,
+          "terminal_cap_rate_pct": 7.0,
+          "key_assumptions": "Contract rents, then market rent THB 170/sqm/month with 3% annual growth (rent reset every 3 years after expiry); 90% occupancy after lease expiry; property management fee 4% of revenue; leasing commission 1.5 months per 3-year lease; maintenance/capex 2.5% of revenue; insurance 0.10% of sum insured; cost of sale 3% of terminal value.",
+          "note": "Report dated 2025-10-09; discount and cap rates from NewAssets L134-135; full replacement cost THB 1,360.868M (buildings 787.868M, land 573.0M).",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 101,
+            "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+            "quote": "มูลค่าทรัพย์สินที่จะลงทุนเพิ่มเติมประมาณ | 1,617,000,000 | 1,567,300,000"
+          }
+        },
+        {
+          "appraiser": "The Valuation & Consultants Co., Ltd.",
+          "valuation_date": "2026-04-01",
+          "method": "Income approach (DCF)",
+          "value_thb_mn": 1567.3,
+          "discount_rate_pct": 8.0,
+          "terminal_cap_rate_pct": 6.0,
+          "key_assumptions": "Contract rents, then market rent THB 160/sqm/month with 2.5% annual growth from year 2; occupancy 85% in years 1-3 and 90% thereafter after lease expiry; management fee 3% of revenue plus 5% incentive on operating profit; commission 5.56% of new-tenant revenue; maintenance 1% and capex reserve 2.5% of revenue; cost of sale 3.5% of terminal value.",
+          "note": "Report dated 2025-09-29; discount and cap rates from NewAssets L134-135; full replacement cost THB 1,411.31M (buildings 866.837M, land 544.474M).",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 101,
+            "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+            "quote": "มูลค่าทรัพย์สินที่จะลงทุนเพิ่มเติมประมาณ | 1,617,000,000 | 1,567,300,000"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "2022-12-31",
+          "occupancy_pct": 24.0,
+          "basis": "Leased area at period end (owner data)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 57,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "อัตราการเช่าพื้นที่ ณ รอบสิ้นสุดผลการดำเนินงาน (ร้อยละ) /3 | 24.0 | 58.2 | 68.0 | 100.0 | 93.2"
+          }
+        },
+        {
+          "as_of": "2023-12-31",
+          "occupancy_pct": 58.2,
+          "basis": "Leased area at period end (owner data)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 57,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "อัตราการเช่าพื้นที่ ณ รอบสิ้นสุดผลการดำเนินงาน (ร้อยละ) /3 | 24.0 | 58.2 | 68.0 | 100.0 | 93.2"
+          }
+        },
+        {
+          "as_of": "2024-12-31",
+          "occupancy_pct": 68.0,
+          "basis": "Leased area at period end (owner data)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 57,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "อัตราการเช่าพื้นที่ ณ รอบสิ้นสุดผลการดำเนินงาน (ร้อยละ) /3 | 24.0 | 58.2 | 68.0 | 100.0 | 93.2"
+          }
+        },
+        {
+          "as_of": "2025-12-31",
+          "occupancy_pct": 100.0,
+          "basis": "Leased area at period end (owner data)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 57,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "อัตราการเช่าพื้นที่ ณ รอบสิ้นสุดผลการดำเนินงาน (ร้อยละ) /3 | 24.0 | 58.2 | 68.0 | 100.0 | 93.2"
+          }
+        },
+        {
+          "as_of": "2026-06-30",
+          "occupancy_pct": 93.2,
+          "basis": "Leased area at period end (owner data)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 57,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "อัตราการเช่าพื้นที่ ณ รอบสิ้นสุดผลการดำเนินงาน (ร้อยละ) /3 | 24.0 | 58.2 | 68.0 | 100.0 | 93.2"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2022",
+          "is_projection": false,
+          "revenue_thb_mn": 12.65,
+          "noi_thb_mn": 9.53,
+          "noi_definition": "EBITDA as reported by the asset owner (JCK Utilities)",
+          "occupancy_pct": 24.0,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 138.0,
+          "other_metrics": "Leasable area 30,763.70 sqm; 4 lease units; low occupancy after units were recovered from a defaulting purchaser",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 59,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รายได้รวม (ล้านบาท) | 12.65 | 20.21 | 83.39 | 102.99 | 56.95"
+          }
+        },
+        {
+          "period": "FY2023",
+          "is_projection": false,
+          "revenue_thb_mn": 20.21,
+          "noi_thb_mn": 10.63,
+          "noi_definition": "EBITDA as reported by the asset owner (JCK Utilities)",
+          "occupancy_pct": 58.2,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 147.71,
+          "other_metrics": "Leasable area 60,611.70 sqm; 8 lease units; low occupancy after units were recovered from a defaulting purchaser",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 59,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รายได้รวม (ล้านบาท) | 12.65 | 20.21 | 83.39 | 102.99 | 56.95"
+          }
+        },
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 83.39,
+          "noi_thb_mn": 75.81,
+          "noi_definition": "EBITDA as reported by the asset owner (JCK Utilities)",
+          "occupancy_pct": 68.0,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 167.4,
+          "other_metrics": "Leasable area 60,611.70 sqm; 8 lease units",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 59,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รายได้รวม (ล้านบาท) | 12.65 | 20.21 | 83.39 | 102.99 | 56.95"
+          }
+        },
+        {
+          "period": "FY2025",
+          "is_projection": false,
+          "revenue_thb_mn": 102.99,
+          "noi_thb_mn": 92.19,
+          "noi_definition": "EBITDA as reported by the asset owner (JCK Utilities)",
+          "occupancy_pct": 100.0,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 171.2,
+          "other_metrics": "Leasable area 60,611.70 sqm; 8 lease units",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 59,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รายได้รวม (ล้านบาท) | 12.65 | 20.21 | 83.39 | 102.99 | 56.95"
+          }
+        },
+        {
+          "period": "6M2026",
+          "is_projection": false,
+          "revenue_thb_mn": 56.95,
+          "noi_thb_mn": 56.17,
+          "noi_definition": "EBITDA as reported by the asset owner (JCK Utilities)",
+          "occupancy_pct": 93.2,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": 170.0,
+          "other_metrics": "Leasable area 60,611.70 sqm; 8 lease units; period-end occupancy at 30 Jun 2026 (text header says 31 Mar 2026)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-NewAssets.md",
+            "line": 59,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+            "quote": "รายได้รวม (ล้านบาท) | 12.65 | 20.21 | 83.39 | 102.99 | 56.95"
+          }
+        },
+        {
+          "period": "Apr2026-Mar2027P",
+          "is_projection": true,
+          "revenue_thb_mn": 122.54,
+          "noi_thb_mn": null,
+          "noi_definition": null,
+          "occupancy_pct": null,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Derived: projected trust rental and service revenue after investment 275.00 minus existing assets only 152.46 (12-month pro forma). Projection assumes no property operating costs for the new asset (JCK undertaking).",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 206,
+            "section": "หน่วย : ล้านบาท",
+            "quote": "รายได้ค่าเช่าและบริการ | 152.46 | 275.00"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Direct lease and service agreements between the trust and tenants (to be novated from the seller with tenant consent; JCK Utilities remits rent from non-consenting tenants). Leases mostly about 3 years, some with about 3-year renewal options; fixed monthly rent and service fees; tenants post security deposits. Tenants with early-termination rights account for about 47.90% of the asset's revenue.",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 17,
+          "section": "ลักษณะการดำเนินธุรกิจ",
+          "quote": "ซึ่งส่วนใหญ่กำหนดระยะเวลาประมาณ 3 ปี"
+        }
+      },
+      "rental_guarantee": {
+        "value": null,
+        "status": "not_found",
+        "note": "No rental guarantee is described. Instead JCK International bears repair/renovation, common-area maintenance, land and building tax and insurance costs for 5 years from the investment date (NewAssets L174)."
+      },
+      "key_tenants": [
+        {
+          "name": "Leadasun IoT Technology (Thailand) Co., Ltd.",
+          "name_th": "บริษัท ลีดาสัน ไอโอที เทคโนโลยี (ไทยแลนด์) จำกัด",
+          "business": "Electronics / technology (Chinese); 2-year lease",
+          "area_sqm": null,
+          "pct_of_area": 30.2,
+          "pct_of_revenue": null,
+          "lease_expiry": "2026, 2027",
+          "related_to_sponsor": false,
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 26,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "บริษัท ลีดาสัน ไอโอที เทคโนโลยี (ไทยแลนด์) จำกัด | 30.2 | 2 | 2569, 2570"
+          }
+        },
+        {
+          "name": "Jianxing Construction (Thailand) Co., Ltd.",
+          "name_th": "บริษัท เจี้ยนซิง คอนสตรัคชั่น (ไทยแลนด์) จำกัด",
+          "business": "Contractor / construction (Chinese); 3-year lease",
+          "area_sqm": null,
+          "pct_of_area": 27.0,
+          "pct_of_revenue": null,
+          "lease_expiry": "2029",
+          "related_to_sponsor": false,
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 27,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "บริษัท เจี้ยนซิง คอนสตรัคชั่น (ไทยแลนด์) จำกัด | 27.0 | 3 | 2572"
+          }
+        },
+        {
+          "name": "ATK Technology Co., Ltd.",
+          "name_th": "บริษัท เอทีเค เทคโนโลยี จำกัด",
+          "business": "Electronics / technology (Chinese); 2-year lease",
+          "area_sqm": null,
+          "pct_of_area": 22.6,
+          "pct_of_revenue": null,
+          "lease_expiry": "2026, 2027",
+          "related_to_sponsor": false,
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 28,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "บริษัท เอทีเค เทคโนโลยี จำกัด | 22.6 | 2 | 2569, 2570"
+          }
+        },
+        {
+          "name": "Fagerdala (Thailand) Co., Ltd.",
+          "name_th": "บริษัท ฟาเกอร์ดาลา (ประเทศไทย) จำกัด",
+          "business": "Industrial packaging (US); 3-year lease",
+          "area_sqm": null,
+          "pct_of_area": 20.1,
+          "pct_of_revenue": null,
+          "lease_expiry": "2029",
+          "related_to_sponsor": false,
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 29,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "บริษัท ฟาเกอร์ดาลา (ประเทศไทย) จำกัด | 20.1 | 3 | 2572"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "Four tenants occupy 100% of leased area (93.22% of total leasable area) at 2026-06-30; largest tenant 30.2%; Chinese tenants 79.86% and electronics/technology 52.83% of leased area.",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-Leasing.md",
+          "line": 63,
+          "section": "ลักษณะผู้เช่าทรัพย์สิน",
+          "quote": "คิดเทียบพื้นที่ให้เช่าทั้งหมด (ร้อยละ) | 48.55 | 93.22 | 64.91"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "<= 1 year (from 2026-06-30)",
+          "pct": 52.83,
+          "basis": "area (% of leased area)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 38,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "ไม่เกิน 1 ปี | 37.21 | 52.83 | 45.01"
+          }
+        },
+        {
+          "period": "> 1 to 3 years",
+          "pct": 47.17,
+          "basis": "area (% of leased area)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 39,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "มากกว่า 1 ถึง 3 ปี | 62.79 | 47.17 | 54.99"
+          }
+        },
+        {
+          "period": "> 3 to 5 years",
+          "pct": 0.0,
+          "basis": "area (% of leased area)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 40,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "มากกว่า 3 ถึง 5 ปี | - | - | -"
+          }
+        },
+        {
+          "period": "> 5 years",
+          "pct": 0.0,
+          "basis": "area (% of leased area)",
+          "source": {
+            "file": "MII_PO_20260818_P2-03-Leasing.md",
+            "line": 41,
+            "section": "ลักษณะผู้เช่าทรัพย์สิน",
+            "quote": "มากกว่า 5 ปี | - | - | -"
+          }
+        },
+        {
+          "period": "Expiring in 2026",
+          "pct": 10.47,
+          "basis": "revenue",
+          "source": {
+            "file": "MII_PO_20260818_P2-05-Risks.md",
+            "line": 132,
+            "section": "ความเสี่ยงเกี่ยวกับรายได้ของกองทรัสต์ขึ้นอยู่กับฐานะทางการเงินของผู้เช่าพื้นที่",
+            "quote": "คิดเป็นอัตราส่วนรายได้ประมาณร้อยละ 10.47"
+          }
+        },
+        {
+          "period": "Expiring in 2027",
+          "pct": 41.85,
+          "basis": "revenue",
+          "source": {
+            "file": "MII_PO_20260818_P2-05-Risks.md",
+            "line": 132,
+            "section": "ความเสี่ยงเกี่ยวกับรายได้ของกองทรัสต์ขึ้นอยู่กับฐานะทางการเงินของผู้เช่าพื้นที่",
+            "quote": "คิดเป็นอัตราส่วนรายได้ประมาณร้อยละ 41.85"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": null,
+        "status": "not_found",
+        "note": "Not disclosed for Green Park 1; the Fact Sheet WALE (13.48 / 13.23 years) covers only the remaining land-lease term of leasehold assets."
+      },
+      "encumbrances": {
+        "value": "Seller warrants the asset is free of encumbrances at transfer and the existing mortgage is released before transfer. Road access crosses JCK Utilities and JCK International land; perpetual, free servitudes (title deeds 1876, part of 56321, and 46617) will be registered for the trust. The asset may be mortgaged as security for the new loan.",
+        "status": "found",
+        "source": {
+          "file": "MII_PO_20260818_P2-03-NewAssets.md",
+          "line": 157,
+          "section": "สรุปสาระสำคัญของร่างสัญญาจะซื้อจะขายทรัพย์สิน",
+          "quote": "ทรัพย์สินที่ซื้อขายได้ดำเนินการปลดจำนอง"
+        }
+      },
+      "notes": [
+        "Only one project; price and both appraisals relate to the whole Green Park 1 acquisition (3 buildings, 8 lease units).",
+        "Historical data are owner-provided (JCK Utilities). 2022-2023 occupancy was low because 7 units were tied up in a failed sale agreement (units returned 2021-2022; litigation final).",
+        "Renewal rate on expiring Green Park 1 leases in 2025 was about 54.60% of expiring area (first renewals).",
+        "JCK International undertakes for 5 years: repair/renovation, common-area maintenance, land and building tax and insurance; also covers costs of illegal tenant alterations. Non-compete within 20 km (carve-outs include Green Park 1 extension and Green Park 5, 0.2 km away) and 8-year ROFR on those projects.",
+        "Utilities: electricity applied for by tenants from PEA Bang Pakong; water supplied by JCK International."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2026-06-30",
+      "status": "found",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 16,
+        "section": "หน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิของกองทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 1,681,253,143.98 บาท"
+      }
+    },
+    "listing_date": {
+      "value": "2024-12-19",
+      "status": "ambiguous",
+      "source": {
+        "file": "MII_PO_20251212_P2-02-Policy.md",
+        "line": 17,
+        "section": "การเปลี่ยนแปลงและพัฒนาการที่สำคัญ",
+        "quote": "19 ธันวาคม 2567 | หลักทรัพย์ MII เริ่มซื้อขายในตลาดหลักทรัพย์"
+      },
+      "note": "Policy L7 gives 17 December 2024 as the first trading day; the event table (L17, L24) gives 19 December 2024. Predecessor fund M-II history not covered."
+    },
+    "number_of_assets": {
+      "value": 4,
+      "status": "found",
+      "unit": "projects",
+      "source": {
+        "file": "MII_PO_20251212_P2-02-Policy.md",
+        "line": 22,
+        "section": "การเปลี่ยนแปลงและพัฒนาการที่สำคัญ",
+        "quote": "รวมจำนวน 52 หลัง ใน 4 โครงการ"
+      },
+      "note": "4 projects comprising 52 buildings."
+    },
+    "total_asset_value_thb_mn": {
+      "value": 1891.6,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260818_P2-12-Financials.md",
+        "line": 31,
+        "section": "ข้อมูลทางการเงินที่สำคัญ",
+        "quote": "รวมสินทรัพย์ | 1,846.07 | 100.00 | 1,886.77 | 100.00 | 1,891.60"
+      }
+    },
+    "investment_value_thb_mn": {
+      "value": 1734.68,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260818_P2-12-Financials.md",
+        "line": 23,
+        "section": "ข้อมูลทางการเงินที่สำคัญ",
+        "quote": "เงินลงทุนในอสังหาริมทรัพย์ตามมูลค่ายุติธรรม | 1,716.70 | 92.99 | 1,737.38 | 92.08 | 1,734.68"
+      },
+      "note": "Investments in properties at fair value; higher than the THB 1,598.8M appraisal total (difference not explained in the text; lease accounting likely)."
+    },
+    "nav_thb_mn": {
+      "value": 1681.25,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 16,
+        "section": "หน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิของกองทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 1,681,253,143.98 บาท"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 9.7747,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 17,
+        "section": "หน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิต่อหน่วยของกองทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 9.7747 บาทต่อหน่วย"
+      }
+    },
+    "market_price_per_unit_thb": {
+      "value": 5.95,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-06-30",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 14,
+        "section": "หน่วยทรัสต์",
+        "quote": "ราคาปิดของหน่วยทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 5.95 บาทต่อหน่วย"
+      }
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 1598.8,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2025-08-01",
+      "source": {
+        "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+        "line": 160,
+        "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+        "quote": "รวม | 91-2-76.09 | 63,274.10 | 52 | 1,598,800,000"
+      },
+      "note": "Salmann (Far East), income approach, valuation date 2025-08-01 (report dated 2025-09-25)."
+    },
+    "historical_dpu": [
+      {
+        "period": "FY2024 (7 Nov-31 Dec 2024)",
+        "dpu_thb": 0.0282,
+        "component": "dividend (paid with 1Q2025)",
+        "source": {
+          "file": "MII_PO_20260817_P2-08-Unitholders.md",
+          "line": 89,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "ถึงวันที่ 31 ธันวาคม 2567 จำนวน 0.0282 บาท/หน่วย"
+        }
+      },
+      {
+        "period": "1Q2025",
+        "dpu_thb": 0.1648,
+        "component": "dividend",
+        "source": {
+          "file": "MII_PO_20260817_P2-08-Unitholders.md",
+          "line": 89,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 มกราคม- 31 มีนาคม 2568 จำนวน 0.1648 บาท/หน่วย"
+        }
+      },
+      {
+        "period": "2Q2025",
+        "dpu_thb": 0.162,
+        "component": "dividend",
+        "source": {
+          "file": "MII_PO_20260817_P2-08-Unitholders.md",
+          "line": 84,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 เม.ย.- 30 มิ.ย. 2568 | เงินปันผล | 5 ก.ย. 2568 | 23 ก.ย. 2568 | 0.1620"
+        }
+      },
+      {
+        "period": "3Q2025",
+        "dpu_thb": 0.1623,
+        "component": "dividend",
+        "source": {
+          "file": "MII_PO_20260817_P2-08-Unitholders.md",
+          "line": 85,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 ก.ค.- 30 ก.ย. 2568 | เงินปันผล | 11 ธ.ค. 2568 | 25 ธ.ค. 2568 | 0.1623"
+        }
+      },
+      {
+        "period": "4Q2025",
+        "dpu_thb": 0.15,
+        "component": "dividend",
+        "source": {
+          "file": "MII_PO_20260817_P2-08-Unitholders.md",
+          "line": 86,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "18 มี.ค. 2569 | 31 มี.ค. 2569 | 0.1500"
+        }
+      },
+      {
+        "period": "FY2025",
+        "dpu_thb": 0.6391,
+        "component": "total (dividend) for FY2025 performance; 0.6673 paid during 2025 incl. 0.0282 for FY2024",
+        "source": {
+          "file": "MII_PO_20260818_P1-FactSheet.md",
+          "line": 140,
+          "section": "ข้อมูล ณ วันที่ 30 มิถุนายน 2569",
+          "quote": "สำหรับรอบผลการดำเนินงานงวด 12 เดือน ปี 2568 จำนวน 0.6391 บาท/หน่วย"
+        }
+      },
+      {
+        "period": "1Q2026",
+        "dpu_thb": 0.155,
+        "component": "dividend",
+        "source": {
+          "file": "MII_PO_20260817_P2-08-Unitholders.md",
+          "line": 87,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "5 มิ.ย. 2569 | 22 มิ.ย. 2569 | 0.1550"
+        }
+      }
+    ],
+    "historical_performance": [
+      {
+        "period": "FY2024 (7 Nov-31 Dec 2024)",
+        "total_revenue_thb_mn": 7.83,
+        "rental_and_service_revenue_thb_mn": 7.79,
+        "net_investment_income_thb_mn": 6.38,
+        "net_increase_in_net_assets_thb_mn": 6.16,
+        "occupancy_pct": null,
+        "other_metrics": "EBITDA 6.64 (Fact Sheet); stub period after trust establishment",
+        "source": {
+          "file": "MII_PO_20260818_P2-12-Financials.md",
+          "line": 68,
+          "section": "ข้อมูลทางการเงินที่สำคัญ",
+          "quote": "กำไรจากการลงทุนสุทธิ | 6.38 | 81.51 | 114.80 | 79.01 | 61.62"
+        }
+      },
+      {
+        "period": "FY2025",
+        "total_revenue_thb_mn": 145.29,
+        "rental_and_service_revenue_thb_mn": 141.35,
+        "net_investment_income_thb_mn": 114.8,
+        "net_increase_in_net_assets_thb_mn": 135.48,
+        "occupancy_pct": null,
+        "other_metrics": "EBITDA 119.41 (Fact Sheet); fair-value gain 20.68",
+        "source": {
+          "file": "MII_PO_20260818_P2-12-Financials.md",
+          "line": 68,
+          "section": "ข้อมูลทางการเงินที่สำคัญ",
+          "quote": "กำไรจากการลงทุนสุทธิ | 6.38 | 81.51 | 114.80 | 79.01 | 61.62"
+        }
+      },
+      {
+        "period": "6M2026",
+        "total_revenue_thb_mn": 75.63,
+        "rental_and_service_revenue_thb_mn": 74.73,
+        "net_investment_income_thb_mn": 61.62,
+        "net_increase_in_net_assets_thb_mn": 58.92,
+        "occupancy_pct": null,
+        "other_metrics": "EBITDA 63.82 (Fact Sheet); fair-value loss 2.70",
+        "source": {
+          "file": "MII_PO_20260818_P2-12-Financials.md",
+          "line": 68,
+          "section": "ข้อมูลทางการเงินที่สำคัญ",
+          "quote": "กำไรจากการลงทุนสุทธิ | 6.38 | 81.51 | 114.80 | 79.01 | 61.62"
+        }
+      }
+    ],
+    "portfolio_occupancy": [],
+    "assets": [
+      {
+        "asset_id": "EX-TFD",
+        "name_en": "TFD Industrial Estate",
+        "name_th": "นิคมอุตสาหกรรมทีเอฟดี",
+        "asset_type": "Factory-office (ready-built)",
+        "location": "Moo 5, Tha Sa-an, Bang Pakong",
+        "province": "Chachoengsao",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "M-II fund investments 2012-12-18, 2013-12-24 and 2013-12-27; transferred to MII on conversion 2024-12-12",
+        "land_area_sqm": 54926.4,
+        "leasable_area_sqm": 27810.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": null,
+        "latest_appraisal_thb_mn": 1041.3,
+        "appraisal_date": "2025-08-01",
+        "appraiser": "Salmann (Far East) Co., Ltd.",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "16 one-storey buildings with mezzanine on 16 title deeds (34-1-31.6 rai); building age 11-16 years; area shown is building area (leasable area not separately stated).",
+        "source": {
+          "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+          "line": 156,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "นิคมอุตสาหกรรมทีเอฟดี | 34-1-31.6 | 27,810.00 | 16 | 1,041,300,000"
+        },
+        "extra_sources": [
+          {
+            "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+            "line": 18,
+            "section": "นิคมอุตสาหกรรมทีเอฟดี",
+            "quote": "กองทุนรวมเข้าลงทุนเมื่อวันที่ 18 ธันวาคม 2555 วันที่ 24 ธันวาคม 2556 และวันที่ 27 ธันวาคม 2556"
+          }
+        ]
+      },
+      {
+        "asset_id": "EX-NVN",
+        "name_en": "Navanakorn Industrial Promotion Zone",
+        "name_th": "เขตส่งเสริมอุตสาหกรรมนวนคร",
+        "asset_type": "Factory-office (ready-built)",
+        "location": "Moo 19, Khlong Nueng, Khlong Luang",
+        "province": "Pathum Thani",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "M-II fund investment 2012-12-18; transferred to MII on conversion 2024-12-12",
+        "land_area_sqm": 4009.6,
+        "leasable_area_sqm": 1080.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": null,
+        "latest_appraisal_thb_mn": 37.2,
+        "appraisal_date": "2025-08-01",
+        "appraiser": "Salmann (Far East) Co., Ltd.",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "1 building (age 20 years) on 2-2-2.40 rai; land subject to a pre-existing road servitude in favour of Navanakorn PCL's title deed 967 (not used in practice); area shown is building area.",
+        "source": {
+          "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+          "line": 157,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "นวนคร | 2-2-2.40 | 1,080.00 | 1 | 37,200,000"
+        },
+        "extra_sources": [
+          {
+            "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+            "line": 42,
+            "section": "เขตส่งเสริมอุตสาหกรรมนวนคร",
+            "quote": "ซึ่งกองทุนรวมเข้าลงทุนเมื่อวันที่ 18 ธันวาคม 2555"
+          }
+        ]
+      },
+      {
+        "asset_id": "EX-LCB",
+        "name_en": "Laem Chabang Industrial Estate",
+        "name_th": "นิคมอุตสาหกรรมแหลมฉบัง",
+        "asset_type": "Factory-office (ready-built)",
+        "location": "Moo 3, Thung Sukhla, Si Racha",
+        "province": "Chonburi",
+        "investment_type": "Leasehold + Sub-leasehold (land); freehold buildings",
+        "lease_expiry": "2042-12-17",
+        "acquired": "M-II fund investment 2012-12-20; transferred to MII on conversion 2024-12-12",
+        "land_area_sqm": 46984.36,
+        "leasable_area_sqm": 19350.0,
+        "rooms": null,
+        "acquisition_price_thb_mn": null,
+        "latest_appraisal_thb_mn": 332.0,
+        "appraisal_date": "2025-08-01",
+        "appraiser": "Salmann (Far East) Co., Ltd.",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "18 buildings (age 19 years). IEAT land lease 30 years 2012-12-18 to 2042-12-17 (13 deeds, 28-0-66.09 rai); sub-lease of Port Authority of Thailand land 2019-01-01 to 2042-12-17 (10 deeds, 1-0-80 rai, footpath/fence only). Area shown is building area.",
+        "source": {
+          "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+          "line": 158,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "นิคมอุตสาหกรรมแหลมฉบัง | 29-1-46.09 | 19,350.00 | 18 | 332,000,000"
+        },
+        "extra_sources": [
+          {
+            "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+            "line": 60,
+            "section": "นิคมอุตสาหกรรมแหลมฉบัง",
+            "quote": "สิทธิการเช่าที่ดิน มีกำหนดระยะเวลาการเช่า 30 ปี (เริ่มตั้งแต่วันที่ 18 ธันวาคม 2555 ถึงวันที่ 17 ธันวาคม 2585)"
+          },
+          {
+            "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+            "line": 55,
+            "section": "นิคมอุตสาหกรรมแหลมฉบัง",
+            "quote": "ซึ่งกองทุนรวมเข้าลงทุนเมื่อวันที่ 20 ธันวาคม 2555"
+          }
+        ]
+      },
+      {
+        "asset_id": "EX-KKW",
+        "name_en": "Kingkaew Road Project",
+        "name_th": "โครงการถนนกิ่งแก้ว",
+        "asset_type": "Commercial-office buildings",
+        "location": "Moo 13, Racha Thewa, Bang Phli",
+        "province": "Samut Prakan",
+        "investment_type": "Leasehold (land); freehold buildings",
+        "lease_expiry": "2036-02-19",
+        "acquired": "M-II fund investment 2013-12-04; transferred to MII on conversion 2024-12-12",
+        "land_area_sqm": 40784.0,
+        "leasable_area_sqm": 15034.1,
+        "rooms": null,
+        "acquisition_price_thb_mn": null,
+        "latest_appraisal_thb_mn": 188.3,
+        "appraisal_date": "2025-08-01",
+        "appraiser": "Salmann (Far East) Co., Ltd.",
+        "occupancy_pct": null,
+        "occupancy_as_of": null,
+        "key_tenants": null,
+        "notes": "17 one-storey commercial-office buildings (age 19 years). 30-year land lease 2006-02-10 to 2036-02-19 from private (Huabchaem family) owners with a promise to renew for another 30 years. Part of 9 leased plots expropriated for rural-road widening (buildings unaffected); compensation agreement with the Department of Rural Roads pending; land area may change after re-survey. Area shown is building area.",
+        "source": {
+          "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+          "line": 159,
+          "section": "ราคาที่ได้จากรายงานการประเมินมูลค่าหรือสอบทานการประเมินมูลค่าครั้งล่าสุด",
+          "quote": "โครงการถนนกิ่งแก้ว | 25-1-96 | 15,034.10 | 17 | 188,300,000"
+        },
+        "extra_sources": [
+          {
+            "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+            "line": 115,
+            "section": "โครงการถนนกิ่งแก้ว",
+            "quote": "สิทธิการเช่าที่ดิน มีกำหนดระยะเวลาการเช่า 30 ปี (เริ่มตั้งแต่วันที่ 10 กุมภาพันธ์ 2549 ถึงวันที่ 19 กุมภาพันธ์ 2579) และได้รับคำมั่นที่จะได้ต่ออายุสัญญาเช่าที่ดินออกไปอีก 30 ปี"
+          },
+          {
+            "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+            "line": 111,
+            "section": "โครงการถนนกิ่งแก้ว",
+            "quote": "ซึ่งกองทุนรวมเข้าลงทุนเมื่อวันที่ 4 ธันวาคม 2556"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Existing portfolio: 17 freehold and 35 leasehold buildings, total land about 91-2-76.09 rai (146,704.36 sqm) and building area 63,274.10 sqm.",
+      "Portfolio occupancy is shown only in Fact Sheet charts (not in the text). Derived indication: top-10 tenants are 54.24% of leased area and 48.55% of total leasable area, implying about 89.5% occupancy at 2026-06-30 (48.55 / 54.24).",
+      "Lease expiry of existing assets (leased area, 2026-06-30): <=1 year 37.21%, >1-3 years 62.79%. Renewal rates 100.00% (2024) and 81.50% (2025) of expiring area.",
+      "Freehold share of the portfolio rises from about 46% to about 72% after the Green Park 1 acquisition (NewAssets L89).",
+      "Existing tenant mix by leased area: consumer goods 28.66%, industrial packaging 25.60%, electronics 19.12%; Thai 22.42%, Chinese 17.64%, Japanese 16.61%.",
+      "Fact Sheet WALE of leasehold land rights: 13.48 years at 2026-06-30 (13.23 years at the expected investment date)."
+    ]
+  },
+  "risks": [
+    {
+      "title": "Short leases, early-termination rights and renewal risk at Green Park 1",
+      "category": "Tenant/concentration",
+      "summary": "Four tenants on 1-3 year leases. Tenants with early-termination rights generate about 47.90% of the asset's revenue; leases expiring in 2026 and 2027 are about 10.47% and 41.85% of revenue. The first renewal round (2025) retained only about 54.60% of expiring area.",
+      "asset_specific": true,
+      "applies_to": [
+        "GP1"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 131,
+        "section": "ความเสี่ยงเกี่ยวกับรายได้ของกองทรัสต์ขึ้นอยู่กับฐานะทางการเงินของผู้เช่าพื้นที่ และการตัดสินใจต่ออายุสัญญาเช่าและสัญญาบริการ",
+        "quote": "คิดเป็นสัดส่วนรายได้ประมาณร้อยละ 47.90 ของรายได้ทั้งหมดในทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง"
+      }
+    },
+    {
+      "title": "Tenants may not consent to novation of leases",
+      "category": "Operational",
+      "summary": "The trust becomes landlord only with tenant consent. If a tenant refuses, JCK Utilities must pass through rent and deposits without deductions until the lease expires and must procure a direct lease with the trust on renewal.",
+      "asset_specific": true,
+      "applies_to": [
+        "GP1"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 125,
+        "section": "ความเสี่ยงที่ผู้เช่าพื้นที่ในทรัพย์สินหลักที่กองทรัสต์จะเข้าลงทุนไม่ให้ความยินยอมเข้าเป็นคู่สัญญา",
+        "quote": "กองทรัสต์จะเข้าเป็นคู่สัญญาภายใต้สัญญาเช่าพื้นที่ และ/หรือ สัญญาบริการ ในฐานะผู้ให้เช่าและผู้ให้บริการได้ก็ต่อเมื่อได้รับความยินยอมจากคู่สัญญาภายใต้สัญญาดังกล่าว"
+      }
+    },
+    {
+      "title": "Conflict of interest with JCK International as property manager and competing landlord",
+      "category": "Sponsor/related-party",
+      "summary": "JCK manages all trust assets, is the parent of the seller and still owns competing ready-built factories and warehouses in the same estates and Green Park projects (including Green Park 5, 0.2 km away). Mitigants: equal-offer undertaking, 20 km non-compete with carve-outs, 8-year ROFR.",
+      "asset_specific": true,
+      "applies_to": [
+        "GP1",
+        "EX-TFD"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 137,
+        "section": "ความเสี่ยงจากความขัดแย้งทางผลประโยชน์ที่อาจเกิดขึ้น",
+        "quote": "ยังคงเป็นเจ้าของที่ดิน อาคารโรงงานแบบสำเร็จรูป (Ready-Built) และอาคารคลังสินค้าให้เช่าซึ่งตั้งอยู่ในโครงการนิคมอุตสาหกรรม/โครงการกรีน พาร์ค เดียวกันกับทรัพย์สินหลักของกองทรัสต์"
+      }
+    },
+    {
+      "title": "Dependence on the REIT manager and a single property manager",
+      "category": "Operational",
+      "summary": "Performance depends on MFC and on JCK International, which manages both existing and new assets. If JCK cannot perform, a replacement may be hard to appoint or less effective, affecting income, valuation and distributions.",
+      "asset_specific": true,
+      "applies_to": [
+        "GP1",
+        "EX-TFD",
+        "EX-NVN",
+        "EX-LCB",
+        "EX-KKW"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 121,
+        "section": "ความเสี่ยงของผลประกอบการของกองทรัสต์ขึ้นอยู่กับความสามารถในการบริหารของผู้จัดการกองทรัสต์ และผู้บริหารอสังหาริมทรัพย์",
+        "quote": "ผู้จัดการกองทรัสต์อาจไม่สามารถแต่งตั้งบุคคลอื่นเพื่อทำหน้าที่บริหารจัดการทรัพย์สินหลักที่กองทรัสต์เข้าลงทุนแทนผู้บริหารอสังหาริมทรัพย์รายปัจจุบัน"
+      }
+    },
+    {
+      "title": "Unauthorised tenant alterations",
+      "category": "Asset/property",
+      "summary": "Tenants may alter buildings without permits; authorities can order the trust as owner to fix or stop using them. JCK International undertakes to remove non-compliant alterations at its own cost and indemnify the trust if tenants do not.",
+      "asset_specific": true,
+      "applies_to": [
+        "GP1"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 161,
+        "section": "ความเสี่ยงเกี่ยวกับการดัดแปลงต่อเติมทรัพย์สินหลักที่กองทรัสต์จะเข้าลงทุนโดยผู้เช่าพื้นที่",
+        "quote": "หน่วยงานราชการที่เกี่ยวข้องมีอำนาจพิจารณาสั่งให้ผู้เช่าพื้นที่ซึ่งเป็นผู้ครอบครองอาคารหรือกองทรัสต์ซึ่งเป็นเจ้าของอาคารแก้ไขหรือระงับการใช้อาคารส่วนที่ดัดแปลงต่อเติมดังกล่าวได้"
+      }
+    },
+    {
+      "title": "Expropriation at Kingkaew Road project",
+      "category": "Regulatory/legal",
+      "summary": "Part of nine leased plots at Kingkaew was expropriated for road widening. Construction avoided the buildings and the court case was withdrawn in January 2025, but the land re-survey and compensation agreement with the Rural Roads office are pending, so leased land area may change.",
+      "asset_specific": true,
+      "applies_to": [
+        "EX-KKW"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 180,
+        "section": "ความเสี่ยงจากกรณีการถูกเวนคืนที่ดิน",
+        "quote": "อยู่ระหว่างดำเนินการเพื่อการลงนามในสัญญาจะซื้อจะขายพื้นที่ในเขตเวนคืนกับสำนักงานทางหลวงชนบทที่ 1 (ปทุมธานี)"
+      }
+    },
+    {
+      "title": "Sub-lease of Port Authority land at Laem Chabang",
+      "category": "Leasehold/tenure",
+      "summary": "About 1 rai 80 sq.wa of Laem Chabang land is sub-leased via IEAT from the Port Authority of Thailand. If the head lease ends, the sub-lease falls away; the area is only footpath and fence, so the filing rates the impact as low.",
+      "asset_specific": true,
+      "applies_to": [
+        "EX-LCB"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 93,
+        "section": "ความเสี่ยงที่จะเกิดขึ้นต่อการเช่าช่วงที่ดินที่เป็นกรรมสิทธิ์ของการท่าเรือแห่งประเทศไทย",
+        "quote": "ที่ที่กองทรัสต์เช่าช่วงดังกล่าวมีพื้นที่เพียง 1 ไร่ 80 ตารางวา โดยพื้นที่ทั้งหมดนั้นเป็นทางเท้าและแนวรั้วเท่านั้น"
+      }
+    },
+    {
+      "title": "Leasehold land exposure in the existing portfolio",
+      "category": "Leasehold/tenure",
+      "summary": "Laem Chabang (to 2042) and Kingkaew (to 2036, with a renewal promise) are leasehold land with trust-owned buildings; value runs off as leases expire and depends on landowners not defaulting on encumbrances, though registered leases survive a sale of the land.",
+      "asset_specific": true,
+      "applies_to": [
+        "EX-LCB",
+        "EX-KKW"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 85,
+        "section": "ความเสี่ยงกรณีลงทุนในสิทธิการเช่าที่ดิน",
+        "quote": "การลงทุนในรูปแบบของการเช่าที่ดินอาจมีความเสี่ยง ในกรณีที่กองทรัสต์ไม่ได้ถือกรรมสิทธิ์ในที่ดิน"
+      }
+    },
+    {
+      "title": "First-time borrowing of up to THB 1,000M",
+      "category": "Financing/interest rate",
+      "summary": "The trust moves from no debt to about 30% LTV. Rising rates, weaker cash flow or covenant breaches could cut distributions or lead lenders to enforce security over mortgaged assets; refinancing may be on worse terms.",
+      "asset_specific": false,
+      "applies_to": [
+        "GP1"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 70,
+        "section": "ความเสี่ยงที่อาจเกิดขึ้นจากการกู้ยืมเงิน",
+        "quote": "กองทรัสต์มีความประสงค์ที่จะกู้ยืมเงินระยะยาววงเงินไม่เกิน 1,000.00 ล้านบาท"
+      }
+    },
+    {
+      "title": "Cancellation of the whole offering",
+      "category": "Offering/dilution",
+      "summary": "The best-effort offering must be cancelled and money refunded if subscriptions plus loans cannot fund the purchase, unitholding limits are breached, proceeds cannot be transferred within 15 business days, or material adverse events occur.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 108,
+        "section": "ความเสี่ยงอันอาจเกิดจากการยกเลิกการเสนอขายหน่วยทรัสต์ทั้งจำนวน",
+        "quote": "มูลค่าหน่วยทรัสต์ที่จองซื้อเมื่อรวมกับมูลค่าเงินกู้ยืมจากบุคคลอื่น (ถ้ามี) มีมูลค่าไม่เพียงพอที่จะลงทุนในอสังหาริมทรัพย์"
+      }
+    },
+    {
+      "title": "Industrial estate land-use and operating permits",
+      "category": "Regulatory/legal",
+      "summary": "Loss or non-renewal of the trust's or tenants' industrial estate permits would stop use of the land or breach leases, interrupting rental income until new tenants are found.",
+      "asset_specific": false,
+      "applies_to": [
+        "EX-TFD",
+        "EX-LCB"
+      ],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 170,
+        "section": "ความเสี่ยงเกี่ยวกับใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม",
+        "quote": "หากกองทรัสต์ไม่ได้รับใบอนุญาตดังกล่าวหรือใบอนุญาตถูกยกเลิก กองทรัสต์จะไม่สามารถใช้ที่ดินหรือประกอบกิจการในนิคมอุตสาหกรรมต่อไปได้"
+      }
+    },
+    {
+      "title": "Rising property and operating costs",
+      "category": "Operational",
+      "summary": "Maintenance, renovation, property tax, utilities, insurance and inflation may rise faster than rents, reducing distributions.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 183,
+        "section": "ความเสี่ยงที่ทรัพย์สินที่กองทรัสต์ถือครองนั้นอาจมีค่าใช้จ่ายเกี่ยวกับทรัพย์สิน รวมทั้งค่าใช้จ่ายในการดำเนินการต่าง ๆ เพิ่มมากขึ้น",
+        "quote": "อาจได้รับผลกระทบทางลบหากค่าใช้จ่ายเกี่ยวกับทรัพย์สินและค่าใช้จ่ายในการดำเนินการต่าง ๆ เพิ่มขึ้น"
+      }
+    },
+    {
+      "title": "Appraised values may not be realisable",
+      "category": "Other",
+      "summary": "Appraisals rest on assumptions at the report date; actual sale or transfer prices may be below appraised values or the trust's purchase price.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 196,
+        "section": "ความเสี่ยงที่ทรัพย์สินที่กองทรัสต์ถือครองนั้นอาจมีค่าใช้จ่ายเกี่ยวกับทรัพย์สิน รวมทั้งค่าใช้จ่ายในการดำเนินการต่าง ๆ เพิ่มมากขึ้น",
+        "quote": "ไม่สะท้อนมูลค่าที่แท้จริงของทรัพย์สินหลักของกองทรัสต์ได้อย่างเหมาะสม"
+      }
+    },
+    {
+      "title": "Competition from other factory and warehouse landlords",
+      "category": "Market/competition",
+      "summary": "Well-funded competitors may pressure occupancy and rents or raise costs of attracting tenants.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 151,
+        "section": "ความเสี่ยงจากการแข่งขันที่สูงขึ้น",
+        "quote": "ผู้ประกอบการในธุรกิจอสังหาริมทรัพย์ประเภทเดียวกับกองทรัสต์อาจนำมาซึ่งการแข่งขันที่สูง"
+      }
+    },
+    {
+      "title": "General risks (headings only)",
+      "category": "Structure/buy-back",
+      "summary": "Generic risks listed: units not redeemable; political; natural disaster/flood; due diligence; accounting/legal changes; unit price volatility; secondary-market illiquidity; tax and tax-policy changes; ability to distribute; NAV vs trading price; insurance gaps; counterparty default; ESG compliance costs; major-holder sell-downs; trust termination.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 23,
+        "section": "ความเสี่ยงโดยทั่วไป",
+        "quote": "กองทรัสต์เป็นกองทรัสต์ประเภทไม่รับซื้อคืนหน่วยทรัสต์ ซึ่งผู้ถือหน่วยทรัสต์ไม่สามารถขายคืนหน่วยทรัสต์ได้"
+      }
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "Maximum price THB 1,455M is 7.2% below the lower appraisal (The Valuation & Consultants, THB 1,567.3M) and 10.0% below Knight Frank (THB 1,617.0M). Both use an 8% discount rate but differ on terminal cap rate (6% vs 7%) and market rent (THB 160 vs 170/sqm/month).",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 103,
+        "section": "ราคาประเมินและมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+        "quote": "ต่ำกว่าราคาประเมินต่ำสุดประมาณ | ร้อยละ 7"
+      }
+    },
+    {
+      "topic": "Related-party seller and manager",
+      "observation": "Seller JCK Utilities is a subsidiary of JCK International, which is also the property manager of all assets and a 5.30% unitholder. JCK must hold at least 7% of the new units for 5 years; it retains competing projects nearby (Green Park 1 extension, Green Park 5) under an 8-year ROFR.",
+      "source": {
+        "file": "MII_PO_20260818_P2-05-Risks.md",
+        "line": 120,
+        "section": "ความเสี่ยงของผลประกอบการของกองทรัสต์ขึ้นอยู่กับความสามารถในการบริหารของผู้จัดการกองทรัสต์ และผู้บริหารอสังหาริมทรัพย์",
+        "quote": "เป็นบริษัทแม่ของเจซีเค ยูทิลิตี้ส์ ซึ่งเป็นเจ้าของทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 1"
+      }
+    },
+    {
+      "topic": "Tenant concentration and lease roll-over",
+      "observation": "Green Park 1 has four tenants (largest 30.2% of leased area; about 80% Chinese tenants). 52.83% of leased area expires within 1 year of 30 Jun 2026, and tenants with early-termination rights account for 47.90% of revenue.",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-Leasing.md",
+        "line": 38,
+        "section": "ลักษณะผู้เช่าทรัพย์สิน",
+        "quote": "ไม่เกิน 1 ปี | 37.21 | 52.83 | 45.01"
+      }
+    },
+    {
+      "topic": "Short operating track record",
+      "observation": "Green Park 1 occupancy was 24.0% (2022), 58.2% (2023), 68.0% (2024) and 100.0% (2025), then fell to 93.2% at 30 Jun 2026. Revenue rose from THB 12.65M (2022) to THB 102.99M (2025); data are owner-provided.",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 57,
+        "section": "ผลการดำเนินงานในอดีตของทรัพย์สินหลักที่จะลงทุนเพิ่มเติมครั้งที่หนึ่ง",
+        "quote": "อัตราการเช่าพื้นที่ ณ รอบสิ้นสุดผลการดำเนินงาน (ร้อยละ) /3 | 24.0 | 58.2 | 68.0 | 100.0 | 93.2"
+      }
+    },
+    {
+      "topic": "Issue below NAV and dilution",
+      "observation": "Maximum offer price THB 6.00 is 38.6% below NAV per unit of THB 9.7747 and 36.4% below par (THB 9.4309) at 30 Jun 2026; the unit closed at THB 5.95 that day. Up to 75.8M new units would raise units outstanding by 44.1% (172M to 247.8M).",
+      "source": {
+        "file": "MII_PO_20260817_P2-08-Unitholders.md",
+        "line": 17,
+        "section": "หน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิต่อหน่วยของกองทรัสต์ ณ วันที่ 30 มิถุนายน 2569 | 9.7747 บาทต่อหน่วย"
+      }
+    },
+    {
+      "topic": "Projection not aligned with final deal size",
+      "observation": "Projected DPU THB 0.7082 (12.88%) assumes 88M new units at THB 5.50 and THB 900M debt, and the long-term IRR 11.97% assumes 90M units at THB 5.30 and THB 1,000M debt. Both exceed the cover cap of 75.8M units / THB 455M. The existing-only DPU is 0.6783, so projected accretion is 4.4%.",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-Leasing.md",
+        "line": 233,
+        "section": "หน่วย : ล้านบาท",
+        "quote": "จำนวน 88 ล้านหน่วย ในราคาหน่วยละ 5.50 บาท"
+      }
+    },
+    {
+      "topic": "Five-year cost support by JCK",
+      "observation": "JCK International pays Green Park 1 repair/renovation, common-area maintenance, land and building tax and insurance for 5 years after the investment. The projection therefore assumes no property operating cost for the new asset, so costs would step up after about 2031.",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-NewAssets.md",
+        "line": 174,
+        "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการ",
+        "quote": "ภายในระยะเวลา 5 ปีนับจากวันที่กองทรัสต์เข้าลงทุนในทรัพย์สินที่กองทรัสต์ลงทุน"
+      }
+    },
+    {
+      "topic": "Leverage step-up",
+      "observation": "This is MII's first borrowing: LTV goes from 0% to about 30%. Projected finance costs rise from THB 4.58M (existing only) to THB 45.53M, assuming 4.55% interest; the loan runs up to 8 years with a 1-year principal grace period.",
+      "source": {
+        "file": "MII_PO_20260818_P2-03-Leasing.md",
+        "line": 213,
+        "section": "หน่วย : ล้านบาท",
+        "quote": "ต้นทุนทางการเงิน | 4.58 | 45.53"
+      }
+    },
+    {
+      "topic": "Leasehold expiries in existing portfolio",
+      "observation": "Kingkaew Road land lease ends 2036-02-19 (with a promise to renew for 30 years) and Laem Chabang ends 2042-12-17. Kingkaew also has a pending expropriation compensation and re-survey. The acquisition lifts the freehold share of the portfolio from about 46% to about 72%.",
+      "source": {
+        "file": "MII_PO_20260403_P2-03-ExistingAssets.md",
+        "line": 115,
+        "section": "โครงการถนนกิ่งแก้ว",
+        "quote": "ถึงวันที่ 19 กุมภาพันธ์ 2579) และได้รับคำมั่นที่จะได้ต่ออายุสัญญาเช่าที่ดินออกไปอีก 30 ปี"
+      }
+    },
+    {
+      "topic": "Offering costs and distribution",
+      "observation": "Estimated offering expenses of about THB 41M are borne by JCK Utilities, not the trust. The offering is best-effort, run by the REIT manager MFC as distribution manager, with no financial adviser for the offering.",
+      "source": {
+        "file": "MII_PO_20260818_P3-Offering.md",
+        "line": 439,
+        "section": "ประมาณการค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+        "quote": "โดยเจซีเค ยูทิลิตี้ส์ เป็นผู้รับผิดชอบค่าใช้จ่ายในการเสนอขายหน่วยทรัสต์ทั้งหมด"
+      }
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "_toc.md",
+      "MII_PO_20260817_00-Cover.md",
+      "MII_PO_20260403_00-Cover.md",
+      "MII_PO_20260818_P1-FactSheet.md",
+      "MII_PO_20260403_P1-FactSheet.md",
+      "MII_PO_20251212_P2-01-UseOfProceeds.md",
+      "MII_PO_20260818_P3-Offering.md",
+      "MII_PO_20260818_P2-03-NewAssets.md",
+      "MII_PO_20260818_P2-03-Leasing.md",
+      "MII_PO_20260403_P2-03-ExistingAssets.md",
+      "MII_PO_20260817_P2-13-MDA.md",
+      "MII_PO_20260818_P2-12-Financials.md",
+      "MII_PO_20260817_P2-08-Unitholders.md",
+      "MII_PO_20260818_P2-05-Risks.md",
+      "MII_PO_20251212_P2-02-Policy.md",
+      "MII_PO_20260817_P2-11-RelatedParty.md",
+      "MII_PO_20260403_P2-10-Fees.md",
+      "MII_PO_20260818_P2-09-Governance.md (grep and lines 1030-1068 only)"
+    ],
+    "not_found": [
+      {
+        "field": "offering.offering_price_per_unit.min_thb",
+        "reason": "Only a maximum price (THB 6.00) is disclosed; no range floor."
+      },
+      {
+        "field": "offering.offering_price_per_unit.final_thb",
+        "reason": "Final price is to be announced on the SET website by 2026-09-11; not in the text filings."
+      },
+      {
+        "field": "offering.projected_distribution.yield_sensitivity (other offer prices)",
+        "reason": "No DPU/yield sensitivity to offer price in the text; the sensitivity attachment is a PDF, which is excluded. Only IRR sensitivity to occupancy and rent growth is given."
+      },
+      {
+        "field": "capital_structure.total_assets_after_thb_mn",
+        "reason": "Post-transaction total assets not stated; only an approximate 30% LTV."
+      },
+      {
+        "field": "new_assets[GP1].wale_years",
+        "reason": "Not disclosed for Green Park 1; Fact Sheet WALE covers only the land-lease term of leasehold assets."
+      },
+      {
+        "field": "new_assets[GP1].rental_guarantee",
+        "reason": "No rental guarantee described; only a 5-year expense undertaking by JCK International."
+      },
+      {
+        "field": "new_assets[GP1].key_tenants[].area_sqm / pct_of_revenue",
+        "reason": "Tenant table gives only % of leased area, lease term and expiry year."
+      },
+      {
+        "field": "new_assets[GP1].appraisals (full cash-flow details)",
+        "reason": "Only the summary of key assumptions is in the text; the appraisal reports are PDFs, which are excluded."
+      },
+      {
+        "field": "existing_portfolio.portfolio_occupancy / assets[].occupancy_pct",
+        "reason": "Occupancy appears only in Fact Sheet charts (images), not in the text; a derived indication is given in notes."
+      },
+      {
+        "field": "existing_portfolio.assets[].key_tenants",
+        "reason": "Top-10 tenant list is portfolio-level only, not by project."
+      },
+      {
+        "field": "existing_portfolio.assets[].acquisition_price_thb_mn",
+        "reason": "Original M-II fund acquisition prices are not in the text filings."
+      },
+      {
+        "field": "existing_portfolio.assets[].leasable_area_sqm",
+        "reason": "Leasable area not stated by project; building area is used as a proxy (noted per row)."
+      },
+      {
+        "field": "parties.legal_advisors",
+        "reason": "No legal advisor named in the text filings."
+      },
+      {
+        "field": "parties.lenders",
+        "reason": "Lenders are described only as domestic commercial bank(s) / financial institutions."
+      },
+      {
+        "field": "parties.underwriters",
+        "reason": "No underwriters or selling agents other than MFC are named (may be appointed later)."
+      }
+    ],
+    "ambiguities": [
+      {
+        "field": "filing.reit_name_en",
+        "detail": "Latest cover: 'MFC Industrial Freehold and Leasehold Real Estate Investment Trust (MII)'; Fact Sheet and Use of Proceeds: 'MFC Industrial Investment Freehold and Leasehold Real Estate Investment Trust'."
+      },
+      {
+        "field": "filing.listing / existing_portfolio.listing_date",
+        "detail": "Policy (Dec 2025) L7 says trading began 17 Dec 2024; the event table (L17, L24) says 19 Dec 2024."
+      },
+      {
+        "field": "offering.units_offered_max vs Policy (Dec 2025)",
+        "detail": "Policy L25 records unitholder approval for up to 90,000,000 units; the August 2026 cover caps the offer at 75,800,000 units. Use of Proceeds (Dec 2025) is consistent with THB 1,455M. Fees (Apr 2026) caps match the August Fact Sheet; no conflict found."
+      },
+      {
+        "field": "offering.projected_distribution",
+        "detail": "Projection (DPU 0.7082, 12.88%) assumes 88M units at THB 5.50 (THB 484M) and THB 900M debt, unchanged from the April draft; it exceeds the cover maximum of 75.8M units / THB 455M, and 484 + 900 = 1,384 is below the THB 1,455M price. IRR 11.97% assumes 90M units at THB 5.30 and THB 1,000M debt. Rental revenue is based on leases as of 30 Sep 2025."
+      },
+      {
+        "field": "new_assets[GP1].historical_performance",
+        "detail": "Text says performance to the period ending 31 Mar 2026, but the table column is 30 Jun 2026 (6M2026)."
+      },
+      {
+        "field": "existing_portfolio.historical_dpu",
+        "detail": "Fact Sheet labels the 0.1550 DPU as '3 months 2026' while its financial table column is the 6 months to 30 Jun 2026; the 10.56% yield is annualised from 1Q2026."
+      },
+      {
+        "field": "existing_portfolio.investment_value_thb_mn vs latest_appraisal_total_thb_mn",
+        "detail": "Balance sheet investments at fair value THB 1,734.68M (30 Jun 2026) vs appraisal total THB 1,598.8M (1 Aug 2025); ExistingAssets footnote cites the FY2025 audited statements as the source. The difference is not explained in the text."
+      },
+      {
+        "field": "existing_portfolio.assets[EX-KKW].lease_expiry",
+        "detail": "30-year lease stated as 10 Feb 2006 to 19 Feb 2036 (30 years plus 9 days)."
+      },
+      {
+        "field": "existing_portfolio.assets[EX-KKW] expropriation counterparty",
+        "detail": "ExistingAssets/MDA cite the Department of Rural Roads (sale agreement); Risks (Aug 2026) cites Rural Roads Office 1 (Pathum Thani) and a sale-and-purchase (จะซื้อจะขาย) agreement."
+      },
+      {
+        "field": "capital_structure / MDA",
+        "detail": "Minor rounding differences: total assets 31 Dec 2025 1,886.76 (Fact Sheet) vs 1,886.77 (Financials/MDA); FY2025 yield 15.03% (latest) vs 15.02% (older Fact Sheet); debt/total assets unit label 'times' with 0.11 vs 11.24% in the older draft."
+      },
+      {
+        "field": "offering.allocation (non-offered nationalities)",
+        "detail": "Cover lists South Korean nationals ('สัญชาติเกาหลีใต้'); P3-Offering L55 says 'สัญชาติเกาหลี' (Korean)."
+      }
+    ],
+    "self_checks": [
+      {
+        "check": "Max units x max price ~= offering size (+/-1%)",
+        "result": "pass",
+        "detail": "75,800,000 x THB 6.00 = THB 454.8M vs THB 455M (-0.04%)."
+      },
+      {
+        "check": "DPU / basis price ~= projected yield",
+        "result": "pass",
+        "detail": "0.7082 / 5.50 = 12.88% vs 12.88% stated; existing-only 0.6783 / 5.50 = 12.33% vs 12.33%."
+      },
+      {
+        "check": "Funding sources ~= total investment value (+ costs)",
+        "result": "pass",
+        "detail": "455 + 1,000 = THB 1,455M = total investment value; offering costs of about THB 41M are borne by JCK Utilities."
+      },
+      {
+        "check": "Sum of asset prices <= total investment value",
+        "result": "pass",
+        "detail": "Green Park 1 max price THB 1,455M <= THB 1,455M."
+      },
+      {
+        "check": "Lease start + tenure ~= expiry (new assets)",
+        "result": "n/a",
+        "detail": "Green Park 1 is freehold."
+      },
+      {
+        "check": "Lease start + tenure ~= expiry (existing leaseholds)",
+        "result": "pass",
+        "detail": "Laem Chabang 2012-12-18 + 30y = 2042-12-18 vs 2042-12-17; PAT sub-lease 2019-01-01 + 23y11m17d = 2042-12-18 vs 2042-12-17; Kingkaew 2006-02-10 + 30y = 2036-02-10 vs 2036-02-19 (9-day gap)."
+      },
+      {
+        "check": "Price discount to lower appraisal ~= 7% as stated",
+        "result": "pass",
+        "detail": "1 - 1,455 / 1,567.3 = 7.2%."
+      },
+      {
+        "check": "Projection unit basis consistent with cover maximum",
+        "result": "fail",
+        "detail": "Projection uses 88M new units (172M + 88M = 260M, matching the table) at THB 5.50 = THB 484M, above the cover cap of 75.8M units / THB 455M. Filing figures left unchanged."
+      },
+      {
+        "check": "Projection funding covers the acquisition price",
+        "result": "fail",
+        "detail": "88M x 5.50 = 484 + 900 debt = THB 1,384M < THB 1,455M max price (difference may reflect a different assumed price; not explained)."
+      },
+      {
+        "check": "Tranche 1 cap vs rights ratio",
+        "result": "pass",
+        "detail": "172,000,000 x 0.3924 = 67,492,800 units <= 68,220,000 cap (= 90% of 75.8M)."
+      },
+      {
+        "check": "LTV after ~= 30%",
+        "result": "pass",
+        "detail": "1,000 / (1,891.6 + 1,455) = 29.9%."
+      },
+      {
+        "check": "NAV per unit = (total assets - liabilities) / units",
+        "result": "pass",
+        "detail": "(1,891.60 - 210.35) / 172M = THB 9.7747."
+      },
+      {
+        "check": "Existing appraisal and land total",
+        "result": "pass",
+        "detail": "1,041.3 + 37.2 + 332.0 + 188.3 = THB 1,598.8M; land 34-1-31.6 + 2-2-2.40 + 29-1-46.09 + 25-1-96 = 91-2-76.09 rai."
+      },
+      {
+        "check": "Green Park 1 tenant shares sum to ~100%",
+        "result": "pass",
+        "detail": "30.2 + 27.0 + 22.6 + 20.1 = 99.9%."
+      },
+      {
+        "check": "Distributions paid in 2025 = Fact Sheet FY2025 DPU",
+        "result": "pass",
+        "detail": "0.1930 + 0.1620 + 0.1623 + 0.1500 = 0.6673."
+      }
+    ]
+  }
+}

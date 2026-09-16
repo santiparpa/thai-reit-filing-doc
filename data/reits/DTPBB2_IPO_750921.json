@@ -1,0 +1,799 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "DTPBB2_IPO_750921",
+    "sec_filing_no": "750921",
+    "ticker": "DTPBB2",
+    "offering_type": "IPO",
+    "offering_type_evidence": {
+      "value": "IPO confirmed: the trust is still being established, has no financial statements, and the offering is described as the first offering of units (paid-up capital of up to THB 2,200m after the first offering).",
+      "value_th": "เนื่องจากกองทรัสต์ยังไม่ได้จัดตั้ง ดังนั้น จึงยังไม่มีข้อมูลทางการเงิน",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 201, "section": "การวิเคราะห์และคำอธิบายของผู้จัดการกองทรัสต์ถึงการดำเนินงานและฐานะทางการเงินของกองทรัสต์", "quote": "เนื่องจากกองทรัสต์ยังไม่ได้จัดตั้ง ดังนั้น จึงยังไม่มีข้อมูลทางการเงิน"},
+      "note": "Also: Governance L10 (paid-up capital of up to THB 2,200m after the first unit offering) and Risks L17 (trust is in the process of establishment with no operating history)."
+    },
+    "reit_name_en": {
+      "value": "DTP Office Real Estate Investment Trust with Buy-Back Condition",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 11, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "DTP Office Real Estate Investment Trust with Buy-Back Condition"}
+    },
+    "reit_name_th": {
+      "value": "ทรัสต์เพื่อการลงทุนในกรรมสิทธิ์อสังหาริมทรัพย์ ดีทีพี ออฟฟิศ ที่มีข้อตกลงในการซื้อคืน",
+      "value_th": "ทรัสต์เพื่อการลงทุนในกรรมสิทธิ์อสังหาริมทรัพย์ ดีทีพี ออฟฟิศ ที่มีข้อตกลงในการซื้อคืน",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 9, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ทรัสต์เพื่อการลงทุนในกรรมสิทธิ์อสังหาริมทรัพย์ ดีทีพี ออฟฟิศ ที่มีข้อตกลงในการซื้อคืน"}
+    },
+    "reit_structure": {
+      "value": "Freehold REIT with buy-back condition (REIT buy-back), no fixed term, units not redeemable, not to be listed. The trust buys the land and buildings of DTGO Campus from MTRA under a sale with right of redemption (khai fak) and buys the movable assets outright, for a combined price of up to THB 2,200m. Buy-back mechanics: (1) at the end of year 3 from investment, MTRA has an OPTION to redeem the real estate and buy back the movables at the same price the trust paid; (2) on the day after the end of year 3, MTRA has an OBLIGATION to buy back both under a separate agreement to sell back; (3) if the buy-back does not happen, the trust may require MTRA to buy back on any later date, or may sell to a third party with MTRA liable for any shortfall versus the buy-back price plus taxes and fees. MQDC (MTRA's parent) guarantees MTRA's obligations up to THB 2,200m principal plus interest, fees and expenses, but is not obliged to buy back the assets itself. The property is master-leased to DTGO for fixed rent. The trust will be dissolved once the assets are sold back and it has no other assets.",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุ มีข้อกำหนดในการซื้อคืนภายในปีที่ 3 นับจากวันที่กองทรัสต์เข้าลงทุน และไม่รับไถ่ถอนหน่วยทรัสต์",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 11, "section": "แบบ 69-REIT", "quote": "กองทรัสต์ไม่กำหนดอายุ มีข้อกำหนดในการซื้อคืนภายในปีที่ 3 นับจากวันที่กองทรัสต์เข้าลงทุน"},
+      "note": "Buy-back detail from P1-FactSheet L52-53 and L157-159, P2-03-NewAssets L320 (redemption option), L373 (obligation), L377 (shortfall liability) and L400 (MQDC guarantee capped at THB 2,200m principal; MQDC not obliged to buy back in MTRA's place)."
+    },
+    "capital_increase_no": {"value": null, "status": "not_applicable", "note": "IPO"},
+    "additional_investment_no": {"value": null, "status": "not_applicable", "note": "IPO"},
+    "investor_eligibility": {
+      "value": "Institutional investors and/or ultra-high-net-worth (UHNW) investors only. Units may only be transferred within those two groups, except by inheritance. Minimum subscription is 1,000 units (THB 10,000) for institutional investors and 10,000 units (THB 100,000) for UHNW investors. The original-owner group (MTRA, the REIT manager and their related persons) may voluntarily subscribe for up to 50% of units sold. Foreign holdings are capped at 49%.",
+      "value_th": "โดยเสนอขายให้แก่ผู้ลงทุนสถาบัน และ/หรือ ผู้ลงทุนรายใหญ่พิเศษ",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 22, "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย", "quote": "จำกัดการโอนหน่วยทรัสต์เฉพาะภายในกลุ่มผู้ลงทุนสถาบัน หรือ ผู้ลงทุนรายใหญ่พิเศษเท่านั้น เว้นแต่เป็นการโอนทางมรดก"},
+      "note": "Minimum subscription amounts from P3-Offering L23; 50% cap for the original-owner group from L34; 49% foreign cap from L186."
+    },
+    "listing": {
+      "value": "Will not be listed on the SET; the trust has no intention of listing. Investors may trade units through securities distributors, and there is no secondary-market price.",
+      "value_th": "หน่วยทรัสต์ที่ออกและเสนอขายทั้งหมดในครั้งนี้จะไม่ได้มีการจดทะเบียนในตลาดหลักทรัพย์",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 99, "section": "ตลาดรองของหน่วยทรัสต์ที่เสนอขาย", "quote": "เนื่องจากหน่วยทรัสต์ที่ออกและเสนอขายทั้งหมดในครั้งนี้จะไม่ได้มีการจดทะเบียนในตลาดหลักทรัพย์"}
+    },
+    "unitholder_approval_date": {"value": null, "status": "not_applicable", "note": "IPO: no existing unitholders"},
+    "data_as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 7, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"}
+    },
+    "latest_document_date": "2026-05-18",
+    "documents_used": [
+      {"file": "DTPBB2_IPO_20260511_00-Cover.md", "doc_type": "00-Cover", "uploaded": "20260511", "used_for": "Names, headline caps (bracketed), parties, filing date"},
+      {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "doc_type": "P1-FactSheet", "uploaded": "20260511", "used_for": "Data date, appraisal summary, projection, DPU/yield, rent sensitivity, counterparty credit summary, fees"},
+      {"file": "DTPBB2_IPO_20260217_P2-01-UseOfProceeds.md", "doc_type": "P2-01-UseOfProceeds", "uploaded": "20260217", "used_for": "Use of proceeds (bracketed caps)"},
+      {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "doc_type": "P3-Offering", "uploaded": "20260515", "used_for": "Offer size, price, par, allocation, lead managers and distributors, offering costs, listing status"},
+      {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "doc_type": "P2-03-NewAssets", "uploaded": "20260511", "used_for": "Asset description, areas, performance, insurance, appraisals, price, investment agreements, loan terms, related-party purchase"},
+      {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "doc_type": "P2-03-Leasing", "uploaded": "20260511", "used_for": "Master lease terms, lessee/guarantor/seller financials, projection, IRR sensitivity"},
+      {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "doc_type": "P2-05-Risks", "uploaded": "20260518", "used_for": "Risk factors, LTV 22.73%"},
+      {"file": "DTPBB2_IPO_20260511_P2-02-Policy.md", "doc_type": "P2-02-Policy", "uploaded": "20260511", "used_for": "Structure, no-listing objective, actions if buy-back fails"},
+      {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "doc_type": "P2-09-Governance", "uploaded": "20260511", "used_for": "Manager shareholding, lessee, trustee, auditor, appraisers, FA, legal adviser, related trust DTPBB"},
+      {"file": "DTPBB2_IPO_20260511_P2-11-RelatedParty.md", "doc_type": "P2-11-RelatedParty", "uploaded": "20260511", "used_for": "Related-party map (DTGO, DTP, DTPRM, MQDC, MTRA)"},
+      {"file": "DTPBB2_IPO_20260511_00-Definitions.md", "doc_type": "00-Definitions", "uploaded": "20260511", "used_for": "Abbreviations, English project name, related trust DTPBB, fiscal year"},
+      {"file": "DTPBB2_IPO_20260217_P2-08-Unitholders.md", "doc_type": "P2-08-Unitholders", "uploaded": "20260217", "used_for": "Cross-check of par, units and price (Feb 2026 legacy draft)"},
+      {"file": "DTPBB2_IPO_20260217_P2-12-Financials.md", "doc_type": "P2-12-Financials", "uploaded": "20260217", "used_for": "Confirms no trust financials (not yet established)"},
+      {"file": "DTPBB2_IPO_20260217_P2-06-Litigation.md", "doc_type": "P2-06-Litigation", "uploaded": "20260217", "used_for": "No litigation"},
+      {"file": "DTPBB2_IPO_20260217_P2-07-Other.md", "doc_type": "P2-07-Other", "uploaded": "20260217", "used_for": "No other information"}
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Office",
+    "sub_sectors": ["Office", "Co-working space"],
+    "description": {
+      "value": "Unlisted buy-back REIT for institutional and UHNW investors that will own the freehold DTGO Campus co-working office complex (4 buildings, about 20,223 sqm, 1,588 seats) in Bang Phli, Samut Prakan, bought from related party MTRA and master-leased to related party DTGO for fixed rent.",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 74, "section": "ลักษณะอาคารและสิ่งปลูกสร้าง", "quote": "โดยมีพื้นที่ใช้สอยรวมประมาณ 20,223 ตารางเมตร1/"}
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "DTGO Corporation Limited",
+        "name_th": "บริษัท ดีทีจีโอ คอร์ปอเรชั่น จำกัด",
+        "role_detail": "Group parent. Holds 99.99% of DTP, which owns 99.99% of the REIT manager, and 99.84% of MQDC, which owns 99.99% of seller MTRA. Also the master lessee and the trust-expense undertaker. The filing does not use the word 'sponsor'; DTGO is classified as sponsor because it controls the seller, lessee, guarantor and manager.",
+        "related_to_sponsor": true,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-11-RelatedParty.md", "line": 15, "section": "รายชื่อผู้จัดการกองทรัสต์ และบุคคลที่เกี่ยวโยงกันกับผู้จัดการกองทรัสต์", "quote": "เป็นผู้ถือหุ้นรายใหญ่ของ MQDC โดย DTGO ถือหุ้นคิดเป็นร้อยละ 99.84 ของจำนวนหุ้นทั้งหมดของ MQDC"}
+      }
+    ],
+    "reit_manager": {
+      "name_en": "DTP Global REITs Management Limited",
+      "name_th": "บริษัท ดีทีพี โกลบอล รีทส์ แมเนจเม้นท์ จำกัด",
+      "role_detail": "Trust founder and REIT manager (DTPRM). 99.99% owned by DTGO Prosperous Co., Ltd. (DTP), itself 99.99% owned by DTGO. Also manages the related trust DTPBB.",
+      "related_to_sponsor": true,
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 7, "section": "แบบ 69-REIT", "quote": "DTP GLOBAL REITS MANAGEMENT LIMITED"}
+    },
+    "trustee": {
+      "name_en": "Krungthai Asset Management Public Company Limited",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)",
+      "role_detail": "Trustee and unit registrar; 99.99% owned by Krung Thai Bank PCL. The lender may be a related party of the trustee.",
+      "related_to_sponsor": false,
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 23, "section": "แบบ 69-REIT", "quote": "ทรัสตี : บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)"}
+    },
+    "property_managers": [],
+    "financial_advisors": [
+      {
+        "name_en": "Discover Management Company Limited",
+        "name_th": "บริษัท ดิสคัฟเวอร์ แมเนจเม้นท์ จำกัด",
+        "role_detail": "Financial advisor",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "line": 627, "section": "ที่ปรึกษาการเงิน", "quote": "บริษัท ดิสคัฟเวอร์ แมเนจเม้นท์ จำกัด"}
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "Yuanta Securities (Thailand) Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด",
+        "role_detail": "Lead manager of the unit distribution (best effort). The Cover, Fact Sheet and Definitions still show '[]' for this role.",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 14, "section": "ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย", "quote": "บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกัด"}
+      },
+      {
+        "name_en": "DAOL Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Lead manager of the unit distribution (best effort)",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 110, "section": "ผู้จัดจำหน่ายหน่วยทรัสต์", "quote": "บริษัทหลักทรัพย์ ดาโอ (ประเทศไทย) จำกัด (มหาชน)"}
+      }
+    ],
+    "underwriters": [
+      {
+        "name_en": "Beyond Securities Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ บียอนด์ จำกัด (มหาชน)",
+        "role_detail": "Distributor (best effort)",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 121, "section": "ผู้จัดจำหน่ายหน่วยทรัสต์", "quote": "บริษัทหลักทรัพย์ บียอนด์ จำกัด (มหาชน)"}
+      },
+      {
+        "name_en": "Maybank Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Distributor (best effort)",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 126, "section": "ผู้จัดจำหน่ายหน่วยทรัสต์", "quote": "บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน)"}
+      },
+      {
+        "name_en": "UOB Kay Hian Securities (Thailand) Public Company Limited",
+        "name_th": "บริษัท หลักทรัพย์ ยูโอบี เคย์เฮียน (ประเทศไทย) จำกัด (มหาชน)",
+        "role_detail": "Distributor (best effort)",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 131, "section": "ผู้จัดจำหน่ายหน่วยทรัสต์", "quote": "บริษัท หลักทรัพย์ ยูโอบี เคย์เฮียน (ประเทศไทย) จำกัด (มหาชน)"}
+      }
+    ],
+    "appraisers": [
+      {
+        "name_en": "Prefer Appraisal Company Limited (PFA)",
+        "name_th": "บริษัท พรีเฟอ แอพไพรซัล จำกัด",
+        "role_detail": "Independent appraiser; income approach THB 2,224m",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "line": 621, "section": "ผู้ประเมินมูลค่าทรัพย์สิน", "quote": "บริษัท พรีเฟอ แอพไพรซัล จำกัด"}
+      },
+      {
+        "name_en": "Grand Asset Advisory Company Limited (GAA)",
+        "name_th": "บริษัท แกรนด์ แอสเซท แอดไวเซอรี่ จำกัด",
+        "role_detail": "Independent appraiser; income approach THB 2,245m",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "line": 622, "section": "ผู้ประเมินมูลค่าทรัพย์สิน", "quote": "บริษัท แกรนด์ แอสเซท แอดไวเซอรี่ จำกัด"}
+      }
+    ],
+    "auditor": {
+      "name_en": "DIA International Audit Company Limited",
+      "name_th": "บริษัท สอบบัญชี ดี ไอ เอ อินเตอร์เนชั่นแนล จำกัด",
+      "role_detail": "Auditor who prepared the trust's projection (auditors Jumpot Priratanakorn, Supaporn Mangjit, Apipong Lueangnakthongdee)",
+      "related_to_sponsor": false,
+      "source": {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "line": 602, "section": "ผู้สอบบัญชีผู้จัดทำประมาณการสมมติฐานของกองทรัสต์", "quote": "บริษัท สอบบัญชี ดี ไอ เอ อินเตอร์เนชั่นแนล จำกัด"}
+    },
+    "legal_advisors": [
+      {
+        "name_en": "Charin and Partners Company Limited",
+        "name_th": "บริษัท ชรินทร์ แอนด์ พาทเนอร์ส จำกัด",
+        "role_detail": "Legal advisor",
+        "related_to_sponsor": false,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "line": 635, "section": "ที่ปรึกษากฎหมาย", "quote": "บริษัท ชรินทร์ แอนด์ พาทเนอร์ส จำกัด"}
+      }
+    ],
+    "lenders": [],
+    "sellers_or_lessors": [
+      {
+        "name_en": "MQDC Town Royal Asset Company Limited (MTRA)",
+        "name_th": "บริษัท เอ็มคิวดีซี ทาวน์ รอยัล แอสเซท จำกัด",
+        "role_detail": "Current owner and seller of DTGO Campus under a sale with right of redemption (real estate) and an outright sale (movables); holds the buy-back option and obligation. 99.99% owned by MQDC; registered capital THB 50m.",
+        "related_to_sponsor": true,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 314, "section": "สัญญาขายฝากอสังหาริมทรัพย์", "quote": "ผู้ขายฝาก | บริษัท เอ็มคิวดีซี ทาวน์ รอยัล แอสเซท จำกัด"}
+      }
+    ],
+    "operators_or_master_lessees": [
+      {
+        "name_en": "DTGO Corporation Limited (DTGO)",
+        "name_th": "บริษัท ดีทีจีโอ คอร์ปอเรชั่น จำกัด",
+        "role_detail": "Master lessee paying fixed rent quarterly; manages the property itself; bears all trust expenses under the DTGO undertaking agreement (THB 10m cash reserve, topped up monthly)",
+        "related_to_sponsor": true,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 53, "section": "สรุปสาระสำคัญของร่างสัญญาจัดหาประโยชน์", "quote": "ผู้เช่า | บริษัท ดีทีจีโอ คอร์ปอเรชั่น จำกัด"}
+      },
+      {
+        "name_en": "Magnolia Quality Development Corporation Limited (MQDC)",
+        "name_th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด",
+        "role_detail": "Performance guarantor of MTRA (principal up to THB 2,200m) and of DTGO, excluding DTGO's rent; undertakes to procure performance and give financial support; not obliged to buy back the assets itself",
+        "related_to_sponsor": true,
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 399, "section": "สัญญาตกลงกระทำการ (MQDC)", "quote": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด"}
+      }
+    ],
+    "not_found_roles": [
+      "Property manager: none appointed; DTGO, the master lessee, manages the property itself (Definitions L39, NewAssets L18)",
+      "Lender: not named; described as commercial banks and/or financial institutions, possibly a related party of the trustee (NewAssets L413)"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 220000000,
+      "unit": "units",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 18, "section": "แบบ 69-REIT", "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน [220] ล้านหน่วย"},
+      "note": "Draft placeholder in brackets on the Cover (and P2-01). Maximum ('ไม่เกิน'). The later P3-Offering (L20) states 'ไม่เกิน 220 ล้านหน่วย' without brackets, while the Fact Sheet header (L18) is still empty '[]'. The Fact Sheet projection says 220m units is illustrative only; with THB 500m debt, equity would be THB 1,700m (170m units)."
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": 10,
+        "unit": "THB",
+        "status": "ambiguous",
+        "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 19, "section": "แบบ 69-REIT", "quote": "ราคาเสนอขาย [10] บาทต่อหน่วย"},
+        "note": "Draft placeholder in brackets on the Cover. P3-Offering L19 and L91 give a fixed price of 10.00 without brackets. The Fact Sheet header price (L20) is '[]', and NewAssets L270 says the final price may be lower, higher or equal. Single fixed price, so min = max."
+      },
+      "max_thb": {
+        "value": 10,
+        "unit": "THB",
+        "status": "ambiguous",
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 91, "section": "ที่มาของการกำหนดมูลค่ารวมของหน่วยทรัสต์ที่เสนอขาย", "quote": "ราคาหน่วยทรัสต์ได้ถูกกำหนดที่ 10.00 (สิบ) บาทต่อหน่วย"},
+        "note": "Fixed price of THB 10.00 per P3; the Cover shows [10] (draft placeholder in brackets) and the Fact Sheet header is empty '[]'."
+      },
+      "final_thb": {"value": null, "status": "not_found", "note": "No final pricing announcement; the offering period and effective date are still '[]' on the Cover (L27-28)."}
+    },
+    "par_value_per_unit_thb": {
+      "value": 10,
+      "unit": "THB",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 19, "section": "แบบ 69-REIT", "quote": "มูลค่าที่ตราไว้ของหน่วยทรัสต์ เท่ากับ [10] บาท"},
+      "note": "Draft placeholder in brackets on the Cover. P3-Offering L18 ('มูลค่าที่ตราไว้ต่อหน่วยทรัสต์ | 10 บาทต่อหน่วย') and P2-08-Unitholders L16 give 10 without brackets; the Fact Sheet Par (L20) is '[]'."
+    },
+    "offering_size_thb_mn": {
+      "value": 2200,
+      "unit": "THB mn",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 15, "section": "แบบ 69-REIT", "quote": "มูลค่ารวมกันทั้งสิ้นไม่เกิน [2,200] ล้านบาท"},
+      "note": "Maximum; draft placeholder in brackets on the Cover and Fact Sheet L32. P3-Offering L17 states 'ไม่เกิน 2,200 ล้านบาท' without brackets. The base projection assumes THB 2,200m equity and no debt; if the trust borrows, equity falls one-for-one (e.g. 1,700 with 500 debt)."
+    },
+    "total_investment_value_thb_mn": {
+      "value": 2200,
+      "unit": "THB mn",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 17, "section": "แบบ 69-REIT", "quote": "โดยกองทรัสต์จะเข้าลงทุนในทรัพย์สิน มูลค่าทั้งสิ้นไม่เกิน [2,200] ล้านบาท"},
+      "note": "Maximum; draft placeholder in brackets on the Cover. NewAssets L7 and L319 state 'ไม่เกิน 2,200 ล้านบาท' without brackets. The rent sensitivity allows an investment value between THB 2,000m and 2,200m."
+    },
+    "funding_sources": [
+      {"type": "new_units", "amount_thb_mn": {"value": 2200, "unit": "THB mn", "status": "ambiguous", "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 15, "section": "แบบ 69-REIT", "quote": "มูลค่ารวมกันทั้งสิ้นไม่เกิน [2,200] ล้านบาท"}, "note": "Maximum; draft placeholder in brackets"}, "note": "Cap on unit offering. The equity and debt caps are not additive: the sensitivity table combines them to equal the asset value (e.g. 1,700 equity + 500 debt = 2,200)."},
+      {"type": "debt", "amount_thb_mn": {"value": 500, "unit": "THB mn", "status": "ambiguous", "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 16, "section": "แบบ 69-REIT", "quote": "เงินกู้ยืมจากสถาบันการเงิน มูลค่าทั้งสิ้นไม่เกิน [500] ล้านบาท"}, "note": "Maximum; draft placeholder in brackets on the Cover. NewAssets L417 states 'วงเงินกู้รวมไม่เกิน 500 ล้านบาท' without brackets."}, "note": "Optional bank borrowing; the base projection assumes no debt."}
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "Acquisition of DTGO Campus: freehold land and buildings via sale with right of redemption, plus movable assets bought outright from MTRA",
+        "amount_thb_mn": 2200,
+        "note": "Maximum combined price for the real estate and movables; the split between the two is not disclosed. The Cover and Fact Sheet show [2,200] (bracketed).",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 319, "section": "สัญญาขายฝากอสังหาริมทรัพย์", "quote": "โดยเมื่อรวมกับราคาซื้อขายสังหาริมทรัพย์ตามสัญญาซื้อขายสังหาริมทรัพย์แล้วจะเป็นจำนวนไม่เกิน 2,200 ล้านบาท"}
+      },
+      {
+        "item": "Offering and trust establishment expenses",
+        "amount_thb_mn": null,
+        "note": "The amount is an empty placeholder '[]'. All offering costs, including distribution fees, are borne by MTRA, not the trust.",
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 240, "section": "ค่าใช้จ่ายต่าง ๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้", "quote": "โดยค่าใช้จ่ายต่าง ๆ ในการเสนอขายครั้งนี้ MTRA จะเป็นผู้รับผิดชอบทั้งหมด"}
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Empty placeholder '[]' in the P3-Offering cost table (L237-238). Costs are borne entirely by MTRA (L240)."
+    },
+    "allocation": [
+      {
+        "tranche": "Institutional and/or UHNW investors other than the original-owner group",
+        "units": 220000000,
+        "pct_of_offer": 100,
+        "note": "Up to 220m units, up to 100% (maximum). Allocation is at the distributors' discretion.",
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 33, "section": "สัดส่วนการเสนอขายหน่วยทรัสต์", "quote": "ซึ่งเป็นผู้จองซื้ออื่นที่ไม่ใช่กลุ่มเจ้าของเดิม | ไม่เกิน 220 ล้านหน่วย | ไม่เกิน 100"}
+      },
+      {
+        "tranche": "Original-owner group (MTRA, REIT manager, their directors, major shareholders and related persons) that qualify as institutional/UHNW investors",
+        "units": 110000000,
+        "pct_of_offer": 50,
+        "note": "Up to 110m units if 220m units are offered, and no more than 50% of units sold (maximum). Voluntary; no obligation to subscribe.",
+        "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 34, "section": "สัดส่วนการเสนอขายหน่วยทรัสต์", "quote": "เสนอขายต่อกลุ่มเจ้าของเดิม1/ | ไม่เกิน 110 ล้านหน่วย"}
+      }
+    ],
+    "subscription_ratio": {"value": null, "status": "not_applicable", "note": "IPO; no rights offering to existing unitholders"},
+    "sponsor_commitment": {
+      "value": "No committed take-up or lock-up. The original-owner group (MTRA, the REIT manager and related persons) may voluntarily subscribe for up to 50% of units sold. The filing states this is neither a duty to subscribe nor a duty to maintain a holding.",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 38, "section": "สัดส่วนการเสนอขายหน่วยทรัสต์", "quote": "มิใช่การกำหนดหน้าที่ในการจองซื้อ หรือหน้าที่ในการดำรงสัดส่วนการถือหน่วยทรัสต์ของกลุ่มเจ้าของเดิมแต่อย่างใด"}
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months, 1 Apr 2026 - 31 Mar 2027",
+        "value_th": "ช่วงเวลาประมาณการวันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 75, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "ช่วงเวลาประมาณการวันที่ 1 เมษายน 2569 ถึงวันที่ 31 มีนาคม 2570"}
+      },
+      "basis_price_thb": {
+        "value": 10,
+        "unit": "THB",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 114, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "ประมาณการอัตราผลตอบแทนต่อผู้ถือหน่วยทรัสต์ร้อยละ 7.00 คำนวณจากราคาเสนอขาย ณ ราคา 10 บาท"}
+      },
+      "dpu_thb": {
+        "value": 0.70,
+        "unit": "THB",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 110, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "ประมาณการจำนวนเงินจ่ายประโยชน์ตอบแทนต่อหน่วย (บาท) | 0.70"},
+        "note": "Dividend only; no capital reduction. Based on an assumed 220m units, 100% payout and no debt."
+      },
+      "distribution_yield_pct": {
+        "value": 7.00,
+        "unit": "%",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 111, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "อัตราผลประโยชน์ตอบแทนต่อหน่วย (ร้อยละ) | 7.00"},
+        "note": "The expected IRR over 3 years is also 7.00% if MTRA buys back (Fact Sheet L117; Leasing L470)."
+      },
+      "total_distribution_thb_mn": {
+        "value": 154.00,
+        "unit": "THB mn",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 107, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "ประมาณการจ่ายประโยชน์ตอบแทนให้แก่ผู้ถือหน่วยทรัสต์ตามสมมติฐาน (ล้านบาท) | 154.00"}
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 154.00,
+        "unit": "THB mn",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 90, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "กำไรจากการลงทุนสุทธิ3/ | 154.00"},
+        "note": "Rental income 154.00 plus expense reimbursement 19.57, less expenses 19.57 (management fee 11.94, trustee fee 5.33, professional fees 1.70, annual fee 0.05, other 0.55). DTGO reimburses all trust expenses."
+      },
+      "yield_sensitivity": [
+        {"offering_price_thb": 10, "dpu_thb": null, "yield_pct": 7.00, "note": "Asset value 2,200; equity 2,200; no debt; rent THB 154m p.a. (base case). The sensitivity varies asset value and debt, not price; rent is reset to keep a 7.00% payout.", "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 143, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "2,200 | 2,200 | - | ^ | 154"}},
+        {"offering_price_thb": 10, "dpu_thb": null, "yield_pct": 7.00, "note": "Asset value 2,200; equity 1,700; debt 500; rent THB 119m p.a.", "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 131, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "2,200 | 1,700 | 500 | 7.00% | 119"}},
+        {"offering_price_thb": 10, "dpu_thb": null, "yield_pct": 7.00, "note": "Asset value 2,000; equity 2,000; no debt; rent THB 140m p.a.", "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 145, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "2,000 | 2,000 | - | ^ | 140"}},
+        {"offering_price_thb": 10, "dpu_thb": null, "yield_pct": 7.00, "note": "Asset value 2,000; equity 1,500; debt 500; rent THB 105m p.a. (lowest rent scenario)", "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 133, "section": "นโยบายการจ่ายผลประโยชน์ตอบแทนแก่ผู้ถือหน่วยทรัสต์", "quote": "2,000 | 1,500 | 500 | ^ | 105"}}
+      ],
+      "pro_forma_note": {"value": null, "status": "not_applicable", "note": "IPO; no existing trust to compare against"}
+    },
+    "timeline": [
+      {"event": "Registration statement and draft prospectus filed with the SEC", "date": "2026-02-25", "indicative": false, "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 26, "section": "แบบ 69-REIT", "quote": "วันที่ยื่นแบบแสดงรายการข้อมูลและร่างหนังสือชี้ชวน : 25 กุมภาพันธ์ 2569"}},
+      {"event": "Appraisal reports (PFA and GAA) dated", "date": "2026-02-16", "indicative": false, "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 65, "section": "การประเมินค่าทรัพย์สินหลักที่ลงทุนครั้งนี้", "quote": "ราคาประเมินมูลค่าทรัพย์สินของ PFA และ GAA ฉบับลงวันที่ 16 กุมภาพันธ์ 2569"}},
+      {"event": "Registration statement effective date (empty placeholder)", "date": null, "indicative": true, "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 27, "section": "แบบ 69-REIT", "quote": "วันที่แบบแสดงรายการข้อมูลและหนังสือชี้ชวนมีผลใช้บังคับ : []"}},
+      {"event": "Offering period (empty placeholder)", "date": null, "indicative": true, "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 28, "section": "แบบ 69-REIT", "quote": "ช่วงเวลาการเสนอขายหน่วยทรัสต์ : []"}},
+      {"event": "Trust establishment: proceeds transferred to the trustee within 15 business days after the offering closes", "date": "Within 15 business days after offering close", "indicative": true, "source": {"file": "DTPBB2_IPO_20260515_P3-Offering.md", "line": 224, "section": "กรณีที่มีการยกเลิกการเสนอขายหน่วยทรัสต์", "quote": "ไม่สามารถโอนเงินที่ได้จากการจำหน่ายหน่วยทรัสต์ให้แก่ทรัสตี เพื่อก่อตั้งกองทรัสต์ให้แล้วเสร็จภายใน 15 (สิบห้า) วันทำการนับแต่วันปิดการเสนอขายหน่วยทรัสต์"}},
+      {"event": "Expected investment date (also the appraisal valuation date)", "date": "2026-04-01", "indicative": true, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 214, "section": "ราคาประเมิน", "quote": "1 เมษายน 2569 ซึ่งเป็นวันที่คาดว่ากองทรัสต์จะเข้าลงทุน"}},
+      {"event": "Registration of the sale with right of redemption, within 60 days after trust establishment", "date": "Within 60 days after trust establishment", "indicative": true, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 318, "section": "สัญญาขายฝากอสังหาริมทรัพย์", "quote": "การจดทะเบียนดังกล่าวจะต้องมีขึ้นภายในระยะเวลา 60 (หกสิบ) วันนับจากวันที่จัดตั้งกองทรัสต์แล้วเสร็จ"}},
+      {"event": "MTRA redemption / buy-back option date (end of year 3 from registration of the sale)", "date": "End of year 3 after investment", "indicative": true, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 320, "section": "สัญญาขายฝากอสังหาริมทรัพย์", "quote": "ในวันสิ้นสุดปีที่ 3 (สาม) นับจากวันจดทะเบียนขายฝาก"}},
+      {"event": "MTRA buy-back obligation date (day after end of year 3); the trust may call for buy-back on any later date", "date": "Day after end of year 3 after investment", "indicative": true, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 373, "section": "สัญญาจะซื้อจะขายทรัพย์สินคืน", "quote": "เมื่อถึงวันถัดจากวันสิ้นสุดปีที่ 3 (สาม) นับจากวันจดทะเบียนขายฝากที่ดินและอาคาร"}}
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {"value": null, "status": "not_applicable", "note": "IPO"},
+    "units_outstanding_after_max": {
+      "value": 220000000,
+      "unit": "units",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 18, "section": "แบบ 69-REIT", "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน [220] ล้านหน่วย"},
+      "note": "IPO: equals units offered. Maximum; draft placeholder in brackets (unbracketed 220m in P3-Offering L20)."
+    },
+    "nav_per_unit_thb": {"value": null, "status": "not_found", "note": "Trust not yet established; no NAV disclosed (par THB 10)."},
+    "total_assets_before_thb_mn": {"value": null, "status": "not_applicable", "note": "IPO"},
+    "total_assets_after_thb_mn": {
+      "value": 2200,
+      "unit": "THB mn",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_P1-FactSheet.md", "line": 37, "section": "ข้อมูล ณ วันที่ 31 มีนาคม 2569", "quote": "สินทรัพย์รวม | ไม่เกิน [2,200] ล้านบาท"},
+      "note": "Maximum; draft placeholder in brackets. The Fact Sheet also shows equity up to [2,200], total liabilities '[]' and debt up to [500], which do not add up (2,200 + 500 would exceed 2,200)."
+    },
+    "borrowings_before_thb_mn": {"value": null, "status": "not_applicable", "note": "IPO"},
+    "new_borrowings_thb_mn": {
+      "value": 500,
+      "unit": "THB mn",
+      "status": "ambiguous",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 16, "section": "แบบ 69-REIT", "quote": "เงินกู้ยืมจากสถาบันการเงิน มูลค่าทั้งสิ้นไม่เกิน [500] ล้านบาท"},
+      "note": "Maximum; draft placeholder in brackets on the Cover. NewAssets L417 and Risks L105 give 500 without brackets. The actual loan may be zero; the base projection assumes no debt."
+    },
+    "borrowings_after_thb_mn": {
+      "value": 500,
+      "unit": "THB mn",
+      "status": "derived",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 417, "section": "การกู้ยืมเงิน", "quote": "วงเงินกู้รวมไม่เกิน 500 ล้านบาท ซึ่งเป็นจำนวนไม่เกินร้อยละ 35 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"},
+      "note": "Derived: IPO, so no existing debt; after-deal borrowings = new borrowing cap of 500 (maximum). Fact Sheet total liabilities (L38) is an empty placeholder '[]'."
+    },
+    "ltv_before_pct": {"value": null, "status": "not_applicable", "note": "IPO"},
+    "ltv_after_pct": {
+      "value": 22.73,
+      "unit": "%",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 111, "section": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน (ถ้ามี)", "quote": "โดยคิดเป็นสัดส่วนประมาณร้อยละ 22.73 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"},
+      "note": "Maximum case: 500 / 2,200. The same paragraph also calls 22.73% a debt-to-equity ratio, which is inconsistent (500 / 1,700 = 29.4%). Fact Sheet LTV (L41) is an empty placeholder '[]%'."
+    },
+    "ltv_limit_pct": {
+      "value": 35,
+      "unit": "%",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 417, "section": "การกู้ยืมเงิน", "quote": "วงเงินกู้รวมไม่เกิน 500 ล้านบาท ซึ่งเป็นจำนวนไม่เกินร้อยละ 35 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"}
+    },
+    "loan_terms": {
+      "value": "Facility of up to THB 500m from commercial banks and/or financial institutions (lender not named; may be a related party of the trustee, i.e. a shareholder of Krungthai Asset Management). Interest no higher than the average MLR of 4 commercial banks, plus possible arrangement fees. Tenor about 3 years from first drawdown; principal repaid in full at maturity, interest paid monthly. Security may include a mortgage over the assets and conditional assignment of deposit accounts, claims and insurance policies. All interest and loan fees are covered by DTGO under its expense undertaking.",
+      "status": "found",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 418, "section": "การกู้ยืมเงิน", "quote": "MLR (Minimum Loan Rate) เฉลี่ยจากธนาคารพาณิชย์ 4 ธนาคาร"},
+      "note": "Tenor from L419, security from L422, possible trustee-related lender from L413 and L432, DTGO covering interest from L387. Risks L106: the bullet repayment at year 3 coincides with the buy-back date (refinancing risk if buy-back fails)."
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "DTGO_CAMPUS",
+      "name_en": "DTGO Campus",
+      "name_th": "โครงการสำนักงานดีทีจีโอ แคมป์อัส",
+      "asset_type": "Office building (co-working office campus)",
+      "location": {
+        "address": "695 and 695/1 Moo 12, Soi Wat Khlong Palat Priang (off Bang Na-Trad Road), Bang Kaeo, Bang Phli, Samut Prakan",
+        "address_th": "เลขที่ 695 และ 695/1 หมู่ที่ 12 ตำบลบางแก้ว อำเภอบางพลี จังหวัดสมุทรปราการ",
+        "subdistrict": "Bang Kaeo",
+        "district": "Bang Phli",
+        "province": "Samut Prakan",
+        "zone": "Bang Na-Trad corridor",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 41, "section": "ทำเลที่ตั้งและแผนที่", "quote": "ตั้งอยู่เลขที่ 695 และ 695/1 หมู่ที่ 12 ตำบลบางแก้ว อำเภอบางพลี จังหวัดสมุทรปราการ"}
+      },
+      "investment_type": {
+        "value": "Freehold",
+        "value_th": "กรรมสิทธิ์",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 7, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "ได้แก่กรรมสิทธิ์ในอสังหาริมทรัพย์และสังหาริมทรัพย์ในโครงการสำนักงานดีทีจีโอ แคมป์อัส"},
+        "note": "Freehold ownership, but land and buildings are acquired under a sale with right of redemption (ขายฝาก) and movables outright, all subject to the year-3 buy-back."
+      },
+      "components": [
+        {"component": "Land (title deed no. 75151, 13-1-42.2 rai), acquired via sale with right of redemption", "right": "Freehold", "tenure_years": null, "start_date": null, "expiry_date": null, "renewal_option": null, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 12, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "กรรมสิทธิ์ในที่ดิน เนื้อที่ประมาณ 13 ไร่ 1 งาน 42.2 ตารางวา ของโฉนดที่ดินจำนวน 1 โฉนด"}},
+        {"component": "Buildings (Learning 5 floors 9,945 sqm; DTGO Office 3 floors 9,956 sqm; Health Care Center 217 sqm; Multipurpose building 105 sqm) and building systems, via sale with right of redemption", "right": "Freehold", "tenure_years": null, "start_date": null, "expiry_date": null, "renewal_option": null, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 13, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "อาคาร Learning สูง 5 ชั้น จำนวน 1 หลัง พื้นที่อาคารประมาณ 9,945 ตารางเมตร1/"}},
+        {"component": "Movable assets (furniture, tools, equipment, fixtures), bought outright", "right": "Freehold", "tenure_years": null, "start_date": null, "expiry_date": null, "renewal_option": null, "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 15, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "กรรมสิทธิ์ในเครื่องมือ อุปกรณ์ และทรัพย์สินอื่นที่เกี่ยวข้อง"}}
+      ],
+      "tenure_years": {"value": null, "status": "not_applicable", "note": "Freehold; subject to MTRA buy-back at the end of year 3"},
+      "lease_start": {"value": null, "status": "not_applicable", "note": "Freehold asset. The master lease to DTGO starts on registration of the sale with right of redemption; no calendar date fixed."},
+      "lease_expiry": {"value": null, "status": "not_applicable", "note": "Freehold asset. The master lease runs 3 years from lease commencement, renewable at the trust's option (9 x 3 years, total up to 30 years); no calendar date fixed."},
+      "land_area": {
+        "value_sqm": 21368.8,
+        "as_filed": "13-1-42.2 rai",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 67, "section": "ที่ดินที่เป็นที่ตั้งของโครงการ", "quote": "75151 | 111 | 442 | บางแก้ว | บางพลี | สมุทรปราการ | 13-1-42.2"},
+        "note": "13 x 1,600 + 1 x 400 + 42.2 x 4 = 21,368.8 sqm. Parking is on a separate MTRA plot (title deed 209534) not acquired by the trust."
+      },
+      "building_area": {
+        "gross_sqm": {"value": 20223, "unit": "sqm", "status": "found", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 74, "section": "ลักษณะอาคารและสิ่งปลูกสร้าง", "quote": "โดยมีพื้นที่ใช้สอยรวมประมาณ 20,223 ตารางเมตร1/"}, "note": "Usable area per GAA appraisal; the building areas 9,945 + 9,956 + 217 + 105 add up to 20,223."},
+        "leasable_sqm": {"value": null, "status": "not_found", "note": "No leasable area disclosed; capacity is stated as about 1,588 seats/dedicated desks."},
+        "rooms": {"value": null, "status": "not_applicable", "note": "Office"},
+        "buildings": {"value": 4, "unit": "buildings", "status": "found", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 20, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "ประกอบด้วยอาคารสำนักงาน จำนวน 2 หลัง อาคารอเนกประสงค์ จำนวน 2 หลัง"}, "note": "2 office buildings plus 2 single-storey multipurpose buildings; ancillary structures (refuse building, guard house) excluded from the count."}
+      },
+      "completion_or_age": {
+        "value": "Opened around June 2023",
+        "value_th": "เมื่อประมาณเดือนมิถุนายน 2566",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 21, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "เมื่อประมาณเดือนมิถุนายน 2566"}
+      },
+      "seller_or_lessor": {
+        "value": "MQDC Town Royal Asset Co., Ltd. (MTRA), 99.99% owned by MQDC, which is 99.84% owned by DTGO. MTRA and the REIT manager are indirect DTGO subsidiaries (connected-party purchase).",
+        "value_th": "บริษัท เอ็มคิวดีซี ทาวน์ รอยัล แอสเซท จำกัด",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 450, "section": "การซื้อทรัพย์สินจากนิติบุคคลที่เกี่ยวโยงกันกับผู้จัดการกองทรัสต์ในการลงทุนในทรัพย์สินที่กองทรัสต์จะเข้าลงทุน", "quote": "MTRA และผู้จัดการกองทรัสต์เป็นบริษัทย่อยทางอ้อมของ DTGO ผ่านการถือหุ้นใน MQDC และ DTP"}
+      },
+      "acquisition_price_thb_mn": {
+        "value": 2200,
+        "unit": "THB mn",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 228, "section": "ราคาประเมิน", "quote": "ไม่เกิน 2,200 | PFA | 2,224 | 2,224"},
+        "note": "Maximum ('ไม่เกิน') combined price for the sale with right of redemption plus movables; split not disclosed. Buy-back price equals the price paid."
+      },
+      "appraisals": [
+        {
+          "appraiser": "Prefer Appraisal Co., Ltd. (PFA)",
+          "valuation_date": "2026-04-01",
+          "method": "Income approach (11-year DCF plus terminal value)",
+          "value_thb_mn": 2224,
+          "discount_rate_pct": 10.0,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "1,588 dedicated desks; occupancy 70% (Y1), 75% (Y2), 80% from Y3; Y1 rate THB 13,100 per person per month (seat 7,100 + meetings 3,500 + fitness/amenities 2,500), +3% p.a. from Y2; management cost 7.71% of revenue in Y1 (desk cost of sales 5% of desk revenue; salaries 5% of revenue); utilities 7%; selling 1.5%; repairs and reserve 1% of revenue plus 5% major maintenance every 5 years. Replacement cost new THB 1,599.02m; depreciated THB 1,583.81m.",
+          "note": "Report dated 2026-02-16; value as at the expected investment date of 1 Apr 2026. Terminal cap rate not in the text filings.",
+          "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 228, "section": "ราคาประเมิน", "quote": "ไม่เกิน 2,200 | PFA | 2,224 | 2,224"}
+        },
+        {
+          "appraiser": "Grand Asset Advisory Co., Ltd. (GAA)",
+          "valuation_date": "2026-04-01",
+          "method": "Income approach (11-year DCF plus terminal value)",
+          "value_thb_mn": 2245,
+          "discount_rate_pct": 9.5,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "1,588 dedicated desks; occupancy 70% (Y1), 75% (Y2), 80% from Y3; Y1 rate THB 13,000 per seat per month (seat 7,000 + meetings 3,500 + fitness/amenities 2,500), +3% p.a. from Y2; management cost 9.5% of revenue in Y1 (project management 8% + admin 1.5%), +3% p.a.; utilities 7% in Y1, +3% p.a.; selling 1.5%; repairs 1% (Y1-3), 2% from Y4, plus reserve 1% of revenue p.a. Replacement cost new THB 1,525.46m; depreciated THB 1,501.84m.",
+          "note": "Report dated 2026-02-16; value as at 1 Apr 2026. Terminal cap rate not in the text filings.",
+          "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 229, "section": "ราคาประเมิน", "quote": "GAA | 2,245"}
+        }
+      ],
+      "occupancy": [
+        {"as_of": "2023-12-31", "occupancy_pct": 86.65, "basis": "DTGO and group employees / ~1,588 seat capacity (average for 2023, from June 2023 opening)", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 153, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "อัตราการใช้พื้นที่ (ร้อยละ)1/ | 86.65 | 83.50 | 56.93"}},
+        {"as_of": "2024-12-31", "occupancy_pct": 83.50, "basis": "DTGO and group employees / ~1,588 seat capacity (average for 2024)", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 153, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "อัตราการใช้พื้นที่ (ร้อยละ)1/ | 86.65 | 83.50 | 56.93"}},
+        {"as_of": "2025-12-31", "occupancy_pct": 56.93, "basis": "DTGO and group employees / ~1,588 seat capacity (average for 2025)", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 153, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "อัตราการใช้พื้นที่ (ร้อยละ)1/ | 86.65 | 83.50 | 56.93"}}
+      ],
+      "historical_performance": [
+        {"period": "FY2023", "is_projection": false, "revenue_thb_mn": 124.19, "noi_thb_mn": 99.27, "noi_definition": "Project EBITDA per MTRA internal accounts (revenue is DTGO's lease and service payments to MTRA)", "occupancy_pct": 86.65, "adr_thb": null, "revpar_thb": null, "avg_rent_thb_sqm_month": null, "other_metrics": "Partial year from June 2023 opening; rental and service revenue 124.12; operating costs 24.92; average rent THB 6,513.43 per seat per month", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 150, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "รายได้รวม (ล้านบาท) | 124.19 | 212.78 | 212.78"}},
+        {"period": "FY2024", "is_projection": false, "revenue_thb_mn": 212.78, "noi_thb_mn": 172.81, "noi_definition": "Project EBITDA per MTRA internal accounts", "occupancy_pct": 83.50, "adr_thb": null, "revpar_thb": null, "avg_rent_thb_sqm_month": null, "other_metrics": "Operating costs 39.97; average rent THB 11,166.04 per seat per month", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 152, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "(ล้านบาท) | 99.27 | 172.81 | 183.62"}},
+        {"period": "FY2025", "is_projection": false, "revenue_thb_mn": 212.78, "noi_thb_mn": 183.62, "noi_definition": "Project EBITDA per MTRA internal accounts", "occupancy_pct": 56.93, "adr_thb": null, "revpar_thb": null, "avg_rent_thb_sqm_month": null, "other_metrics": "Operating costs 29.16 (no management fees between MTRA and DTGO/MQDC in 2025); average rent THB 11,166.03 per seat per month", "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 154, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "อัตราค่าเช่าเฉลี่ย (บาท/ที่นั่ง/เดือน) | 6,513.43 | 11,166.04 | 11,166.03"}},
+        {"period": "FY2027P", "is_projection": true, "revenue_thb_mn": 154.00, "noi_thb_mn": 154.00, "noi_definition": "Trust net investment income: fixed rent from DTGO; trust expenses of 19.57 reimbursed by DTGO", "occupancy_pct": null, "adr_thb": null, "revpar_thb": null, "avg_rent_thb_sqm_month": null, "other_metrics": "Projection period is 12 months, 1 Apr 2026 - 31 Mar 2027 (the trust's fiscal year runs Jul-Jun). Base case with no debt; rent would be 119 with THB 500m debt.", "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 418, "section": "สมมติฐานในการประมาณการผลตอบแทนของกองทรัสต์", "quote": "รับค่าตอบแทนเป็นค่าเช่าคงที่ (Fixed Rental) เป็นระยะเวลา 3 ปี ที่จำนวน 154.00 ล้านบาทต่อปี"}}
+      ],
+      "lease_structure": {
+        "value": "Single master lease of land, buildings and movables to related party DTGO. Fixed rent paid quarterly: THB 154m p.a. in the no-debt base case (THB 105-154m depending on asset value and debt, set to give a 7% payout). Initial term 3 years from lease commencement; the trust may require DTGO to renew up to 9 times for 3 years each (total up to 30 years). DTGO bears maintenance (including major maintenance), renovation, FF&E, insurance premiums and land and building tax. It may sub-let for the permitted purpose and posts a cash deposit equal to one quarter's rent. DTGO cannot terminate for trust default during the first 3 years. DTGO also reimburses all trust expenses under a separate undertaking.",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 21, "section": "ลักษณะการจัดหาผลประโยชน์", "quote": "กองทรัสต์จะได้รับค่าตอบแทนเป็นค่าเช่าคงที่ (Fixed Rental) โดยผู้เช่าทรัพย์สินหลักจะชำระค่าเช่าให้แก่กองทรัสต์เป็นรายไตรมาส"},
+        "note": "Term and renewals from Leasing L57 and L63; deposit from L58; no termination right in first 3 years from L67; rent scenarios from L24-41."
+      },
+      "rental_guarantee": {
+        "value": "No rent guarantee. MQDC's performance guarantee covers MTRA's obligations (principal up to THB 2,200m, including buy-back payments) and DTGO's non-rent obligations, but explicitly excludes DTGO's rent. MQDC only undertakes to procure payment and give financial support. Other credit support: a cash deposit equal to one quarter's rent, and DTGO's THB 10m expense reserve, topped up monthly.",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 400, "section": "สัญญาตกลงกระทำการ (MQDC)", "quote": "ผู้ให้สัญญามิได้ตกลงเข้ารับประกันและยอมรับผิดกับ DTGO ในการจ่ายค่าเช่าตามสัญญาจัดหาประโยชน์ของ DTGO"}
+      },
+      "key_tenants": [
+        {
+          "name": "DTGO Corporation Limited (master lessee)",
+          "name_th": "บริษัท ดีทีจีโอ คอร์ปอเรชั่น จำกัด",
+          "business": "Holding company of the DTGO group (real estate development, trading, support services); uses the campus as group headquarters and sub-lets to group companies and outside users",
+          "area_sqm": null,
+          "pct_of_area": 100,
+          "pct_of_revenue": 100,
+          "lease_expiry": "3 years from lease commencement (renewable at trust's option, 9 x 3 years)",
+          "related_to_sponsor": true,
+          "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 94, "section": "ลักษณะการดำเนินธุรกิจ", "quote": "ปัจจุบัน DTGO เช่าเหมาพื้นที่ทั้งหมดจาก MTRA"}
+        }
+      ],
+      "tenant_concentration": {
+        "value": "100% of trust rental income comes from one related-party master lessee (DTGO). Underlying occupancy is mainly DTGO group employees (occupancy is measured as group staff / seats). The breakdown of revenue by sub-tenant is shown only as a chart.",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 84, "section": "ความเสี่ยงจากความสามารถในการชำระค่าเช่าของผู้เช่าทรัพย์สินหลักและความสามารถในการชำระค่าใช้จ่ายของกองทรัสต์โดยผู้ตกลงรับผิดชอบค่าใช้จ่ายแก่กองทรัสต์", "quote": "ที่มาของรายได้หลักของกองทรัสต์ประกอบด้วย ค่าเช่าที่กองทรัสต์จะได้รับจาก DTGO"}
+      },
+      "lease_expiry_profile": [
+        {"period": "End of initial 3-year master lease term (coincides with buy-back date)", "pct": 100, "basis": "revenue (single master lease)", "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 57, "section": "สรุปสาระสำคัญของร่างสัญญาจัดหาประโยชน์", "quote": "ระยะเวลา 3 (สาม) ปี นับตั้งแต่วันเริ่มระยะเวลาการเช่า"}}
+      ],
+      "wale_years": {
+        "value": 3.0,
+        "unit": "years",
+        "status": "derived",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 57, "section": "สรุปสาระสำคัญของร่างสัญญาจัดหาประโยชน์", "quote": "ระยะเวลา 3 (สาม) ปี นับตั้งแต่วันเริ่มระยะเวลาการเช่า"},
+        "note": "Derived: a single master lease with a 3-year initial term gives a WALE of 3.0 years at commencement. The Fact Sheet shows WALE as '-' (L26)."
+      },
+      "encumbrances": {
+        "value": "At 31 Mar 2026 the land and buildings (title deed 75151) were mortgaged to a third party. Redeeming the mortgages over deeds 75151, 164681, 164682 and 209534 is a condition precedent. MTRA also owes about THB 21m under a court-approved settlement (27 Mar 2026) over the facial-recognition security equipment, which must be paid before the trust invests. Parking (at least 352 cars) is on MTRA's adjacent plot (deed 209534), to be secured by a registered encumbrance in favour of the trust. Main access crosses three plots with registered servitudes (one now a public road) and two Bang Kaeo municipality plots without servitude but open to the public.",
+        "status": "found",
+        "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 22, "section": "ข้อมูลเกี่ยวกับการลงทุนในทรัพย์สินหลักของกองทรัสต์", "quote": "ยังอยู่ภายใต้การจดทะเบียนจำนองเป็นหลักประกันกับบุคคลภายนอกรายหนึ่ง"},
+        "note": "CP on mortgage redemption from NewAssets L317; settlement debt from L137-139 and Fact Sheet L175; parking from L131 and L330-336; access from L48-60."
+      },
+      "notes": [
+        "Appraisals and price relate to the whole project: real estate (sale with right of redemption) plus movables; the price split between the two is not disclosed.",
+        "Maximum price of THB 2,200m is 1.08% below the lower income-approach appraisal (PFA THB 2,224m), and about 39%-46% above the depreciated replacement cost (PFA 1,583.81m, GAA 1,501.84m).",
+        "Insurance before investment: industrial all risks THB 2,494.1m and public liability THB 300m, insured by DTGO/MTRA; the trust is to be added as co-insured and beneficiary, with business interruption cover of at least 2 years of rent.",
+        "Scenario if no buy-back: sale at THB 2,224m at the end of year 3 gives an IRR of 7.34% (range 4.08%-10.41% for rent -10%/+10%; 5.32%-9.30% for occupancy -5/+5 points).",
+        "Chilled water for air-conditioning is currently bought from an MTRA group company serving adjacent land.",
+        "Green-building design to TREES-NC criteria; 1,965 solar panels (766.35 kW peak)."
+      ]
+    }
+  ],
+  "existing_portfolio": null,
+  "risks": [
+    {
+      "title": "MTRA may fail to buy back the property at the end of year 3",
+      "category": "Structure/buy-back",
+      "summary": "Returning capital depends on MTRA redeeming or buying back at THB 2,200m. MTRA had negative equity and a 0.03x current ratio (2024). If it defaults, the trust must sue, re-let or sell (possibly below cost, with MTRA liable for any shortfall), and cash flow and IRR could suffer.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 63, "section": "ความเสี่ยงที่เจ้าของเดิมไม่ซื้อทรัพย์สินคืนภายในระยะเวลาที่กำหนด", "quote": "การที่เจ้าของเดิมไม่ซื้อทรัพย์สินคืนในวันถัดจากวันสิ้นสุดปีที่ 3 นับจากวันที่กองทรัสต์เข้าลงทุน อาจทำให้กองทรัสต์ได้รับผลกระทบต่อกระแสเงินสดและผลตอบแทนที่คาดการณ์"}
+    },
+    {
+      "title": "Guarantor MQDC may lack capacity to support MTRA and DTGO",
+      "category": "Sponsor/related-party",
+      "summary": "MQDC guarantees MTRA up to THB 2,200m but reported a 2024 net loss of THB 1,757.75m, interest-bearing debt / EBITDA of 15.87x and a 0.13x current ratio. It may need new funding (e.g. another trust or re-REITing the campus) to support the buy-back and DTGO's rent.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 98, "section": "ความเสี่ยงจากความสามารถในการประกันการปฏิบัติหน้าที่ของ MQDC", "quote": "อัตราส่วนสภาพคล่องในปี 2567 เท่ากับ 0.13 เท่า"}
+    },
+    {
+      "title": "Single related-party lessee DTGO may be unable to pay rent and trust expenses",
+      "category": "Tenant/concentration",
+      "summary": "All income comes from DTGO's fixed rent (THB 154m) plus reimbursed expenses (THB 19.57m). DTGO lost THB 1,441.69m in 2024, had a 0.14x current ratio and guarantees about THB 67.9bn of debentures. Rent is not guaranteed by MQDC; the only cushion is a one-quarter cash deposit.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 84, "section": "ความเสี่ยงจากความสามารถในการชำระค่าเช่าของผู้เช่าทรัพย์สินหลักและความสามารถในการชำระค่าใช้จ่ายของกองทรัสต์โดยผู้ตกลงรับผิดชอบค่าใช้จ่ายแก่กองทรัสต์", "quote": "ที่มาของรายได้หลักของกองทรัสต์ประกอบด้วย ค่าเช่าที่กองทรัสต์จะได้รับจาก DTGO"}
+    },
+    {
+      "title": "Short 3-year master lease; DTGO's promise to renew may not be enforceable",
+      "category": "Tenant/concentration",
+      "summary": "The lease is only 3 years, with renewals at the trust's call. There is no court precedent for enforcing a promise to lease, so if DTGO refuses the trust may recover only limited damages and would have to find a new master lessee or operate the property itself, delaying income.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 74, "section": "ความเสี่ยงที่ผู้เช่าทรัพย์สินหลักอาจไม่ต่อสัญญาจัดหาประโยชน์เมื่อครบระยะเวลาการเช่าหรือมีการบอกเลิกสัญญาเช่าก่อนครบกำหนดอายุสัญญาเนื่องจากความผิดของกองทรัสต์ และกองทรัสต์ไม่สามารถหาผู้เช่าทรัพย์สินหลักรายใหม่ได้", "quote": "แม้จะไม่มีคำพิพากษาที่เป็นบรรทัดฐาน (Precedent Case) สำหรับกรณีการบังคับตามคำมั่นจะเช่า"}
+    },
+    {
+      "title": "Parking sits on the seller's adjacent land",
+      "category": "Asset/property",
+      "summary": "Required parking (at least 352 spaces) is on MTRA land outside the trust. A change of use or transfer could impair access or create competing office supply; this is mitigated by a registered encumbrance and substitute-parking and tripartite-agreement conditions.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 146, "section": "ความเสี่ยงเกี่ยวกับพื้นที่จอดรถที่อยู่ในที่ดินแปลงอื่นของเจ้าของเดิม", "quote": "พื้นที่จอดรถของโครงการสำนักงานดีทีจีโอ แคมป์อัส ตั้งอยู่ในที่ดินแปลงอื่นของเจ้าของเดิม"}
+    },
+    {
+      "title": "Co-working format: short user contracts and volatile demand",
+      "category": "Market/competition",
+      "summary": "Co-working is still a developing format in Thailand. Users typically sign contracts of 1 year or less, and hybrid or remote work may cut demand, making the lessee's revenue more volatile. Occupancy fell to 56.93% in 2025, below the 70-80% assumed by the appraisers.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 202, "section": "ความเสี่ยงจากลักษณะเฉพาะของทรัพย์สินประเภทสำนักงานรูปแบบใหม่", "quote": "ผู้ใช้บริการส่วนใหญ่ของสำนักงานรูปแบบใหม่ มักมีสัญญาผูกพันระยะสั้น (ประมาณไม่เกิน 1 ปี)"}
+    },
+    {
+      "title": "Bullet loan maturity at year 3 coincides with the buy-back date",
+      "category": "Financing/interest rate",
+      "summary": "If the trust borrows up to THB 500m (3-year bullet, floating rate up to MLR), a failed buy-back without a new buyer or loan extension could cause a loan default and enforcement against the mortgaged property.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 106, "section": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน (ถ้ามี)", "quote": "หากการชำระคืนเงินต้นไม่สามารถขยายระยะเวลาหลังครบกำหนดชำระคืนเงินกู้ยืมในปีที่ 3 ออกไปได้"}
+    },
+    {
+      "title": "Dependence on outside utility providers, including an MTRA group chilled-water supplier",
+      "category": "Operational",
+      "summary": "If the buy-back fails and the trust keeps the asset, services such as water, power, LPG, waste and chilled water (currently bought from an MTRA group company) depend on third-party contracts that could be interrupted.",
+      "asset_specific": true,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 117, "section": "กองทรัสต์ต้องพึ่งพาบุคคลภายนอกสำหรับการให้บริการบางประการในกรณีที่ไม่มีการซื้อทรัพย์สินคืนภายในวันเวลาที่กำหนด", "quote": "ปัจจุบัน ทรัพย์สินที่กองทรัสต์จะเข้าลงทุนใช้บริการและเสียค่าตอบแทนให้แก่บริษัทในกลุ่มของ MTRA"}
+    },
+    {
+      "title": "Rising competition for office and co-working space",
+      "category": "Market/competition",
+      "summary": "New office supply and more co-working operators could reduce DTGO's ability to fill seats and thus its capacity to pay rent. Generic heading-level risk.",
+      "asset_specific": false,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 207, "section": "ความเสี่ยงจากการแข่งขันที่สูงขึ้น", "quote": "โดยการประกอบธุรกิจดังกล่าวอาจมีการแข่งขันที่สูงขึ้นจากสภาวะตลาดของอสังหาริมทรัพย์"}
+    },
+    {
+      "title": "Due diligence limits, seller warranty breaches, licences, environment and expropriation",
+      "category": "Regulatory/legal",
+      "summary": "Generic risks (headings only): hidden defects not found in due diligence, breach of MTRA warranties, licence renewal, environmental compliance costs and expropriation.",
+      "asset_specific": false,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 134, "section": "ความเสี่ยงจากการตรวจสอบข้อมูลก่อนการเข้าลงทุน", "quote": "มิได้เป็นการประกันว่า อสังหาริมทรัพย์ดังกล่าวปราศจากความเสียหาย"}
+    },
+    {
+      "title": "Illiquidity: unlisted units with transfer restrictions",
+      "category": "Offering/dilution",
+      "summary": "Units will not be listed and may only be transferred to institutional or UHNW investors, so there may be no market price or buyer, and any sale could be below the offer price.",
+      "asset_specific": false,
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 240, "section": "ความเสี่ยงจากการขาดสภาพคล่อง เนื่องจากเป็นซื้อขายหน่วยทรัสต์ที่ไม่มีตลาดรองและไม่จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย", "quote": "โดยไม่นำหน่วยทรัสต์เข้าจดทะเบียนในตลาดหลักทรัพย์"}
+    },
+    {
+      "title": "Offering may be cancelled in full",
+      "category": "Offering/dilution",
+      "summary": "Generic: the offering is cancelled and refunded if there are fewer than 35 subscribers, if proceeds plus debt cannot fund the asset, if allocation limits are breached, or if proceeds are not transferred within 15 business days.",
+      "asset_specific": false,
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 247, "section": "ความเสี่ยงจากการยกเลิกการเสนอขายหน่วยทรัสต์ทั้งจำนวน", "quote": "เมื่อมีผู้จองซื้อไม่ถึง 35 (สามสิบห้า) ราย"}
+    },
+    {
+      "title": "Natural disaster and insurance recovery",
+      "category": "Asset/property",
+      "summary": "Generic: damage from natural disasters or accidents, and possible inability or delay in collecting insurance proceeds.",
+      "asset_specific": false,
+      "applies_to": ["DTGO_CAMPUS"],
+      "source": {"file": "DTPBB2_IPO_20260518_P2-05-Risks.md", "line": 224, "section": "ความเสี่ยงเกี่ยวกับอัตราเงินชดเชยจากการประกันภัยทรัพย์สิน", "quote": "กองทรัสต์อาจไม่สามารถใช้สิทธิเรียกร้องตามที่ระบุในกรมธรรม์ประกันภัยที่เกี่ยวข้องได้"}
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "The maximum price of THB 2,200m is only 1.08% below the lower income-approach appraisal (PFA THB 2,224m; GAA THB 2,245m), but about 39% and 46% above the depreciated replacement cost (PFA 1,583.81m, GAA 1,501.84m). Both appraisers use income approaches assuming 70-80% occupancy and THB 13,000-13,100 per seat per month.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 232, "section": "ราคาประเมิน", "quote": "ต่ำกว่าราคาประเมินต่ำสุด (ร้อยละ) | | | | 1.08"}
+    },
+    {
+      "topic": "Buy-back structure and counterparty credit",
+      "observation": "The return of capital depends on MTRA, which had registered capital of THB 50m, negative equity of THB 17.99m, 2024 EBITDA of THB 203.09m and a 0.03x current ratio. The filing itself says MTRA's EBITDA is below the buy-back price and that MTRA needs MQDC support. MQDC guarantees payment but is not obliged to buy back itself.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 409, "section": "ความสามารถของเจ้าของเดิมในการซื้อทรัพย์สินคืน", "quote": "เมื่อพิจารณา EBITDA ของ MTRA ปี 2567 เท่ากับ 203.09 ล้านบาท ซึ่งต่ำกว่าราคาซื้อคืนของทรัพย์สินโครงการสำนักงานดีทีจีโอ แคมป์อัส"}
+    },
+    {
+      "topic": "Guarantor and lessee leverage",
+      "observation": "MQDC (2024): net loss THB 1,757.75m, interest-bearing debt / EBITDA 15.87x (industry average 10.76x), current ratio 0.13x, debentures about THB 44.9bn. DTGO (2024): net loss THB 1,441.69m, current ratio 0.14x, debenture guarantees about THB 67.9bn. MQDC may fund the buy-back by setting up another trust or re-REITing DTGO Campus.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 381, "section": "ความเห็นของผู้จัดการกองทรัสต์ และที่ปรึกษาทางการเงิน เกี่ยวกับการรับประกันการปฏิบัติหน้า ที่ตามสัญญา", "quote": "หรือ นำโครงการสำนักงานดีทีจีโอ แคมป์อัส มาจัดตั้งกองทรัสต์อีกครั้ง"}
+    },
+    {
+      "topic": "Rent not guaranteed",
+      "observation": "MQDC's guarantee explicitly excludes DTGO's rent. Rent is fixed and set at 7% of equity raised (154 = 7% x 2,200; 119 = 7% x 1,700; 105 = 7% x 1,500), with DTGO also paying all trust expenses and any loan interest. Rent security is limited to a one-quarter cash deposit and DTGO's THB 10m expense reserve.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 400, "section": "สัญญาตกลงกระทำการ (MQDC)", "quote": "ผู้ให้สัญญามิได้ตกลงเข้ารับประกันและยอมรับผิดกับ DTGO ในการจ่ายค่าเช่าตามสัญญาจัดหาประโยชน์ของ DTGO"}
+    },
+    {
+      "topic": "Occupancy decline",
+      "observation": "Seat occupancy (group staff / 1,588 seats) fell from 86.65% (2023) and 83.50% (2024) to 56.93% (2025). Revenue stayed at THB 212.78m because DTGO pays MTRA a fixed amount (about THB 11,166 per seat per month on full capacity). Appraisers assume 70% in year 1 rising to 80%.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 153, "section": "ผลการดำเนินงานของโครงการสำนักงานดีทีจีโอ แคมป์อัส", "quote": "อัตราการใช้พื้นที่ (ร้อยละ)1/ | 86.65 | 83.50 | 56.93"}
+    },
+    {
+      "topic": "Related-party chain",
+      "observation": "Every counterparty is in the DTGO group: seller MTRA (99.99% MQDC), guarantor MQDC (99.84% DTGO), master lessee DTGO, and REIT manager DTPRM (99.99% DTP, 99.99% DTGO). The same manager runs the related trust DTPBB (a hotel/serviced-apartment leasehold trust with a 5-year condition). The lender may be a related party of the trustee.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-09-Governance.md", "line": 534, "section": "การบริหารจัดการทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์อื่น", "quote": "ได้มีการบริหารจัดการกองทรัสต์อื่น จำนวน 1 กอง ได้แก่ กองทรัสต์ DTPBB"}
+    },
+    {
+      "topic": "Draft placeholders still in brackets",
+      "observation": "Cover figures are still bracketed ([2,200] equity, [500] debt, [2,200] investment, [220]m units, [10] price/par). The Fact Sheet header leaves offer value, units, price, par, offering period, approval date, lead manager and LTV as '[]'. Offering costs, subscription dates/payment and refund procedures in P3 are also '[]'. P3 (15 May 2026) already names Yuanta and DAOL as lead managers.",
+      "source": {"file": "DTPBB2_IPO_20260511_00-Cover.md", "line": 15, "section": "แบบ 69-REIT", "quote": "มูลค่ารวมกันทั้งสิ้นไม่เกิน [2,200] ล้านบาท"}
+    },
+    {
+      "topic": "Pre-closing encumbrances",
+      "observation": "The title is mortgaged to a third party and must be released as a condition precedent. MTRA also owes about THB 21m under a 27 Mar 2026 court settlement over security equipment; the manager says the trust will not invest until it is paid.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-NewAssets.md", "line": 139, "section": "ข้อพิพาท หรือข้อจำกัดในการใช้งานอสังหาริมทรัพย์", "quote": "หากยังไม่มีการชำระหนี้ที่เกี่ยวข้องกับสังหาริมทรัพย์ดังกล่าว กองทรัสต์จะไม่เข้าลงทุนทรัพย์สินในโครงการสำนักงานดีทีจีโอ แคมป์อัส ทั้งหมด"}
+    },
+    {
+      "topic": "IRR if no buy-back",
+      "observation": "The manager's IRR is 7.00% with buy-back. Without buy-back and assuming a sale at THB 2,224m at year 3, IRR is 7.34%; a 10% lower desk rent cuts the value to THB 1,999m and IRR to 4.08%. This assumes MTRA covers no shortfall.",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 487, "section": "กรณีที่เจ้าของเดิมไม่ซื้อทรัพย์สินคืนตามเงื่อนไขเมื่อสิ้นสุดสัญญา", "quote": "-10.00% | 1,999.00 | 4.08%"}
+    },
+    {
+      "topic": "Inconsistent disclosures on MQDC capital",
+      "observation": "The Fact Sheet, Leasing and Risks sections state MQDC's registered and paid-up capital as THB 21,300m. The MQDC financial table shows registered capital of THB 18,800m and paid-up capital of THB 17,956m at end-2024, and the shareholder table (31 Mar 2026) totals 1,880m shares (THB 18,800m at THB 10 par).",
+      "source": {"file": "DTPBB2_IPO_20260511_P2-03-Leasing.md", "line": 305, "section": "การประกันการปฏิบัติหน้าที่ตามสัญญา", "quote": "ทุนจดทะเบียน | 14,800.00 | 18,800.00 | 18,800.00"}
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "_toc.md",
+      "DTPBB2_IPO_20260511_00-Cover.md",
+      "DTPBB2_IPO_20260511_P1-FactSheet.md",
+      "DTPBB2_IPO_20260217_P2-01-UseOfProceeds.md",
+      "DTPBB2_IPO_20260515_P3-Offering.md",
+      "DTPBB2_IPO_20260511_P2-03-NewAssets.md",
+      "DTPBB2_IPO_20260511_P2-03-Leasing.md",
+      "DTPBB2_IPO_20260518_P2-05-Risks.md",
+      "DTPBB2_IPO_20260511_P2-02-Policy.md",
+      "DTPBB2_IPO_20260217_P2-08-Unitholders.md",
+      "DTPBB2_IPO_20260217_P2-12-Financials.md",
+      "DTPBB2_IPO_20260511_P2-09-Governance.md (L1-139, L540-639 and keyword greps)",
+      "DTPBB2_IPO_20260511_P2-11-RelatedParty.md (L1-31)",
+      "DTPBB2_IPO_20260217_P2-06-Litigation.md",
+      "DTPBB2_IPO_20260217_P2-07-Other.md",
+      "DTPBB2_IPO_20260511_00-Definitions.md"
+    ],
+    "not_found": [
+      {"field": "offering.offering_price_per_unit.final_thb", "reason": "No final pricing announced; effective date and offering period are '[]' on the Cover."},
+      {"field": "offering.estimated_transaction_costs_thb_mn", "reason": "P3-Offering cost table amounts are empty placeholders '[]'; all costs are borne by MTRA."},
+      {"field": "capital_structure.nav_per_unit_thb", "reason": "Trust not yet established; no NAV disclosed."},
+      {"field": "new_assets[DTGO_CAMPUS].building_area.leasable_sqm", "reason": "Only usable area (20,223 sqm) and seat capacity (about 1,588 seats) are disclosed."},
+      {"field": "new_assets[DTGO_CAMPUS].appraisals[].terminal_cap_rate_pct", "reason": "Terminal cap rates are only in the PDF appraisal reports, which are excluded; the text gives only the discount rates."},
+      {"field": "new_assets[DTGO_CAMPUS].acquisition price split (real estate vs movables)", "reason": "Only the combined maximum of THB 2,200m is disclosed; the individual prices are to be set in the agreements."},
+      {"field": "new_assets[DTGO_CAMPUS].key_tenants (sub-tenant revenue mix)", "reason": "Revenue share by occupant at 31 Mar 2026 is shown only as a chart (Leasing L94-96); no figures in text."},
+      {"field": "new_assets[DTGO_CAMPUS].lease_start / lease_expiry calendar dates", "reason": "The master lease starts on registration of the sale with right of redemption; no fixed date given."},
+      {"field": "parties.lenders", "reason": "Lender not named; only described as commercial banks/financial institutions, possibly related to the trustee."},
+      {"field": "parties.property_managers", "reason": "No property manager appointed; DTGO self-manages."},
+      {"field": "offering.timeline (effective date, offering period, subscription and allotment dates)", "reason": "Empty placeholders '[]' on the Cover and in P3 (subscription and payment sections)."},
+      {"field": "capital_structure total liabilities after offering", "reason": "Fact Sheet total liabilities is an empty placeholder '[]' (L38)."},
+      {"field": "offering underwriting/distribution fee amount", "reason": "Per distribution agreement, not disclosed; borne by MTRA."}
+    ],
+    "ambiguities": [
+      {"field": "offering headline figures (units, price, par, offering size, investment value, debt)", "detail": "The Cover (11 May 2026) and P2-01 (Feb 2026) show [220]m units, [10] price/par, [2,200] equity, [500] debt and [2,200] investment in brackets; the Fact Sheet header leaves them '[]'. P3-Offering (15 May 2026), NewAssets and Risks state 220m / 10 / 2,200 / 500 without brackets. Rule 5 applied consistently: these fields are 'ambiguous' (draft placeholder in brackets), citing the Cover and noting the unbracketed confirmation."},
+      {"field": "offering.funding_sources", "detail": "Equity cap 2,200 + debt cap 500 = 2,700, above the 2,200 investment cap. The sensitivity tables show the caps are alternatives (equity + debt = asset value). The base projection uses 2,200 equity and no debt."},
+      {"field": "capital_structure (Fact Sheet)", "detail": "Fact Sheet L37-39 shows total assets up to [2,200], equity up to [2,200] and liabilities '[]', while debt is up to [500]; these cannot all hold together."},
+      {"field": "use_of_proceeds (P2-01, Feb 2026)", "detail": "P2-01 L20 says proceeds plus borrowings of up to [2,200] leave up to [2,200] after deducting establishment expenses, which is internally inconsistent; P3 says MTRA bears all offering costs."},
+      {"field": "offering_price final", "detail": "P3 L91 says the price has been set at 10.00, while NewAssets L270 and Fact Sheet L113 say the final price may differ from the THB 10 assumption."},
+      {"field": "capital_structure.ltv_after_pct", "detail": "Risks L111 calls 22.73% both borrowings / total assets and a debt-to-equity ratio; on 500 debt / 1,700 equity, debt-to-equity would be 29.4%."},
+      {"field": "MTRA financials", "detail": "MTRA total assets drop from THB 2,495.67m (2023) to THB 136.73m (2024) (Leasing L389), even though MTRA is described as the owner of the campus to be sold for up to THB 2,200m; not explained in text."},
+      {"field": "MQDC registered capital", "detail": "Stated as THB 21,300m fully paid (Fact Sheet L180, Leasing L378, Risks L98) vs THB 18,800m registered / 17,956m paid-up at end-2024 (Leasing L305-306) and 1,880m shares at 31 Mar 2026 (Leasing L249)."},
+      {"field": "risks boilerplate", "detail": "Risk text for a freehold asset still has leasehold wording: MTRA warranties 'in the long-term lease' (Risks L142), expropriation compensation going to the landowner with the trust getting only remaining rent (L171-172), and capital return depending on remaining lease term (L243)."},
+      {"field": "P2-11-RelatedParty L18", "detail": "States that DTGO holds 99.84% of DTP under the MQDC row; elsewhere DTGO holds 99.84% of MQDC and 99.99% of DTP (typo)."},
+      {"field": "historical_performance period labels", "detail": "Asset history is by calendar year (FY2023-FY2025 = Jan-Dec); the projection runs 1 Apr 2026 - 31 Mar 2027, labelled FY2027P, while the trust's fiscal year is 1 Jul - 30 Jun (Definitions L50)."},
+      {"field": "occupancy basis", "detail": "Occupancy is DTGO and group employees / 1,588 seats, not leased area. The average rent per seat is total revenue spread over full capacity, so it does not reflect market rents."},
+      {"field": "Feb 2026 legacy sections", "detail": "Litigation ('none'), Other ('none'), Unitholders (10 par, up to 220m units, price 10, up to 2,200) and Financials (trust not established) do not conflict with the May 2026 documents."}
+    ],
+    "self_checks": [
+      {"check": "Max units x max price = offering size (+/-1%)", "result": "pass", "detail": "220m x THB 10 = THB 2,200m vs cap THB 2,200m (0.0%)."},
+      {"check": "DPU / basis price = distribution yield", "result": "pass", "detail": "0.70 / 10.00 = 7.00% vs stated 7.00%; also 154.00 / 220m units = 0.70."},
+      {"check": "Funding sources (maximum caps) = total investment value (+ costs)", "result": "fail", "detail": "Equity cap 2,200 + debt cap 500 = 2,700 vs investment cap 2,200 (+22.7%). The caps are alternatives, not additive; offering costs are borne by MTRA."},
+      {"check": "Funding sources (base projection) = total investment value", "result": "pass", "detail": "Base case equity 2,200 + debt 0 = 2,200; every sensitivity row has equity + debt = asset value (e.g. 1,700 + 500 = 2,200)."},
+      {"check": "Sum of asset prices <= total investment value", "result": "pass", "detail": "DTGO Campus max 2,200 <= 2,200."},
+      {"check": "Lease start + tenure = expiry", "result": "n/a", "detail": "Freehold asset; the 3-year master lease has no fixed calendar dates."},
+      {"check": "Building areas sum to total usable area", "result": "pass", "detail": "9,945 + 9,956 + 217 + 105 = 20,223 sqm = stated 20,223 sqm."},
+      {"check": "Price discount to lowest appraisal", "result": "pass", "detail": "(2,224 - 2,200) / 2,224 = 1.079%, i.e. 1.08% as stated."},
+      {"check": "LTV = max debt / total assets", "result": "pass", "detail": "500 / 2,200 = 22.73% = Risks L111."},
+      {"check": "Rent = 7% x equity in sensitivity table", "result": "pass", "detail": "0.07 x 2,200 = 154; 0.07 x 1,700 = 119; 0.07 x 1,500 = 105; 0.07 x 2,000 = 140; all match the table."},
+      {"check": "Historical average rent x seats x 12 = revenue", "result": "pass", "detail": "11,166.04 x 1,588 x 12 = THB 212.78m = FY2024 revenue 212.78."},
+      {"check": "Fact Sheet balance sheet caps: assets = equity + liabilities", "result": "fail", "detail": "Assets up to [2,200] vs equity up to [2,200] plus debt up to [500]; liabilities '[]'. The caps do not reconcile."}
+    ]
+  }
+}

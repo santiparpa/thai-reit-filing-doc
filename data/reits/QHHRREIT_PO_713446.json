@@ -1,0 +1,2422 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "QHHRREIT_PO_713446",
+    "sec_filing_no": "713446",
+    "ticker": "QHHRREIT",
+    "offering_type": "PO",
+    "offering_type_evidence": {
+      "value": "Capital increase no. 1 of the listed trust to fund its 2nd additional investment (renewed 30-year building lease of Centre Point Chidlom); PO confirmed",
+      "value_th": "การเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่ 1 ของกองทรัสต์ QHHRREIT",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+        "line": 119,
+        "section": "2.1 วิธีการเสนอขายหน่วยทรัสต์",
+        "quote": "การเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่ 1 ของกองทรัสต์ QHHRREIT"
+      }
+    },
+    "reit_name_en": {
+      "value": "Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 8,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust"
+      },
+      "note": "Cover page (line 8) prints 'Quality House Hotel and Residence ...' (without 's'); Fact Sheet, P2-01 and P3 use 'Quality Houses'."
+    },
+    "reit_name_th": {
+      "value": "Quality Houses Hotel and Residence Freehold and Leasehold REIT",
+      "value_th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า ควอลิตี้ เฮ้าส์ โฮเทล แอนด์ เรซิเดนซ์",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 7,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า ควอลิตี้ เฮ้าส์ โฮเทล แอนด์ เรซิเดนซ์"
+      }
+    },
+    "reit_structure": {
+      "value": "Freehold and leasehold REIT with no fixed term; units not redeemable. Established 22 Apr 2024 by conversion of the QHHR property fund (1 trust unit per 1 fund unit)",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 9,
+        "section": null,
+        "quote": "กองทรัสต์ไม่กำหนดอายุและไม่รับไถ่ถอนหน่วยทรัสต์"
+      }
+    },
+    "capital_increase_no": {
+      "value": 1,
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+        "line": 119,
+        "section": "2.1 วิธีการเสนอขายหน่วยทรัสต์",
+        "quote": "การเพิ่มทุนครั้งที่ 1 ของกองทรัสต์ QHHRREIT"
+      }
+    },
+    "additional_investment_no": {
+      "value": 2,
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 4,
+        "section": "ข้อมูลเกี่ยวกับทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+        "quote": "ข้อมูลเกี่ยวกับทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2"
+      }
+    },
+    "investor_eligibility": {
+      "value": "Tranche 1: existing unitholders pro rata (preferential public offering, ratio 1 existing unit : 0.1642 new unit), excluding holders whose participation would trigger foreign-law obligations; up to 55,171,200 units. Tranche 2: remaining units to private placement (incl. institutional investors that are not existing holders) and/or the general public; retail/public tranche may not be offered",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 20,
+        "section": null,
+        "quote": "(Preferential Public Offering) | ไม่เกิน 55,171,200 หน่วย"
+      }
+    },
+    "listing": {
+      "value": "Listed on SET since 2024-05-29; new units to be listed (offering made before SET approval of the new units)",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+        "line": 7,
+        "section": "วัตถุประสงค์การใช้เงิน",
+        "quote": "กลุ่มอสังหาริมทรัพย์และก่อสร้าง เมื่อวันที่ 29 พฤษภาคม 2567"
+      }
+    },
+    "unitholder_approval_date": {
+      "value": "2025-08-20",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+        "line": 8,
+        "section": "วัตถุประสงค์การใช้เงิน",
+        "quote": "โดยในวันที่ 20 สิงหาคม 2568 ที่ประชุมผู้ถือหน่วยทรัสต์ของกองทรัสต์ได้มีมติอนุมัติ"
+      },
+      "note": "Unitholders' meeting no. 1/2568; approved up to 130,200,000 new units and up to THB 1,000 mn related-party borrowing; this offering uses 69,000,000 units."
+    },
+    "data_as_of": {
+      "value": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 6,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "ข้อมูล ณ วันที่ 30 กันยายน 2568"
+      }
+    },
+    "latest_document_date": "2026-01-28",
+    "documents_used": [
+      {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260127",
+        "used_for": "Names, max units/price/equity/debt/investment value, parties, offer periods, definitions"
+      },
+      {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260127",
+        "used_for": "Data as-of, capital structure before/after, appraisals, DPU history, projected yield/IRR, key financials"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+        "doc_type": "P2-01-UseOfProceeds",
+        "uploaded": "20251215",
+        "used_for": "Approval date, use of proceeds, listing date"
+      },
+      {
+        "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+        "doc_type": "P3-Offering",
+        "uploaded": "20260127",
+        "used_for": "Offering terms, allocation, timetable, underwriter, market price history, offering costs"
+      },
+      {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "doc_type": "P2-03-NewAssets",
+        "uploaded": "20260128",
+        "used_for": "New asset details, appraisals, lease/sublease terms, loan terms, pro forma, sensitivity"
+      },
+      {
+        "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+        "doc_type": "P2-03-ExistingAssets",
+        "uploaded": "20260113",
+        "used_for": "Existing asset rows, appraisals, occupancy, existing lease expiries"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "doc_type": "P2-12-Financials",
+        "uploaded": "20251215",
+        "used_for": "Balance sheet, income statement FY2024 (22 Apr-31 Dec 2024) and 9M2025, auditor"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-13-MDA.md",
+        "doc_type": "P2-13-MDA",
+        "uploaded": "20251215",
+        "used_for": "Financial position narrative"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+        "doc_type": "P2-08-Unitholders",
+        "uploaded": "20251215",
+        "used_for": "Units outstanding, NAV, closing prices, unitholders, distribution history"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "doc_type": "P2-05-Risks",
+        "uploaded": "20251215",
+        "used_for": "Risk factors"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-02-Policy.md",
+        "doc_type": "P2-02-Policy",
+        "uploaded": "20251215",
+        "used_for": "Conversion history, group structure"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-11-RelatedParty.md",
+        "doc_type": "P2-11-RelatedParty",
+        "uploaded": "20251215",
+        "used_for": "Related-party relationships (QH, CPH, QHI, LH Bank, SCB)"
+      },
+      {
+        "file": "QHHRREIT_PO_20251215_P2-09-Governance.md",
+        "doc_type": "P2-09-Governance",
+        "uploaded": "20251215",
+        "used_for": "Auditor and appraiser names (grep only)"
+      }
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Hospitality",
+    "sub_sectors": [
+      "Hotel",
+      "Serviced apartment"
+    ],
+    "description": {
+      "value": "Owns four Bangkok hotel / serviced-apartment projects under the Centre Point brand (two freehold, two leasehold) sub-leased to Quality Houses' subsidiary CPH; this PO buys a new 30-year building lease (1 Jun 2026 - 31 May 2056) of Centre Point Chidlom from the Crown Property Bureau to replace the current lease expiring 31 May 2026.",
+      "status": "derived",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 63,
+        "section": null,
+        "quote": "จาก CPB นับจากวันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2599"
+      },
+      "note": "Summary composed from Cover definitions (lines 60-63) and P2-03 files."
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "Quality Houses Public Company Limited (QH)",
+        "name_th": "บริษัท ควอลิตี้ เฮ้าส์ จำกัด (มหาชน)",
+        "role_detail": "Not labelled 'sponsor' in the text; de facto sponsor: largest unitholder (31.33% direct), ~99.99% parent of lessee CPH and operator QHI, indirect 13.74% shareholder of the REIT manager via LHFG; signs an undertaking to support CPH and maintain its unitholding",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-11-RelatedParty.md",
+          "line": 10,
+          "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกันกับผู้จัดการกองทรัสต์ หรือทรัสตี",
+          "quote": "เป็นผู้ถือหน่วยทรัสต์รายใหญ่ของกองทรัสต์ QHHRREIT โดยถือหน่วยทรัสต์ทางตรงคิดเป็นสัดส่วนประมาณร้อยละ 31.33"
+        }
+      }
+    ],
+    "reit_manager": {
+      "name_en": "Land and Houses Fund Management Company Limited",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด",
+      "role_detail": "REIT manager and offeror; 99.99% owned by LH Financial Group (LHFG), in which QH holds 13.74%",
+      "related_to_sponsor": true,
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 5,
+        "section": null,
+        "quote": "Land and Houses Fund Management Company Limited"
+      }
+    },
+    "trustee": {
+      "name_en": "SCB Asset Management Company Limited (SCBAM)",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด",
+      "role_detail": "Trustee; 99.99% subsidiary of Siam Commercial Bank (financial advisor, underwriter and possible lender)",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 27,
+        "section": null,
+        "quote": "ทรัสตี : บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด"
+      }
+    },
+    "property_managers": [
+      {
+        "name_en": "Q.H. International Company Limited (QHI)",
+        "name_th": "บริษัท คิว.เอช.อินเตอร์เนชั่นแนล จำกัด",
+        "role_detail": "Hotel / serviced-apartment manager appointed by lessee CPH (basic fee up to 2% of revenue excl. F&B; incentive fee up to 5.5% of operating profit)",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 32,
+          "section": "ลักษณะการบริหารจัดการอสังหาริมทรัพย์",
+          "quote": "บริษัท คิว.เอช.อินเตอร์เนชั่นแนล จำกัด เพื่อบริหารจัดการโครงการเซนเตอร์ พอยต์ ชิดลม"
+        }
+      }
+    ],
+    "financial_advisors": [
+      {
+        "name_en": "Siam Commercial Bank Public Company Limited (SCB)",
+        "name_th": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+        "role_detail": "Financial advisor; parent of the trustee",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 28,
+          "section": null,
+          "quote": "ที่ปรึกษาทางการเงิน : ธนาคารไทยพาณิชย์ จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "J Capital Advisory Company Limited",
+        "name_th": "บริษัท เจย์ แคปปิตอล แอดไวเซอรี จำกัด",
+        "role_detail": "Independent financial advisor (IFA)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 58,
+          "section": "คำจำกัดความ",
+          "quote": "บริษัท เจย์ แคปปิตอล แอดไวเซอรี จำกัด"
+        }
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "Siam Commercial Bank Public Company Limited (SCB)",
+        "name_th": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+        "role_detail": "Lead underwriter / offering manager; firm underwriting after signing of relevant agreements",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 29,
+          "section": null,
+          "quote": "ผู้จัดการการจัดจำหน่าย: ธนาคารไทยพาณิชย์ จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "underwriters": [],
+    "appraisers": [
+      {
+        "name_en": "15 Business Advisory Company Limited",
+        "name_th": "บริษัท 15 ที่ปรึกษาธุรกิจ จำกัด",
+        "role_detail": "Independent appraiser of Centre Point Chidlom (new asset)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-09-Governance.md",
+          "line": 745,
+          "section": "ผู้ประเมินมูลค่าทรัพย์สินสำหรับทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+          "quote": "บริษัท 15 ที่ปรึกษาธุรกิจ จำกัด"
+        }
+      },
+      {
+        "name_en": "Asian Engineering Valuation Company Limited",
+        "name_th": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด",
+        "role_detail": "Independent appraiser of Centre Point Chidlom (new asset)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-09-Governance.md",
+          "line": 749,
+          "section": "ผู้ประเมินมูลค่าทรัพย์สินสำหรับทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+          "quote": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด"
+        }
+      },
+      {
+        "name_en": "KTAC Appraisal and Service Company Limited",
+        "name_th": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด",
+        "role_detail": "Appraiser of the existing assets (latest appraisals 2025)",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+          "line": 42,
+          "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+          "quote": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด ณ วันที่ 30 เมษายน 2568"
+        }
+      }
+    ],
+    "auditor": {
+      "name_en": "EY Office Limited",
+      "name_th": "บริษัท สำนักงาน อีวาย จำกัด",
+      "role_detail": "Auditor (FY2024 audit, 9M2025 review; signing CPA Ms. Nummon Kerdmongkolchai, no. 8368)",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 8,
+        "section": "สรุปรายงานการสอบบัญชี",
+        "quote": "เลขทะเบียน 8368 <br> บริษัท สำนักงาน อีวาย จำกัด"
+      }
+    },
+    "legal_advisors": [],
+    "lenders": [
+      {
+        "name_en": "Land and Houses Bank Public Company Limited (LH Bank)",
+        "name_th": "ธนาคารแลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)",
+        "role_detail": "Existing lender (THB 1,346.53 mn under 4 loan agreements at 30 Sep 2025); possible lender for the new loan; related to the REIT manager via LHFG; holds 2.53% of units",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 228,
+          "section": "สถานะของการกู้ยืมเงินของกองทรัสต์",
+          "quote": "กองทรัสต์มีการกู้ยืมเงินสินเชื่อจากธนาคารแลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน) บนสัญญากู้ยืม 4 ฉบับ รวมเป็นจำนวนเงิน 1,346.53 ล้านบาท"
+        }
+      },
+      {
+        "name_en": "Siam Commercial Bank Public Company Limited (SCB)",
+        "name_th": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+        "role_detail": "Possible lender for the new loan; parent of the trustee",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 223,
+          "section": "ความสัมพันธ์ และเหตุผลความจำเป็นของการกู้ยืมจากบุคคลที่เกี่ยวข้อง และความเห็นเกี่ยวกับเงื่อนไขตามสัญญากู้ยืมเงิน",
+          "quote": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน) อาจเป็นผู้ให้กู้ยืมเงินแก่กองทรัสต์"
+        }
+      }
+    ],
+    "sellers_or_lessors": [
+      {
+        "name_en": "Crown Property Bureau (CPB)",
+        "name_th": "สำนักงานทรัพย์สินพระมหากษัตริย์",
+        "role_detail": "Owner of land and building; grants the new 30-year building lease for a single upfront rent of THB 1,233.5 mn",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 16,
+          "section": "ประเภทการถือครอง",
+          "quote": "สิทธิการเช่าอาคารโครงการเซนเตอร์ พอยต์ ชิดลม จาก CPB"
+        }
+      }
+    ],
+    "operators_or_master_lessees": [
+      {
+        "name_en": "Centre Point Hospitality Company Limited (CPH)",
+        "name_th": "บริษัท เซนเตอร์ พอยต์ ฮอสพิทอลิตี้ จำกัด",
+        "role_detail": "Master sub-lessee of all four projects (fixed + 90% variable rent); 99.99% owned by QH; paid-up capital THB 5 mn",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 303,
+          "section": "รายละเอียดผู้เช่า",
+          "quote": "ชื่อผู้เช่า : บริษัท เซนเตอร์ พอยต์ ฮอสพิทอลิตี้ จำกัด"
+        }
+      },
+      {
+        "name_en": "Quality Houses Public Company Limited (QH)",
+        "name_th": "บริษัท ควอลิตี้ เฮ้าส์ จำกัด (มหาชน)",
+        "role_detail": "Undertaking provider: keeps >=99.99% of CPH, supervises and financially supports CPH to perform the Chidlom sublease, maintains unitholding required by CPB (no rental guarantee)",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 171,
+          "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการ",
+          "quote": "รวมถึงแต่ไม่จำกัดเพียงการให้ความช่วยเหลือทางการเงิน เพื่อให้ CPH สามารถปฏิบัติหน้าที่ตามที่กำหนดไว้ในสัญญาเช่าช่วงชิดลม"
+        }
+      }
+    ],
+    "not_found_roles": [
+      "legal advisor",
+      "co-underwriters / selling agents other than SCB (manager may appoint later)",
+      "the term 'sponsor' (ผู้สนับสนุน) is not used; QH treated as de facto sponsor"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 69000000,
+      "unit": "units",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 16,
+        "section": null,
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 69,000,000 หน่วย"
+      },
+      "note": "Maximum ('ไม่เกิน'). Unitholders approved up to 130,200,000 units; this offering uses 69,000,000."
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "No minimum price stated; sensitivity table illustrates THB 6.20-6.70 only."
+      },
+      "max_thb": {
+        "value": 6.7,
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 16,
+          "section": null,
+          "quote": "ราคาเสนอขายไม่เกิน 6.70 บาทต่อหน่วย"
+        },
+        "note": "Maximum; the actual maximum price to be announced by 17 Feb 2026 (not above THB 6.70)."
+      },
+      "final_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Final price to be announced on SET website on 27 Feb 2026 (after the filing)."
+      }
+    },
+    "par_value_per_unit_thb": {
+      "value": 11.9801,
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 16,
+        "section": null,
+        "quote": "มูลค่าที่ตราไว้ 11.9801 บาทต่อหน่วย"
+      },
+      "note": "Max offer price THB 6.70 is ~44% below par."
+    },
+    "offering_size_thb_mn": {
+      "value": 462.3,
+      "unit": "THB mn",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 11,
+        "section": null,
+        "quote": "การออกและเสนอขายหน่วยทรัสต์ในมูลค่าทั้งสิ้นไม่เกิน | 462,300,000 บาท"
+      },
+      "note": "Maximum new equity."
+    },
+    "total_investment_value_thb_mn": {
+      "value": 1233.5,
+      "unit": "THB mn",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 14,
+        "section": null,
+        "quote": "โดยกองทรัสต์จะเข้าลงทุนในอสังหาริมทรัพย์ที่จะลงทุนเพิ่มเติมในมูลค่าทั้งสิ้นไม่เกิน | 1,233,500,000 บาท"
+      },
+      "note": "Maximum; excludes registration fees, stamp duty, taxes and other costs borne by the trust."
+    },
+    "funding_sources": [
+      {
+        "type": "new_units",
+        "amount_thb_mn": {
+          "value": 462.3,
+          "unit": "THB mn",
+          "status": "found",
+          "source": {
+            "file": "QHHRREIT_PO_20260127_00-Cover.md",
+            "line": 11,
+            "section": null,
+            "quote": "การออกและเสนอขายหน่วยทรัสต์ในมูลค่าทั้งสิ้นไม่เกิน | 462,300,000 บาท"
+          },
+          "note": "Maximum"
+        },
+        "note": "69.0 mn units at up to THB 6.70"
+      },
+      {
+        "type": "debt",
+        "amount_thb_mn": {
+          "value": 1000,
+          "unit": "THB mn",
+          "status": "found",
+          "source": {
+            "file": "QHHRREIT_PO_20260127_00-Cover.md",
+            "line": 13,
+            "section": null,
+            "quote": "การกู้ยืมเงินจากผู้ให้กู้ สำหรับการลงทุนในอสังหาริมทรัพย์ที่จะลงทุนเพิ่มเติมในมูลค่าทั้งสิ้นไม่เกิน | 1,000,000,000 บาท"
+          },
+          "note": "Maximum facility; projection base case at THB 6.70 assumes ~THB 835 mn drawn (THB 869 mn at THB 6.20)."
+        },
+        "note": "Long-term loan, possibly from related parties LH Bank and/or SCB"
+      }
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "Upfront rent for the 30-year lease of the Centre Point Chidlom building, utilities and fixtures from CPB (1 Jun 2026 - 31 May 2056)",
+        "amount_thb_mn": 1233.5,
+        "note": "Paid in a single payment on signing of the lease",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 147,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "ค่าเช่าทั้งหมดตลอดอายุสัญญาเป็นเงินจำนวนทั้งสิ้น 1,233,500,000 บาท โดยผู้เช่าตกลงชำระค่าเช่าทั้งหมดในคราวเดียว ณ วันทำสัญญาเช่า"
+        }
+      },
+      {
+        "item": "Estimated offering and transaction expenses (SEC fees, registration, stamp duty, advisers, underwriting, loan arrangement, REIT manager acquisition fee, etc.)",
+        "amount_thb_mn": 53.9,
+        "note": "Estimate incl. VAT",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+          "line": 456,
+          "section": "4. ประมาณการค่าใช้จ่ายต่างๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+          "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ 53,900,000 บาท"
+        }
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": 53.9,
+      "unit": "THB mn",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+        "line": 456,
+        "section": "4. ประมาณการค่าใช้จ่ายต่างๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+        "quote": "รวมค่าใช้จ่ายทั้งสิ้นประมาณ | ประมาณ 53,900,000 บาท"
+      }
+    },
+    "allocation": [
+      {
+        "tranche": "Tranche 1: existing unitholders pro rata (preferential public offering), excluding holders subject to foreign-law restrictions",
+        "units": 55171200,
+        "pct_of_offer": 79.96,
+        "note": "Up to 55,171,200 units (~80% per P3 note); pct derived = 55,171,200 / 69,000,000; oversubscription may be allocated at manager's discretion",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 20,
+          "section": null,
+          "quote": "ไม่เกิน 55,171,200 หน่วย"
+        }
+      },
+      {
+        "tranche": "Tranche 2: private placement (incl. institutional investors not existing holders) and/or general public, incl. persons at underwriter's discretion",
+        "units": null,
+        "pct_of_offer": null,
+        "note": "Units remaining after tranche 1; claw back/forward allowed; public/retail tranche may not be offered",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+          "line": 40,
+          "section": "1.2  สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "หน่วยทรัสต์ส่วนที่เหลือจากการเสนอขาย <br> ในส่วนที่ 1"
+        }
+      }
+    ],
+    "subscription_ratio": {
+      "value": "1 existing unit : 0.1642 new unit (fractions rounded down)",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+        "line": 23,
+        "section": "1.1  ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย",
+        "quote": "1 หน่วยทรัสต์เดิมต่อ 0.1642 หน่วยทรัสต์ที่ออกและเสนอขายเพิ่มเติม"
+      }
+    },
+    "sponsor_commitment": {
+      "value": "QH undertakes to maintain its (and its group's) unitholding at the proportion required by the CPB building lease and not to transfer or encumber those units; to keep >=99.99% of CPH while CPH leases Chidlom; and to supervise and financially support CPH. The required proportion and any QH subscription intention for the new units are not disclosed",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 170,
+        "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการ",
+        "quote": "QH ตกลงจะดำรงสัดส่วนการถือหน่วยทรัสต์ของตน และกลุ่มบุคคลเดียวกันในสัดส่วนเป็นไปตามที่กำหนดในสัญญาเช่าอาคารระหว่างกองทรัสต์และ CPB"
+      }
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months 1 Jun 2026 - 31 May 2027 (FY2027P basis, June-May)",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 49,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "ประมาณการผลตอบแทนระยะสั้นของกองทรัสต์ ตั้งแต่วันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2570"
+        }
+      },
+      "basis_price_thb": {
+        "value": 6.7,
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 51,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "ราคาเสนอขายหน่วยทรัสต์เพิ่มเติม (บาทต่อหน่วย) / 6.70"
+        },
+        "note": "Updated case: 69.0 mn new units, ~THB 835 mn debt. The pro forma table in P2-03-NewAssets (line 478) still uses THB 6.60, 395 mn units and ~THB 908 mn debt."
+      },
+      "dpu_thb": {
+        "value": 0.73,
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 51,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "รวมประมาณการจำนวนเงินปันส่วนกำไรต่อหน่วยและเงินลดทุนต่อหน่วย (บาท) / 0.73"
+        },
+        "note": "All profit distribution, no capital reduction. P2-03-NewAssets base case (THB 6.60) shows 0.74."
+      },
+      "distribution_yield_pct": {
+        "value": 10.8,
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 51,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "อัตราการจ่ายเงินปันส่วนกำไรและเงินลดทุน (ร้อยละ) / 10.8"
+        },
+        "note": "At THB 6.70. P2-03-NewAssets line 478 states 11.28% at THB 6.60 (DPU 0.74). Long-term IRR 14.7% at THB 6.70 (Fact Sheet) vs 15.1% at THB 6.60 (P2-03-NewAssets line 482)."
+      },
+      "total_distribution_thb_mn": {
+        "value": 294.0,
+        "unit": "THB mn",
+        "status": "ambiguous",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 374,
+          "section": "รายงานงบกำไรขาดทุนตามสถานการณ์สมมติ",
+          "quote": "ประมาณการเงินจ่ายให้แก่ผู้ถือหน่วยทรัสต์ในรูปของการจ่ายประโยชน์ตอบแทน (ล้านบาท) | 226.5 | 294.0"
+        },
+        "note": "Figure is from the pro forma base case (395 mn units at THB 6.60, ~THB 908 mn debt, 98% payout); the updated 405 mn units / THB 835 mn debt case total is not disclosed."
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 374.5,
+        "unit": "THB mn",
+        "status": "ambiguous",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 372,
+          "section": "รายงานงบกำไรขาดทุนตามสถานการณ์สมมติ",
+          "quote": "รายได้จากการลงทุนสุทธิ | 300.8 | 374.5"
+        },
+        "note": "Enlarged trust, pro forma base case (THB 6.60 / ~THB 908 mn debt); existing 3 assets alone 300.8. Revenue 542.1, finance cost 100.2."
+      },
+      "yield_sensitivity": [
+        {
+          "offering_price_thb": 6.2,
+          "dpu_thb": 0.73,
+          "yield_pct": 11.7,
+          "note": "69.0 mn units, THB 428 mn equity, THB 869 mn debt, IRR 14.9%",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 535,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "ประมาณการอัตราการจ่ายประโยชน์ตอบแทนปีแรกของกองทรัสต์ภายหลังการลงทุนเพิ่มเติม (ร้อยละ) | 11.7 | 11.5 | 11.3 | 11.2 | 11.0 | 10.8"
+          }
+        },
+        {
+          "offering_price_thb": 6.3,
+          "dpu_thb": 0.73,
+          "yield_pct": 11.5,
+          "note": "THB 435 mn equity, THB 863 mn debt, IRR 14.8%",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 535,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "11.7 | 11.5 | 11.3 | 11.2 | 11.0 | 10.8"
+          }
+        },
+        {
+          "offering_price_thb": 6.4,
+          "dpu_thb": 0.73,
+          "yield_pct": 11.3,
+          "note": "THB 442 mn equity, THB 856 mn debt, IRR 14.8%",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 535,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "11.7 | 11.5 | 11.3 | 11.2 | 11.0 | 10.8"
+          }
+        },
+        {
+          "offering_price_thb": 6.5,
+          "dpu_thb": 0.73,
+          "yield_pct": 11.2,
+          "note": "THB 449 mn equity, THB 849 mn debt, IRR 14.8%",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 535,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "11.7 | 11.5 | 11.3 | 11.2 | 11.0 | 10.8"
+          }
+        },
+        {
+          "offering_price_thb": 6.6,
+          "dpu_thb": 0.73,
+          "yield_pct": 11.0,
+          "note": "THB 455 mn equity, THB 842 mn debt, IRR 14.8% (P2-03 pro forma text for THB 6.60 shows 0.74 / 11.28% / IRR 15.1% under 58.9 mn units)",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 535,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "11.7 | 11.5 | 11.3 | 11.2 | 11.0 | 10.8"
+          }
+        },
+        {
+          "offering_price_thb": 6.7,
+          "dpu_thb": 0.73,
+          "yield_pct": 10.8,
+          "note": "THB 462 mn equity, THB 835 mn debt, IRR 14.7%",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 535,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "11.7 | 11.5 | 11.3 | 11.2 | 11.0 | 10.8"
+          }
+        }
+      ],
+      "pro_forma_note": {
+        "value": "Base-case DPU for existing assets only (3 projects, excluding Chidlom whose current lease ends 31 May 2026) is THB 0.67 (10.1% at THB 6.70) vs THB 0.73 (10.8%) for the enlarged trust; occupancy +/-5% moves enlarged DPU to 0.65-0.80, ADR +/-5% to 0.66-0.79",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 499,
+          "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+          "quote": "กรณีฐาน | 0.67 | 0.73 | 10.1 | 10.8"
+        }
+      }
+    },
+    "timeline": [
+      {
+        "event": "Unitholders' meeting no. 1/2568 approves acquisition, capital increase and borrowing",
+        "date": "2025-08-20",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+          "line": 8,
+          "section": "วัตถุประสงค์การใช้เงิน",
+          "quote": "โดยในวันที่ 20 สิงหาคม 2568 ที่ประชุมผู้ถือหน่วยทรัสต์ของกองทรัสต์ได้มีมติอนุมัติ"
+        }
+      },
+      {
+        "event": "Registration statement filed with SEC",
+        "date": "2025-09-08",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 30,
+          "section": null,
+          "quote": "วันที่ยื่นแบบแสดงรายการข้อมูลการเสนอขายหน่วยทรัสต์ : 8 กันยายน 2568"
+        }
+      },
+      {
+        "event": "Registration statement effective",
+        "date": "2026-01-30",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 31,
+          "section": null,
+          "quote": "วันที่แบบแสดงรายการข้อมูลมีผลใช้บังคับ : 30 มกราคม 2569"
+        }
+      },
+      {
+        "event": "Record date for existing unitholders' rights",
+        "date": "2026-02-05",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+          "line": 30,
+          "section": "1.2  สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "(Record Date) ในวันที่ 5 กุมภาพันธ์ 2569"
+        }
+      },
+      {
+        "event": "Maximum offer price announced (not above THB 6.70)",
+        "date": "2026-02-17",
+        "indicative": true,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+          "line": 19,
+          "section": "1.1  ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย",
+          "quote": "ภายในวันที่ 17 กุมภาพันธ์ 2569"
+        }
+      },
+      {
+        "event": "Subscription period for existing unitholders (individuals/juristic persons, institutions without bookbuilding form) and discretionary investors",
+        "date": "2026-02-23 to 2026-02-27",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 34,
+          "section": null,
+          "quote": "วันที่ 23-27 กุมภาพันธ์ 2569"
+        }
+      },
+      {
+        "event": "Final offer price announced",
+        "date": "2026-02-27",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+          "line": 19,
+          "section": "1.1  ลักษณะสำคัญของหลักทรัพย์ที่เสนอขาย",
+          "quote": "ราคาเสนอขายสุดท้ายจะมีการประกาศผ่านเว็บไซต์ตลาดหลักทรัพย์แห่งประเทศไทยในวันที่ 27 กุมภาพันธ์ 2569"
+        }
+      },
+      {
+        "event": "Subscription period for institutional investors (bookbuilding) and private placement / public",
+        "date": "2026-03-02, 2026-03-04 to 2026-03-05",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260127_00-Cover.md",
+          "line": 37,
+          "section": null,
+          "quote": "วันที่ 2, 4-5 มีนาคม 2569"
+        }
+      },
+      {
+        "event": "Current Chidlom building lease (existing asset) expires",
+        "date": "2026-05-31",
+        "indicative": false,
+        "source": {
+          "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+          "line": 130,
+          "section": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+          "quote": "ซึ่งมีระยะเวลาการเช่าสิ้นสุดวันที่ 31 พฤษภาคม 2569"
+        }
+      },
+      {
+        "event": "New 30-year Chidlom lease and CPH sublease start (expected investment date)",
+        "date": "2026-06-01",
+        "indicative": true,
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 145,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "การเช่าตามสัญญานี้มีกำหนดระยะเวลา 30 ปี นับแต่วันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2599"
+        }
+      }
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 336000000,
+      "unit": "units",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+        "line": 10,
+        "section": "ข้อมูลหน่วยทรัสต์",
+        "quote": "จำนวนหน่วยทรัสต์ ณ วันที่ 30 กันยายน 2568 | 336,000,000 หน่วย"
+      }
+    },
+    "units_outstanding_after_max": {
+      "value": 405000000,
+      "unit": "units",
+      "status": "derived",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 16,
+        "section": null,
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 69,000,000 หน่วย"
+      },
+      "note": "336,000,000 existing + 69,000,000 max new units."
+    },
+    "nav_per_unit_thb": {
+      "value": 13.9454,
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+        "line": 17,
+        "section": "ข้อมูลหน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิต่อหน่วยทรัสต์ ณ วันที่ 30 กันยายน 2568 | 13.9454 บาท"
+      }
+    },
+    "total_assets_before_thb_mn": {
+      "value": 6116.765,
+      "unit": "THB mn",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 24,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "รวมสินทรัพย์ | 5,771,568 | 6,116,765"
+      }
+    },
+    "total_assets_after_thb_mn": {
+      "value": 7414.5,
+      "unit": "THB mn",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 29,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "สินทรัพย์รวม / 7,414.5 ล้านบาท"
+      },
+      "note": "Pro forma: 69 mn new units at THB 6.70 and ~THB 835 mn new long-term debt applied to the 30 Sep 2025 balance sheet."
+    },
+    "borrowings_before_thb_mn": {
+      "value": 1350.728,
+      "unit": "THB mn",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 28,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "เงินกู้ยืมระยะยาว | 1,154,351 | 1,350,728"
+      },
+      "note": "Carrying amount; principal outstanding THB 1,346.53 mn from LH Bank under 4 agreements (P2-03-NewAssets line 228; Fact Sheet shows 1,346.5)."
+    },
+    "new_borrowings_thb_mn": {
+      "value": 1000,
+      "unit": "THB mn",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 13,
+        "section": null,
+        "quote": "การกู้ยืมเงินจากผู้ให้กู้ สำหรับการลงทุนในอสังหาริมทรัพย์ที่จะลงทุนเพิ่มเติมในมูลค่าทั้งสิ้นไม่เกิน | 1,000,000,000 บาท"
+      },
+      "note": "Maximum; base case ~THB 835 mn at THB 6.70. A further loan of up to THB 505 mn is planned for renovation of Chidlom in 2029-2030."
+    },
+    "borrowings_after_thb_mn": {
+      "value": 2182.0,
+      "unit": "THB mn",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 29,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "เงินกู้ยืม / 2,182.0 ล้านบาท"
+      },
+      "note": "Pro forma with ~THB 835 mn new debt."
+    },
+    "ltv_before_pct": {
+      "value": 22.01,
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 107,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "อัตราส่วนเงินกู้ยืมต่อสินทรัพย์รวม (ร้อยละ) | 19.97 | 22.01"
+      },
+      "note": "Fact Sheet key-financials table (line 79) shows 22.08 for 9M2025 and 20.00 for FY2024."
+    },
+    "ltv_after_pct": {
+      "value": 29.43,
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 29,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "สัดส่วนการกู้ยืม (ร้อยละของสินทรัพย์รวม) / ร้อยละ 29.43"
+      },
+      "note": "Pro forma with ~THB 835 mn new debt; ~31.4% if the full THB 1,000 mn is drawn (P2-05-Risks line 107)."
+    },
+    "ltv_limit_pct": {
+      "value": 35,
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 190,
+        "section": "การกู้ยืมเงิน",
+        "quote": "สามารถทำการกู้ยืมเงินได้ไม่เกินร้อยละ 35 ของมูลค่าทรัพย์สินรวมของกองทรัสต์"
+      },
+      "note": "60% if the trust has an investment-grade rating within 1 year before borrowing."
+    },
+    "loan_terms": {
+      "value": "Long-term loan up to THB 1,000 mn from commercial banks / financial institutions that may be related parties (LH Bank - related to REIT manager; SCB - parent of trustee); floating rate not exceeding MLR - 1.00% p.a. (projection assumes MLR - 1.50%); tenor up to 12 years from first drawdown; quarterly interest; bullet principal repayment at maturity; secured by mortgage of Centre Point Sukhumvit 10 land and buildings; negative pledge and financial covenants. Terms are indicative and subject to negotiation",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 204,
+        "section": "สรุปสาระสำคัญของร่างสัญญากู้ยืมเงินเพื่อการลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+        "quote": "จำนองที่ดินพร้อมสิ่งปลูกสร้างโครงการเซนเตอร์ พอยต์ สุขุมวิท 10"
+      }
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "CP_CHIDLOM_LEASE_2026_2056",
+      "name_en": "Centre Point Chidlom (new 30-year building lease, 2026-2056)",
+      "name_th": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+      "asset_type": "Hotel / serviced apartment",
+      "location": {
+        "address": "60 Lang Suan Road, Lumphini, Pathum Wan, Bangkok",
+        "address_th": "เลขที่ 60 ถนนหลังสวน แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร",
+        "subdistrict": "Lumphini",
+        "district": "Pathum Wan",
+        "province": "Bangkok",
+        "zone": "Bangkok CBD (Lang Suan / Chidlom, near BTS Chidlom and Lumphini Park)",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 12,
+          "section": "ที่ตั้งของโครงการ",
+          "quote": "ตั้งอยู่เลขที่ 60 ถนนหลังสวน แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร"
+        }
+      },
+      "investment_type": {
+        "value": "Leasehold",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 16,
+          "section": "ประเภทการถือครอง",
+          "quote": "โดยมีระยะเวลาการเช่า 30 ปี นับจากวันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2599"
+        },
+        "note": "Lease of the building, utility systems and fixtures only (no land); furniture and equipment already owned by the trust since the 2024 conversion."
+      },
+      "components": [
+        {
+          "component": "Building (24-storey hotel), utility systems and fixtures",
+          "right": "Leasehold",
+          "tenure_years": 30,
+          "start_date": "2026-06-01",
+          "expiry_date": "2056-05-31",
+          "renewal_option": "None stated in the lease summary",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 145,
+            "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+            "quote": "การเช่าตามสัญญานี้มีกำหนดระยะเวลา 30 ปี นับแต่วันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2599"
+          }
+        },
+        {
+          "component": "Land under the building (CPB title deed no. 710) - not acquired",
+          "right": "Other",
+          "tenure_years": null,
+          "start_date": null,
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+            "line": 224,
+            "section": "ความเสี่ยงที่การจดทะเบียนเกี่ยวกับทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2 อาจมีความล่าช้ากว่าที่กำหนด",
+            "quote": "กองทรัสต์จะเข้าลงทุนในสิทธิการเช่าในอาคารโดยไม่ได้ลงทุนในที่ดินซึ่งเป็นที่ตั้งของอาคารดังกล่าว"
+          }
+        },
+        {
+          "component": "Furniture and equipment (movable assets)",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": "2024-05-24",
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 17,
+            "section": "ประเภทการถือครอง",
+            "quote": "กองทรัสต์ QHHRREIT เป็นเจ้าของกรรมสิทธิ์ในสังหาริมทรัพย์ เช่น เฟอร์นิเจอร์และอุปกรณ์ต่าง ๆ"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": 30,
+        "unit": "years",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 145,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "การเช่าตามสัญญานี้มีกำหนดระยะเวลา 30 ปี"
+        }
+      },
+      "lease_start": {
+        "value": "2026-06-01",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 145,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "นับแต่วันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2599"
+        }
+      },
+      "lease_expiry": {
+        "value": "2056-05-31",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 145,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "นับแต่วันที่ 1 มิถุนายน 2569 ถึงวันที่ 31 พฤษภาคม 2599"
+        }
+      },
+      "land_area": {
+        "value_sqm": 1879.6,
+        "as_filed": "1 rai 69.9 sq wa (469.90 sq wa)",
+        "status": "ambiguous",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 12,
+          "section": "ที่ตั้งของโครงการ",
+          "quote": "บนพื้นที่ประมาณ 1 ไร่ 69.9 ตารางวา"
+        },
+        "note": "469.90 sq wa x 4 = 1,879.6 sqm, consistent with the lease summary (line 144). P2-03-ExistingAssets line 123 instead says the whole title deed is 61-3-33.7 rai and the building sits on about '1-34-0'. Land is not part of the investment."
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 22360.55,
+          "unit": "sqm",
+          "status": "found",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 20,
+            "section": "ลักษณะอาคาร",
+            "quote": "ซึ่งมีพื้นที่ใช้สอยรวมทั้งสิ้นประมาณ 22,360.55 ตารางเมตร"
+          }
+        },
+        "leasable_sqm": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Hotel; whole building sub-leased to CPH, no NLA disclosed."
+        },
+        "rooms": {
+          "value": 178,
+          "unit": "rooms",
+          "status": "found",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 20,
+            "section": "ลักษณะอาคาร",
+            "quote": "เซอร์วิส อะพาร์ตเมนต์จำนวน 178 ห้อง"
+          }
+        },
+        "buildings": {
+          "value": 1,
+          "unit": "buildings",
+          "status": "found",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 144,
+            "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+            "quote": "อาคารโรงแรม 24 ชั้น 1 หลัง"
+          }
+        }
+      },
+      "completion_or_age": {
+        "value": "Opened 1996; major renovation completed end-2011; appraiser assumes a further ~THB 504 mn room renovation in 2029-2030",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 20,
+          "section": "ลักษณะอาคาร",
+          "quote": "เปิดดำเนินกิจการเมื่อปี 2539 โดยได้รับการปรับปรุงซ่อมแซมใหญ่แล้วเสร็จในปลายปี 2554"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "Crown Property Bureau (CPB), owner of land and building",
+        "value_th": "สำนักงานทรัพย์สินพระมหากษัตริย์",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 142,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "CPB (“ผู้ให้เช่า”)"
+        }
+      },
+      "acquisition_price_thb_mn": {
+        "value": 1233.5,
+        "unit": "THB mn",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 126,
+          "section": "ราคาที่จะเข้าลงทุน",
+          "quote": "ในมูลค่าไม่เกิน 1,233.50 ล้านบาท"
+        },
+        "note": "Maximum; single upfront rent for 30 years, excluding registration fee, stamp duty, taxes and deposits; 6.1% below the lower appraisal."
+      },
+      "appraisals": [
+        {
+          "appraiser": "15 Business Advisory Company Limited",
+          "valuation_date": "2026-06-01",
+          "method": "Income approach (DCF over the ~30-year lease term, 1 Jun 2026 - 31 May 2056)",
+          "value_thb_mn": 1324.0,
+          "discount_rate_pct": 10.5,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Projection years start 1 June. Occupancy 85% (2026-27), 68-78% in 2028-30 (room renovation Mar-Oct 2029 and Feb-Dec 2030), 80% 2031, 85% 2032-33, 90% thereafter; ADR THB 3,719-3,849 in 2026, growth 3.5% 2027-28, 22% 2029, 12% 2030, 8% 2031, 5% 2032-33, 3.5% 2034-38, 3% thereafter; other revenue 18% of room revenue; room cost 14%; admin 14% of revenue (+2.5% p.a.); marketing 13% (17% in 2031); maintenance 2.5%; FF&E reserve 2.5% (none 2029-30, 3% from 2046); renovation capex ~THB 504.10 mn (2029: 225.96; 2030: 278.14); trust structure: fixed rent THB 51.32 mn +2% every 3 years from 2029, variable rent 90% of net profit after fixed rent",
+          "note": "Report dated 1 Jul 2025; value as at expected investment date. Replacement cost excl. foundations THB 603.73 mn. Buddhist-year projection labels converted (-543).",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 84,
+            "section": "สรุปสาระสำคัญของรายงานประเมินมูลค่าทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+            "quote": "โครงการเซนเตอร์ พอยต์ ชิดลม | 1,324.00 | 1,314.10 | 1,314.10"
+          }
+        },
+        {
+          "appraiser": "Asian Engineering Valuation Company Limited",
+          "valuation_date": "2026-06-01",
+          "method": "Income approach (DCF over the ~30-year lease term, 1 Jun 2026 - 31 May 2056)",
+          "value_thb_mn": 1314.1,
+          "discount_rate_pct": 10.5,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Occupancy 85% (2026-28), 67-71% in 2029-30 (room renovation), 85% 2031, 90% from 2032; ADR THB 3,760 in 2026, growth 3% 2027-29, 10% 2030, 30% 2031, 4% 2032-36, 3% from 2037; other revenue 19.5% of room revenue; room cost 15%; admin ~THB 32.12 mn in 2025 +3% p.a. (+THB 3 mn in 2031); marketing 12% (13% from 2047) plus one-off THB 15 mn in 2031; maintenance 1.5% (2.0% from 2047); FF&E reserve 2.5% 2026-28, none 2029-30, 1% 2031-35, 2.5% from 2036",
+          "note": "Lower of the two appraisals; used for the IRR. Report dated 1 Jul 2025. Replacement cost excl. foundations THB 536.65 mn.",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 84,
+            "section": "สรุปสาระสำคัญของรายงานประเมินมูลค่าทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+            "quote": "โครงการเซนเตอร์ พอยต์ ชิดลม | 1,324.00 | 1,314.10 | 1,314.10"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "FY2023",
+          "occupancy_pct": 86.6,
+          "basis": "average room occupancy",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 51,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 89.9% | 33.8% | 35.3% | 76.2% | 86.6% | 90.0% | 91.2%"
+          }
+        },
+        {
+          "as_of": "FY2024",
+          "occupancy_pct": 90.0,
+          "basis": "average room occupancy",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 51,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 89.9% | 33.8% | 35.3% | 76.2% | 86.6% | 90.0% | 91.2%"
+          }
+        },
+        {
+          "as_of": "9M2025",
+          "occupancy_pct": 91.2,
+          "basis": "average room occupancy",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 51,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 89.9% | 33.8% | 35.3% | 76.2% | 86.6% | 90.0% | 91.2%"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2019",
+          "is_projection": false,
+          "revenue_thb_mn": 206.3,
+          "noi_thb_mn": 103.5,
+          "noi_definition": "Net income from hotel operations (รายได้สุทธิ), before rent to the trust",
+          "occupancy_pct": 89.9,
+          "adr_thb": 2815.3,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue 164.4; pre-COVID reference year",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 49,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "รายได้รวม | 206.3 | 56.0 | 37.1 | 137.5 | 216.5 | 249.6 | 178.9"
+          }
+        },
+        {
+          "period": "FY2023",
+          "is_projection": false,
+          "revenue_thb_mn": 216.5,
+          "noi_thb_mn": 99.1,
+          "noi_definition": "Net income from hotel operations (รายได้สุทธิ), before rent to the trust",
+          "occupancy_pct": 86.6,
+          "adr_thb": 3150.0,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue 177.3",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 49,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "รายได้รวม | 206.3 | 56.0 | 37.1 | 137.5 | 216.5 | 249.6 | 178.9"
+          }
+        },
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 249.6,
+          "noi_thb_mn": 120.9,
+          "noi_definition": "Net income from hotel operations (รายได้สุทธิ), before rent to the trust",
+          "occupancy_pct": 90.0,
+          "adr_thb": 3544.7,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue 207.9",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 49,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "รายได้รวม | 206.3 | 56.0 | 37.1 | 137.5 | 216.5 | 249.6 | 178.9"
+          }
+        },
+        {
+          "period": "9M2025",
+          "is_projection": false,
+          "revenue_thb_mn": 178.9,
+          "noi_thb_mn": 85.2,
+          "noi_definition": "Net income from hotel operations (รายได้สุทธิ), before rent to the trust",
+          "occupancy_pct": 91.2,
+          "adr_thb": 3377.7,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue 149.6",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 49,
+            "section": "ผลการดำเนินงานและอัตราการเข้าพัก",
+            "quote": "รายได้รวม | 206.3 | 56.0 | 37.1 | 137.5 | 216.5 | 249.6 | 178.9"
+          }
+        },
+        {
+          "period": "FY2027P (1 Jun 2026 - 31 May 2027)",
+          "is_projection": true,
+          "revenue_thb_mn": 255,
+          "noi_thb_mn": 123,
+          "noi_definition": "Projected net income from hotel operations before interest, tax, D&A and rent to the trust",
+          "occupancy_pct": 85,
+          "adr_thb": null,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Rental income to the trust THB 116 mn (fixed 51 + variable 65); ADR THB 3,761 (Jun-Dec 2026) and THB 3,873 (Jan-May 2027) - table columns are labelled in reverse (occupancy/ADR swapped)",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 411,
+            "section": "รายงานงบกำไรขาดทุนตามสถานการณ์สมมติ",
+            "quote": "โครงการเซนเตอร์ พอยต์ ชิดลม | 51 | 65 | 116"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Trust sub-leases the building and leases the FF&E to CPH (QH subsidiary) from 1 Jun 2026 to 31 Dec 2028; CPH promises to renew twice for 3 years each (to 31 Dec 2031 and 31 Dec 2034) if the trust calls, same terms except fixed rent +2% per renewal; after that CPH stays until a replacement lessee is found. Fixed rent THB 12.829 mn per quarter (THB 51.3 mn p.a., excl. VAT); variable rent = 90% x (hotel revenue - costs - selling & admin incl. QHI basic fee 2% and incentive fee 5.5% - other opex - fixed rent); rent due within 60 days after quarter-end; default interest 15% p.a. if late more than once a year. CPH appoints QHI as hotel manager",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 244,
+          "section": "การจัดหาผลประโยชน์จากทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+          "quote": "กองทรัสต์จะเข้าทำสัญญาเช่าช่วงชิดลม กับ CPH โดยกำหนดระยะเวลาการเช่านับตั้งแต่วันที่ 1 มิถุนายน 2569 จนถึงวันที่ 31 ธันวาคม 2571"
+        }
+      },
+      "rental_guarantee": {
+        "value": "No explicit rental guarantee found; QH undertakes to supervise and give necessary assistance, including financial assistance, so CPH can perform the Chidlom sublease",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 171,
+          "section": "สรุปสาระสำคัญของร่างสัญญาตกลงกระทำการ",
+          "quote": "รวมถึงแต่ไม่จำกัดเพียงการให้ความช่วยเหลือทางการเงิน เพื่อให้ CPH สามารถปฏิบัติหน้าที่ตามที่กำหนดไว้ในสัญญาเช่าช่วงชิดลม"
+        }
+      },
+      "key_tenants": [
+        {
+          "name": "Centre Point Hospitality Company Limited (CPH)",
+          "name_th": "บริษัท เซนเตอร์ พอยต์ ฮอสพิทอลิตี้ จำกัด",
+          "business": "Hotel and serviced-apartment lessee/operator (property leasing), paid-up capital THB 5 mn",
+          "area_sqm": 22360.55,
+          "pct_of_area": 100,
+          "pct_of_revenue": 100,
+          "lease_expiry": "2028-12-31",
+          "related_to_sponsor": true,
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 279,
+            "section": "การให้เช่า/เช่าช่วงอสังหาริมทรัพย์แก่ผู้เช่า/ผู้เช่าช่วงทรัพย์สินของกองทรัสต์ QHHRREIT",
+            "quote": "การเช่าตามสัญญานี้มีกำหนดระยะเวลานับแต่วันที่ 1 มิถุนายน 2569 (“วันเริ่มระยะเวลาการเช่าช่วง”) ถึงวันที่ 31 ธันวาคม 2571"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "Single sub-lessee (CPH, 99.99% owned by QH) for 100% of this asset and for all four trust projects; rent from CPH is the trust's only main income source",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+          "line": 184,
+          "section": "ความเสี่ยงจากความสามารถในการชำระค่าเช่าของผู้เช่า/ผู้เช่าช่วงทรัพย์สินหลัก และความเสี่ยงจากการยกเลิกสัญญาเช่าจัดหาประโยชน์",
+          "quote": "จะเป็นที่มาของรายได้หลักเพียงแหล่งเดียวของกองทรัสต์"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "2028-12-31 (initial CPH sublease; renewable at trust's call to 2031-12-31 and 2034-12-31)",
+          "pct": 100,
+          "basis": "area / revenue (single sub-lessee)",
+          "source": {
+            "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+            "line": 244,
+            "section": "การจัดหาผลประโยชน์จากทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+            "quote": "ฉบับต่ออายุคราวที่ 2 ระยะเวลาการเช่าจะสิ้นสุด วันที่ 31 ธันวาคม 2577"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": 8.58,
+        "unit": "years",
+        "status": "derived",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 31,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "และฉบับสุดท้ายจะสิ้นสุดไม่เกินวันที่ 31 ธันวาคม 2577"
+        },
+        "note": "Single sublease: 1 Jun 2026 to 31 Dec 2034 including both renewals = 8.58 years (the Fact Sheet's WALE for the new asset is a chart not in the text). Excluding renewals: 2.58 years to 31 Dec 2028. Trust-level WALE of leasehold main assets (head leases) per Fact Sheet: 27.2 years before / 28.6 years after, from 1 Jun 2026."
+      },
+      "encumbrances": {
+        "value": "No disputes or restrictions on use reported. Lease rights cannot be pledged or transferred without CPB consent; trust must post a bank guarantee of 3% of the official appraised value (renewed every 5 years) and, before the final 2 lease years, a handover guarantee of THB 146,033,630; late handover penalty THB 112,650/day; any construction becomes CPB property; CPB may terminate if the government needs the property for over 12 months (pro-rata refund of prepaid rent without interest). Loan security is a mortgage over Centre Point Sukhumvit 10, not this asset",
+        "status": "found",
+        "source": {
+          "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+          "line": 163,
+          "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+          "quote": "หลักประกันการส่งสถานที่เช่าคืนตามที่สัญญาเช่ากำหนด ในวงเงิน 146,033,630.- บาท"
+        }
+      },
+      "notes": [
+        "The asset is a renewal of the Chidlom building lease the trust already holds until 31 May 2026 (see existing asset CP_CHIDLOM_TO_2026); it replaces rather than adds a hotel.",
+        "Both appraisals are values as at 1 Jun 2026 in reports dated 1 Jul 2025; price THB 1,233.5 mn is 6.13% (Fact Sheet) / 6.1% (P2-03) below the lower appraisal of THB 1,314.1 mn.",
+        "The lower appraiser (AEV) assumptions were used for the long-term IRR (14.7% at THB 6.70).",
+        "Head lease is 30 years but the CPH sublease runs only to 31 Dec 2028 (max 31 Dec 2034 with renewals).",
+        "Appraisers assume a ~THB 504 mn room renovation in 2029-2030 with lower occupancy; the trust plans a loan of up to THB 505 mn for it.",
+        "Projection table (P2-03-NewAssets lines 435-441) prints ADR values under the occupancy header and vice versa."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 14,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "30 ก.ย. 2568 <br> (สอบทาน)"
+      }
+    },
+    "listing_date": {
+      "value": "2024-05-29",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+        "line": 7,
+        "section": "วัตถุประสงค์การใช้เงิน",
+        "quote": "กลุ่มอสังหาริมทรัพย์และก่อสร้าง เมื่อวันที่ 29 พฤษภาคม 2567"
+      }
+    },
+    "number_of_assets": {
+      "value": 4,
+      "unit": "projects",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-13-MDA.md",
+        "line": 23,
+        "section": "ฐานะทางการเงิน",
+        "quote": "ประกอบไปด้วยโครงการ 4 โครงการ"
+      },
+      "note": "Includes Centre Point Chidlom under the current lease expiring 31 May 2026; the pro forma 'existing assets' case counts only 3 projects."
+    },
+    "total_asset_value_thb_mn": {
+      "value": 6116.765,
+      "unit": "THB mn",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 24,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "รวมสินทรัพย์ | 5,771,568 | 6,116,765"
+      }
+    },
+    "investment_value_thb_mn": {
+      "value": 5855.264,
+      "unit": "THB mn",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 18,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "เงินลงทุนในอสังหาริมทรัพย์ตามมูลค่ายุติธรรม | 5,596,968 | 5,855,264"
+      }
+    },
+    "nav_thb_mn": {
+      "value": 4685.682,
+      "unit": "THB mn",
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+        "line": 35,
+        "section": "12.2  ตารางสรุปงบการเงิน",
+        "quote": "สินทรัพย์สุทธิ | 4,518,383 | 4,685,682"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 13.9454,
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+        "line": 17,
+        "section": "ข้อมูลหน่วยทรัสต์",
+        "quote": "มูลค่าทรัพย์สินสุทธิต่อหน่วยทรัสต์ ณ วันที่ 30 กันยายน 2568 | 13.9454 บาท"
+      }
+    },
+    "market_price_per_unit_thb": {
+      "value": 6.25,
+      "as_of": "2025-09-30",
+      "status": "found",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+        "line": 13,
+        "section": "ข้อมูลหน่วยทรัสต์",
+        "quote": "ราคาปิดของหน่วยทรัสต์ ณ วันที่ 30 กันยายน 2568 | 6.25 บาท"
+      },
+      "note": "September 2025 average price 6.13 (range 6.00-6.30) per P3 line 445."
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 5876.45,
+      "unit": "THB mn",
+      "status": "derived",
+      "source": {
+        "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+        "line": 42,
+        "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+        "quote": "2,467.50 ล้านบาท"
+      },
+      "note": "Sum of latest KTAC income-approach appraisals: Pratunam 2,467.50 (30 Apr 2025) + Sukhumvit 10 1,997.65 (31 Mar 2025) + Chidlom current lease 97.10 (30 Jun 2025) + Silom 1,314.20 (30 Apr 2025)."
+    },
+    "historical_dpu": [
+      {
+        "period": "22 Apr - 30 Sep 2024",
+        "dpu_thb": 0.19,
+        "component": "dividend (profit distribution)",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+          "line": 79,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "22 เม.ย. 2567 (วันจัดตั้งกองทรัสต์) - 30 ก.ย. 2567 | 13 ธ.ค. 2567 | 0.1900"
+        }
+      },
+      {
+        "period": "4Q2024",
+        "dpu_thb": 0.22,
+        "component": "dividend (profit distribution)",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+          "line": 80,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 ต.ค. 2567 – 31 ธ.ค. 2567 | 28 มี.ค. 2567 | 0.2200"
+        }
+      },
+      {
+        "period": "1Q2025",
+        "dpu_thb": 0.15,
+        "component": "dividend (profit distribution)",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+          "line": 81,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 ม.ค. 2568 – 31 มี.ค. 2568 | 13 มิ.ย. 2568 | 0.1500"
+        }
+      },
+      {
+        "period": "2Q2025",
+        "dpu_thb": 0.15,
+        "component": "dividend (profit distribution)",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+          "line": 82,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 เม.ย. 2568 – 30 มิ.ย. 2568 | 12 ก.ย. 2568 | 0.1500"
+        }
+      },
+      {
+        "period": "3Q2025",
+        "dpu_thb": 0.17,
+        "component": "dividend (profit distribution)",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+          "line": 83,
+          "section": "ประวัติการจ่ายประโยชน์ตอบแทนย้อนหลัง",
+          "quote": "1 ก.ค. 2568 – 30 ก.ย. 2568 | 19 ธ.ค. 2568 | 0.1700"
+        }
+      },
+      {
+        "period": "FY2024 (22 Apr - 31 Dec 2024)",
+        "dpu_thb": 0.41,
+        "component": "total (no capital reduction)",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 77,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "จำนวนเงินปันส่วนกำไรต่อหน่วย (DPU) (บาท) /1 | 0.41 | 0.47"
+        }
+      },
+      {
+        "period": "9M2025",
+        "dpu_thb": 0.47,
+        "component": "total (no capital reduction)",
+        "source": {
+          "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+          "line": 77,
+          "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+          "quote": "จำนวนเงินปันส่วนกำไรต่อหน่วย (DPU) (บาท) /1 | 0.41 | 0.47"
+        }
+      }
+    ],
+    "historical_performance": [
+      {
+        "period": "FY2024 (22 Apr - 31 Dec 2024)",
+        "total_revenue_thb_mn": 257.824,
+        "rental_and_service_revenue_thb_mn": 253.532,
+        "net_investment_income_thb_mn": 200.533,
+        "net_increase_in_net_assets_thb_mn": 556.909,
+        "occupancy_pct": null,
+        "other_metrics": "Finance cost 27.652; unrealised gain 356.363; LTV 19.97%; distribution yield 5.99% on closing price 6.85; assets transferred from QHHR fund on 24 May 2024",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+          "line": 47,
+          "section": "12.2  ตารางสรุปงบการเงิน",
+          "quote": "รวมรายได้ | 257,824 | 365,745"
+        }
+      },
+      {
+        "period": "9M2025",
+        "total_revenue_thb_mn": 365.745,
+        "rental_and_service_revenue_thb_mn": 363.367,
+        "net_investment_income_thb_mn": 287.766,
+        "net_increase_in_net_assets_thb_mn": 342.019,
+        "occupancy_pct": null,
+        "other_metrics": "Finance cost 42.855; unrealised gain 54.234; LTV 22.01%; annualised distribution yield 10.03% on closing price 6.25",
+        "source": {
+          "file": "QHHRREIT_PO_20251215_P2-12-Financials.md",
+          "line": 57,
+          "section": "12.2  ตารางสรุปงบการเงิน",
+          "quote": "กำไร (ขาดทุน) จากการลงทุนสุทธิ | 200,533 | 287,766"
+        }
+      }
+    ],
+    "portfolio_occupancy": [],
+    "assets": [
+      {
+        "asset_id": "CP_PLUS_PRATUNAM",
+        "name_en": "Centre Point Plus Pratunam",
+        "name_th": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+        "asset_type": "Hotel",
+        "location": "6 Soi Somprasong 3 (Phetchaburi 15), Phetchaburi Road, Thanon Phaya Thai, Ratchathewi, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "Transferred on conversion from QHHR fund, 2024-05-24 (fund acquired 2012-07-20 for THB 1,142.0 mn)",
+        "land_area_sqm": 2501.6,
+        "leasable_area_sqm": null,
+        "rooms": 266,
+        "acquisition_price_thb_mn": 1842.0,
+        "latest_appraisal_thb_mn": 2467.5,
+        "appraisal_date": "2025-04-30",
+        "appraiser": "KTAC Appraisal and Service Co., Ltd. (income approach)",
+        "occupancy_pct": 87.8,
+        "occupancy_as_of": "9M2025",
+        "key_tenants": "CPH (master lessee), managed by QHI",
+        "notes": "Land 1-2-25.4 rai (2,501.6 sqm). 28-storey hotel + 5-storey commercial building, ~20,074 sqm; opened 1990, room renovation 2023-24. FY2024 revenue 323.1 / net income 166.6; 9M2025 revenue 245.2 / net income 128.1; ADR 3,413.2 (9M2025). Acquisition price = value at conversion. CPH lease (with Sukhumvit 10 and Chidlom) dated 19 Jul 2024 expires 19 Jul 2027, renewable 3 years.",
+        "source": {
+          "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+          "line": 36,
+          "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+          "quote": "มีห้องพักจำนวน 266 ห้อง"
+        },
+        "extra_sources": [
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 38,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+            "quote": "รวม 1 ไร่ 2 งาน 25.4 ตารางวา"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 40,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+            "quote": "1,842.00 ล้านบาท โดยเป็นมูลค่าทรัพย์สิน ณ วันที่กองทุนรวมโอนกรรมสิทธิ์แก่กองทรัสต์"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 42,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+            "quote": "2,467.50 ล้านบาท"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 58,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส ประตูน้ำ",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 84.7% | 27.5% | 31.4% | 72.5% | 71.9% | 85.9% | 87.8%"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 156,
+            "section": "รายละเอียดการจัดหาประโยชน์ของทรัพย์สินหลักจากการแปลงสภาพ",
+            "quote": "(สัญญาสิ้นสุดวันที่ 19 กรกฎาคม 2570)"
+          }
+        ]
+      },
+      {
+        "asset_id": "CP_SUKHUMVIT10",
+        "name_en": "Centre Point Sukhumvit 10",
+        "name_th": "โครงการเซนเตอร์ พอยต์ สุขุมวิท 10",
+        "asset_type": "Hotel and serviced apartment",
+        "location": "39 Soi Sukhumvit 10, Khlong Toei, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Freehold",
+        "lease_expiry": null,
+        "acquired": "Transferred on conversion from QHHR fund, 2024-05-24 (fund acquired 2012-07-20 for THB 1,470.0 mn)",
+        "land_area_sqm": 4128,
+        "leasable_area_sqm": null,
+        "rooms": 226,
+        "acquisition_price_thb_mn": 1979.8,
+        "latest_appraisal_thb_mn": 1997.65,
+        "appraisal_date": "2025-03-31",
+        "appraiser": "KTAC Appraisal and Service Co., Ltd. (income approach)",
+        "occupancy_pct": 81.9,
+        "occupancy_as_of": "9M2025",
+        "key_tenants": "CPH (master lessee), managed by QHI",
+        "notes": "Land 2-2-32 rai (4,128 sqm). 28-storey hotel (162 rooms) + two 5-storey serviced-apartment buildings (64 units), ~36,345 sqm; major renovation 2024-25. FY2024 revenue 276.8 / net income 113.0; 9M2025 revenue 211.6 / net income 88.1. To be mortgaged as security for the new loan.",
+        "source": {
+          "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+          "line": 79,
+          "section": "โครงการเซนเตอร์ พอยต์ สุขุมวิท 10",
+          "quote": "รวมห้องพักทั้งหมด 226 ห้อง"
+        },
+        "extra_sources": [
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 81,
+            "section": "โครงการเซนเตอร์ พอยต์ สุขุมวิท 10",
+            "quote": "2 ไร่ 2 งาน 32 ตารางวา"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 83,
+            "section": "โครงการเซนเตอร์ พอยต์ สุขุมวิท 10",
+            "quote": "1,979.80 ล้านบาท"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 87,
+            "section": "โครงการเซนเตอร์ พอยต์ สุขุมวิท 10",
+            "quote": "1,997.65 ล้านบาท"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 101,
+            "section": "โครงการเซนเตอร์ พอยต์ สุขุมวิท 10",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 83.4% | 30.9% | 28.4% | 60.3% | 80.8% | 81.2% | 81.9%"
+          }
+        ]
+      },
+      {
+        "asset_id": "CP_CHIDLOM_TO_2026",
+        "name_en": "Centre Point Chidlom (current building lease to 31 May 2026)",
+        "name_th": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+        "asset_type": "Hotel / serviced apartment",
+        "location": "60 Lang Suan Road Soi 1, Lumphini, Pathum Wan, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2026-05-31",
+        "acquired": "Transferred on conversion from QHHR fund, 2024-05-24 (fund acquired 2012-07-20 for THB 730.0 mn)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": null,
+        "rooms": 178,
+        "acquisition_price_thb_mn": 175.54,
+        "latest_appraisal_thb_mn": 97.1,
+        "appraisal_date": "2025-06-30",
+        "appraiser": "KTAC Appraisal and Service Co., Ltd. (income approach)",
+        "occupancy_pct": 91.2,
+        "occupancy_as_of": "9M2025",
+        "key_tenants": "CPH (master lessee), managed by QHI",
+        "notes": "Lease of building, utilities and fixtures from CPB plus owned FF&E; GFA ~22,360.55 sqm; land and building owned by CPB. Lease expires 31 May 2026 and is replaced by the new 30-year lease (the new asset). FY2024 revenue 249.6 / net income 120.9.",
+        "source": {
+          "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+          "line": 127,
+          "section": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+          "quote": "97.10 ล้านบาท (จะหมดอายุสิทธิการเช่าในวันที่ 31 พฤษภาคม 2569)"
+        },
+        "extra_sources": [
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 121,
+            "section": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+            "quote": "เซอร์วิสอะพาร์ตเมนต์จำนวน 178 ห้อง"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 125,
+            "section": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+            "quote": "175.54 ล้านบาท"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 144,
+            "section": "โครงการเซนเตอร์ พอยต์ ชิดลม",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 89.9% | 33.8% | 35.3% | 76.2% | 86.6% | 90.0% | 91.2%"
+          }
+        ]
+      },
+      {
+        "asset_id": "CP_PLUS_SILOM",
+        "name_en": "Centre Point Plus Silom",
+        "name_th": "โครงการเซนเตอร์ พอยต์ พลัส สีลม",
+        "asset_type": "Hotel",
+        "location": "1522 Charoen Krung Road project (hotel portion), Bang Rak, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2053-07-19",
+        "acquired": "1st additional investment, 2024-06-07 (debt-funded)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": 29990,
+        "rooms": 214,
+        "acquisition_price_thb_mn": 860.3,
+        "latest_appraisal_thb_mn": 1314.2,
+        "appraisal_date": "2025-04-30",
+        "appraiser": "KTAC Appraisal and Service Co., Ltd. (income approach)",
+        "occupancy_pct": 85.5,
+        "occupancy_as_of": "9M2025",
+        "key_tenants": "CPH (sub-lessee, sublease dated 4 Jun 2024 expiring 31 Dec 2026), managed by QHI",
+        "notes": "Lease of parts of the mixed-use 1522 Charoen Krung building (basement, floors 1, 6, 7-27) from Ratchapak Development Co., Ltd., which owns land (7-1-1 rai) and building; area ~29,990 sqm (Cover definition: ~29,989 sqm). Full room renovation completed 4Q2024. 9M2025 revenue 198.5 / net income 84.6.",
+        "source": {
+          "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+          "line": 198,
+          "section": "โครงการเซนเตอร์ พอยต์ พลัส สีลม",
+          "quote": "ห้องพักรวม 214 ห้อง"
+        },
+        "extra_sources": [
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 201,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส สีลม",
+            "quote": "860.30 ล้านบาท ไม่รวมค่าใช้จ่ายอื่นที่เกี่ยวข้อง"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 203,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส สีลม",
+            "quote": "1,314.20 ล้านบาท"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 206,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส สีลม",
+            "quote": "สิ้นสุดวันที่ 19 กรกฎาคม 2596"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 220,
+            "section": "โครงการเซนเตอร์ พอยต์ พลัส สีลม",
+            "quote": "อัตราการเข้าพักเฉลี่ย | 51.5%/3 | 85.5%"
+          },
+          {
+            "file": "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md",
+            "line": 234,
+            "section": "รายละเอียดการจัดหาประโยชน์ของทรัพย์สินหลักเพิ่มเติมครั้งที่ 1",
+            "quote": "(สัญญาสิ้นสุด 31 ธันวาคม 2569)"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Existing portfolio includes the current Chidlom lease (to 31 May 2026), which the new asset replaces; the pro forma 'existing assets' DPU of THB 0.67 excludes Chidlom.",
+      "Fixed rent from CPH for the three converted projects: THB 42.84 mn per quarter under the lease dated 19 Jul 2024 (expiring 19 Jul 2027, renewable in 3-year terms).",
+      "Closing price THB 6.25 at 30 Sep 2025 = 0.45x NAV per unit of THB 13.9454.",
+      "Borrowings at 30 Sep 2025: THB 1,346.53 mn principal from LH Bank (carrying value THB 1,350.73 mn); LTV 22.01%.",
+      "Largest unitholders (29 Aug 2025): QH group 33.86% (QH 31.33%, LH Bank 2.53%), Muang Thai Life 4.91%; foreign holding 3.86% (Fact Sheet, 4 Dec 2025)."
+    ]
+  },
+  "risks": [
+    {
+      "title": "Short CPH sublease versus 30-year head lease",
+      "category": "Tenant/concentration",
+      "summary": "The trust pays 30 years of rent upfront, but CPH's Chidlom sublease runs only to 31 Dec 2028, with renewals at the trust's call to 31 Dec 2034 at most. A promise to renew has never been tested in court, and damages for a refusal may cover only about 3 years of lost rent.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 143,
+        "section": "ความเสี่ยงที่ผู้เช่า/ผู้เช่าช่วงทรัพย์สินหลัก ไม่ต่อสัญญาเช่าเมื่อครบอายุสัญญาเช่าจัดหาประโยชน์ทรัพย์สินที่เกี่ยวข้อง",
+        "quote": "ผู้เช่า/ผู้เช่าช่วงทรัพย์สินหลักอาจปฏิเสธที่จะเช่า/เช่าช่วงต่อไป"
+      }
+    },
+    {
+      "title": "Single related-party lessee (CPH)",
+      "category": "Tenant/concentration",
+      "summary": "CPH, a 99.99%-owned QH subsidiary with THB 5 mn paid-up capital, leases all four projects, so its rent is the trust's only main income. If CPH defaults or terminates, income stops until a replacement is found. Force-majeure clauses also let rent be deferred or waived. QH's undertaking to support CPH is not a rent guarantee.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056",
+        "CP_PLUS_PRATUNAM",
+        "CP_SUKHUMVIT10",
+        "CP_CHIDLOM_TO_2026",
+        "CP_PLUS_SILOM"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 184,
+        "section": "ความเสี่ยงจากความสามารถในการชำระค่าเช่าของผู้เช่า/ผู้เช่าช่วงทรัพย์สินหลัก และความเสี่ยงจากการยกเลิกสัญญาเช่าจัดหาประโยชน์",
+        "quote": "จะเป็นที่มาของรายได้หลักเพียงแหล่งเดียวของกองทรัสต์"
+      }
+    },
+    {
+      "title": "CPB early-termination right for public use",
+      "category": "Leasehold/tenure",
+      "summary": "CPB may end the Chidlom lease early if the government needs the property for more than 12 months, even without expropriation. In that case the trust gets back only the unexpired share of prepaid rent, with no interest.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 181,
+        "section": "ความเสี่ยงจากกรณีการถูกเวนคืนที่ดินหรือการใช้ทรัพย์สินเพื่อสาธารณชน",
+        "quote": "หากรัฐบาลจำเป็นจะใช้ทรัพย์สินที่เช่าเพื่อประโยชน์แก่สาธารณชน หรือราชการเป็นระยะเวลาเกินกว่า 12 เดือน โดยไม่มีการเวนคืน"
+      }
+    },
+    {
+      "title": "Leasehold value amortises to zero",
+      "category": "Leasehold/tenure",
+      "summary": "The Chidlom lease (to 2056) and the Silom lease (to 2053) lose value as the term runs down and are worth nothing at expiry. This reduces NAV over time, and part of each distribution is effectively a return of capital.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056",
+        "CP_PLUS_SILOM"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 83,
+        "section": "ความเสี่ยงในการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ซึ่งมูลค่าอาจลดลงตามระยะเวลา การเช่าที่เหลืออยู่",
+        "quote": "และจะเท่ากับศูนย์เมื่อสิ้นสุดระยะเวลาการเช่า"
+      }
+    },
+    {
+      "title": "Delay in registering the building-only lease",
+      "category": "Regulatory/legal",
+      "summary": "Registering a lease over a building without its land requires at least 30 days of public notice for objections. Land-office discretion, system failures or force majeure could delay registration beyond the planned 1 Jun 2026 start.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 224,
+        "section": "ความเสี่ยงที่การจดทะเบียนเกี่ยวกับทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2 อาจมีความล่าช้ากว่าที่กำหนด",
+        "quote": "ได้กำหนดให้มีการปิดประกาศเพื่อให้ผู้มีส่วนได้เสียได้มีโอกาสคัดค้านเป็นระยะเวลาอย่างน้อย 30 วัน"
+      }
+    },
+    {
+      "title": "Higher leverage and floating-rate related-party debt",
+      "category": "Financing/interest rate",
+      "summary": "Up to THB 1,000 mn of new floating-rate debt (at most MLR-1%, bullet repayment, up to 12 years), possibly from related parties LH Bank or SCB. LTV would reach about 31.4% if fully drawn, and another loan of up to THB 505 mn is planned for renovation. Rising rates would cut distributable income.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056",
+        "CP_SUKHUMVIT10"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 107,
+        "section": "ความเสี่ยงที่อาจเกิดขึ้นจากการกู้ยืมเงิน",
+        "quote": "กองทรัสต์จะมีสัดส่วนการกู้ยืมเงินอยู่ที่ประมาณร้อยละ 31.4 ของมูลค่าทรัพย์สินรวมของกองทรัสต์ภายหลังการเข้าลงทุนในอสังหาริมทรัพย์ที่จะลงทุนเพิ่มเติม"
+      }
+    },
+    {
+      "title": "Chidlom renovation in 2029-2030",
+      "category": "Asset/property",
+      "summary": "The trust plans to renovate Chidlom in 2029-2030 (about THB 504 mn in the appraisals). Both appraisers assume occupancy falls to 67-78% during the works. Cost overruns or disruption would reduce variable rent and add debt.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_CHIDLOM_LEASE_2026_2056"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 107,
+        "section": "ความเสี่ยงที่อาจเกิดขึ้นจากการกู้ยืมเงิน",
+        "quote": "ซึ่งกองทรัสต์มีแผนที่จะปรับปรุงทรัพย์สินในปี 2572-2573"
+      }
+    },
+    {
+      "title": "Conflicts of interest within the QH group",
+      "category": "Sponsor/related-party",
+      "summary": "QH controls the lessee (CPH) and the hotel manager (QHI) and indirectly holds 13.74% of the REIT manager. QHI also runs other Centre Point properties (9 projects in total), which could compete with the trust's hotels for guests.",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 193,
+        "section": "ความขัดแย้งทางผลประโยชน์ระหว่างกองทรัสต์ คณะกรรมการลงทุน ผู้เช่า/ผู้เช่าช่วงทรัพย์สินหลัก ผู้บริหารจัดการโรงแรมและเซอร์วิส อะพาร์ตเมนต์ และควอลิตี้เฮ้าส์อาจก่อให้เกิดผลกระทบต่อการดำเนินงานของกองทรัสต์",
+        "quote": "ยังคงประกอบธุรกิจที่เกี่ยวกับโรงแรม เซอร์วิส อะพาร์ตเมนต์ และอาคารที่อยู่อาศัยให้เช่า"
+      }
+    },
+    {
+      "title": "Control dilution for existing holders",
+      "category": "Offering/dilution",
+      "summary": "Holders who do not take up their rights are diluted. The filing's illustration puts the maximum dilution at 27.93%, but it is based on the approved 130.2 mn units, not the 69 mn actually offered. The offer price is also far below NAV and par.",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 126,
+        "section": "ความเสี่ยงจากการลดลงของสัดส่วนการถือหน่วยทรัสต์ (Control Dilution) ของผู้ถือหน่วยทรัสต์เดิม",
+        "quote": "สัดส่วนการถือหน่วยทรัสต์ของผู้ถือหน่วยทรัสต์เดิมจะลดลงสูงสุดไม่เกินร้อยละ 27.93"
+      }
+    },
+    {
+      "title": "Projection uncertainty",
+      "category": "Other",
+      "summary": "The 12-month projection (Jun 2026 - May 2027) that underpins the 10.8% yield rests on occupancy, ADR and interest-rate assumptions, and actual results may differ materially. The filing gives inconsistent projection bases (THB 6.60 vs 6.70; debt of 908 vs 835 mn).",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 27,
+        "section": "ความเสี่ยงเกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "มีความไม่แน่นอน และขึ้นอยู่กับความเสี่ยงและความไม่แน่นอนทางธุรกิจ"
+      }
+    },
+    {
+      "title": "Tourism demand, economic volatility and pandemics",
+      "category": "Market/competition",
+      "summary": "Guests are mainly foreign business travellers and tourists. Rent is 90% variable on hotel profit, so economic shocks, political events or pandemics (as in 2020-2022, when Chidlom occupancy fell to 34-35%) hit trust income directly.",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 159,
+        "section": "ความเสี่ยงจากความผันผวนทางเศรษฐกิจและอุตสาหกรรมท่องเที่ยวซึ่งอาจมีผลกระทบต่ออสังหาริมทรัพย์",
+        "quote": "ความเสี่ยงจากความผันผวนทางเศรษฐกิจและอุตสาหกรรมท่องเที่ยวซึ่งอาจมีผลกระทบต่ออสังหาริมทรัพย์"
+      }
+    },
+    {
+      "title": "Rising hotel competition",
+      "category": "Market/competition",
+      "summary": "New hotel supply in Bangkok may pressure occupancy and room rates, and therefore variable rent.",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 164,
+        "section": "ความเสี่ยงจากการแข่งขันที่สูงขึ้น",
+        "quote": "ความเสี่ยงจากการแข่งขันที่สูงขึ้น"
+      }
+    },
+    {
+      "title": "Shared areas in the 1522 Charoen Krung building (Silom)",
+      "category": "Asset/property",
+      "summary": "Centre Point Plus Silom occupies only part of a mixed-use building and shares common areas and building systems with the mall and market tenants. Damage or cost defaults by other tenants may disrupt the hotel, and business-interruption insurance may not respond.",
+      "asset_specific": true,
+      "applies_to": [
+        "CP_PLUS_SILOM"
+      ],
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 217,
+        "section": "5.3.2 ความเสี่ยงจากการต้องใช้พื้นที่และงานระบบส่วนกลางในโครงการ 1522 ถนนเจริญกรุงร่วมกับผู้เช่าพื้นที่รายอื่น",
+        "quote": "ความเสี่ยงจากการต้องใช้พื้นที่และงานระบบส่วนกลางในโครงการ 1522 ถนนเจริญกรุงร่วมกับผู้เช่าพื้นที่รายอื่น"
+      }
+    },
+    {
+      "title": "Hotel licence and insurance gaps",
+      "category": "Operational",
+      "summary": "If CPH loses or fails to renew its hotel licence, it cannot operate or pay rent. Insurance may not cover all losses, such as war or terrorism.",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-05-Risks.md",
+        "line": 188,
+        "section": "ความเสี่ยงเกี่ยวกับใบอนุญาตประกอบกิจการ",
+        "quote": "ความเสี่ยงเกี่ยวกับใบอนุญาตประกอบกิจการ"
+      }
+    },
+    {
+      "title": "Offering cancellation and listing approval",
+      "category": "Offering/dilution",
+      "summary": "The offer proceeds before SET approves listing of the new units. It will be cancelled, with refunds possibly short of full, if subscriptions plus debt cannot fund the acquisition or other conditions fail. Firm underwriting applies only after the agreements are signed.",
+      "asset_specific": false,
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P3-Offering.md",
+        "line": 90,
+        "section": "1.3 ตลาดรองของหน่วยทรัสต์ที่เสนอขาย",
+        "quote": "การเสนอขายหน่วยทรัสต์ในครั้งนี้ได้ดำเนินการก่อนที่จะได้รับทราบผลการพิจารณาของตลาดหลักทรัพย์แห่งประเทศไทย"
+      }
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "The maximum price of THB 1,233.5 mn is 6.1% below the lower appraisal (AEV THB 1,314.1 mn) and 6.8% below 15 Business Advisory (THB 1,324.0 mn). Both appraisers used income-approach DCF at a 10.5% discount rate, valuing as at 1 Jun 2026.",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 126,
+        "section": "ราคาที่จะเข้าลงทุน",
+        "quote": "ซึ่งเป็นมูลค่าที่ต่ำกว่าราคาประเมินต่ำสุดของราคาประเมินโดย ผู้ประเมินค่าทรัพย์สินอิสระ 2 ราย ที่ร้อยละ 6.1"
+      }
+    },
+    {
+      "topic": "Renewal, not a new hotel",
+      "observation": "The deal renews Centre Point Chidlom, which the trust already leases until 31 May 2026; that current lease is appraised at only THB 97.1 mn. In the pro forma, DPU without Chidlom is THB 0.67 versus THB 0.73 with the new lease, and Chidlom's projected rent to the trust is THB 116 mn (fixed 51 + variable 65).",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 380,
+        "section": "รายงานงบกำไรขาดทุนตามสถานการณ์สมมติ",
+        "quote": "แต่ไม่รวมถึงโครงการเซนเตอร์ พอยต์ ชิดลม ซึ่งจะสิ้นสุดสัญญาเช่าในวันที่ 31 พฤษภาคม 2569"
+      }
+    },
+    {
+      "topic": "Tenure mismatch / no rental guarantee",
+      "observation": "The trust prepays 30 years of rent (to 31 May 2056), but the CPH sublease ends 31 Dec 2028, extendable at the trust's call to 31 Dec 2034. The fixed rent of THB 51.3 mn p.a. is about 4.2% of the price. QH gives a support undertaking but no explicit rental guarantee.",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 244,
+        "section": "การจัดหาผลประโยชน์จากทรัพย์สินที่จะลงทุนเพิ่มเติมครั้งที่ 2",
+        "quote": "กองทรัสต์จะเข้าทำสัญญาเช่าช่วงชิดลม กับ CPH โดยกำหนดระยะเวลาการเช่านับตั้งแต่วันที่ 1 มิถุนายน 2569 จนถึงวันที่ 31 ธันวาคม 2571"
+      }
+    },
+    {
+      "topic": "Related-party web",
+      "observation": "The lessee (CPH) and hotel manager (QHI) are QH subsidiaries, and QH holds 31.33% of units. The possible lenders are LH Bank (sister of the REIT manager) and SCB. SCB is also the financial advisor and lead underwriter, and it owns 99.99% of the trustee SCBAM.",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-11-RelatedParty.md",
+        "line": 16,
+        "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกันกับผู้จัดการกองทรัสต์ หรือทรัสตี",
+        "quote": "เป็นผู้ถือหุ้นรายใหญ่ของ SCBAM โดย SCB ถือหุ้นทางตรงคิดเป็นร้อยละ 99.99"
+      }
+    },
+    {
+      "topic": "Deep discount to NAV and par",
+      "observation": "The maximum offer price of THB 6.70 is 48% of NAV per unit (THB 13.9454 at 30 Sep 2025) and 56% of par (THB 11.9801). Units closed at THB 6.25 on 30 Sep 2025, and the September 2025 average was THB 6.13.",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_00-Cover.md",
+        "line": 16,
+        "section": null,
+        "quote": "ราคาเสนอขายไม่เกิน 6.70 บาทต่อหน่วย และมูลค่าที่ตราไว้ 11.9801 บาทต่อหน่วย"
+      }
+    },
+    {
+      "topic": "Inconsistent projection bases",
+      "observation": "The Fact Sheet shows DPU 0.73, yield 10.8% and IRR 14.7% at THB 6.70 (69 mn units, THB 835 mn debt). The P2-03 pro forma text instead shows DPU 0.74, yield 11.28% and IRR 15.1% at THB 6.60 (395 mn total units, about THB 908 mn debt). The Fact Sheet also assumes interest of MLR-1.0% while the projection assumes MLR-1.5%.",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 478,
+        "section": "ประมาณการอัตราการจ่ายประโยชน์ตอบแทน",
+        "quote": "คิดเป็นประมาณการอัตราการจ่ายประโยชน์ตอบแทนปีแรกเท่ากับประมาณร้อยละ 11.28 (คำนวณบนสมมติฐานราคาเสนอขายหน่วยทรัสต์เพิ่มเติมที่ 6.60 บาทต่อหน่วย"
+      }
+    },
+    {
+      "topic": "Leverage build-up",
+      "observation": "LTV rises from 22.01% to 29.43% pro forma, or about 31.4% if the full THB 1,000 mn is drawn. A separate loan of up to THB 505 mn is planned for the Chidlom renovation. The new loan is bullet-repaid within 12 years and secured on freehold Centre Point Sukhumvit 10.",
+      "source": {
+        "file": "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+        "line": 10,
+        "section": "วัตถุประสงค์การใช้เงิน",
+        "quote": "ด้วยเงินกู้เป็นจำนวนไม่เกิน 505 ล้านบาท"
+      }
+    },
+    {
+      "topic": "Upfront rent and CPB lease obligations",
+      "observation": "All 30 years of rent (THB 1,233.5 mn) is paid in one sum at signing. The trust must post a guarantee of 3% of the official appraised value and, before the final two years, a THB 146.0 mn handover guarantee. CPB can terminate for government use with only a pro-rata refund.",
+      "source": {
+        "file": "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+        "line": 147,
+        "section": "สรุปสาระสำคัญของร่างสัญญาเช่าอาคาร",
+        "quote": "โดยผู้เช่าตกลงชำระค่าเช่าทั้งหมดในคราวเดียว ณ วันทำสัญญาเช่า"
+      }
+    },
+    {
+      "topic": "Yield context",
+      "observation": "The trust's reported distribution yield on closing price was 5.99% for FY2024 (22 Apr-31 Dec 2024, partial period) and 10.03% annualised for 9M2025 (price THB 6.25). The projected 10.8% at THB 6.70 is therefore close to the recent trading yield.",
+      "source": {
+        "file": "QHHRREIT_PO_20260127_P1-FactSheet.md",
+        "line": 85,
+        "section": "ข้อมูล ณ วันที่ 30 กันยายน 2568",
+        "quote": "อัตราผลประโยชน์ตอบแทน (ร้อยละ) /2 | 5.99 | 10.03 /5"
+      }
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "_toc.md",
+      "QHHRREIT_PO_20260127_00-Cover.md",
+      "QHHRREIT_PO_20260127_P1-FactSheet.md",
+      "QHHRREIT_PO_20251215_P2-01-UseOfProceeds.md",
+      "QHHRREIT_PO_20260127_P3-Offering.md (lines 1-137, 320-359, 405-458)",
+      "QHHRREIT_PO_20260128_P2-03-NewAssets.md",
+      "QHHRREIT_PO_20260113_P2-03-ExistingAssets.md (lines 1-153, 180-230; leasing sections 154-179 and 231-256 via grep)",
+      "QHHRREIT_PO_20251215_P2-13-MDA.md",
+      "QHHRREIT_PO_20251215_P2-12-Financials.md",
+      "QHHRREIT_PO_20251215_P2-08-Unitholders.md",
+      "QHHRREIT_PO_20251215_P2-02-Policy.md",
+      "QHHRREIT_PO_20251215_P2-05-Risks.md (lines 1-35, 82-228)",
+      "QHHRREIT_PO_20251215_P2-11-RelatedParty.md (lines 1-32)",
+      "QHHRREIT_PO_20251215_P2-09-Governance.md (lines 725-751 and grep)"
+    ],
+    "not_found": [
+      {
+        "field": "offering.offering_price_per_unit.min_thb",
+        "reason": "No minimum or price range stated; only a maximum of THB 6.70 (sensitivity table illustrates 6.20-6.70)."
+      },
+      {
+        "field": "offering.offering_price_per_unit.final_thb",
+        "reason": "Final price to be announced on 27 Feb 2026, after the filing date."
+      },
+      {
+        "field": "new_assets[0].appraisals[].terminal_cap_rate_pct",
+        "reason": "Lease-term DCF with no terminal value; no cap rate disclosed in the text (full appraisal reports are only in the excluded PDFs / QR code)."
+      },
+      {
+        "field": "new_assets[0].building_area.leasable_sqm",
+        "reason": "Not applicable to a hotel sub-leased as a whole; no NLA disclosed."
+      },
+      {
+        "field": "new_assets[0].historical_performance[].revpar_thb",
+        "reason": "RevPAR not disclosed; only occupancy and ADR."
+      },
+      {
+        "field": "new_assets[0].wale_years (as stated)",
+        "reason": "Fact Sheet shows the new-asset WALE only as a chart; value derived from sublease dates."
+      },
+      {
+        "field": "parties.legal_advisors",
+        "reason": "No legal advisor named in the text filings (only generic fee references)."
+      },
+      {
+        "field": "parties.underwriters (other than SCB)",
+        "reason": "Only SCB named; the offeror may appoint more distributors later."
+      },
+      {
+        "field": "offering.sponsor_commitment (QH subscription intent / required unitholding %)",
+        "reason": "No statement that QH will subscribe for new units; the unitholding proportion required by CPB is not quantified."
+      },
+      {
+        "field": "offering.projected_distribution.total_distribution_thb_mn (updated 69 mn unit case)",
+        "reason": "Only the THB 6.60 / 395 mn unit pro forma total (THB 294.0 mn) is disclosed."
+      },
+      {
+        "field": "existing_portfolio.portfolio_occupancy",
+        "reason": "Occupancy given per project only, not for the portfolio."
+      },
+      {
+        "field": "existing_portfolio.assets[].land_area_sqm (leasehold assets)",
+        "reason": "Chidlom and Silom land is owned by the lessors and not held by the trust."
+      },
+      {
+        "field": "existing_portfolio.assets[].leasable_area_sqm (hotels)",
+        "reason": "Hotels are master-leased; only gross areas given (Silom leased area 29,990 sqm recorded)."
+      },
+      {
+        "field": "guest nationality mix",
+        "reason": "Shown only as charts, not in the text."
+      }
+    ],
+    "ambiguities": [
+      {
+        "field": "filing.reit_name_en",
+        "detail": "Cover prints 'Quality House Hotel and Residence ...'; Fact Sheet, P2-01 and P3 print 'Quality Houses Hotel and Residence ...'."
+      },
+      {
+        "field": "offering.projected_distribution",
+        "detail": "Fact Sheet and sensitivity table use THB 6.70, 69 mn units and THB 835 mn debt (DPU 0.73, 10.8%, IRR 14.7%). The P2-03 pro forma table and text use THB 6.60, 58.9 mn units (395 mn total) and THB 908 mn debt (DPU 0.74, 11.28%, IRR 15.1%). The 6.60 column of the sensitivity table shows 0.73 / 11.0% / IRR 14.8%."
+      },
+      {
+        "field": "capital_structure.loan_terms",
+        "detail": "Fact Sheet IRR assumption is interest not exceeding MLR-1.0%; the projection assumes MLR-1.50%; the loan term sheet caps the rate at MLR-1.00%."
+      },
+      {
+        "field": "new_assets[0].historical_performance FY2027P",
+        "detail": "Projection table (P2-03-NewAssets lines 435-441) prints ADR values (3,761 / 3,873) under the occupancy header and 85% under the ADR header."
+      },
+      {
+        "field": "new_assets[0].land_area",
+        "detail": "P2-03-NewAssets gives 1 rai 69.9 sq wa (469.90 sq wa). P2-03-ExistingAssets gives the title deed as 61-3-33.7 rai with the building on about '1-34-0'."
+      },
+      {
+        "field": "capital_structure.ltv_before_pct / borrowings_before",
+        "detail": "P2-12 gives 22.01% (and 19.97% for FY2024). The Fact Sheet key-financial table gives 22.08% and 20.00%. Borrowings are 1,350.73 (carrying value) vs 1,346.5 (principal)."
+      },
+      {
+        "field": "risks (control dilution)",
+        "detail": "The P2-05 dilution illustration (max 27.93%) is based on the approved 130,200,000 units and a 50% minimum preferential allocation, not on the 69,000,000 units / ~80% preferential tranche actually offered."
+      },
+      {
+        "field": "existing_portfolio.historical_dpu 4Q2024",
+        "detail": "Payment date printed as 28 Mar 2567 (2024), before the period ended; probably 2568 (2025)."
+      },
+      {
+        "field": "offering.projected_distribution.projection_period",
+        "detail": "Fact Sheet footnote /2 (line 52) gives the period end as 30 May 2570; everywhere else it is 31 May 2570."
+      },
+      {
+        "field": "offering.allocation tranche 1",
+        "detail": "P3 line 39 prints '55,171,2001' (footnote marker appended to 55,171,200)."
+      },
+      {
+        "field": "existing_portfolio.assets CP_PLUS_SILOM leasable area",
+        "detail": "Cover definition gives ~29,989 sqm; P2-03-ExistingAssets gives ~29,990 sqm."
+      },
+      {
+        "field": "capital_structure.loan_terms",
+        "detail": "The loan section (line 193) says the trust will use 'all funding' from long-term borrowing up to THB 1,000 mn, while the cover and use of proceeds combine equity of up to THB 462.3 mn with debt."
+      }
+    ],
+    "self_checks": [
+      {
+        "check": "max units x max price = offering size",
+        "result": "pass",
+        "detail": "69,000,000 x 6.70 = THB 462.3 mn vs stated 462.3 mn (0.0%)."
+      },
+      {
+        "check": "DPU / basis price = yield",
+        "result": "pass",
+        "detail": "0.73 / 6.70 = 10.90% vs stated 10.8% (DPU rounded to 2 dp). Pro forma text: 0.74 / 6.60 = 11.21% vs stated 11.28%."
+      },
+      {
+        "check": "funding sources vs total investment + costs",
+        "result": "pass",
+        "detail": "Base case 462 + 835 = THB 1,297 mn vs 1,233.5 + 53.9 = 1,287.4 mn (+0.7%). Maximum sources 462.3 + 1,000 = 1,462.3 mn exceed needs by 174.9 mn (debt is a cap)."
+      },
+      {
+        "check": "sum of asset prices <= total investment value",
+        "result": "pass",
+        "detail": "1,233.5 <= 1,233.5."
+      },
+      {
+        "check": "lease start + tenure = expiry",
+        "result": "pass",
+        "detail": "2026-06-01 + 30 years = 2056-05-31, matches the stated expiry."
+      },
+      {
+        "check": "units outstanding x rights ratio = preferential tranche",
+        "result": "pass",
+        "detail": "336,000,000 x 0.1642 = 55,171,200 = stated."
+      },
+      {
+        "check": "pro forma LTV after",
+        "result": "pass",
+        "detail": "2,182.0 / 7,414.5 = 29.43% = stated."
+      },
+      {
+        "check": "LTV before",
+        "result": "pass",
+        "detail": "1,346.53 / 6,116.77 = 22.01% (P2-12); 1,350.73 / 6,116.77 = 22.08% (Fact Sheet table)."
+      },
+      {
+        "check": "NAV per unit",
+        "result": "pass",
+        "detail": "4,685.682 / 336 = 13.9455 vs 13.9454."
+      },
+      {
+        "check": "price discount to lower appraisal",
+        "result": "pass",
+        "detail": "1 - 1,233.5 / 1,314.1 = 6.13%, matches 6.13% (Fact Sheet) / 6.1% (P2-03)."
+      },
+      {
+        "check": "fixed rent annualised",
+        "result": "pass",
+        "detail": "12.829 x 4 = 51.316 vs appraisal 51.32 and projection 51."
+      },
+      {
+        "check": "DPU history sums",
+        "result": "pass",
+        "detail": "0.19 + 0.22 = 0.41 (FY2024); 0.15 + 0.15 + 0.17 = 0.47 (9M2025)."
+      },
+      {
+        "check": "pro forma unit count = 336 mn + 69 mn offered",
+        "result": "fail",
+        "detail": "P2-03 pro forma uses 395 mn units (336 + 58.9 at THB 6.60) vs 405 mn at the offered maximum of 69 mn units."
+      },
+      {
+        "check": "sensitivity equity + debt constant",
+        "result": "pass",
+        "detail": "428 + 869 = 1,297 at THB 6.20; 462 + 835 = 1,297 at THB 6.70; 69.0 x 6.20 = 427.8."
+      }
+    ]
+  }
+}

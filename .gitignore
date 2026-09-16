@@ -1,0 +1,4 @@
+inbox/
+filings/
+**/__pycache__/
+*.pyc

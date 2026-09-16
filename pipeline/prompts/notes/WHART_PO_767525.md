@@ -1,0 +1,4 @@
+- PO: 9th capital increase for the 12th additional investment (freehold in the WGCL International Distribution Center project). The cover lists new units, long-term debt, and internal cash / security deposits as funding sources — capture each in `funding_sources`.
+- The existing portfolio is large (many projects). Include one concise row per project in `existing_portfolio.assets` (keep `notes` short); portfolio totals come from `P1-FactSheet`, `P2-12-Financials`, `P2-13-MDA`.
+- `P2-03-Encumbrances` is a short separate file; `P2-03-Leasing` covers leasing of the new asset.
+- `P2-12-Financials`, `P2-13-MDA`, `P2-04-Industry`, Litigation, Other and RelatedParty were uploaded May 2026; the asset sections, Risks and governance Aug 2026; cover/Fact Sheet/offering late Aug 2026.

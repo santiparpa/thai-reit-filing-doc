@@ -1,0 +1,2491 @@
+{
+  "schema_version": "1.0.0",
+  "filing": {
+    "filing_id": "LHHOTEL_PO_789906",
+    "sec_filing_no": "789906",
+    "ticker": "LHHOTEL",
+    "offering_type": "PO",
+    "offering_type_evidence": {
+      "value": "PO confirmed: listed trust (SET since 2015) issues units in its 3rd capital increase to fund its 4th additional investment, offered first to existing unitholders (Preferential Public Offering).",
+      "status": "found",
+      "value_th": "การออกและเสนอขายหน่วยทรัสต์เพิ่มทุน ครั้งที่ 3 เพื่อลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+        "line": 28,
+        "section": "ส่วนที่ 1 สรุปข้อมูลสำคัญของกองทรัสต์ (Fact Sheet)",
+        "quote": "กองทรัสต์จะออกและเสนอขายหน่วยทรัสต์เพิ่มทุน ครั้งที่ 3 เพื่อลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4"
+      }
+    },
+    "reit_name_en": {
+      "value": "LH Hotel Leasehold Real Estate Investment Trust",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 8,
+        "section": null,
+        "quote": "LH Hotel Leasehold Real Estate Investment Trust (LHHOTEL)"
+      }
+    },
+    "reit_name_th": {
+      "value": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล",
+      "status": "found",
+      "value_th": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 7,
+        "section": null,
+        "quote": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล"
+      }
+    },
+    "reit_structure": {
+      "value": "Leasehold hotel REIT; no fixed term; units not redeemable; assets sub-leased to a single hotel operator (LHH) for fixed plus variable rent.",
+      "status": "found",
+      "value_th": "กองทรัสต์ไม่กำหนดอายุ และไม่รับไถ่ถอนหน่วยทรัสต์",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 9,
+        "section": null,
+        "quote": "กองทรัสต์ไม่กำหนดอายุ และไม่รับไถ่ถอนหน่วยทรัสต์"
+      }
+    },
+    "capital_increase_no": {
+      "value": 3,
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+        "line": 123,
+        "section": "2.1 วิธีการเสนอขายหน่วยทรัสต์",
+        "quote": "การเสนอขายหน่วยทรัสต์สำหรับการเพิ่มทุนครั้งที่ 3 ของกองทรัสต์"
+      }
+    },
+    "additional_investment_no": {
+      "value": 4,
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 4,
+        "section": "3.2  ทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+        "quote": "ทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4"
+      }
+    },
+    "investor_eligibility": {
+      "value": "Tranche 1: existing unitholders pro rata (Preferential Public Offering), excluding holders whose participation would impose foreign-law obligations on the trust (preliminary list of 18 nationalities incl. UK, Japan, China, US, Singapore); existing holders may oversubscribe. Tranche 2: units remaining from Tranche 1 by private placement and/or public offering to institutional investors and persons at the underwriter's discretion.",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+        "line": 34,
+        "section": "1.2 สัดส่วนการเสนอขายหน่วยทรัสต์",
+        "quote": "ส่วนที่ 2 เสนอขายหน่วยทรัสต์ที่เสนอขายในส่วนที่เหลือจากส่วนที่ 1 ข้างต้น (1) ให้แก่บุคคลในวงจำกัด (Private Placement) และ/หรือ (2) ต่อประชาชนทั่วไป (Public Offering)"
+      }
+    },
+    "listing": {
+      "value": "Listed on SET since 2015-12-22 (trust established 2015-12-11); new units to be listed on SET (listing approval not yet obtained at time of offering).",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+        "line": 8,
+        "section": null,
+        "quote": "กลุ่มอสังหาริมทรัพย์และก่อสร้าง เมื่อวันที่ 22 ธันวาคม 2558"
+      }
+    },
+    "unitholder_approval_date": {
+      "value": "2026-07-17",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+        "line": 9,
+        "section": null,
+        "quote": "โดยในวันที่ 17 กรกฎาคม 2569 ที่ประชุมผู้ถือหน่วยทรัสต์ ครั้งที่ 1/2569 ของกองทรัสต์ได้มีมติอนุมัติ"
+      },
+      "note": "Unitholders meeting No. 1/2026. The document was uploaded on 2026-07-15, two days before the stated meeting date, yet describes the resolution as passed."
+    },
+    "data_as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+        "line": 6,
+        "section": "ส่วนที่ 1 สรุปข้อมูลสำคัญของกองทรัสต์ (Fact Sheet)",
+        "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"
+      }
+    },
+    "latest_document_date": "2026-07-16",
+    "documents_used": [
+      {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "doc_type": "00-Cover",
+        "uploaded": "20260716",
+        "used_for": "Names, max units, max debt, max investment value, parties, filing date"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+        "doc_type": "P1-FactSheet",
+        "uploaded": "20260715",
+        "used_for": "Data as-of date, projection case, appraisals, DPU history, key financials, unitholders"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+        "doc_type": "P2-01-UseOfProceeds",
+        "uploaded": "20260715",
+        "used_for": "Use of proceeds, approval date, lease term, listing date"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+        "doc_type": "P3-Offering",
+        "uploaded": "20260715",
+        "used_for": "Offer terms, allocation, underwriter, market prices, expenses"
+      },
+      {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "doc_type": "P2-03-NewAssets",
+        "uploaded": "20260716",
+        "used_for": "New asset details, appraisals, contracts, loan terms, rent structure, pro forma projection and sensitivity"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+        "doc_type": "P2-03-ExistingAssets",
+        "uploaded": "20260715",
+        "used_for": "Existing hotels: tenure, rooms, prices, appraisals, operating performance"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "doc_type": "P2-12-Financials",
+        "uploaded": "20260715",
+        "used_for": "Balance sheet, income statement, NAV, units, LTV, auditor"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-13-MDA.md",
+        "doc_type": "P2-13-MDA",
+        "uploaded": "20260715",
+        "used_for": "1Q2025 comparatives and performance commentary"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "doc_type": "P2-05-Risks",
+        "uploaded": "20260715",
+        "used_for": "Risk factors, pro forma LTV, dilution"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-02-Policy.md",
+        "doc_type": "P2-02-Policy",
+        "uploaded": "20260715",
+        "used_for": "Trust history and group structure"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-08-Unitholders.md",
+        "doc_type": "P2-08-Unitholders",
+        "uploaded": "20260715",
+        "used_for": "Units outstanding, closing price, major unitholders"
+      },
+      {
+        "file": "LHHOTEL_PO_20260716_P2-09-Governance.md",
+        "doc_type": "P2-09-Governance",
+        "uploaded": "20260716",
+        "used_for": "Auditor and appraiser names (grep only)"
+      },
+      {
+        "file": "LHHOTEL_PO_20260715_P2-11-RelatedParty.md",
+        "doc_type": "P2-11-RelatedParty",
+        "uploaded": "20260715",
+        "used_for": "Related parties and potential lenders"
+      }
+    ],
+    "revision_notes": []
+  },
+  "sector": {
+    "primary": "Hospitality",
+    "sub_sectors": [
+      "Hotel"
+    ],
+    "description": {
+      "value": "Leasehold REIT holding five Grand Centre Point hotels (three in Bangkok, two in Pattaya) and acquiring leasehold rights over the buildings (excluding land) plus ownership of movables of the 399-room Grand Centre Point Surawong hotel in Bangkok; all hotels are sub-leased to LH group company LHH for fixed plus variable rent.",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 9,
+        "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+        "quote": "จำนวน 1 โครงการ ซึ่งได้แก่ โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุรวงศ์"
+      }
+    }
+  },
+  "parties": {
+    "sponsors": [
+      {
+        "name_en": "Land and Houses Public Company Limited (LH)",
+        "name_th": "บริษัท แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)",
+        "role_detail": "Not labelled \"sponsor\" in the filing; common major shareholder of the REIT manager (~25.31% indirect), LHMH (99.99% direct) and LHH (99.99% indirect).",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-02-Policy.md",
+          "line": 25,
+          "section": null,
+          "quote": "รายเดียวกัน คือ บริษัท แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)"
+        }
+      },
+      {
+        "name_en": "LH Mall & Hotel Company Limited (LHMH)",
+        "name_th": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด",
+        "role_detail": "Seller/lessor of the new asset, hotel manager of all hotels, largest unitholder (273,130,006 units, 26.04% as of 2026-06-08).",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-08-Unitholders.md",
+          "line": 36,
+          "section": "ข้อมูลผู้ถือหน่วยทรัสต์",
+          "quote": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด | 273,130,006 | 26.04"
+        }
+      }
+    ],
+    "reit_manager": {
+      "name_en": "Land and Houses Fund Management Company Limited",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด",
+      "role_detail": "REIT manager and offeror; ~25.31% indirectly held by LH via LHFG.",
+      "related_to_sponsor": true,
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 27,
+        "section": null,
+        "quote": "ผู้เสนอขายหน่วยทรัสต์ และผู้จัดการกองทรัสต์ : บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด"
+      }
+    },
+    "trustee": {
+      "name_en": "SCB Asset Management Company Limited (SCBAM)",
+      "name_th": "บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด",
+      "role_detail": "Trustee; 99.99% owned by Siam Commercial Bank (a possible lender).",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 28,
+        "section": null,
+        "quote": "ทรัสตี: บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด"
+      }
+    },
+    "property_managers": [
+      {
+        "name_en": "LH Mall & Hotel Company Limited (LHMH)",
+        "name_th": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด",
+        "role_detail": "Hotel manager appointed by sub-lessee LHH under the \"Grand Centre Point\" brand; ~3-year term; revenue fee up to 5% of total revenue plus operating fee up to 10% of net income.",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 375,
+          "section": "ข้อมูลเกี่ยวกับผู้บริหารโรงแรม",
+          "quote": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด"
+        }
+      }
+    ],
+    "financial_advisors": [
+      {
+        "name_en": "Kasikornbank Public Company Limited",
+        "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)",
+        "role_detail": "Financial advisor",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_00-Cover.md",
+          "line": 29,
+          "section": null,
+          "quote": "ที่ปรึกษาทางการเงิน: ธนาคารกสิกรไทย จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "lead_underwriters": [
+      {
+        "name_en": "Kasikornbank Public Company Limited",
+        "name_th": "ธนาคารกสิกรไทย จำกัด (มหาชน)",
+        "role_detail": "Lead underwriter (ผู้จัดการการจัดจำหน่าย); firm underwriting after signing of agreements",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_00-Cover.md",
+          "line": 30,
+          "section": null,
+          "quote": "ผู้จัดการการจัดจำหน่าย: ธนาคารกสิกรไทย จำกัด (มหาชน)"
+        }
+      }
+    ],
+    "underwriters": [],
+    "appraisers": [
+      {
+        "name_en": "Asian Engineering Valuation Company Limited",
+        "name_th": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด",
+        "role_detail": "Appraiser of the new asset (lower value, report 2026-05-15); also latest appraiser of two existing hotels",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-09-Governance.md",
+          "line": 716,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน สำหรับทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "บริษัท เอเชี่ยน เอ็นจิเนียริ่ง แวลูเอชั่น จำกัด"
+        }
+      },
+      {
+        "name_en": "KTAC Appraisal and Service Company Limited",
+        "name_th": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด",
+        "role_detail": "Appraiser of the new asset (report 2026-05-14); also latest appraiser of Grand Centre Point Terminal 21",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-09-Governance.md",
+          "line": 719,
+          "section": "บริษัทประเมินมูลค่าทรัพย์สิน สำหรับทรัพย์สินที่จะลงทุนเพิ่มเติม",
+          "quote": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด"
+        }
+      },
+      {
+        "name_en": "15 Business Advisory Company Limited",
+        "name_th": "บริษัท 15 ที่ปรึกษาธุรกิจ จำกัด",
+        "role_detail": "Appraiser for existing assets",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-09-Governance.md",
+          "line": 710,
+          "section": "ผู้ประเมินมูลค่าทรัพย์สิน สำหรับทรัพย์สินที่ลงทุนปัจจุบัน",
+          "quote": "บริษัท 15 ที่ปรึกษาธุรกิจ จำกัด"
+        }
+      }
+    ],
+    "auditor": {
+      "name_en": "EY Office Limited",
+      "name_th": "บริษัท สำนักงานอีวาย จำกัด",
+      "role_detail": "Auditor (signing auditor Wilaiporn Chaowiwatkul, CPA No. 9309)",
+      "related_to_sponsor": false,
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-09-Governance.md",
+        "line": 695,
+        "section": "ผู้สอบบัญชี",
+        "quote": "บริษัท สำนักงานอีวาย จำกัด"
+      }
+    },
+    "legal_advisors": [],
+    "lenders": [
+      {
+        "name_en": "Land and Houses Bank Public Company Limited (LH Bank)",
+        "name_th": "ธนาคารแลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)",
+        "role_detail": "Possible lender for the new facility; related to the REIT manager (LH/LHFG); holds 2.57% of units",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-11-RelatedParty.md",
+          "line": 13,
+          "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกัน",
+          "quote": "อาจเป็นผู้ให้กู้ยืมเงินแก่กองทรัสต์"
+        }
+      },
+      {
+        "name_en": "Siam Commercial Bank Public Company Limited (SCB)",
+        "name_th": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+        "role_detail": "Possible lender for the new facility; parent of the trustee",
+        "related_to_sponsor": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-11-RelatedParty.md",
+          "line": 19,
+          "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกัน",
+          "quote": "อาจเป็นผู้ให้กู้ยืมเงินแก่กองทรัสต์"
+        }
+      }
+    ],
+    "sellers_or_lessors": [
+      {
+        "name_en": "LH Mall & Hotel Company Limited (LHMH)",
+        "name_th": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด",
+        "role_detail": "Lessor of the Surawong buildings (~26 years 7 months) and seller of movables; leases the land from an unrelated third-party owner",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 192,
+          "section": "ร่างสัญญาเช่าอสังหาริมทรัพย์",
+          "quote": "ผู้ให้เช่า | บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด"
+        }
+      }
+    ],
+    "operators_or_master_lessees": [
+      {
+        "name_en": "L&H Hotel Management Company Limited (LHH)",
+        "name_th": "บริษัท แอล แอนด์ เอช โฮเทล แมเนจเมนท์ จำกัด",
+        "role_detail": "Sole sub-lessee of real estate and lessee of movables for all six hotels; SPV with THB 10 mn paid-up capital; 99.99% owned by LHMH; pays fixed + variable rent",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 410,
+          "section": "ข้อมูลเกี่ยวกับผู้เช่าช่วง",
+          "quote": "บริษัท แอล แอนด์ เอช โฮเทล แมเนจเมนท์ จำกัด"
+        }
+      },
+      {
+        "name_en": "LH Mall & Hotel Company Limited (LHMH)",
+        "name_th": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด",
+        "role_detail": "Hotel operator/manager appointed by LHH under the Grand Centre Point brand",
+        "related_to_sponsor": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-02-Policy.md",
+          "line": 26,
+          "section": null,
+          "quote": "LHH จะแต่งตั้งให้ LHMH เป็นผู้บริหารโรงแรมภายใต้แบรนด์"
+        }
+      }
+    ],
+    "not_found_roles": [
+      "Sponsor (term not used in the filing; LH group inferred from shareholding disclosures)",
+      "Legal advisor (not named in the text filings)",
+      "Co-underwriters / selling agents (filing says more may be appointed later)",
+      "Confirmed lender(s) for the new THB 1,265 mn facility (only possible lenders named)",
+      "Third-party land owner of the Surawong site (not named)"
+    ]
+  },
+  "offering": {
+    "units_offered_max": {
+      "value": 190000000,
+      "status": "found",
+      "unit": "units",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 17,
+        "section": null,
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 190,000,000 หน่วย"
+      },
+      "note": "Maximum (\"ไม่เกิน\")"
+    },
+    "offering_price_per_unit": {
+      "min_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Empty draft placeholder \"[ ]\" in the filing: cover \"ช่วงราคาเสนอขายเบื้องต้น [] บาทต่อหน่วย\". Projection uses an assumed THB 13.00."
+      },
+      "max_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Empty draft placeholder \"[ ]\" in the filing: \"ราคาสูงสุดที่จะเสนอขายหน่วยทรัสต์ ไม่เกิน [] บาทต่อหน่วย\"."
+      },
+      "final_thb": {
+        "value": null,
+        "status": "not_found",
+        "note": "Final price to be set by bookbuilding and announced on the SET website; not in filing."
+      }
+    },
+    "par_value_per_unit_thb": {
+      "value": 10.0,
+      "status": "found",
+      "unit": "THB",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 18,
+        "section": null,
+        "quote": "มูลค่าที่ตราไว้ 10.00 บาทต่อหน่วย"
+      }
+    },
+    "offering_size_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Empty draft placeholder \"[ ]\" in the filing: cover \"ไม่เกิน [] บาท\". Not back-solved. For illustration only, the projection assumes 176.56 mn units x THB 13.00 = THB 2,295 mn (Fact Sheet)."
+    },
+    "total_investment_value_thb_mn": {
+      "value": 3000.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 15,
+        "section": null,
+        "quote": "รวมทั้งสิ้นไม่เกิน 3,000,000,000 บาท"
+      },
+      "note": "Maximum (\"ไม่เกิน\"); excludes VAT, registration fees, stamp duty and other expenses"
+    },
+    "funding_sources": [
+      {
+        "type": "debt",
+        "amount_thb_mn": {
+          "value": 1265.0,
+          "status": "found",
+          "unit": "THB mn",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_00-Cover.md",
+            "line": 11,
+            "section": null,
+            "quote": "รวมทั้งสิ้นไม่เกิน 1,265,000,000 บาท"
+          },
+          "note": "Maximum long-term bank borrowing; projection assumes ~THB 707 mn"
+        },
+        "note": "Long-term loans from banks and/or financial institutions"
+      },
+      {
+        "type": "new_units",
+        "amount_thb_mn": {
+          "value": null,
+          "status": "not_found",
+          "note": "Empty draft placeholder \"[ ]\" in the filing (cover \"ไม่เกิน [] บาท\"); projection case THB 2,295 mn at assumed THB 13.00"
+        },
+        "note": "Up to 190,000,000 new units"
+      },
+      {
+        "type": "internal_cash",
+        "amount_thb_mn": {
+          "value": null,
+          "status": "not_found",
+          "note": "Internal cash \"as the REIT manager deems appropriate\"; amount not stated"
+        },
+        "note": "Internal cash of the trust"
+      }
+    ],
+    "use_of_proceeds": [
+      {
+        "item": "Leasehold rights over buildings (excluding land) and ownership of movables of Grand Centre Point Surawong, acquired from LHMH",
+        "amount_thb_mn": 3000.0,
+        "note": "Maximum; excludes VAT, registration fees and stamp duty",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+          "line": 11,
+          "section": null,
+          "quote": "ซึ่งมูลค่าการลงทุนสูงสุดที่กองทรัสต์เข้าลงทุนจะไม่เกิน 3,000 ล้านบาท"
+        }
+      },
+      {
+        "item": "Estimated offering and transaction expenses",
+        "amount_thb_mn": null,
+        "note": "Empty draft placeholder \"[ ]\" in the filing",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+          "line": 424,
+          "section": "4. ประมาณการค่าใช้จ่ายต่างๆ ที่เกี่ยวข้องกับการเสนอขายครั้งนี้",
+          "quote": "รวมค่าใช้จ่ายทั้งสิ้น | ประมาณ [] บาท"
+        }
+      }
+    ],
+    "estimated_transaction_costs_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Empty draft placeholder \"[ ]\" in the filing: all expense lines \"ประมาณ [] บาท\" in P3 section 4"
+    },
+    "allocation": [
+      {
+        "tranche": "Tranche 1: existing unitholders, pro rata (Preferential Public Offering)",
+        "units": null,
+        "pct_of_offer": null,
+        "note": "Empty draft placeholder \"[ ]\" in the filing (\"ไม่เกิน [] หน่วย\", \"ประมาณร้อยละ []\"). The risk section dilution example assumes 95,000,000 units (50% of the maximum) offered to existing holders.",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+          "line": 40,
+          "section": "1.2 สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "ไม่เกิน [] หน่วย /1"
+        }
+      },
+      {
+        "tranche": "Tranche 2: remainder to private placement and/or public (institutional investors; persons at underwriter's discretion)",
+        "units": null,
+        "pct_of_offer": null,
+        "note": "Units remaining from Tranche 1; claw-back/claw-forward allowed",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+          "line": 41,
+          "section": "1.2 สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "หน่วยทรัสต์ส่วนที่เหลือจากการเสนอขาย"
+        }
+      }
+    ],
+    "subscription_ratio": {
+      "value": null,
+      "status": "not_found",
+      "note": "Empty draft placeholder \"[ ]\" in the filing: \"1 หน่วยทรัสต์เดิมต่อ [] หน่วยทรัสต์ที่ออกและเสนอขายเพิ่มเติม\""
+    },
+    "sponsor_commitment": {
+      "value": null,
+      "status": "not_found",
+      "note": "No subscription intention, lock-up or minimum holding by LH/LHMH found in the text filings; LHMH currently holds 26.04%."
+    },
+    "projected_distribution": {
+      "projection_period": {
+        "value": "12 months, 1 Jan 2027 - 31 Dec 2027 (FY2027P)",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 60,
+          "section": null,
+          "quote": "ประมาณการผลตอบแทนระยะสั้นของกองทรัสต์ ตั้งแต่วันที่ 1 มกราคม 2570 ถึง 31 ธันวาคม 2570"
+        }
+      },
+      "basis_price_thb": {
+        "value": 13.0,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 612,
+          "section": "ประมาณการอัตราการจ่ายประโยชน์ตอบแทน",
+          "quote": "คำนวณบนสมมติฐานราคาเสนอขายหน่วยทรัสต์เพิ่มเติมที่ 13.00 บาทต่อหน่วย"
+        },
+        "note": "Assumed offering price for the projection, not an announced price"
+      },
+      "dpu_thb": {
+        "value": 1.2,
+        "status": "found",
+        "unit": "THB",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 612,
+          "section": "ประมาณการอัตราการจ่ายประโยชน์ตอบแทน",
+          "quote": "เท่ากับประมาณ 1.20 บาทต่อหน่วย"
+        },
+        "note": "Dividend only; no capital reduction"
+      },
+      "distribution_yield_pct": {
+        "value": 9.25,
+        "status": "found",
+        "unit": "%",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 612,
+          "section": "ประมาณการอัตราการจ่ายประโยชน์ตอบแทน",
+          "quote": "คิดเป็นประมาณการอัตราการจ่ายประโยชน์ตอบแทนปีแรกเท่ากับประมาณร้อยละ 9.25"
+        }
+      },
+      "total_distribution_thb_mn": {
+        "value": 1473.2,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 491,
+          "section": "รายงานและข้อมูลทางการเงินตามสถานการณ์สมมติ",
+          "quote": "ในรูปของการจ่ายประโยชน์ตอบแทน (ล้านบาท) | 1,233.7 | 1,473.2"
+        },
+        "note": "Payout 93.26% of adjusted net profit (THB 1,579.6 mn) after THB 494 mn debt repayment reserve"
+      },
+      "projected_net_investment_income_thb_mn": {
+        "value": 2094.2,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 489,
+          "section": "รายงานและข้อมูลทางการเงินตามสถานการณ์สมมติ",
+          "quote": "รายได้จากการลงทุนสุทธิ | 1,842.6 | 2,094.2"
+        }
+      },
+      "yield_sensitivity": [
+        {
+          "offering_price_thb": 13.0,
+          "dpu_thb": 1.2,
+          "yield_pct": 9.25,
+          "note": "Base case (enlarged trust)",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 641,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "กรณีฐาน | 1.18 | 1.20 | 9.05 | 9.25"
+          }
+        },
+        {
+          "offering_price_thb": 13.0,
+          "dpu_thb": 1.05,
+          "yield_pct": 8.1,
+          "note": "Average occupancy 5% below base case",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 639,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "ต่ำกว่ากรณีฐาน ร้อยละ 5.0 | 1.03 | 1.05 | 7.90 | 8.10"
+          }
+        },
+        {
+          "offering_price_thb": 13.0,
+          "dpu_thb": 1.35,
+          "yield_pct": 10.41,
+          "note": "Average occupancy 5% above base case",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 643,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "สูงกว่ากรณีฐาน ร้อยละ 5.0 | 1.33 | 1.35 | 10.21 | 10.41"
+          }
+        },
+        {
+          "offering_price_thb": 13.0,
+          "dpu_thb": 1.07,
+          "yield_pct": 8.2,
+          "note": "Average room rate 5% below base case",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 655,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "ต่ำกว่ากรณีฐาน ร้อยละ 5.0 | 1.04 | 1.07 | 8.00 | 8.20"
+          }
+        },
+        {
+          "offering_price_thb": 13.0,
+          "dpu_thb": 1.34,
+          "yield_pct": 10.3,
+          "note": "Average room rate 5% above base case",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 659,
+            "section": "การวิเคราะห์ความอ่อนไหวต่อการเปลี่ยนแปลง (Sensitivity Analysis) ของประมาณการจ่ายประโยชน์ตอบแทนและประมาณการอัตราผลตอบแทนระยะยาวของกองทรัสต์",
+            "quote": "สูงกว่ากรณีฐาน ร้อยละ 5.0 | 1.31 | 1.34 | 10.10 | 10.30"
+          }
+        }
+      ],
+      "pro_forma_note": {
+        "value": "Existing five hotels only: DPU THB 1.18 (9.05% at THB 13.00), distribution THB 1,233.7 mn on 1,048.9 mn units; after acquisition: DPU THB 1.20 (9.25%), THB 1,473.2 mn on 1,225.5 mn units, assuming THB 13.00 price, 176.56 mn new units and ~THB 707 mn new debt. Expected long-term IRR ~11.9%.",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 494,
+          "section": "รายงานและข้อมูลทางการเงินตามสถานการณ์สมมติ",
+          "quote": "ประมาณการจำนวนเงินปันส่วนกำไรต่อหน่วย (บาท) | 1.18 | 1.20"
+        }
+      }
+    },
+    "timeline": [
+      {
+        "event": "Record date for unitholders meeting No. 1/2026",
+        "date": "2026-06-08",
+        "indicative": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+          "line": 31,
+          "section": "1.2 สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "(Record Date) เมื่อวันที่ 8 มิถุนายน 2569"
+        }
+      },
+      {
+        "event": "TRIS Rating latest rating BBB (Stable)",
+        "date": "2026-07-15",
+        "indicative": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 299,
+          "section": "สรุปสาระสำคัญของสัญญากู้ยืมเงิน",
+          "quote": "ครั้งล่าสุดเมื่อวันที่ 15 กรกฎาคม 2569"
+        }
+      },
+      {
+        "event": "Unitholders meeting No. 1/2026 approves the 4th additional investment and capital increase",
+        "date": "2026-07-17",
+        "indicative": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+          "line": 9,
+          "section": null,
+          "quote": "โดยในวันที่ 17 กรกฎาคม 2569 ที่ประชุมผู้ถือหน่วยทรัสต์ ครั้งที่ 1/2569"
+        }
+      },
+      {
+        "event": "Filing date of registration statement / draft prospectus (as stated on cover)",
+        "date": "2026-07-24",
+        "indicative": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_00-Cover.md",
+          "line": 31,
+          "section": null,
+          "quote": "ร่างหนังสือชี้ชวน วันที่ 24 กรกฎาคม 2569"
+        }
+      },
+      {
+        "event": "Registration statement effective date (placeholder \"[ ]\")",
+        "date": null,
+        "indicative": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_00-Cover.md",
+          "line": 32,
+          "section": null,
+          "quote": "มีผลใช้บังคับ วันที่ []"
+        }
+      },
+      {
+        "event": "Book closure for entitlement of existing unitholders (placeholder \"[ ]\")",
+        "date": null,
+        "indicative": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P3-Offering.md",
+          "line": 31,
+          "section": "1.2 สัดส่วนการเสนอขายหน่วยทรัสต์",
+          "quote": "(Book Close) ในวันที่ []"
+        }
+      },
+      {
+        "event": "Subscription periods for all tranches (placeholders \"[ ]\")",
+        "date": null,
+        "indicative": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_00-Cover.md",
+          "line": 35,
+          "section": null,
+          "quote": "(บุคคลธรรมดาและนิติบุคคล) | วันที่ []"
+        }
+      },
+      {
+        "event": "Assumed investment date / building lease start",
+        "date": "2027-01-01",
+        "indicative": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 94,
+          "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+          "quote": "ณ วันที่กองทรัสต์คาดว่าจะเข้าลงทุน (วันที่ 1 มกราคม 2570)"
+        }
+      },
+      {
+        "event": "First LHH sub-lease term ends",
+        "date": "2029-12-31",
+        "indicative": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 331,
+          "section": "ลักษณะการจัดหาผลประโยชน์จากทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "โดยสัญญาเช่าช่วงฉบับแรกสิ้นสุดวันที่ 31 ธันวาคม 2572"
+        }
+      },
+      {
+        "event": "Last LHH sub-lease renewal ends (no later than)",
+        "date": "2035-12-31",
+        "indicative": true,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 331,
+          "section": "ลักษณะการจัดหาผลประโยชน์จากทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "และฉบับสุดท้ายจะสิ้นสุดไม่เกินวันที่ 31 ธันวาคม 2578"
+        }
+      },
+      {
+        "event": "Surawong building lease (and LHMH master land lease) expires",
+        "date": "2053-07-31",
+        "indicative": false,
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 11,
+          "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "ซึ่งระยะเวลาการเช่าจะสิ้นสุดในวันที่ 31 กรกฎาคม 2596"
+        }
+      }
+    ]
+  },
+  "capital_structure": {
+    "units_outstanding_before": {
+      "value": 1048919900,
+      "status": "found",
+      "unit": "units",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-08-Unitholders.md",
+        "line": 13,
+        "section": "ข้อมูลหน่วยทรัสต์",
+        "quote": "จำนวนหน่วยทรัสต์ | 1,048,919,900 หน่วย"
+      }
+    },
+    "units_outstanding_after_max": {
+      "value": 1238919900,
+      "status": "derived",
+      "unit": "units",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 17,
+        "section": null,
+        "quote": "โดยมีหน่วยทรัสต์ที่จะเสนอขายจำนวนทั้งสิ้นไม่เกิน 190,000,000 หน่วย"
+      },
+      "note": "Derived: 1,048,919,900 existing + 190,000,000 maximum new units. Projection case: 1,225.5 mn units (176.56 mn new)."
+    },
+    "nav_per_unit_thb": {
+      "value": 13.0201,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 40,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "สินทรัพย์สุทธิต่อหน่วย (บาท) | 11.6743 | 12.9165 | 12.9176 | 13.0201"
+      }
+    },
+    "total_assets_before_thb_mn": {
+      "value": 23455.04,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 29,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "รวมสินทรัพย์ | 22,567.36 | 23,607.68 | 23,420.86 | 23,455.04"
+      }
+    },
+    "total_assets_after_thb_mn": {
+      "value": null,
+      "status": "not_found",
+      "note": "Pro forma total assets after the acquisition not disclosed in the text filings"
+    },
+    "borrowings_before_thb_mn": {
+      "value": 9753.91,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 33,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "เงินกู้ยืมระยะยาว | 10,167.90 | 9,946.26 | 9,828.74 | 9,753.91"
+      },
+      "note": "Long-term borrowings per reviewed balance sheet; outstanding principal excluding deferred interest ~THB 9,636 mn (Fact Sheet)"
+    },
+    "new_borrowings_thb_mn": {
+      "value": 1265.0,
+      "status": "found",
+      "unit": "THB mn",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 11,
+        "section": null,
+        "quote": "รวมทั้งสิ้นไม่เกิน 1,265,000,000 บาท"
+      },
+      "note": "Maximum (\"ไม่เกิน\"); projection assumes ~THB 707 mn"
+    },
+    "borrowings_after_thb_mn": {
+      "value": 11018.91,
+      "status": "derived",
+      "unit": "THB mn",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 33,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "เงินกู้ยืมระยะยาว | 10,167.90 | 9,946.26 | 9,828.74 | 9,753.91"
+      },
+      "note": "Derived maximum case: 9,753.91 (31 Mar 2026) + 1,265 max new debt; ignores scheduled amortisation (THB 494 mn repayment reserve in 2027). Not disclosed by the filing."
+    },
+    "ltv_before_pct": {
+      "value": 41.59,
+      "status": "found",
+      "unit": "%",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 108,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "อัตราส่วนเงินกู้ยืมต่อสินทรัพย์รวม (ร้อยละ) | 45.06 | 42.13 | 41.97 | 41.59"
+      }
+    },
+    "ltv_after_pct": {
+      "value": 42.0,
+      "status": "found",
+      "unit": "%",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 51,
+        "section": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน",
+        "quote": "สัดส่วนการกู้ยืมเงินอยู่ที่ประมาณร้อยละ 42 ของมูลค่าทรัพย์สินรวมของกองทรัสต์ภายหลังการเข้าลงทุน"
+      },
+      "note": "Approximately 42% if the full THB 1,265 mn is borrowed"
+    },
+    "ltv_limit_pct": {
+      "value": 60.0,
+      "status": "found",
+      "unit": "%",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 277,
+        "section": "การกู้ยืมเงินของกองทรัสต์",
+        "quote": "ร้อยละ 60 ของมูลค่าทรัพย์สินรวมของกองทรัสต์ สำหรับกองทรัสต์ที่ถูกจัดอันดับความน่าเชื่อถืออยู่ในอันดับที่สามารถลงทุนได้ (Investment Grade)"
+      },
+      "note": "60% applies with an investment-grade rating (TRIS BBB/Stable, 2026-07-15); otherwise 35%. The new borrowing is conditional on keeping an investment-grade rating."
+    },
+    "loan_terms": {
+      "value": "New facility up to THB 1,265 mn from one or more domestic commercial banks/financial institutions (possibly LH Bank or SCB, related parties); tenor 10-15 years from first drawdown; interest not above MLR - 1.5% p.a.; quarterly interest; quarterly amortisation after a grace period (projection: principal repayment from 2030); covenants on D/E, DSCR and interest-bearing debt/total assets (35%/60%), negative pledge, prepayment fee; may be secured. Existing loans: MLR minus fixed spread, quarterly repayments, part re-priced from 2026-09-01.",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 288,
+        "section": "สรุปสาระสำคัญของสัญญากู้ยืมเงิน",
+        "quote": "อัตราดอกเบี้ยต่อปีรวมไม่เกินอัตราดอกเบี้ยสำหรับลูกค้ารายใหญ่ชั้นดีประเภทเงินกู้แบบมีระยะเวลา (Minimum Loan Rate: MLR) ลบร้อยละ 1.5"
+      }
+    }
+  },
+  "new_assets": [
+    {
+      "asset_id": "GCP_SURAWONG",
+      "name_en": "Grand Centre Point Surawong",
+      "name_th": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุรวงศ์",
+      "asset_type": "Hotel",
+      "location": {
+        "address": "299 Surawong Road, Suriyawong, Bang Rak, Bangkok (corner of Surawong and Mahesak Roads)",
+        "address_th": "เลขที่ 299 ถนนสุรวงศ์ แขวงสุริยวงศ์ เขตบางรัก กรุงเทพมหานคร",
+        "subdistrict": "Suriyawong",
+        "district": "Bang Rak",
+        "province": "Bangkok",
+        "zone": "Bangkok - Silom/Bang Rak (near BTS Surasak, Sathorn pier)",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 30,
+          "section": "ข้อมูลทั่วไปของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "ตั้งอยู่เลขที่ 299 ถนนสุรวงศ์ แขวงสุริยวงศ์ เขตบางรัก กรุงเทพมหานคร"
+        }
+      },
+      "investment_type": {
+        "value": "Leasehold",
+        "status": "found",
+        "value_th": "สิทธิการเช่าอสังหาริมทรัพย์ (ไม่รวมที่ดิน) และกรรมสิทธิ์ในสังหาริมทรัพย์",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 9,
+          "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "สิทธิการเช่าอสังหาริมทรัพย์ (ไม่รวมที่ดิน) และกรรมสิทธิ์ในสังหาริมทรัพย์"
+        },
+        "note": "Leasehold of buildings and systems (excluding land) from LHMH, plus outright ownership of movables (FF&E). Land is not acquired."
+      },
+      "components": [
+        {
+          "component": "Buildings: hotel Building A (22 floors, 399 rooms) and commercial/car-park Building B (8 floors + 1 basement), with building systems",
+          "right": "Leasehold",
+          "tenure_years": 26.58,
+          "start_date": "2027-01-01",
+          "expiry_date": "2053-07-31",
+          "renewal_option": null,
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 194,
+            "section": "ร่างสัญญาเช่าอสังหาริมทรัพย์",
+            "quote": "ผู้ให้เช่าตกลงให้กองทรัสต์เช่าทรัพย์สินที่เช่ามีกำหนดระยะเวลาประมาณ 26 ปี 7 เดือน"
+          }
+        },
+        {
+          "component": "Movable assets (furniture, fixtures and equipment) purchased from LHMH",
+          "right": "Freehold",
+          "tenure_years": null,
+          "start_date": "2027-01-01",
+          "expiry_date": null,
+          "renewal_option": null,
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 22,
+            "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "กองทรัสต์จะซื้อสังหาริมทรัพย์จาก LHMH"
+          }
+        },
+        {
+          "component": "Land (not acquired): leased by LHMH from an unrelated third-party owner under the master land lease; the trust is not a party",
+          "right": "Other",
+          "tenure_years": 30.0,
+          "start_date": "2023-08-01",
+          "expiry_date": "2053-07-31",
+          "renewal_option": null,
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 193,
+            "section": "ร่างสัญญาเช่าอสังหาริมทรัพย์",
+            "quote": "ตั้งแต่วันที่ 1 สิงหาคม 2566 และจะครบกำหนดลงใน <br> วันที่ 31 กรกฎาคม 2596"
+          }
+        }
+      ],
+      "tenure_years": {
+        "value": 26.58,
+        "status": "found",
+        "unit": "years",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 11,
+          "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "โดยมีกำหนดระยะเวลาการเช่าประมาณ 26 ปี 7 เดือน"
+        },
+        "note": "\"approximately 26 years 7 months\" = 26.58 years, assuming investment on 1 Jan 2027"
+      },
+      "lease_start": {
+        "value": "2027-01-01",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 11,
+          "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "(ภายใต้สมมติฐานว่ากองทรัสต์เข้าลงทุนในทรัพย์สินที่จะลงทุนเพิ่มเติมนับตั้งแต่วันที่ 1 มกราคม 2570)"
+        },
+        "note": "Assumed investment date; actual start is the lease effective date"
+      },
+      "lease_expiry": {
+        "value": "2053-07-31",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 11,
+          "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "ซึ่งระยะเวลาการเช่าจะสิ้นสุดในวันที่ 31 กรกฎาคม 2596"
+        }
+      },
+      "land_area": {
+        "value_sqm": 4994.8,
+        "as_filed": "3 rai 48.7 sq.wa (3-0-48.7)",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 37,
+          "section": "ข้อมูลทั่วไปของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "ตั้งอยู่บนที่ดินซึ่งมีเนื้อที่ประมาณ 3 ไร่ 48.7 ตารางวา"
+        },
+        "note": "3 x 1,600 + 48.7 x 4 = 4,994.8 sqm. Land is not acquired by the trust."
+      },
+      "building_area": {
+        "gross_sqm": {
+          "value": 38884,
+          "status": "found",
+          "unit": "sqm",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 19,
+            "section": "ลักษณะการลงทุนในทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "รวมพื้นที่ทั้งหมดที่กองทรัสต์จะลงทุน | 38,884"
+          },
+          "note": "Total area invested: rooms 16,681 + common areas 14,875 + parking 7,328 sqm"
+        },
+        "leasable_sqm": {
+          "value": null,
+          "status": "not_applicable",
+          "note": "Hotel; whole property sub-leased to LHH. Room area 16,681 sqm."
+        },
+        "rooms": {
+          "value": 399,
+          "status": "found",
+          "unit": "rooms",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 59,
+            "section": "รายละเอียดของห้องพัก",
+            "quote": "รวม | 399 | - | 16,681"
+          },
+          "note": "381 Deluxe (~44 sqm) + 18 Suite (~62 sqm)"
+        },
+        "buildings": {
+          "value": 2,
+          "status": "found",
+          "unit": "buildings",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 36,
+            "section": "ข้อมูลทั่วไปของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "อาคารโรงแรม (อาคารเอ) จำนวน 1 หลัง ซึ่งเป็นอาคารสูง 22 ชั้น"
+          },
+          "note": "Building A (hotel, 22 floors) and Building B (commercial and car park, 8 floors + 1 basement)"
+        }
+      },
+      "completion_or_age": {
+        "value": "Opened 25 Nov 2023 (about 3 years old at the assumed investment date)",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 38,
+          "section": "ข้อมูลทั่วไปของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "25 พฤศจิกายน 2566"
+        }
+      },
+      "seller_or_lessor": {
+        "value": "LH Mall & Hotel Company Limited (LHMH), 99.99% subsidiary of Land and Houses PCL, hotel manager and 26.04% unitholder; related party of the REIT manager",
+        "status": "found",
+        "value_th": "บริษัท แอล เอช มอลล์ แอนด์ โฮเทล จำกัด",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 152,
+          "section": "ความสัมพันธ์",
+          "quote": "โดยการเช่าอสังหาริมทรัพย์ และซื้อสังหาริมทรัพย์ จาก LHMH"
+        }
+      },
+      "acquisition_price_thb_mn": {
+        "value": 3000.0,
+        "status": "found",
+        "unit": "THB mn",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 107,
+          "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+          "quote": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุรวงศ์ | 3,000.0 | 0.1"
+        },
+        "note": "Maximum (\"ประมาณไม่เกิน\"); 0.1% below the lower appraisal; paid in full on the contract effective date; excludes VAT, fees and stamp duty; split between prepaid building rent and movables not disclosed"
+      },
+      "appraisals": [
+        {
+          "appraiser": "KTAC Appraisal and Service Company Limited",
+          "valuation_date": "2027-01-01",
+          "method": "Income approach (DCF over the remaining lease term)",
+          "value_thb_mn": 3007.7,
+          "discount_rate_pct": 10.5,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Occupancy 80% in 2027 and 83% from 2028; room rate THB 4,326/room/night in 2027 growing 3% p.a.; hotel manager fees: revenue fee up to 5% of total revenue and operating fee up to 10% of net income; capex reserve 2.5% of total revenue; trust rent structure: fixed rent THB 150 mn p.a. rising 2% every 3 years from 2030, variable rent 90% of net income after fixed rent; DCF over ~26 years 7 months (1 Jan 2027 - 31 Jul 2053); other revenue ~24% of total revenue; expenses 51-55% of total revenue",
+          "note": "Report dated 2026-05-14; value as at the expected investment date 1 Jan 2027. No terminal cap rate disclosed (leasehold DCF to lease expiry).",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 99,
+            "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+            "quote": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุรวงศ์ | 3,007.7 | 3,003.0 | 3,003.0"
+          }
+        },
+        {
+          "appraiser": "Asian Engineering Valuation Company Limited",
+          "valuation_date": "2027-01-01",
+          "method": "Income approach (DCF over the remaining lease term)",
+          "value_thb_mn": 3003.0,
+          "discount_rate_pct": 10.5,
+          "terminal_cap_rate_pct": null,
+          "key_assumptions": "Occupancy 80% in 2027 and 83% from 2028; room rate THB 4,326/room/night in 2027 growing 3% p.a.; hotel manager fees: revenue fee up to 5% of total revenue and operating fee up to 10% of net income; capex reserve 2.5% of total revenue; trust rent structure: fixed rent THB 150 mn p.a. rising 2% every 3 years from 2030, variable rent 90% of net income after fixed rent; DCF over ~26 years 7 months (1 Jan 2027 - 31 Jul 2053); other revenue ~23% of total revenue; expenses 50-55% of total revenue",
+          "note": "Report dated 2026-05-15; lower of the two appraisals; value as at 1 Jan 2027. Also basis of total expected rent over the sub-lease period of ~THB 2,936.8 mn.",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 132,
+            "section": "สรุปสมมติฐานสำคัญในการประเมินมูลค่า",
+            "quote": "มูลค่าประเมินโดยวิธีรายได้ (Income Approach) | 3,007.7 ล้านบาท | 3,003.0 ล้านบาท"
+          }
+        }
+      ],
+      "occupancy": [
+        {
+          "as_of": "FY2024",
+          "occupancy_pct": 66.2,
+          "basis": "average room occupancy",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 72,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 47.7 | 66.2 | 71.1 | 69.3 | 89.6"
+          }
+        },
+        {
+          "as_of": "FY2025",
+          "occupancy_pct": 71.1,
+          "basis": "average room occupancy",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 72,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 47.7 | 66.2 | 71.1 | 69.3 | 89.6"
+          }
+        },
+        {
+          "as_of": "1Q2026",
+          "occupancy_pct": 89.6,
+          "basis": "average room occupancy",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 72,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 47.7 | 66.2 | 71.1 | 69.3 | 89.6"
+          }
+        }
+      ],
+      "historical_performance": [
+        {
+          "period": "FY2023",
+          "is_projection": false,
+          "revenue_thb_mn": 42.7,
+          "noi_thb_mn": 18.3,
+          "noi_definition": "Net income (รายได้สุทธิ): total hotel revenue less hotel operating costs and expenses (incl. selling and admin), before rent to the trust",
+          "occupancy_pct": 47.7,
+          "adr_thb": 4758,
+          "revpar_thb": 2269,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Partial year: opened Nov 2023. Room revenue THB 33.5 mn",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 69,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "รายได้รวม (ล้านบาท) | 42.7 | 534.9 | 543.1 | 144.2 | 174.8"
+          }
+        },
+        {
+          "period": "FY2024",
+          "is_projection": false,
+          "revenue_thb_mn": 534.9,
+          "noi_thb_mn": 249.0,
+          "noi_definition": "Net income (รายได้สุทธิ): total hotel revenue less hotel operating costs and expenses (incl. selling and admin), before rent to the trust",
+          "occupancy_pct": 66.2,
+          "adr_thb": 4199,
+          "revpar_thb": 2781,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue THB 406.2 mn; other operating revenue THB 128.7 mn",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 69,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "รายได้รวม (ล้านบาท) | 42.7 | 534.9 | 543.1 | 144.2 | 174.8"
+          }
+        },
+        {
+          "period": "FY2025",
+          "is_projection": false,
+          "revenue_thb_mn": 543.1,
+          "noi_thb_mn": 235.8,
+          "noi_definition": "Net income (รายได้สุทธิ): total hotel revenue less hotel operating costs and expenses (incl. selling and admin), before rent to the trust",
+          "occupancy_pct": 71.1,
+          "adr_thb": 3958,
+          "revpar_thb": 2812,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue THB 409.6 mn; affected by 28 Mar 2025 Bangkok earthquake",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 69,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "รายได้รวม (ล้านบาท) | 42.7 | 534.9 | 543.1 | 144.2 | 174.8"
+          }
+        },
+        {
+          "period": "1Q2025",
+          "is_projection": false,
+          "revenue_thb_mn": 144.2,
+          "noi_thb_mn": 62.3,
+          "noi_definition": "Net income (รายได้สุทธิ): total hotel revenue less hotel operating costs and expenses (incl. selling and admin), before rent to the trust",
+          "occupancy_pct": 69.3,
+          "adr_thb": 4282,
+          "revpar_thb": 2965,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue THB 106.5 mn",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 69,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "รายได้รวม (ล้านบาท) | 42.7 | 534.9 | 543.1 | 144.2 | 174.8"
+          }
+        },
+        {
+          "period": "1Q2026",
+          "is_projection": false,
+          "revenue_thb_mn": 174.8,
+          "noi_thb_mn": 82.6,
+          "noi_definition": "Net income (รายได้สุทธิ): total hotel revenue less hotel operating costs and expenses (incl. selling and admin), before rent to the trust",
+          "occupancy_pct": 89.6,
+          "adr_thb": 4174,
+          "revpar_thb": 3741,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Room revenue THB 134.3 mn",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 69,
+            "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "รายได้รวม (ล้านบาท) | 42.7 | 534.9 | 543.1 | 144.2 | 174.8"
+          }
+        },
+        {
+          "period": "FY2027P",
+          "is_projection": true,
+          "revenue_thb_mn": 657.0,
+          "noi_thb_mn": 302.3,
+          "noi_definition": "Hotel net income before interest, tax, depreciation and amortisation and rent paid to the trust",
+          "occupancy_pct": 80.0,
+          "adr_thb": 4275,
+          "revpar_thb": null,
+          "avg_rent_thb_sqm_month": null,
+          "other_metrics": "Pro forma projection: room revenue THB 498.0 mn; trust rental income THB 287.1 mn (fixed 150.0 + variable 137.1). ADR/RevPAR exclude breakfast, VAT and service charge.",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 556,
+            "section": "รายงานและข้อมูลทางการเงินตามสถานการณ์สมมติ",
+            "quote": "ค่าเช่าจ่ายแก่กองทรัสต์ | 567.7 | 487.3 | 375.1 | 659.7 | 323.1 | 302.3 | 2,715.2"
+          }
+        }
+      ],
+      "lease_structure": {
+        "value": "Trust leases the buildings from LHMH for ~26y7m (rent prepaid in full) and buys the movables, then sub-leases the real estate and leases the movables to LHH (LH group SPV). Sub-lease terms up to 3 years: first term to 31 Dec 2029; LHH promises 2 renewals of up to 3 years each at the trust's call, ending no later than 31 Dec 2035 (3 renewals if sub-leased before 1 Jan 2027). Fixed rent THB 150.0 mn p.a. (2027-29), 153.0 mn (2030-32), 156.06 mn (2033-35), paid quarterly within 60 days of quarter end; variable rent = 90% x (hotel revenue - costs - selling/admin incl. manager fees - other operating expenses - fixed rent), if positive. LHH appoints LHMH as hotel manager under the \"Grand Centre Point\" brand (~3-year term; fees up to 5% of revenue plus up to 10% of net income). LHH bears maintenance, property insurance premiums and land & building tax; rent may be deferred or waived for force majeure; one late payment per year allowed before 5% default interest.",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 351,
+          "section": "รายละเอียดค่าเช่าทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+          "quote": "อัตราร้อยละของค่าเช่าแปรผัน ในอัตราร้อยละ 90"
+        }
+      },
+      "rental_guarantee": {
+        "value": null,
+        "status": "not_found",
+        "note": "No rental guarantee, security deposit or parent guarantee disclosed. The only minimum income is LHH's fixed rent; LHH is an SPV with THB 10 mn paid-up capital (total assets THB 1,130.83 mn at 31 Dec 2025)."
+      },
+      "key_tenants": [
+        {
+          "name": "L&H Hotel Management Company Limited (LHH)",
+          "name_th": "บริษัท แอล แอนด์ เอช โฮเทล แมเนจเมนท์ จำกัด",
+          "business": "Hotel operating SPV; sole sub-lessee",
+          "area_sqm": 38884,
+          "pct_of_area": 100.0,
+          "pct_of_revenue": 100.0,
+          "lease_expiry": "2029-12-31",
+          "related_to_sponsor": true,
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 221,
+            "section": "ร่างสัญญาเช่าช่วงอสังหาริมทรัพย์",
+            "quote": "ผู้เช่าช่วง | บริษัท แอล แอนด์ เอช โฮเทล แมเนจเมนท์ จำกัด"
+          }
+        }
+      ],
+      "tenant_concentration": {
+        "value": "Single sub-lessee: 100% of rent from LHH, which is also the sole sub-lessee of the five existing hotels (projected fixed rent THB 1,363 mn in FY2027P for all six hotels).",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+          "line": 27,
+          "section": "ความเสี่ยงจากการพึ่งพารายได้ค่าเช่าจากผู้เช่าช่วงเพียงรายเดียว",
+          "quote": "ความเสี่ยงจากการพึ่งพารายได้ค่าเช่าจากผู้เช่าช่วงเพียงรายเดียว"
+        }
+      },
+      "lease_expiry_profile": [
+        {
+          "period": "2029-12-31 (initial sub-lease term; renewable at the trust's call up to 2035-12-31)",
+          "pct": 100.0,
+          "basis": "revenue (rent)",
+          "source": {
+            "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+            "line": 331,
+            "section": "ลักษณะการจัดหาผลประโยชน์จากทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+            "quote": "โดยสัญญาเช่าช่วงฉบับแรกสิ้นสุดวันที่ 31 ธันวาคม 2572"
+          }
+        }
+      ],
+      "wale_years": {
+        "value": 9.0,
+        "status": "derived",
+        "unit": "years",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 35,
+          "section": null,
+          "quote": "โดยสัญญาเช่าช่วงฉบับแรกสิ้นสุดวันที่ 31 ธันวาคม 2572 และฉบับสุดท้ายจะสิ้นสุดไม่เกินวันที่ 31 ธันวาคม 2578"
+        },
+        "note": "Derived: 1 Jan 2027 to 31 Dec 2035 including LHH's renewal promise (the Fact Sheet WALE basis); initial term only = 3.0 years. The Fact Sheet WALE chart value is not in the text."
+      },
+      "encumbrances": {
+        "value": "Filing states no disputes or restrictions on use. Land is leased by LHMH from an unrelated third party (master land lease 1 Aug 2023 - 31 Jul 2053); the trust is not a party, and property all-risks insurance names the land owner as beneficiary. The new loan may be secured.",
+        "status": "found",
+        "source": {
+          "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+          "line": 322,
+          "section": "ข้อพิพาท หรือข้อจำกัดในการใช้ประโยชน์ในอสังหาริมทรัพย์",
+          "quote": "ข้อพิพาท หรือข้อจำกัดในการใช้ประโยชน์ในอสังหาริมทรัพย์"
+        }
+      },
+      "notes": [
+        "Appraisals and the maximum price cover the whole package: the building leasehold and the movables are priced together.",
+        "Both appraisers used identical occupancy (80%/83%), room rate (THB 4,326, +3% p.a.) and discount rate (10.5%) assumptions; the pro forma projection uses a lower ADR of THB 4,275 for 2027.",
+        "Fixed rent of THB 150 mn equals ~60% and ~64% of FY2024 and FY2025 hotel net income, and ~50% of FY2027P hotel EBITDA (THB 302.3 mn).",
+        "LHMH also manages Grand Centre Point hotels outside the trust (Ploenchit, Lumpini, Prestige Bangkok) and is developing Grand Centre Point Chinatown and Voyage Pattaya.",
+        "Hotel licence transfer takes ~60 days; LHH will operate under the existing licence in the interim."
+      ]
+    }
+  ],
+  "existing_portfolio": {
+    "as_of": {
+      "value": "2026-03-31",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+        "line": 6,
+        "section": null,
+        "quote": "ข้อมูล ณ วันที่ 31 มีนาคม 2569"
+      }
+    },
+    "listing_date": {
+      "value": "2015-12-22",
+      "status": "found",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+        "line": 8,
+        "section": null,
+        "quote": "กลุ่มอสังหาริมทรัพย์และก่อสร้าง เมื่อวันที่ 22 ธันวาคม 2558"
+      }
+    },
+    "number_of_assets": {
+      "value": 5,
+      "status": "found",
+      "unit": "projects",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-02-Policy.md",
+        "line": 21,
+        "section": null,
+        "quote": "ผู้จัดการกองทรัสต์ได้จัดหาผลประโยชน์จากทรัพย์สินที่กองทรัสต์ลงทุนทั้งสิ้นจำนวน 5 โครงการ"
+      }
+    },
+    "total_asset_value_thb_mn": {
+      "value": 23455.04,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 29,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "รวมสินทรัพย์ | 22,567.36 | 23,607.68 | 23,420.86 | 23,455.04"
+      }
+    },
+    "investment_value_thb_mn": {
+      "value": 22456.0,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 23,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "เงินลงทุนในอสังหาริมทรัพย์ตามมูลค่ายุติธรรม | 21,924.00 | 22,702.00 | 22,456.00 | 22,456.00"
+      }
+    },
+    "nav_thb_mn": {
+      "value": 13657.06,
+      "status": "found",
+      "unit": "THB mn",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 39,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "สินทรัพย์สุทธิ | 12,245.48 | 13,548.46 | 13,549.60 | 13,657.06"
+      }
+    },
+    "nav_per_unit_thb": {
+      "value": 13.0201,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+        "line": 40,
+        "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+        "quote": "สินทรัพย์สุทธิต่อหน่วย (บาท) | 11.6743 | 12.9165 | 12.9176 | 13.0201"
+      }
+    },
+    "market_price_per_unit_thb": {
+      "value": 12.7,
+      "status": "found",
+      "unit": "THB",
+      "as_of": "2026-03-31",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-08-Unitholders.md",
+        "line": 15,
+        "section": "ข้อมูลหน่วยทรัสต์",
+        "quote": "ราคาปิดของหน่วยทรัสต์ ณ วันที่ 31 มีนาคม 2569 | 12.70 บาท"
+      },
+      "note": "Closing price; June 2026 average price THB 13.19 (P3 section 3)"
+    },
+    "latest_appraisal_total_thb_mn": {
+      "value": 22389.5,
+      "status": "derived",
+      "unit": "THB mn",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+        "line": 40,
+        "section": null,
+        "quote": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด | พ.ค. 2569"
+      },
+      "note": "Derived: sum of latest appraisals by income approach: 4,474.50 (KTAC, May 2026) + 3,909.00 + 3,927.00 (AEV, 16 Jul 2025) + 6,914.00 + 3,165.00 (15 Business Advisory, 29 Dec 2025); mixed dates"
+    },
+    "historical_dpu": [
+      {
+        "period": "FY2022",
+        "dpu_thb": 0.7,
+        "component": "dividend (no payout 2Q2020-2Q2022)",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 57,
+          "section": null,
+          "quote": "ปี 2565/1 / 0.7000 / - / 0.7000"
+        }
+      },
+      {
+        "period": "FY2023",
+        "dpu_thb": 1.15,
+        "component": "dividend",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 92,
+          "section": null,
+          "quote": "จำนวนประโยชน์ตอบแทนต่อหน่วย (DPU) (บาท) /1 | 1.1500 | 1.3325 | 1.1900 | 0.2950"
+        }
+      },
+      {
+        "period": "FY2024",
+        "dpu_thb": 1.3325,
+        "component": "dividend",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 92,
+          "section": null,
+          "quote": "จำนวนประโยชน์ตอบแทนต่อหน่วย (DPU) (บาท) /1 | 1.1500 | 1.3325 | 1.1900 | 0.2950"
+        }
+      },
+      {
+        "period": "FY2025",
+        "dpu_thb": 1.19,
+        "component": "dividend",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 92,
+          "section": null,
+          "quote": "จำนวนประโยชน์ตอบแทนต่อหน่วย (DPU) (บาท) /1 | 1.1500 | 1.3325 | 1.1900 | 0.2950"
+        }
+      },
+      {
+        "period": "1Q2026",
+        "dpu_thb": 0.295,
+        "component": "dividend",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P1-FactSheet.md",
+          "line": 92,
+          "section": null,
+          "quote": "จำนวนประโยชน์ตอบแทนต่อหน่วย (DPU) (บาท) /1 | 1.1500 | 1.3325 | 1.1900 | 0.2950"
+        }
+      }
+    ],
+    "historical_performance": [
+      {
+        "period": "FY2023",
+        "total_revenue_thb_mn": 1325.46,
+        "rental_and_service_revenue_thb_mn": 1320.81,
+        "net_investment_income_thb_mn": 949.27,
+        "net_increase_in_net_assets_thb_mn": 1576.93,
+        "occupancy_pct": null,
+        "other_metrics": "LTV 45.06%; NAV/unit 11.6743; fair value gain 624.63",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+          "line": 52,
+          "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+          "quote": "รวมรายได้ | 1,325.46 | 2,352.90 | 2,063.04 | 542.95"
+        }
+      },
+      {
+        "period": "FY2024",
+        "total_revenue_thb_mn": 2352.9,
+        "rental_and_service_revenue_thb_mn": 2351.35,
+        "net_investment_income_thb_mn": 1794.4,
+        "net_increase_in_net_assets_thb_mn": 2577.42,
+        "occupancy_pct": null,
+        "other_metrics": "LTV 42.13%; NAV/unit 12.9165; first full year of the two Pattaya hotels",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+          "line": 52,
+          "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+          "quote": "รวมรายได้ | 1,325.46 | 2,352.90 | 2,063.04 | 542.95"
+        }
+      },
+      {
+        "period": "FY2025",
+        "total_revenue_thb_mn": 2063.04,
+        "rental_and_service_revenue_thb_mn": 2058.51,
+        "net_investment_income_thb_mn": 1573.63,
+        "net_increase_in_net_assets_thb_mn": 1330.64,
+        "occupancy_pct": null,
+        "other_metrics": "LTV 41.97%; NAV/unit 12.9176; fair value loss 243.60; revenue -12.31% y/y",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+          "line": 52,
+          "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+          "quote": "รวมรายได้ | 1,325.46 | 2,352.90 | 2,063.04 | 542.95"
+        }
+      },
+      {
+        "period": "1Q2025",
+        "total_revenue_thb_mn": 571.08,
+        "rental_and_service_revenue_thb_mn": null,
+        "net_investment_income_thb_mn": 447.84,
+        "net_increase_in_net_assets_thb_mn": 448.1,
+        "occupancy_pct": null,
+        "other_metrics": null,
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-13-MDA.md",
+          "line": 8,
+          "section": "ผลการดำเนินงาน",
+          "quote": "571.08 ล้านบาท"
+        }
+      },
+      {
+        "period": "1Q2026",
+        "total_revenue_thb_mn": 542.95,
+        "rental_and_service_revenue_thb_mn": 542.56,
+        "net_investment_income_thb_mn": 431.95,
+        "net_increase_in_net_assets_thb_mn": 432.63,
+        "occupancy_pct": null,
+        "other_metrics": "LTV 41.59%; NAV/unit 13.0201; revenue -4.93% y/y",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-12-Financials.md",
+          "line": 52,
+          "section": "12.2 สรุปฐานะทางการเงินและผลการดำเนินงานของกองทรัสต์",
+          "quote": "รวมรายได้ | 1,325.46 | 2,352.90 | 2,063.04 | 542.95"
+        }
+      }
+    ],
+    "portfolio_occupancy": [],
+    "assets": [
+      {
+        "asset_id": "GCP_T21",
+        "name_en": "Grand Centre Point Terminal 21",
+        "name_th": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ เทอร์มินอล 21",
+        "asset_type": "Hotel",
+        "location": "2 Soi Sukhumvit 19 (Wattana), Khlong Toei Nuea, Watthana, Bangkok (Terminal 21 Asok)",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2040-08-31",
+        "acquired": "IPO, 2015-12-16 (from L&H Property Co., Ltd.)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": null,
+        "rooms": 462,
+        "acquisition_price_thb_mn": 3753.41,
+        "latest_appraisal_thb_mn": 4474.5,
+        "appraisal_date": "2026-05",
+        "appraiser": "KTAC Appraisal and Service Company Limited",
+        "occupancy_pct": 87.0,
+        "occupancy_as_of": "1Q2026",
+        "key_tenants": "LHH (sole sub-lessee; sub-lease to 2033-12-31 including renewals)",
+        "notes": "28 floors + 2 basements; leased building area 47,298 sqm; FY2025 occupancy 82%, ADR THB 5,395; land leased by LHP from land owner; leasehold insurance THB ~2,295 mn in place",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+          "line": 10,
+          "section": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ เทอร์มินอล 21",
+          "quote": "โดยมีกำหนดระยะเวลาการเช่าประมาณ 25 ปี ซึ่งจะสิ้นสุด ณ วันที่ 31 สิงหาคม 2583"
+        },
+        "extra_sources": [
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 32,
+            "section": null,
+            "quote": "รวม | 462 | - | 21,090"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 40,
+            "section": null,
+            "quote": "บริษัท เคแทค แอพเพรซัล แอนด์ เซอร์วิส จำกัด | พ.ค. 2569"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 262,
+            "section": "ผลการดำเนินงาน",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 77 | 87 | 88 | 82 | 84 | 87"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 243,
+            "section": null,
+            "quote": "ครบกำหนดวันที่ 31 ธันวาคม 2576"
+          }
+        ]
+      },
+      {
+        "asset_id": "GCP_RATCHADAMRI",
+        "name_en": "Grand Centre Point Ratchadamri",
+        "name_th": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ ราชดำริ",
+        "asset_type": "Hotel",
+        "location": "153/2 Soi Mahadlek Luang 1, Ratchadamri Road, Lumphini, Pathum Wan, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Sub-leasehold",
+        "lease_expiry": "2038-05-31",
+        "acquired": "1st additional investment, 2017-06-15 (from L&H Property Co., Ltd.)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": null,
+        "rooms": 497,
+        "acquisition_price_thb_mn": 3789.88,
+        "latest_appraisal_thb_mn": 3909.0,
+        "appraisal_date": "2025-07-16",
+        "appraiser": "Asian Engineering Valuation Company Limited",
+        "occupancy_pct": 85.0,
+        "occupancy_as_of": "1Q2026",
+        "key_tenants": "LHH (sole sub-lessee; sub-lease to 2032-12-31 including renewals)",
+        "notes": "49 floors + 1 basement; leased building area 66,628 sqm; head lease of land and building from Vajiravudh College; access via Soi Mahadlek Luang 1 without registered servitude; FY2025 occupancy 76%",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+          "line": 44,
+          "section": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ ราชดำริ",
+          "quote": "โดยมีกำหนดระยะเวลาการเช่าช่วงประมาณ 21 ปี ซึ่งจะสิ้นสุด ณ วันที่ 31 พฤษภาคม 2581"
+        },
+        "extra_sources": [
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 69,
+            "section": null,
+            "quote": "รวม | 497 | - | 35,120"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 77,
+            "section": null,
+            "quote": "3,909.00 ล้านบาท"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 283,
+            "section": "ผลการดำเนินงาน",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 73 | 85 | 85 | 76 | 79 | 85"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 245,
+            "section": null,
+            "quote": "ครบกำหนดวันที่ 31 ธันวาคม 2575"
+          }
+        ]
+      },
+      {
+        "asset_id": "GCP_SUKHUMVIT55",
+        "name_en": "Grand Centre Point Sukhumvit 55",
+        "name_th": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุขุมวิท 55",
+        "asset_type": "Hotel",
+        "location": "300 Soi Sukhumvit 55 (Thong Lo), Khlong Tan Nuea, Watthana, Bangkok",
+        "province": "Bangkok",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2047-03-31",
+        "acquired": "2nd additional investment, 2019-11-22 (from LHMH; debt-funded)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": null,
+        "rooms": 442,
+        "acquisition_price_thb_mn": 4199.5,
+        "latest_appraisal_thb_mn": 3927.0,
+        "appraisal_date": "2025-07-16",
+        "appraiser": "Asian Engineering Valuation Company Limited",
+        "occupancy_pct": 86.0,
+        "occupancy_as_of": "1Q2026",
+        "key_tenants": "LHH (sole sub-lessee; sub-lease to 2028-12-31 including renewals)",
+        "notes": "24 floors; leased building area 42,920 sqm; latest appraisal below acquisition price; FY2025 occupancy 78%",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+          "line": 81,
+          "section": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุขุมวิท 55",
+          "quote": "โดยมีกำหนดระยะเวลาการเช่าประมาณ 27 ปี ซึ่งจะสิ้นสุดในวันที่ 31 มีนาคม 2590"
+        },
+        "extra_sources": [
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 103,
+            "section": null,
+            "quote": "รวม | 442 | - | 18,139"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 111,
+            "section": null,
+            "quote": "3,927.00 ล้านบาท"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 304,
+            "section": "ผลการดำเนินงาน",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 69 | 88 | 85 | 78 | 84 | 86"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 246,
+            "section": null,
+            "quote": "ครบกำหนดวันที่ 31 ธันวาคม 2571"
+          }
+        ]
+      },
+      {
+        "asset_id": "GCP_SPACE_PATTAYA",
+        "name_en": "Grand Centre Point Space Pattaya",
+        "name_th": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สเปซ พัทยา",
+        "asset_type": "Hotel",
+        "location": "888 Moo 5, Na Kluea, Bang Lamung, Chonburi",
+        "province": "Chonburi",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2052-08-31",
+        "acquired": "3rd additional investment, 2023-11-15 (from LHMH)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": null,
+        "rooms": 490,
+        "acquisition_price_thb_mn": 6417.1,
+        "latest_appraisal_thb_mn": 6914.0,
+        "appraisal_date": "2025-12-29",
+        "appraiser": "15 Business Advisory Company Limited",
+        "occupancy_pct": 86.0,
+        "occupancy_as_of": "1Q2026",
+        "key_tenants": "LHH (sole sub-lessee; sub-lease to 2032-12-31 including renewals)",
+        "notes": "27 floors with water park; leased building area 73,057 sqm; opened Aug 2022; FY2025 occupancy 84%",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+          "line": 117,
+          "section": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สเปซ พัทยา",
+          "quote": "โดยมีกำหนดระยะเวลาการเช่าประมาณ 28 ปี ซึ่งจะสิ้นสุดในวันที่ 31 สิงหาคม 2595"
+        },
+        "extra_sources": [
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 139,
+            "section": null,
+            "quote": "รวม | 490 | - | 22,408"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 147,
+            "section": null,
+            "quote": "6,914.00 ล้านบาท"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 325,
+            "section": "ผลการดำเนินงาน",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 88 | 93 | 84 | 91 | 86"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 247,
+            "section": null,
+            "quote": "ครบกำหนดวันที่ 31 ธันวาคม 2575"
+          }
+        ]
+      },
+      {
+        "asset_id": "GCP_PATTAYA",
+        "name_en": "Grand Centre Point Pattaya",
+        "name_th": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ พัทยา",
+        "asset_type": "Hotel",
+        "location": "456 Moo 6, Na Kluea, Bang Lamung, Chonburi (Terminal 21 Pattaya)",
+        "province": "Chonburi",
+        "investment_type": "Leasehold",
+        "lease_expiry": "2049-01-13",
+        "acquired": "3rd additional investment, 2023-11-15 (from LHMH)",
+        "land_area_sqm": null,
+        "leasable_area_sqm": null,
+        "rooms": 396,
+        "acquisition_price_thb_mn": 3082.9,
+        "latest_appraisal_thb_mn": 3165.0,
+        "appraisal_date": "2025-12-29",
+        "appraiser": "15 Business Advisory Company Limited",
+        "occupancy_pct": 89.0,
+        "occupancy_as_of": "1Q2026",
+        "key_tenants": "LHH (sole sub-lessee; sub-lease to 2032-12-31 including renewals)",
+        "notes": "25 floors; leased building area 41,022 sqm; shares common areas with Terminal 21 Pattaya; FY2025 occupancy 86%",
+        "source": {
+          "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+          "line": 151,
+          "section": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ พัทยา",
+          "quote": "โดยมีกำหนดระยะเวลาการเช่าประมาณ 25 ปี ซึ่งจะสิ้นสุดในวันที่ 13 มกราคม 2592"
+        },
+        "extra_sources": [
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 173,
+            "section": null,
+            "quote": "รวม | 396 | - | 12,906"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 182,
+            "section": null,
+            "quote": "3,165.00 ล้านบาท"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 346,
+            "section": "ผลการดำเนินงาน",
+            "quote": "(ร้อยละต่อจำนวนห้องพัก) | 92 | 93 | 86 | 90 | 89"
+          },
+          {
+            "file": "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+            "line": 249,
+            "section": null,
+            "quote": "ครบกำหนดวันที่ 31 ธันวาคม 2575"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Total rooms 2,287; sum of acquisition prices THB 21,242.79 mn.",
+      "All five hotels are sub-leased to LHH and managed by LHMH under the Grand Centre Point brand (fixed + variable rent; variable 85% for Sukhumvit 55, 90% for others).",
+      "FY2027P existing-assets-only rent: fixed THB 1,213.3 mn + variable THB 1,071.3 mn; DPU THB 1.18.",
+      "Portfolio-level occupancy is not disclosed; per-hotel 1Q2026 occupancy recorded on each asset row."
+    ]
+  },
+  "risks": [
+    {
+      "title": "Trust is not a party to the Surawong land lease",
+      "category": "Leasehold/tenure",
+      "summary": "Surawong sits on land LHMH leases from an unrelated owner to 31 Jul 2053; the trust leases only the buildings and cannot control LHMH's compliance. If the land lease ends early the buildings pass to the land owner and the LHH sub-lease may terminate. LHMH's land rent for four sites is THB 39.2-83.1 mn a year.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_SUKHUMVIT55",
+        "GCP_SPACE_PATTAYA",
+        "GCP_PATTAYA"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 95,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ตั้งอยู่บนที่ดินที่เช่าตามสัญญาเช่าที่ดินระหว่าง LHMH ในฐานะผู้ให้เช่า กับเจ้าของที่ดินซึ่งเป็นบุคคลภายนอกที่ไม่มีความเกี่ยวข้องกับผู้ให้เช่า"
+      }
+    },
+    {
+      "title": "Trust is not beneficiary of property all-risks insurance",
+      "category": "Asset/property",
+      "summary": "Property insurance for Surawong (and three existing Bangkok hotels) names the land owner as beneficiary; the trust relies on the land owner applying claim proceeds to rebuilding under the land lease terms. No leasehold insurance is available for Surawong.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_T21",
+        "GCP_RATCHADAMRI",
+        "GCP_SUKHUMVIT55"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 115,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงจากการที่กองทรัสต์ไม่ได้เป็นผู้รับผลประโยชน์ในประกันภัยความเสี่ยงภัยในทรัพย์สิน"
+      }
+    },
+    {
+      "title": "Dependence on a single related sub-lessee (LHH)",
+      "category": "Tenant/concentration",
+      "summary": "All rent from Surawong and the five existing hotels comes from LHH, an LH-group SPV with THB 10 mn paid-up capital. Weaker LHH finances could delay or stop fixed and variable rent. FY2027P hotel net income of ~THB 2,715 mn covers fixed rent of ~THB 1,363 mn about twice.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_T21",
+        "GCP_RATCHADAMRI",
+        "GCP_SUKHUMVIT55",
+        "GCP_SPACE_PATTAYA",
+        "GCP_PATTAYA"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 27,
+        "section": "ความเสี่ยงจากการพึ่งพารายได้ค่าเช่าจากผู้เช่าช่วงเพียงรายเดียว",
+        "quote": "ความเสี่ยงจากการพึ่งพารายได้ค่าเช่าจากผู้เช่าช่วงเพียงรายเดียว"
+      }
+    },
+    {
+      "title": "Short sub-lease terms and re-letting risk",
+      "category": "Tenant/concentration",
+      "summary": "The Surawong sub-lease runs to 31 Dec 2029, with LHH renewals to 31 Dec 2035 at the latest, while the building lease runs to 2053. After that the trust must find a sub-lessee or operator on acceptable terms, or income may be interrupted.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_T21",
+        "GCP_RATCHADAMRI",
+        "GCP_SUKHUMVIT55",
+        "GCP_SPACE_PATTAYA",
+        "GCP_PATTAYA"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 112,
+        "section": "ความเสี่ยงจากการไม่สามารถหาผู้เช่าช่วงได้ในอนาคต",
+        "quote": "ความเสี่ยงจากการไม่สามารถหาผู้เช่าช่วงได้ในอนาคต"
+      }
+    },
+    {
+      "title": "Hotel licence transfer for Surawong",
+      "category": "Regulatory/legal",
+      "summary": "LHH must obtain the Surawong hotel licence (Ministry of Interior transfer process about 60 days) and will operate under the existing licence meanwhile. Failure to obtain or renew licences could stop hotel operations and trigger sub-lease termination.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 69,
+        "section": "ความเสี่ยงเกี่ยวกับใบอนุญาตประกอบกิจการ",
+        "quote": "กระทรวงมหาดไทยได้กำหนดขั้นตอนและระยะเวลาในการโอนใบอนุญาตดังกล่าวไว้ประมาณ 60 วัน"
+      }
+    },
+    {
+      "title": "Leasehold value declines over the remaining term",
+      "category": "Leasehold/tenure",
+      "summary": "All assets are leaseholds whose value falls towards zero at expiry (Surawong 2053; existing hotels 2038-2052). The trust's weighted remaining term rises to about 20.2 years from 1 Jan 2027 after the acquisition.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_T21",
+        "GCP_RATCHADAMRI",
+        "GCP_SUKHUMVIT55",
+        "GCP_SPACE_PATTAYA",
+        "GCP_PATTAYA"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 180,
+        "section": "ความเสี่ยงในการลงทุนในสิทธิการเช่า/เช่าช่วงอสังหาริมทรัพย์ซึ่งมูลค่าจะลดลงตามระยะเวลาการเช่าที่เหลืออยู่",
+        "quote": "อายุเฉลี่ยคงเหลือถ่วงน้ำหนักของกองทรัสต์เพิ่มขึ้น เป็นประมาณ 20.2 ปี (นับจากวันที่ 1 มกราคม 2570)"
+      }
+    },
+    {
+      "title": "Conflicts of interest with the LH group hotel manager",
+      "category": "Sponsor/related-party",
+      "summary": "LHMH is seller, hotel manager and 26% unitholder, and also manages Grand Centre Point hotels outside the trust (Ploenchit, Lumpini, Prestige Bangkok) with Chinatown and Voyage Pattaya under development, which may compete for guests.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_T21",
+        "GCP_RATCHADAMRI",
+        "GCP_SUKHUMVIT55",
+        "GCP_SPACE_PATTAYA",
+        "GCP_PATTAYA"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 188,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลัก",
+        "quote": "ความเสี่ยงจากความขัดแย้งทางผลประโยชน์ระหว่างผู้จัดการกองทรัสต์กับผู้เช่าช่วงซึ่งประกอบธุรกิจโรงแรม และผู้บริหารโรงแรม"
+      }
+    },
+    {
+      "title": "Tourism demand and economic volatility",
+      "category": "Market/competition",
+      "summary": "Rent depends on hotel results driven by international tourism. Surawong targets culture-focused, mainly European tourists. Trust revenue fell 12.3% in FY2025 on fewer Chinese and other Asian guests and the March 2025 earthquake, and 4.9% in 1Q2026.",
+      "asset_specific": true,
+      "applies_to": [
+        "GCP_SURAWONG",
+        "GCP_T21",
+        "GCP_RATCHADAMRI",
+        "GCP_SUKHUMVIT55",
+        "GCP_SPACE_PATTAYA",
+        "GCP_PATTAYA"
+      ],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 134,
+        "section": "ความเสี่ยงจากความผันผวนทางเศรษฐกิจและภาวะธุรกิจท่องเที่ยวในประเทศ",
+        "quote": "โดยเฉพาะกลุ่มนักท่องเที่ยวจากทวีปยุโรป"
+      }
+    },
+    {
+      "title": "Rising hotel competition",
+      "category": "Market/competition",
+      "summary": "New hotel supply in the same locations or alternative destinations could pressure occupancy and room rates, and so LHH's ability to pay fixed and variable rent.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 136,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลัก",
+        "quote": "ความเสี่ยงจากการแข่งขันในอุตสาหกรรมโรงแรมและการท่องเที่ยวที่สูงขึ้น"
+      }
+    },
+    {
+      "title": "Leverage, rating dependence and refinancing",
+      "category": "Financing/interest rate",
+      "summary": "Borrowings were ~THB 9,754 mn (LTV ~42%) at 31 Mar 2026; up to THB 1,265 mn of new debt keeps LTV near 42%, above the 35% cap for non-investment-grade trusts, so borrowing relies on keeping the BBB rating. MLR-based rates, covenants and refinancing terms may reduce distributions.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 56,
+        "section": "ความเสี่ยงที่อาจเกิดขึ้นอันเป็นผลจากการที่กองทรัสต์กู้ยืมเงิน",
+        "quote": "กองทรัสต์มีเงินกู้ยืมจำนวนประมาณ 9,754 ล้านบาท"
+      }
+    },
+    {
+      "title": "Projection assumptions may not be achieved",
+      "category": "Other",
+      "summary": "The FY2027 pro forma DPU of THB 1.20 depends on occupancy, room rates, LHH rent payments and financing assumptions; a 5% lower occupancy cuts projected DPU to THB 1.05.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 13,
+        "section": "ความเสี่ยงที่เกี่ยวกับกองทรัสต์หรือการดำเนินงานของกองทรัสต์",
+        "quote": "ความเสี่ยงจากการที่สมมติฐานในรายงานและข้อมูลทางการเงินตามสถานการณ์สมมติ"
+      }
+    },
+    {
+      "title": "Control dilution for existing unitholders",
+      "category": "Offering/dilution",
+      "summary": "Holders who do not subscribe could see their stake diluted by up to 15.34% if all 190 mn units go to new investors (7.67% in the example where existing holders take up the 95 mn-unit tranche).",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 213,
+        "section": "ความเสี่ยงจากการลดลงของสัดส่วนการถือหน่วยทรัสต์ (Control Dilution) ของผู้ถือหน่วยทรัสต์เดิม",
+        "quote": "ผู้ถือหน่วยทรัสต์เดิมจะลดลงสูงสุดไม่เกินร้อยละ 15.34"
+      }
+    },
+    {
+      "title": "Renovation reserve may be insufficient",
+      "category": "Asset/property",
+      "summary": "The manager plans to reserve about 3% of each hotel's revenue for major renovation and structural works; costs beyond the reserve, or closures during renovation with reduced rent, would hit distributions.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 47,
+        "section": "ความเสี่ยงจากการที่เงินเก็บสำรองเพื่อการซ่อมแซมหรือการปรับปรุงใหญ่ในทรัพย์สินหลักอาจไม่เพียงพอต่อการซ่อมแซมในอนาคต",
+        "quote": "ร้อยละ 3.0 ของรายได้รวมต่อปีของทรัพย์สินแต่ละโครงการ"
+      }
+    },
+    {
+      "title": "Natural disasters, epidemics and other force majeure",
+      "category": "Asset/property",
+      "summary": "Disasters, epidemics, war or unrest can cut tourism; the sub-lease allows rent deferral or waiver for force majeure, as seen when distributions were suspended from 2Q2020 to 2Q2022.",
+      "asset_specific": false,
+      "applies_to": [],
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-05-Risks.md",
+        "line": 164,
+        "section": "ความเสี่ยงที่เกี่ยวกับทรัพย์สินหลัก",
+        "quote": "ความเสี่ยงจากภัยธรรมชาติและเหตุสุดวิสัยอื่นๆ เช่น การก่อการร้าย สงคราม และโรคระบาด"
+      }
+    }
+  ],
+  "analyst_notes": [
+    {
+      "topic": "Price vs appraisal",
+      "observation": "Maximum price THB 3,000 mn is 0.1% below the lower appraisal (AEV THB 3,003.0 mn) and 0.3% below KTAC (THB 3,007.7 mn); both appraisers used identical occupancy, room-rate and 10.5% discount-rate assumptions.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 99,
+        "section": "ราคาประเมิน และมูลค่าสูงสุดที่กองทรัสต์จะเข้าลงทุน",
+        "quote": "โครงการโรงแรมแกรนด์ เซนเตอร์ พอยต์ สุรวงศ์ | 3,007.7 | 3,003.0 | 3,003.0"
+      }
+    },
+    {
+      "topic": "Related-party transaction",
+      "observation": "Seller/lessor LHMH, sub-lessee LHH and the REIT manager share major shareholder LH; LHMH is also hotel manager and 26.04% unitholder, and possible lenders include LH Bank (related) and SCB (trustee parent).",
+      "source": {
+        "file": "LHHOTEL_PO_20260715_P2-11-RelatedParty.md",
+        "line": 12,
+        "section": "บุคคล/นิติบุคคลที่เกี่ยวโยงกัน",
+        "quote": "เป็นผู้ให้เช่าอสังหาริมทรัพย์ และผู้ขายสังหาริมทรัพย์"
+      }
+    },
+    {
+      "topic": "Fixed rent coverage",
+      "observation": "Fixed rent of THB 150 mn equals about 60% and 64% of Surawong hotel net income in FY2024 (THB 249.0 mn) and FY2025 (THB 235.8 mn), and about 50% of FY2027P hotel EBITDA (THB 302.3 mn). No rental guarantee is disclosed.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 463,
+        "section": "ข้อมูลเกี่ยวกับผู้เช่าช่วง",
+        "quote": "โดยค่าเช่าคงที่ดังกล่าวคิดเป็นประมาณร้อยละ 60 และร้อยละ 64 ของรายได้สุทธิในปี 2567 และปี 2568 ตามลำดับ"
+      }
+    },
+    {
+      "topic": "Short track record and ADR trend",
+      "observation": "Surawong opened in Nov 2023. ADR fell from THB 4,199 (FY2024) to THB 3,958 (FY2025) and was THB 4,174 in 1Q2026, while occupancy rose to 89.6%. Appraisers assume THB 4,326 and 80% occupancy for 2027; the pro forma projection uses THB 4,275.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 73,
+        "section": "ผลการดำเนินงานในอดีตของทรัพย์สินที่กองทรัสต์จะลงทุนเพิ่มเติมครั้งที่ 4",
+        "quote": "4,758 | 4,199 | 3,958 | 4,282 | 4,174"
+      }
+    },
+    {
+      "topic": "Tenure mismatch",
+      "observation": "Building lease runs ~26.6 years to 31 Jul 2053, but each LHH sub-lease is at most 3 years, with renewal commitments only to 31 Dec 2035; land is held by LHMH under a third-party lease to 2053 to which the trust is not party.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 423,
+        "section": "ข้อมูลเกี่ยวกับผู้เช่าช่วง",
+        "quote": "จะกำหนดระยะเวลาการเช่าไว้ไม่เกิน 3 ปี"
+      }
+    },
+    {
+      "topic": "Draft placeholders",
+      "observation": "Offering price range, maximum price, offering size, allocation to existing holders, entitlement ratio, book close, subscription dates and offering expenses are all blank \"[ ]\". The projection assumes THB 13.00, versus NAV/unit THB 13.02 (31 Mar 2026) and closing price THB 12.70.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 18,
+        "section": null,
+        "quote": "ช่วงราคาเสนอขายเบื้องต้น [] บาทต่อหน่วย"
+      }
+    },
+    {
+      "topic": "DPU accretion",
+      "observation": "Pro forma FY2027P DPU is THB 1.20 (9.25% at THB 13.00) versus THB 1.18 (9.05%) for existing assets alone, about 1.7% accretion, assuming 176.56 mn new units and ~THB 707 mn new debt.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 494,
+        "section": "รายงานและข้อมูลทางการเงินตามสถานการณ์สมมติ",
+        "quote": "ประมาณการจำนวนเงินปันส่วนกำไรต่อหน่วย (บาท) | 1.18 | 1.20"
+      }
+    },
+    {
+      "topic": "Leverage and debt reserve",
+      "observation": "LTV was 41.59% at 31 Mar 2026, above the 35% non-rated cap; new borrowing depends on keeping the TRIS BBB (Stable) rating. The 2027 projection deducts a THB 494 mn debt-repayment reserve from distributable income.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+        "line": 319,
+        "section": "การสำรองเงินเพื่อชำระคืนเงินกู้ของกองทรัสต์",
+        "quote": "ผู้จัดการกองทรัสต์จะมีการกันเงินสำรองเพื่อชำระหนี้เงินกู้ยืมในปี 2570 ที่ประมาณ 494 ล้านบาท"
+      }
+    },
+    {
+      "topic": "Document dating",
+      "observation": "Documents uploaded on 15-16 Jul 2026 describe the unitholder approval of 17 Jul 2026 as already passed, and the cover states a filing date of 24 Jul 2026.",
+      "source": {
+        "file": "LHHOTEL_PO_20260716_00-Cover.md",
+        "line": 31,
+        "section": null,
+        "quote": "ร่างหนังสือชี้ชวน วันที่ 24 กรกฎาคม 2569"
+      }
+    }
+  ],
+  "extraction": {
+    "extracted_by": "claude-subagent (initial build 2026-09-15)",
+    "extracted_at": "2026-09-15",
+    "files_read": [
+      "_toc.md",
+      "LHHOTEL_PO_20260715_P1-FactSheet.md",
+      "LHHOTEL_PO_20260715_P2-01-UseOfProceeds.md",
+      "LHHOTEL_PO_20260715_P2-02-Policy.md",
+      "LHHOTEL_PO_20260715_P2-03-ExistingAssets.md",
+      "LHHOTEL_PO_20260715_P2-05-Risks.md",
+      "LHHOTEL_PO_20260715_P2-08-Unitholders.md",
+      "LHHOTEL_PO_20260715_P2-10-Fees.md",
+      "LHHOTEL_PO_20260715_P2-11-RelatedParty.md",
+      "LHHOTEL_PO_20260715_P2-12-Financials.md",
+      "LHHOTEL_PO_20260715_P2-13-MDA.md",
+      "LHHOTEL_PO_20260715_P3-Offering.md",
+      "LHHOTEL_PO_20260716_00-Cover.md",
+      "LHHOTEL_PO_20260716_P2-03-NewAssets.md",
+      "LHHOTEL_PO_20260716_P2-09-Governance.md"
+    ],
+    "not_found": [
+      {
+        "field": "offering.offering_price_per_unit.min_thb / max_thb",
+        "reason": "Empty draft placeholders \"[ ]\" on cover, Fact Sheet and P3"
+      },
+      {
+        "field": "offering.offering_price_per_unit.final_thb",
+        "reason": "Final price set by bookbuilding; not yet announced"
+      },
+      {
+        "field": "offering.offering_size_thb_mn",
+        "reason": "Empty draft placeholder \"ไม่เกิน [] บาท\"; not back-solved (projection case THB 2,295 mn noted)"
+      },
+      {
+        "field": "offering.funding_sources[new_units, internal_cash].amount_thb_mn",
+        "reason": "Equity amount blank; internal cash not quantified"
+      },
+      {
+        "field": "offering.estimated_transaction_costs_thb_mn",
+        "reason": "All expense lines in P3 section 4 are \"[ ]\" placeholders"
+      },
+      {
+        "field": "offering.allocation (units / pct for existing holders)",
+        "reason": "Empty draft placeholders"
+      },
+      {
+        "field": "offering.subscription_ratio",
+        "reason": "Empty draft placeholder \"1 หน่วยทรัสต์เดิมต่อ [] หน่วย\""
+      },
+      {
+        "field": "offering.sponsor_commitment",
+        "reason": "No LH/LHMH subscription intention or lock-up stated in the text filings"
+      },
+      {
+        "field": "offering.timeline (effective date, book close, subscription periods)",
+        "reason": "Empty draft placeholders"
+      },
+      {
+        "field": "offering.projected_distribution.yield_sensitivity by offering price",
+        "reason": "Filing gives sensitivity only to occupancy and room rate at the assumed THB 13.00 price"
+      },
+      {
+        "field": "capital_structure.total_assets_after_thb_mn",
+        "reason": "Pro forma balance sheet not in the text filings"
+      },
+      {
+        "field": "new_assets[0].appraisals[].terminal_cap_rate_pct",
+        "reason": "Not disclosed in the text; full appraisal reports are only via QR code/PDF, which are excluded"
+      },
+      {
+        "field": "new_assets[0].rental_guarantee",
+        "reason": "No rental guarantee or security deposit disclosed"
+      },
+      {
+        "field": "new_assets[0] price split between building leasehold and movables",
+        "reason": "Only an aggregate maximum is disclosed"
+      },
+      {
+        "field": "new_assets[0].wale_years (filing figure)",
+        "reason": "Fact Sheet WALE values are in charts not captured in the text; derived value used"
+      },
+      {
+        "field": "parties.legal_advisors",
+        "reason": "Legal advisor not named in the text filings"
+      },
+      {
+        "field": "parties.underwriters (other than lead)",
+        "reason": "Only Kasikornbank named; others may be appointed later"
+      },
+      {
+        "field": "existing_portfolio.portfolio_occupancy",
+        "reason": "Only per-hotel occupancy is disclosed"
+      },
+      {
+        "field": "existing_portfolio.assets[].land_area_sqm / leasable_area_sqm",
+        "reason": "Land not held and not disclosed for existing hotels; leased building areas recorded in notes"
+      }
+    ],
+    "ambiguities": [
+      {
+        "field": "filing.unitholder_approval_date",
+        "detail": "P2-01 (uploaded 2026-07-15) says the 17 Jul 2026 meeting approved the deal, and the cover (uploaded 2026-07-16) gives a filing date of 24 Jul 2026; the dates post-date the uploads."
+      },
+      {
+        "field": "capital_structure.borrowings_before_thb_mn",
+        "detail": "Balance-sheet long-term borrowings THB 9,753.91 mn vs outstanding principal \"excluding deferred interest\" ~THB 9,636 mn in the Fact Sheet; balance-sheet figure used."
+      },
+      {
+        "field": "new_assets[0] ADR assumption",
+        "detail": "Appraisers assume THB 4,326/night for 2027, the pro forma projection uses THB 4,275 (both 80% occupancy)."
+      },
+      {
+        "field": "offering.units_offered_max",
+        "detail": "Cover and P3 state max 190,000,000 units, but the Fact Sheet header shows \"จำนวนหน่วยที่เสนอขาย ไม่เกิน [] หน่วย\"."
+      },
+      {
+        "field": "existing_portfolio.assets[GCP_T21].appraisal_date",
+        "detail": "Only month given (\"พ.ค. 2569\" = May 2026)."
+      }
+    ],
+    "self_checks": [
+      {
+        "check": "max units x max price = offering size (+-1%)",
+        "result": "n/a",
+        "detail": "Price and size are blank placeholders. Projection case: 176.56 mn x THB 13.00 = THB 2,295.3 mn vs stated 2,295 (pass)."
+      },
+      {
+        "check": "DPU / basis price = yield",
+        "result": "pass",
+        "detail": "1.20 / 13.00 = 9.23% vs 9.25% stated; unrounded 1,473.2 / 1,225.5 = 1.2021 -> 9.25%."
+      },
+      {
+        "check": "funding sources = total investment value (+costs)",
+        "result": "pass",
+        "detail": "Maxima not testable (equity blank). Projection case: 2,295 equity + 707 debt = 3,002 vs 3,000 max investment (+0.07%; costs not disclosed)."
+      },
+      {
+        "check": "sum of asset prices <= total investment value",
+        "result": "pass",
+        "detail": "3,000.0 <= 3,000.0"
+      },
+      {
+        "check": "lease start + tenure = expiry",
+        "result": "pass",
+        "detail": "2027-01-01 + 26y7m = 2053-08-01 vs expiry 2053-07-31."
+      },
+      {
+        "check": "price vs lower appraisal",
+        "result": "pass",
+        "detail": "3,000.0 / 3,003.0 - 1 = -0.10%, matches stated 0.1% below."
+      },
+      {
+        "check": "units after projection",
+        "result": "pass",
+        "detail": "1,048.92 + 176.56 = 1,225.48 mn vs 1,225.5 stated."
+      },
+      {
+        "check": "NAV per unit",
+        "result": "pass",
+        "detail": "13,657.06 / 1,048.9199 = 13.0201."
+      },
+      {
+        "check": "LTV before",
+        "result": "pass",
+        "detail": "9,753.91 / 23,455.04 = 41.59%."
+      },
+      {
+        "check": "market cap",
+        "result": "pass",
+        "detail": "12.70 x 1,048.9199 mn = 13,321.28 vs 13,321.28 stated."
+      },
+      {
+        "check": "projected fixed rent by asset",
+        "result": "pass",
+        "detail": "288.0+276.0+235.2+275.4+138.7+150.0 = 1,363.3 matches total."
+      },
+      {
+        "check": "land area conversion",
+        "result": "pass",
+        "detail": "3 rai 48.7 sq.wa = 4,800 + 194.8 = 4,994.8 sqm."
+      },
+      {
+        "check": "Surawong RevPAR 1Q2026",
+        "result": "pass",
+        "detail": "89.6% x 4,174 = 3,740 vs 3,741 stated."
+      },
+      {
+        "check": "loan share of new asset value",
+        "result": "pass",
+        "detail": "707 / 3,000 = 23.6%, matches Fact Sheet IRR assumption."
+      }
+    ]
+  }
+}

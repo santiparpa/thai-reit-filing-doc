@@ -1,0 +1,4 @@
+- IPO: first investment in two projects (ALPHA Laem Chabang and ALPHA Bangna Km.19) — sub-leasehold of land, leasehold of buildings, and ownership of movable assets. Capture tenure, start and expiry per component in `components`. One `new_assets` entry per project.
+- The trust is not yet established, so `P2-12-Financials` and `P2-13-MDA` contain no trust financials; historical performance of the assets comes from `P2-03-NewAssets`. `existing_portfolio` must be null.
+- `P1-FactSheet` was uploaded 3 Sep 2026; all other Word documents 31 Aug 2026. If they conflict, the Fact Sheet is the later document — flag the conflict in `extraction.ambiguities`.
+- Funding comes from new units and bank borrowing (the cover lists both) — capture each in `funding_sources`.
