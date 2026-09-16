@@ -25,15 +25,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Stage public dashboard
-        run: |
-          mkdir -p public/data
-          cp site/index.html site/app.js site/styles.css public/
-          cp site/data/reits.js public/data/
-          touch public/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: site
       - id: deployment
         uses: actions/deploy-pages@v4

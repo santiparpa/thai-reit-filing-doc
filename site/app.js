@@ -33,11 +33,15 @@
   const h = (tag, attrs, ...kids) => add(setAttrs(document.createElement(tag), attrs), kids);
   const s = (tag, attrs, ...kids) => add(setAttrs(document.createElementNS(SVGNS, tag), attrs), kids);
   const frag = (...kids) => add(document.createDocumentFragment(), kids);
+  function fill(el, ...kids) {
+    el.replaceChildren();
+    return add(el, kids);
+  }
   const reduced = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const scrollToId = (id) => document.getElementById(id)?.scrollIntoView({behavior: reduced() ? 'auto' : 'smooth', block: 'start'});
 
   if (!DATA || !DATA.analysis) {
-    main.replaceChildren(h('section', {class: 'empty'},
+    fill(main, h('section', {class: 'empty'},
       h('p', {class: 'eyebrow', text: 'Thai REIT Deal Docket'}),
       h('h1', {class: 'display', text: 'No data bundle yet'}),
       h('p', {class: 'lede', text: 'Build it with  python pipeline/run.py  (or python pipeline/build_site.py once data/analysis.json exists), then reload this page.'})));
@@ -148,7 +152,7 @@
     if (popAnchor === btn && !pop.hidden) { closePop(true); return; }
     const d = docInfo(src.file);
     const status = holder && holder.status;
-    pop.replaceChildren(
+    fill(pop,
       h('div', {class: 'pop-head'},
         h('span', {class: 'pop-code', text: d.code}),
         h('span', {class: 'pop-name', text: d.name}),
@@ -274,7 +278,7 @@
         if (onRow) tr.addEventListener('click', (e) => { if (!e.target.closest('button, a, summary')) onRow(r); });
         return tr;
       });
-      wrap.replaceChildren(h('table', {class: 'data'}, caption ? h('caption', {class: 'sr-only', text: caption}) : null, h('thead', null, head), h('tbody', null, body)));
+      fill(wrap, h('table', {class: 'data'}, caption ? h('caption', {class: 'sr-only', text: caption}) : null, h('thead', null, head), h('tbody', null, body)));
     };
     draw();
     return wrap;
@@ -313,7 +317,7 @@
       const w = Math.floor(box.clientWidth);
       if (w < 60 || w === lastWidth) return;
       lastWidth = w;
-      box.replaceChildren(build(w));
+      fill(box, build(w));
     };
     const ro = new ResizeObserver(draw);
     ro.observe(box);
@@ -327,9 +331,9 @@
     const show = (x, y) => {
       const c = get();
       if (!c) return;
-      tip.replaceChildren(frag(
+      fill(tip,
         h('p', {class: 'tip-title', text: c.title}),
-        (c.rows || []).map((r) => h('p', {class: 'tip-row'}, r.color ? h('span', {class: 'tip-key', style: `background:${r.color}`}) : null, h('b', {text: r.value}), h('span', {text: r.label})))));
+        (c.rows || []).map((r) => h('p', {class: 'tip-row'}, r.color ? h('span', {class: 'tip-key', style: `background:${r.color}`}) : null, h('b', {text: r.value}), h('span', {text: r.label}))));
       tip.hidden = false;
       const tw = tip.offsetWidth; const th = tip.offsetHeight;
       let left = x + 14; let top = y - th - 12;
@@ -648,7 +652,7 @@
 
   /* ------------------------------------------------------------------ rail */
   function renderRail(activeId) {
-    rail.replaceChildren(
+    fill(rail,
       h('a', {class: 'brand', href: '#/', 'aria-label': 'Thai REIT Deal Docket, overview'},
         h('span', {class: 'brand-mark', 'aria-hidden': 'true', text: '69'}),
         h('span', {class: 'brand-text'}, h('b', {text: 'REIT Deal Docket'}), h('small', {text: 'Thai SEC Form 69-REIT filings'}))),
@@ -838,7 +842,7 @@
       ],
     });
 
-    main.replaceChildren(head, kpis, insights, filters,
+    fill(main, head, kpis, insights, filters,
       h('div', {class: 'chart-grid'}, dealCard, apprCard, tlCard, ltvCard, yieldCard, sectorCard),
       section('compare', 'Side by side', 'Click a column to sort; click a row to open the deal file. Maximums unless a final price is announced.', h('div', {class: 'card'}, table)));
   }
@@ -855,10 +859,9 @@
     const f = FIL[id];
     const sm = SUM[id] || {metrics: {}, checks: [], completeness: {}};
     currentFiling = id;
-    main.replaceChildren(...[
+    fill(main,
       dealHead(f, sm), jumpNav(f), termSheet(f, sm), partiesBlock(f), proceedsBlock(f), assetsBlock(f, sm),
-      f.existing_portfolio ? portfolioBlock(f, sm) : null, risksBlock(f), notesBlock(f), qualityBlock(f, sm),
-    ].filter(Boolean));
+      f.existing_portfolio ? portfolioBlock(f, sm) : null, risksBlock(f), notesBlock(f), qualityBlock(f, sm));
     document.title = `${f.filing.ticker} · Thai REIT Deal Docket`;
   }
 

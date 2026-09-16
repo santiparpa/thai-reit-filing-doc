@@ -1,4 +1,4 @@
-/* Navigation prototypes — layered on top of ../styles.css, which supplies every colour token,
+/* Navigation prototypes — layered on top of site/styles.css, which supplies every colour token,
    font and the .type / .pill / .tag / .dot vocabulary. Nothing here overrides the real dashboard. */
 
 /* ------------------------------------------------------------------ prototype scaffolding */

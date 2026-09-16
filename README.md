@@ -3,11 +3,9 @@
 Structured extraction of Thai SEC REIT offering filings (Form 69-REIT, IPO and PO) into one JSON schema, an
 Excel workbook for rechecking, and a dashboard — rebuilt by one command whenever a new filing set arrives.
 
-Live dashboard: https://thai-reit-filing-doc.vercel.app/ (also https://santiparpa.github.io/thai-reit-filing-doc/)
+Live dashboard: https://thai-reit-filing-doc.vercel.app/
 
-GitHub Pages publishes only the `site/` dashboard (HTML, CSS, JS, and the `data/reits.js` bundle).
-Source PDFs and Word files in `filings/` stay on this PC. After `python pipeline/run.py`, commit and
-push `site/data/reits.js` to update the live site.
+Both Vercel and GitHub Pages (`https://santiparpa.github.io/thai-reit-filing-doc/`) serve the `site/` folder as-is. Vercel is the canonical host; Pages is a mirror. Source PDFs and Word files in `filings/` stay on this PC. After `python pipeline/run.py`, commit and push `site/data/reits.js` to update the live site.
 
 ## Add a new filing (the only routine task)
 
@@ -54,6 +52,7 @@ data/filing_status.json    SEC filing stage per filing
 data/analysis.json         cross-checks, comparable metrics, generated insights
 workbook/Thai REIT Transactions 2026.xlsx
 site/                      dashboard (index.html, app.js, styles.css) + data/reits.js bundle
+prototypes/nav-designs/    local navigation experiments; not published
 pipeline/                  scripts and the extraction prompt
 sample/                    the 2025 tracker the workbook's first sheet is modelled on (left untouched)
 ```
