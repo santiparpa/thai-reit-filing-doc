@@ -3,7 +3,7 @@
 Structured extraction of Thai SEC REIT offering filings (Form 69-REIT, IPO and PO) into one JSON schema, an
 Excel workbook for rechecking, and a dashboard — rebuilt by one command whenever a new filing set arrives.
 
-Live dashboard: https://santiparpa.github.io/thai-reit-filing-doc/
+Live dashboard: https://thai-reit-filing-doc.vercel.app/ (also https://santiparpa.github.io/thai-reit-filing-doc/)
 
 GitHub Pages publishes only the `site/` dashboard (HTML, CSS, JS, and the `data/reits.js` bundle).
 Source PDFs and Word files in `filings/` stay on this PC. After `python pipeline/run.py`, commit and
